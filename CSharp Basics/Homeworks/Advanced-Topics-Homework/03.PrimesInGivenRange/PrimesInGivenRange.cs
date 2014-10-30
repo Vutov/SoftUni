@@ -50,7 +50,7 @@ class PrimesInGivenRange
         {
             if (i == len - 1)//last
             {
-                Console.Write(primes[i] + ".");
+                Console.Write(primes[i]);
             }
             else
             {

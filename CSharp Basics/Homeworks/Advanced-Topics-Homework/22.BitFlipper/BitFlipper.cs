@@ -15,7 +15,7 @@ class BitFlipper
         Console.WriteLine();*/
         for (int bit = 61; bit >= 0; bit--)//64 bits = 61 + 3;
         {
-            ulong bits = number & (7Lu << bit);
+            ulong bits = number & (7Lu << bit);//7 is 111 in binary;
             bits = bits >> bit;
             if (bits == 7 || bits == 0)
             {

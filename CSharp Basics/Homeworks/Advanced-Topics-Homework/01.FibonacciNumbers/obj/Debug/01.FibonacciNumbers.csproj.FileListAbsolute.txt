@@ -4,3 +4,6 @@ d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\01.FibonacciNu
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\01.FibonacciNumbers\obj\Debug\01.FibonacciNumbers.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\01.FibonacciNumbers\obj\Debug\01.FibonacciNumbers.exe
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\01.FibonacciNumbers\obj\Debug\01.FibonacciNumbers.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\01.FibonacciNumbers\bin\Debug\01.FibonacciNumbers.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\01.FibonacciNumbers\obj\Debug\01.FibonacciNumbers.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\01.FibonacciNumbers\obj\Debug\01.FibonacciNumbers.pdb

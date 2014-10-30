@@ -4,3 +4,6 @@ d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\14.LongestWord
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\14.LongestWordInText\bin\Debug\14.LongestWordInText.pdb
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\14.LongestWordInText\obj\Debug\14.LongestWordInText.exe
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\14.LongestWordInText\obj\Debug\14.LongestWordInText.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\14.LongestWordInText\bin\Debug\14.LongestWordInText.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\14.LongestWordInText\obj\Debug\14.LongestWordInText.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\14.LongestWordInText\obj\Debug\14.LongestWordInText.pdb

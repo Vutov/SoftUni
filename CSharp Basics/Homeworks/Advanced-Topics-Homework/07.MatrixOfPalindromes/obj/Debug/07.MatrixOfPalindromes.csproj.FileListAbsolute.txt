@@ -4,3 +4,9 @@ d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\07.MatrixOfPal
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.csprojResolveAssemblyReference.cache

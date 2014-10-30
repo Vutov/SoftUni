@@ -3,3 +3,8 @@ d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\10.JoinLists\b
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\10.JoinLists\bin\Debug\10.JoinLists.pdb
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\10.JoinLists\obj\Debug\10.JoinLists.exe
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\10.JoinLists\obj\Debug\10.JoinLists.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\10.JoinLists\obj\Debug\10.JoinLists.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\10.JoinLists\obj\Debug\10.JoinLists.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\10.JoinLists\bin\Debug\10.JoinLists.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\10.JoinLists\bin\Debug\10.JoinLists.pdb

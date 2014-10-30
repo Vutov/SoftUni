@@ -10,12 +10,7 @@ class JoinLists
     {
         //Read the numbers and convert to list;
         string firstIntegers = Console.ReadLine();
-        string[] firstArray = firstIntegers.Split(' ');
-        List<string> finalNumbers = new List<string>();
-        foreach (string number in firstArray)
-        {
-            finalNumbers.Add(number);
-        }
+        List<string> finalNumbers = firstIntegers.Split(' ').ToList();
         string secondIntegers = Console.ReadLine();
         string[] secondArray = secondIntegers.Split(' ');
         //Join the lists;

@@ -3,3 +3,8 @@ d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\09.RemoveNames
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\09.RemoveNames\obj\Debug\09.RemoveNames.exe
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\09.RemoveNames\obj\Debug\09.RemoveNames.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\09.RemoveNames\obj\Debug\09.RemoveNames.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\09.RemoveNames\bin\Debug\09.RemoveNames.pdb

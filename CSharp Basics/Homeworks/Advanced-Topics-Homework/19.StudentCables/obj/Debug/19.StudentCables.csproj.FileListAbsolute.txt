@@ -3,3 +3,6 @@ d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\19.StudentCabl
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\19.StudentCables\bin\Debug\19.StudentCables.pdb
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\19.StudentCables\obj\Debug\19.StudentCables.exe
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\19.StudentCables\obj\Debug\19.StudentCables.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\19.StudentCables\bin\Debug\19.StudentCables.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\19.StudentCables\obj\Debug\19.StudentCables.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\19.StudentCables\obj\Debug\19.StudentCables.pdb

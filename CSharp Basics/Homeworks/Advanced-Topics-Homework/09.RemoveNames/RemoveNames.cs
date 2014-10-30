@@ -14,12 +14,7 @@ class RemoveNames
 
         //Read the names and convert to list;
         string startingNames = Console.ReadLine();
-        string[] firstArray = startingNames.Split(' ');
-        List<string> reducedNames = new List<string>();
-        foreach (string name in firstArray)
-        {
-            reducedNames.Add(name);
-        }
+        List<string> reducedNames = startingNames.Split(' ').ToList();
         string deductedNames = Console.ReadLine();
         string[] secondArray = deductedNames.Split(' ');
         //Remove the names from second list in first list;

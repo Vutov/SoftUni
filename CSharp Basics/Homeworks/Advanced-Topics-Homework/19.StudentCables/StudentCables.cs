@@ -17,9 +17,9 @@ class StudentCables
             string cableMeasure = Console.ReadLine();
             if (cableMeasure == "meters")
             {
-                cableSize *= 100;//working in cm;
+                cableSize *= 100;//Working in cm;
             }
-            if (cableSize < 20)// throw away;
+            if (cableSize < 20)//Throw away;
             {
                 continue;
             }

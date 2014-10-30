@@ -26,8 +26,15 @@ class CountWordInText
         "Contact us.Email: INFO@SOFTUNI.BG. Facebook: https://www.facebook.com/SoftwareUniversity. YouTube: " +
         "http://www.youtube.com/SoftwareUniversity. Google+: https://plus.google.com/+SoftuniBg/. " + 
         "Twitter: https://twitter.com/softunibg. GitHub: https://github.com/softuni";
+        string exampleWord3 = "SoftUni";
+        string exampleText3 = "Software University";
+        string exampleText4 = "SoftUni";
+        string exampleText5 = "SoftUni.SoftUni";
         CountWords(exampleWord1, exampleText1);
         CountWords(exampleWord2, exampleText2);
+        CountWords(exampleWord3, exampleText3);
+        CountWords(exampleWord3, exampleText4);
+        CountWords(exampleWord3, exampleText5);
         
         //If you want to test with your input;
         /*string keyWord = Console.ReadLine();

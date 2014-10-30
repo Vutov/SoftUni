@@ -3,3 +3,6 @@ d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\04.DifferenceB
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.pdb
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.exe
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.pdb

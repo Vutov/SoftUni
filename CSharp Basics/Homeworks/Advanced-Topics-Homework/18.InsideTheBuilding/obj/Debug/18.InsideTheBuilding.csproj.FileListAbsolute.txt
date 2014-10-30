@@ -4,3 +4,6 @@ d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\18.InsideTheBu
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\18.InsideTheBuilding\obj\Debug\18.InsideTheBuilding.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\18.InsideTheBuilding\obj\Debug\18.InsideTheBuilding.exe
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\18.InsideTheBuilding\obj\Debug\18.InsideTheBuilding.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\18.InsideTheBuilding\bin\Debug\18.InsideTheBuilding.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\18.InsideTheBuilding\obj\Debug\18.InsideTheBuilding.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\18.InsideTheBuilding\obj\Debug\18.InsideTheBuilding.pdb

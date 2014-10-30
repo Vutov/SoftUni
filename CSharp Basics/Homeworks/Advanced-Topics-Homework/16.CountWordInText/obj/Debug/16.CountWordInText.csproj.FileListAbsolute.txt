@@ -3,3 +3,8 @@ d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\16.CountWordIn
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\16.CountWordInText\bin\Debug\16.CountWordInText.pdb
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\16.CountWordInText\obj\Debug\16.CountWordInText.exe
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\16.CountWordInText\obj\Debug\16.CountWordInText.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\16.CountWordInText\bin\Debug\16.CountWordInText.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\16.CountWordInText\obj\Debug\16.CountWordInText.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\16.CountWordInText\obj\Debug\16.CountWordInText.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\16.CountWordInText\bin\Debug\16.CountWordInText.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\16.CountWordInText\bin\Debug\16.CountWordInText.pdb

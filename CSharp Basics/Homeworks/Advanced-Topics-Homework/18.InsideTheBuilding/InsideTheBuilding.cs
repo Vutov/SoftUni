@@ -4,10 +4,10 @@ class InsideBuilding
 {
     static void Main(string[] args)
     {
-        //int h = 2; //hight of buildig
+        //int h = 2; //Hight of buildig;
         int h = int.Parse(Console.ReadLine());
         //int pointX = 3;
-        //int pointY = 10; //coordinats of point.
+        //int pointY = 10; //Coordinats of point;
         int farX = 3 * h;
         int farMidX = 2 * h;
         int upperY = 4 * h;

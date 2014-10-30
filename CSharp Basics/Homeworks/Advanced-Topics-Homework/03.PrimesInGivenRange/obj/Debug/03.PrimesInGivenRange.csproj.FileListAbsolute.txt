@@ -3,3 +3,8 @@ d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\03.PrimesInGiv
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.pdb
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.exe
 d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.exe
+D:\SoftUni\CSharp Basics\Homeworks\Advanced-Topics-Homework\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.pdb
