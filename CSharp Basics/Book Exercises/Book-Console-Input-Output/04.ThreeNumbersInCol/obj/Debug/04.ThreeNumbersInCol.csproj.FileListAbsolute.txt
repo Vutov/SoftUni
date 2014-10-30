@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\04.ThreeNumbersInCol\bin\Debug\04.ThreeNumbersInCol.exe.config
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\04.ThreeNumbersInCol\bin\Debug\04.ThreeNumbersInCol.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\04.ThreeNumbersInCol\bin\Debug\04.ThreeNumbersInCol.pdb
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\04.ThreeNumbersInCol\obj\Debug\04.ThreeNumbersInCol.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\04.ThreeNumbersInCol\obj\Debug\04.ThreeNumbersInCol.pdb

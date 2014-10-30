@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\01.InsideBuilding\bin\Debug\01.InsideBuilding.exe.config
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\01.InsideBuilding\bin\Debug\01.InsideBuilding.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\01.InsideBuilding\bin\Debug\01.InsideBuilding.pdb
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\01.InsideBuilding\obj\Debug\01.InsideBuilding.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\01.InsideBuilding\obj\Debug\01.InsideBuilding.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\01.InsideBuilding\obj\Debug\01.InsideBuilding.pdb

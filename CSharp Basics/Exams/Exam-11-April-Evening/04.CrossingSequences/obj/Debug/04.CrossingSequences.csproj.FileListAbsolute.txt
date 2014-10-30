@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.exe.config
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.exe
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\04.CrossingSequences\bin\Debug\04.CrossingSequences.pdb
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\04.CrossingSequences\obj\Debug\04.CrossingSequences.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\04.CrossingSequences\obj\Debug\04.CrossingSequences.exe
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\04.CrossingSequences\obj\Debug\04.CrossingSequences.pdb

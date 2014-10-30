@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\04.DeckCards\bin\Debug\04.DeckCards.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\04.DeckCards\bin\Debug\04.DeckCards.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\04.DeckCards\bin\Debug\04.DeckCards.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\04.DeckCards\obj\Debug\04.DeckCards.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Loops-Homework\04.DeckCards\obj\Debug\04.DeckCards.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\04.DeckCards\obj\Debug\04.DeckCards.pdb

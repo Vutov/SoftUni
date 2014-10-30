@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\11.RomanToDec\bin\Debug\11.RomanToDec.exe.config
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\11.RomanToDec\bin\Debug\11.RomanToDec.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\11.RomanToDec\bin\Debug\11.RomanToDec.pdb
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\11.RomanToDec\obj\Debug\11.RomanToDec.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\11.RomanToDec\obj\Debug\11.RomanToDec.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\11.RomanToDec\obj\Debug\11.RomanToDec.pdb

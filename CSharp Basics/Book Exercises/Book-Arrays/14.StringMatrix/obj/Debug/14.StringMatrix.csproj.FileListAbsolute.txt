@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\14.StringMatrix\bin\Debug\14.StringMatrix.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\14.StringMatrix\bin\Debug\14.StringMatrix.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\14.StringMatrix\bin\Debug\14.StringMatrix.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\14.StringMatrix\obj\Debug\14.StringMatrix.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Arrays\14.StringMatrix\obj\Debug\14.StringMatrix.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\14.StringMatrix\obj\Debug\14.StringMatrix.pdb

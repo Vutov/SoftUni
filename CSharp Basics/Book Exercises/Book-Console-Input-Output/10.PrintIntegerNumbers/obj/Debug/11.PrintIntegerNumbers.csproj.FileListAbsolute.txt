@@ -1,0 +1,3 @@
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\10.PrintIntegerNumbers\bin\Debug\10.PrintIntegerNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\10.PrintIntegerNumbers\obj\Debug\10.PrintIntegerNumbers.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\10.PrintIntegerNumbers\obj\Debug\10.PrintIntegerNumbers.pdb

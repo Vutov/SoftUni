@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\16.MagicDates\bin\Debug\16.MagicDates.exe.config
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\16.MagicDates\bin\Debug\16.MagicDates.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\16.MagicDates\bin\Debug\16.MagicDates.pdb
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\16.MagicDates\obj\Debug\16.MagicDates.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\16.MagicDates\obj\Debug\16.MagicDates.pdb

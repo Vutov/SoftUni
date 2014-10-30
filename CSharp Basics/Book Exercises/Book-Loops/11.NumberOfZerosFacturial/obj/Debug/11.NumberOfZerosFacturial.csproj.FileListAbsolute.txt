@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Loops\11.NumberOfZerosFacturial\bin\Debug\11.NumberOfZerosFacturial.exe.config
+d:\documents\visual studio 2013\Projects\Book-Loops\11.NumberOfZerosFacturial\bin\Debug\11.NumberOfZerosFacturial.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\11.NumberOfZerosFacturial\bin\Debug\11.NumberOfZerosFacturial.pdb
+d:\documents\visual studio 2013\Projects\Book-Loops\11.NumberOfZerosFacturial\obj\Debug\11.NumberOfZerosFacturial.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\11.NumberOfZerosFacturial\obj\Debug\11.NumberOfZerosFacturial.pdb

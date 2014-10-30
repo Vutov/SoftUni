@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-Sample\02.Tribonacci\bin\Debug\02.Tribonacci.exe.config
+d:\documents\visual studio 2013\Projects\Exam-Sample\02.Tribonacci\bin\Debug\02.Tribonacci.exe
+d:\documents\visual studio 2013\Projects\Exam-Sample\02.Tribonacci\bin\Debug\02.Tribonacci.pdb
+d:\documents\visual studio 2013\Projects\Exam-Sample\02.Tribonacci\obj\Debug\02.Tribonacci.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-Sample\02.Tribonacci\obj\Debug\02.Tribonacci.exe
+d:\documents\visual studio 2013\Projects\Exam-Sample\02.Tribonacci\obj\Debug\02.Tribonacci.pdb

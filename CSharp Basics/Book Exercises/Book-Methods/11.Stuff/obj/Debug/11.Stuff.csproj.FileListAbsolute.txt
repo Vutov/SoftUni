@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Methods\11.Stuff\bin\Debug\11.Stuff.exe.config
+d:\documents\visual studio 2013\Projects\Book-Methods\11.Stuff\bin\Debug\11.Stuff.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\11.Stuff\bin\Debug\11.Stuff.pdb
+d:\documents\visual studio 2013\Projects\Book-Methods\11.Stuff\obj\Debug\11.Stuff.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\11.Stuff\obj\Debug\11.Stuff.pdb

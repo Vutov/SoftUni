@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\12.NullVal\bin\Debug\12.NullVal.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\12.NullVal\bin\Debug\12.NullVal.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\12.NullVal\bin\Debug\12.NullVal.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\12.NullVal\obj\Debug\12.NullVal.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\12.NullVal\obj\Debug\12.NullVal.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\12.NullVal\obj\Debug\12.NullVal.pdb

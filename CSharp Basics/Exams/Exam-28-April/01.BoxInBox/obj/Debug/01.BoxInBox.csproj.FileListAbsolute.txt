@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-28-April\01.BoxInBox\bin\Debug\01.BoxInBox.exe.config
+d:\documents\visual studio 2013\Projects\Exam-28-April\01.BoxInBox\bin\Debug\01.BoxInBox.exe
+d:\documents\visual studio 2013\Projects\Exam-28-April\01.BoxInBox\bin\Debug\01.BoxInBox.pdb
+d:\documents\visual studio 2013\Projects\Exam-28-April\01.BoxInBox\obj\Debug\01.BoxInBox.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-28-April\01.BoxInBox\obj\Debug\01.BoxInBox.exe
+d:\documents\visual studio 2013\Projects\Exam-28-April\01.BoxInBox\obj\Debug\01.BoxInBox.pdb

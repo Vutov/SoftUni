@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

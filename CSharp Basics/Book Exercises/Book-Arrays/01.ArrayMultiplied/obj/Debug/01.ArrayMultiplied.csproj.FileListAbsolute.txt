@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\01.ArrayMultiplied\bin\Debug\01.ArrayMultiplied.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\01.ArrayMultiplied\bin\Debug\01.ArrayMultiplied.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\01.ArrayMultiplied\bin\Debug\01.ArrayMultiplied.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\01.ArrayMultiplied\obj\Debug\01.ArrayMultiplied.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Arrays\01.ArrayMultiplied\obj\Debug\01.ArrayMultiplied.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\01.ArrayMultiplied\obj\Debug\01.ArrayMultiplied.pdb

@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\10.BonusPoints\bin\Debug\10.BonusPoints.exe.config
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\10.BonusPoints\bin\Debug\10.BonusPoints.exe
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\10.BonusPoints\bin\Debug\10.BonusPoints.pdb
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\10.BonusPoints\obj\Debug\10.BonusPoints.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\10.BonusPoints\obj\Debug\10.BonusPoints.exe
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\10.BonusPoints\obj\Debug\10.BonusPoints.pdb

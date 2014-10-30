@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\09.FiveNumbersMultitude\bin\Debug\09.FiveNumbersMultitude.exe.config
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\09.FiveNumbersMultitude\bin\Debug\09.FiveNumbersMultitude.exe
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\09.FiveNumbersMultitude\bin\Debug\09.FiveNumbersMultitude.pdb
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\09.FiveNumbersMultitude\obj\Debug\09.FiveNumbersMultitude.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\09.FiveNumbersMultitude\obj\Debug\09.FiveNumbersMultitude.exe
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\09.FiveNumbersMultitude\obj\Debug\09.FiveNumbersMultitude.pdb

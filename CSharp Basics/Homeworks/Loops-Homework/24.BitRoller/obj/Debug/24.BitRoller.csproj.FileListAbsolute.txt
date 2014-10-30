@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\24.BitRoller\bin\Debug\24.BitRoller.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\24.BitRoller\bin\Debug\24.BitRoller.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\24.BitRoller\bin\Debug\24.BitRoller.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\24.BitRoller\obj\Debug\24.BitRoller.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\24.BitRoller\obj\Debug\24.BitRoller.pdb

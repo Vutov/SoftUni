@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\06.FactorialDevidedByFactorial\bin\Debug\06.FactorialDevidedByFactorial.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\06.FactorialDevidedByFactorial\bin\Debug\06.FactorialDevidedByFactorial.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\06.FactorialDevidedByFactorial\bin\Debug\06.FactorialDevidedByFactorial.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\06.FactorialDevidedByFactorial\obj\Debug\06.FactorialDevidedByFactorial.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Loops-Homework\06.FactorialDevidedByFactorial\obj\Debug\06.FactorialDevidedByFactorial.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\06.FactorialDevidedByFactorial\obj\Debug\06.FactorialDevidedByFactorial.pdb

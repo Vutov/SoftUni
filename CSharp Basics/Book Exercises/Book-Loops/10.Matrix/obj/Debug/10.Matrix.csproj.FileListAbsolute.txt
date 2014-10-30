@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Loops\10.Matrix\bin\Debug\10.Matrix.exe.config
+d:\documents\visual studio 2013\Projects\Book-Loops\10.Matrix\bin\Debug\10.Matrix.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\10.Matrix\bin\Debug\10.Matrix.pdb
+d:\documents\visual studio 2013\Projects\Book-Loops\10.Matrix\obj\Debug\10.Matrix.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\10.Matrix\obj\Debug\10.Matrix.pdb

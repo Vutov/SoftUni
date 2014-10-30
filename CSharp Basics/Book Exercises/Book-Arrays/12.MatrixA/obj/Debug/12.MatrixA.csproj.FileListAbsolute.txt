@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\12.MatrixA\bin\Debug\12.MatrixA.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\12.MatrixA\bin\Debug\12.MatrixA.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\12.MatrixA\bin\Debug\12.MatrixA.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\12.MatrixA\obj\Debug\12.MatrixA.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\12.MatrixA\obj\Debug\12.MatrixA.pdb

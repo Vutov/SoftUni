@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Methods\03.LastNumAsWords\bin\Debug\03.LastNumAsWords.exe.config
+d:\documents\visual studio 2013\Projects\Book-Methods\03.LastNumAsWords\bin\Debug\03.LastNumAsWords.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\03.LastNumAsWords\bin\Debug\03.LastNumAsWords.pdb
+d:\documents\visual studio 2013\Projects\Book-Methods\03.LastNumAsWords\obj\Debug\03.LastNumAsWords.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\03.LastNumAsWords\obj\Debug\03.LastNumAsWords.pdb

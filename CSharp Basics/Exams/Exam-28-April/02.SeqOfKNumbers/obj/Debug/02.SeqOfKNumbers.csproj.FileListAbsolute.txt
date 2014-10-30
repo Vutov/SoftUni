@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-28-April\02.SeqOfKNumbers\bin\Debug\02.SeqOfKNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Exam-28-April\02.SeqOfKNumbers\bin\Debug\02.SeqOfKNumbers.exe
+d:\documents\visual studio 2013\Projects\Exam-28-April\02.SeqOfKNumbers\bin\Debug\02.SeqOfKNumbers.pdb
+d:\documents\visual studio 2013\Projects\Exam-28-April\02.SeqOfKNumbers\obj\Debug\02.SeqOfKNumbers.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-28-April\02.SeqOfKNumbers\obj\Debug\02.SeqOfKNumbers.exe
+d:\documents\visual studio 2013\Projects\Exam-28-April\02.SeqOfKNumbers\obj\Debug\02.SeqOfKNumbers.pdb

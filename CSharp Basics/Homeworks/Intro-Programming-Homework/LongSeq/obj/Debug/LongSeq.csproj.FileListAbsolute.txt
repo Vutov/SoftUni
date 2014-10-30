@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSeq\bin\Debug\LongSeq.exe.config
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSeq\bin\Debug\LongSeq.exe
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSeq\bin\Debug\LongSeq.pdb
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSeq\obj\Debug\LongSeq.exe
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSeq\obj\Debug\LongSeq.pdb

@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\03.Hex\bin\Debug\03.Hex.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\03.Hex\bin\Debug\03.Hex.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\03.Hex\bin\Debug\03.Hex.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\03.Hex\obj\Debug\03.Hex.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\03.Hex\obj\Debug\03.Hex.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\03.Hex\obj\Debug\03.Hex.csprojResolveAssemblyReference.cache

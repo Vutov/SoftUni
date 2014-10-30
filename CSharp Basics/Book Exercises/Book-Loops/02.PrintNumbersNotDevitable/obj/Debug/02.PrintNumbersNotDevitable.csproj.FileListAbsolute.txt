@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Loops\02.PrintNumbersNotDevitable\bin\Debug\02.PrintNumbersNotDevitable.exe.config
+d:\documents\visual studio 2013\Projects\Book-Loops\02.PrintNumbersNotDevitable\bin\Debug\02.PrintNumbersNotDevitable.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\02.PrintNumbersNotDevitable\bin\Debug\02.PrintNumbersNotDevitable.pdb
+d:\documents\visual studio 2013\Projects\Book-Loops\02.PrintNumbersNotDevitable\obj\Debug\02.PrintNumbersNotDevitable.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\02.PrintNumbersNotDevitable\obj\Debug\02.PrintNumbersNotDevitable.pdb

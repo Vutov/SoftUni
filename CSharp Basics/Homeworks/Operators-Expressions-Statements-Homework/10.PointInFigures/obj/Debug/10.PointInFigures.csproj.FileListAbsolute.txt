@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\10.PointInFigures\bin\Debug\10.PointInFigures.exe.config
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\10.PointInFigures\bin\Debug\10.PointInFigures.exe
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\10.PointInFigures\bin\Debug\10.PointInFigures.pdb
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\10.PointInFigures\obj\Debug\10.PointInFigures.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\10.PointInFigures\obj\Debug\10.PointInFigures.exe
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\10.PointInFigures\obj\Debug\10.PointInFigures.pdb

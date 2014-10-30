@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\14.Pairs\bin\Debug\14.Pairs.exe.config
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\14.Pairs\bin\Debug\14.Pairs.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\14.Pairs\bin\Debug\14.Pairs.pdb
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\14.Pairs\obj\Debug\14.Pairs.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\14.Pairs\obj\Debug\14.Pairs.pdb
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\14.Pairs\obj\Debug\14.Pairs.csprojResolveAssemblyReference.cache

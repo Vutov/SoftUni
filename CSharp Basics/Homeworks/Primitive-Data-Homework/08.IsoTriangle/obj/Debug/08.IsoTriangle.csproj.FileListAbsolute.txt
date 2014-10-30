@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\08.IsoTriangle\bin\Debug\08.IsoTriangle.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\08.IsoTriangle\bin\Debug\08.IsoTriangle.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\08.IsoTriangle\bin\Debug\08.IsoTriangle.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\08.IsoTriangle\obj\Debug\08.IsoTriangle.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\08.IsoTriangle\obj\Debug\08.IsoTriangle.pdb

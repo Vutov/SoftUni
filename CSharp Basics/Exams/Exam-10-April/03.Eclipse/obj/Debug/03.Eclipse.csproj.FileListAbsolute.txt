@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-10-April\03.Eclipse\bin\Debug\03.Eclipse.exe.config
+d:\documents\visual studio 2013\Projects\Exam-10-April\03.Eclipse\bin\Debug\03.Eclipse.exe
+d:\documents\visual studio 2013\Projects\Exam-10-April\03.Eclipse\bin\Debug\03.Eclipse.pdb
+d:\documents\visual studio 2013\Projects\Exam-10-April\03.Eclipse\obj\Debug\03.Eclipse.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-10-April\03.Eclipse\obj\Debug\03.Eclipse.exe
+d:\documents\visual studio 2013\Projects\Exam-10-April\03.Eclipse\obj\Debug\03.Eclipse.pdb

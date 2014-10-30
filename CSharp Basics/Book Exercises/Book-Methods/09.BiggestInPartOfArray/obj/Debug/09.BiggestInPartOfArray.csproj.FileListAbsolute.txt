@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Methods\09.BiggestInPartOfArray\bin\Debug\09.BiggestInPartOfArray.exe.config
+d:\documents\visual studio 2013\Projects\Book-Methods\09.BiggestInPartOfArray\bin\Debug\09.BiggestInPartOfArray.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\09.BiggestInPartOfArray\bin\Debug\09.BiggestInPartOfArray.pdb
+d:\documents\visual studio 2013\Projects\Book-Methods\09.BiggestInPartOfArray\obj\Debug\09.BiggestInPartOfArray.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Methods\09.BiggestInPartOfArray\obj\Debug\09.BiggestInPartOfArray.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\09.BiggestInPartOfArray\obj\Debug\09.BiggestInPartOfArray.pdb

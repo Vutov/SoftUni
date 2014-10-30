@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2013\Projects\BookOperators\EvenNumber\bin\Debug\EvenNumber.exe.config
+D:\Documents\Visual Studio 2013\Projects\BookOperators\EvenNumber\bin\Debug\EvenNumber.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\EvenNumber\bin\Debug\EvenNumber.pdb
+D:\Documents\Visual Studio 2013\Projects\BookOperators\EvenNumber\obj\Debug\EvenNumber.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\BookOperators\EvenNumber\obj\Debug\EvenNumber.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\EvenNumber\obj\Debug\EvenNumber.pdb
+D:\Documents\Visual Studio 2013\Projects\Book-Operators\EvenNumber\bin\Debug\EvenNumber.exe.config
+D:\Documents\Visual Studio 2013\Projects\Book-Operators\EvenNumber\obj\Debug\EvenNumber.exe
+D:\Documents\Visual Studio 2013\Projects\Book-Operators\EvenNumber\obj\Debug\EvenNumber.pdb

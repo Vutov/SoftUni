@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\BookOperators\PointInFigures\bin\Debug\PointInFigures.exe.config
+D:\Documents\Visual Studio 2013\Projects\BookOperators\PointInFigures\bin\Debug\PointInFigures.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\PointInFigures\bin\Debug\PointInFigures.pdb
+D:\Documents\Visual Studio 2013\Projects\BookOperators\PointInFigures\obj\Debug\PointInFigures.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\PointInFigures\obj\Debug\PointInFigures.pdb

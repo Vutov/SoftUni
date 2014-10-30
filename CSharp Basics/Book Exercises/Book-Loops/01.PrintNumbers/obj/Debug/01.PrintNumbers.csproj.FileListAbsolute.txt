@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Loops\01.PrintNumbers\bin\Debug\01.PrintNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Book-Loops\01.PrintNumbers\bin\Debug\01.PrintNumbers.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\01.PrintNumbers\bin\Debug\01.PrintNumbers.pdb
+d:\documents\visual studio 2013\Projects\Book-Loops\01.PrintNumbers\obj\Debug\01.PrintNumbers.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Loops\01.PrintNumbers\obj\Debug\01.PrintNumbers.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\01.PrintNumbers\obj\Debug\01.PrintNumbers.pdb

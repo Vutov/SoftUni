@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\19.PrimeNumbers\bin\Debug\19.PrimeNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\19.PrimeNumbers\bin\Debug\19.PrimeNumbers.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\19.PrimeNumbers\bin\Debug\19.PrimeNumbers.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\19.PrimeNumbers\obj\Debug\19.PrimeNumbers.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\19.PrimeNumbers\obj\Debug\19.PrimeNumbers.pdb

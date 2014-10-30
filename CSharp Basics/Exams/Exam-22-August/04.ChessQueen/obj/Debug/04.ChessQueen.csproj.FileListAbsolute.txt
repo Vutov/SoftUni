@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-22-August\04.ChessQueen\bin\Debug\04.ChessQueen.exe.config
+d:\documents\visual studio 2013\Projects\Exam-22-August\04.ChessQueen\bin\Debug\04.ChessQueen.exe
+d:\documents\visual studio 2013\Projects\Exam-22-August\04.ChessQueen\bin\Debug\04.ChessQueen.pdb
+d:\documents\visual studio 2013\Projects\Exam-22-August\04.ChessQueen\obj\Debug\04.ChessQueen.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-22-August\04.ChessQueen\obj\Debug\04.ChessQueen.exe
+d:\documents\visual studio 2013\Projects\Exam-22-August\04.ChessQueen\obj\Debug\04.ChessQueen.pdb

@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18.MagicNums\bin\Debug\18.MagicNums.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18.MagicNums\bin\Debug\18.MagicNums.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18.MagicNums\bin\Debug\18.MagicNums.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18.MagicNums\obj\Debug\18.MagicNums.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18.MagicNums\obj\Debug\18.MagicNums.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18.MagicNums\obj\Debug\18.MagicNums.pdb

@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\03.ValidPlayCard\bin\Debug\03.ValidPlayCard.exe.config
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\03.ValidPlayCard\bin\Debug\03.ValidPlayCard.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\03.ValidPlayCard\bin\Debug\03.ValidPlayCard.pdb
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\03.ValidPlayCard\obj\Debug\03.ValidPlayCard.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\03.ValidPlayCard\obj\Debug\03.ValidPlayCard.pdb

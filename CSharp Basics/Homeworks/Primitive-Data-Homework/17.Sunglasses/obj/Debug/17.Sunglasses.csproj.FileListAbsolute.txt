@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\17.Sunglasses\obj\Debug\17.Sunglasses.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\17.Sunglasses\obj\Debug\17.Sunglasses.pdb

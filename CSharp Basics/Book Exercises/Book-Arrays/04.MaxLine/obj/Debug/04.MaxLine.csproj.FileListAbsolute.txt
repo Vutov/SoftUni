@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\04.MaxLine\bin\Debug\04.MaxLine.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\04.MaxLine\bin\Debug\04.MaxLine.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\04.MaxLine\bin\Debug\04.MaxLine.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\04.MaxLine\obj\Debug\04.MaxLine.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\04.MaxLine\obj\Debug\04.MaxLine.pdb

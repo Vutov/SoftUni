@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\08.InputReader\bin\Debug\08.InputReader.exe.config
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\08.InputReader\bin\Debug\08.InputReader.exe
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\08.InputReader\bin\Debug\08.InputReader.pdb
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\08.InputReader\obj\Debug\08.InputReader.exe
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\08.InputReader\obj\Debug\08.InputReader.pdb

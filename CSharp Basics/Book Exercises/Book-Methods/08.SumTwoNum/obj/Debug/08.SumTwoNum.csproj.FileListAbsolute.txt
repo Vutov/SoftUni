@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Methods\08.SumTwoNum\bin\Debug\08.SumTwoNum.exe.config
+d:\documents\visual studio 2013\Projects\Book-Methods\08.SumTwoNum\bin\Debug\08.SumTwoNum.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\08.SumTwoNum\bin\Debug\08.SumTwoNum.pdb
+d:\documents\visual studio 2013\Projects\Book-Methods\08.SumTwoNum\obj\Debug\08.SumTwoNum.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\08.SumTwoNum\obj\Debug\08.SumTwoNum.pdb

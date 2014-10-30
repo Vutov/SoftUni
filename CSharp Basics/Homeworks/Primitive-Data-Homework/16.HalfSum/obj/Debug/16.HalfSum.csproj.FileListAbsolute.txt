@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\16.HalfSum\bin\Debug\16.HalfSum.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\16.HalfSum\obj\Debug\16.HalfSum.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\16.HalfSum\bin\Debug\16.HalfSum.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\16.HalfSum\bin\Debug\16.HalfSum.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\16.HalfSum\obj\Debug\16.HalfSum.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\16.HalfSum\obj\Debug\16.HalfSum.pdb

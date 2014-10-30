@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\03.ConvertHexToBin\bin\Debug\03.ConvertHexToBin.exe.config
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\03.ConvertHexToBin\bin\Debug\03.ConvertHexToBin.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\03.ConvertHexToBin\bin\Debug\03.ConvertHexToBin.pdb
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\03.ConvertHexToBin\obj\Debug\03.ConvertHexToBin.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\03.ConvertHexToBin\obj\Debug\03.ConvertHexToBin.pdb

@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\BookOperators\FiveAndSeverRemainder\bin\Debug\FiveAndSeverRemainder.exe.config
+D:\Documents\Visual Studio 2013\Projects\BookOperators\FiveAndSeverRemainder\bin\Debug\FiveAndSeverRemainder.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\FiveAndSeverRemainder\bin\Debug\FiveAndSeverRemainder.pdb
+D:\Documents\Visual Studio 2013\Projects\BookOperators\FiveAndSeverRemainder\obj\Debug\FiveAndSeverRemainder.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\FiveAndSeverRemainder\obj\Debug\FiveAndSeverRemainder.pdb

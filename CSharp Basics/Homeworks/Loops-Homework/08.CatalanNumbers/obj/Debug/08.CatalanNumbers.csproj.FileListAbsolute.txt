@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\08.CatalanNumbers\obj\Debug\08.CatalanNumbers.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\08.CatalanNumbers\obj\Debug\08.CatalanNumbers.pdb

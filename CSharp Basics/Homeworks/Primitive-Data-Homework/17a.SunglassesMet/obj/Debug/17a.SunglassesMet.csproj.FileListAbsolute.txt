@@ -1,0 +1,12 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18a.MagicNumMet\bin\Debug\18a.MagicNumMet.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18a.MagicNumMet\bin\Debug\18a.MagicNumMet.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18a.MagicNumMet\bin\Debug\18a.MagicNumMet.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18a.MagicNumMet\obj\Debug\17a.SunglassesMet.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18a.MagicNumMet\obj\Debug\18a.MagicNumMet.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\18a.MagicNumMet\obj\Debug\18a.MagicNumMet.pdb
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\17a.SunglassesMet\bin\Debug\18a.MagicNumMet.exe.config
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\17a.SunglassesMet\obj\Debug\18a.MagicNumMet.exe
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\17a.SunglassesMet\obj\Debug\18a.MagicNumMet.pdb
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\17a.SunglassesMet\bin\Debug\18a.MagicNumMet.exe
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\17a.SunglassesMet\bin\Debug\18a.MagicNumMet.pdb
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\17a.SunglassesMet\obj\Debug\17a.SunglassesMet.csprojResolveAssemblyReference.cache

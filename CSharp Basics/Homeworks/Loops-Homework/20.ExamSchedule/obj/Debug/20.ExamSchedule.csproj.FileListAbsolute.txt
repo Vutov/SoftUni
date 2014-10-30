@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\20.ExamSchedule\bin\Debug\20.ExamSchedule.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\20.ExamSchedule\obj\Debug\20.ExamSchedule.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Loops-Homework\20.ExamSchedule\obj\Debug\20.ExamSchedule.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\20.ExamSchedule\obj\Debug\20.ExamSchedule.pdb

@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOfIntegerNumbers\bin\Debug\09.SumOfIntegerNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOfIntegerNumbers\bin\Debug\09.SumOfIntegerNumbers.exe
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOfIntegerNumbers\bin\Debug\09.SumOfIntegerNumbers.pdb
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOfIntegerNumbers\obj\Debug\09.SumOfIntegerNumbers.exe
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09.SumOfIntegerNumbers\obj\Debug\09.SumOfIntegerNumbers.pdb

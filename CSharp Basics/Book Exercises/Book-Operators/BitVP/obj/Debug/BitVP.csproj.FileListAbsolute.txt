@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\BookOperators\BitVP\bin\Debug\BitVP.exe.config
+d:\documents\visual studio 2013\Projects\BookOperators\BitVP\bin\Debug\BitVP.exe
+d:\documents\visual studio 2013\Projects\BookOperators\BitVP\bin\Debug\BitVP.pdb
+d:\documents\visual studio 2013\Projects\BookOperators\BitVP\obj\Debug\BitVP.exe
+d:\documents\visual studio 2013\Projects\BookOperators\BitVP\obj\Debug\BitVP.pdb
+d:\documents\visual studio 2013\Projects\BookOperators\BitVP\obj\Debug\BitVP.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\07.Quotes\bin\Debug\07.Quotes.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\07.Quotes\bin\Debug\07.Quotes.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\07.Quotes\bin\Debug\07.Quotes.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\07.Quotes\obj\Debug\07.Quotes.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\07.Quotes\obj\Debug\07.Quotes.pdb

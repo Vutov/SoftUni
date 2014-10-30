@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\06.ProgressingLineNotInOrder\bin\Debug\06.ProgressingLineNotInOrder.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\06.ProgressingLineNotInOrder\bin\Debug\06.ProgressingLineNotInOrder.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\06.ProgressingLineNotInOrder\bin\Debug\06.ProgressingLineNotInOrder.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\06.ProgressingLineNotInOrder\obj\Debug\06.ProgressingLineNotInOrder.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Arrays\06.ProgressingLineNotInOrder\obj\Debug\06.ProgressingLineNotInOrder.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\06.ProgressingLineNotInOrder\obj\Debug\06.ProgressingLineNotInOrder.pdb

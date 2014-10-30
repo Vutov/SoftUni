@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\12.FibonachiLine\bin\Debug\12.FibonachiLine.exe.config
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\12.FibonachiLine\bin\Debug\12.FibonachiLine.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\12.FibonachiLine\bin\Debug\12.FibonachiLine.pdb
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\12.FibonachiLine\obj\Debug\12.FibonachiLine.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\12.FibonachiLine\obj\Debug\12.FibonachiLine.pdb

@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\02.NotDivisibleByThreeOrSeven\bin\Debug\02.NotDivisibleByThreeOrSeven.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\02.NotDivisibleByThreeOrSeven\bin\Debug\02.NotDivisibleByThreeOrSeven.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\02.NotDivisibleByThreeOrSeven\bin\Debug\02.NotDivisibleByThreeOrSeven.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\02.NotDivisibleByThreeOrSeven\obj\Debug\02.NotDivisibleByThreeOrSeven.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\02.NotDivisibleByThreeOrSeven\obj\Debug\02.NotDivisibleByThreeOrSeven.pdb

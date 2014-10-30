@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Methods\07.BackwardsDigits\bin\Debug\07.BackwardsDigits.exe.config
+d:\documents\visual studio 2013\Projects\Book-Methods\07.BackwardsDigits\bin\Debug\07.BackwardsDigits.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\07.BackwardsDigits\bin\Debug\07.BackwardsDigits.pdb
+d:\documents\visual studio 2013\Projects\Book-Methods\07.BackwardsDigits\obj\Debug\07.BackwardsDigits.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\07.BackwardsDigits\obj\Debug\07.BackwardsDigits.pdb

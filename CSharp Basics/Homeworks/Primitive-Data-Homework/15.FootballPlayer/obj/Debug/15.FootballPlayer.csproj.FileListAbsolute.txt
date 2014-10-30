@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\15.FootballPlayer\bin\Debug\15.FootballPlayer.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\15.FootballPlayer\bin\Debug\15.FootballPlayer.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\15.FootballPlayer\bin\Debug\15.FootballPlayer.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\15.FootballPlayer\obj\Debug\15.FootballPlayer.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\15.FootballPlayer\obj\Debug\15.FootballPlayer.pdb

@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+d:\documents\visual studio 2013\Projects\Advanced-Topics-Homework\09.RemoveNames\obj\Debug\09.RemoveNames.pdb

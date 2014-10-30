@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\19.BitsInverter\bin\Debug\19.BitsInverter.exe.config
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\19.BitsInverter\bin\Debug\19.BitsInverter.exe
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\19.BitsInverter\bin\Debug\19.BitsInverter.pdb
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\19.BitsInverter\obj\Debug\19.BitsInverter.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\19.BitsInverter\obj\Debug\19.BitsInverter.exe
+D:\Documents\Visual Studio 2013\Projects\Primitive-Data-Homework\19.BitsInverter\obj\Debug\19.BitsInverter.pdb

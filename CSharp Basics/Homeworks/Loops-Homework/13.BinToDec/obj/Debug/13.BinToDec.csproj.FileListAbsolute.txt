@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\13.BinToDec\bin\Debug\13.BinToDec.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\13.BinToDec\bin\Debug\13.BinToDec.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\13.BinToDec\bin\Debug\13.BinToDec.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\13.BinToDec\obj\Debug\13.BinToDec.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Loops-Homework\13.BinToDec\obj\Debug\13.BinToDec.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\13.BinToDec\obj\Debug\13.BinToDec.pdb

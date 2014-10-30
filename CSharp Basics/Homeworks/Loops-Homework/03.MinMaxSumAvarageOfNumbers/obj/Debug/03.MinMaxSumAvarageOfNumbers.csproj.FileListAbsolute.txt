@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAvarageOfNumbers\bin\Debug\03.MinMaxSumAvarageOfNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAvarageOfNumbers\bin\Debug\03.MinMaxSumAvarageOfNumbers.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAvarageOfNumbers\bin\Debug\03.MinMaxSumAvarageOfNumbers.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAvarageOfNumbers\obj\Debug\03.MinMaxSumAvarageOfNumbers.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAvarageOfNumbers\obj\Debug\03.MinMaxSumAvarageOfNumbers.pdb

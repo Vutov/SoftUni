@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\03.CompanyInfo\bin\Debug\03.CompanyInfo.exe.config
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\03.CompanyInfo\bin\Debug\03.CompanyInfo.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\03.CompanyInfo\bin\Debug\03.CompanyInfo.pdb
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\03.CompanyInfo\obj\Debug\03.CompanyInfo.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\03.CompanyInfo\obj\Debug\03.CompanyInfo.pdb

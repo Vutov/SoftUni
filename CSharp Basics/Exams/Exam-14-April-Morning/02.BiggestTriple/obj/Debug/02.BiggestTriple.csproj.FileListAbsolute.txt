@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\02.BiggestTriple\bin\Debug\02.BiggestTriple.exe.config
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\02.BiggestTriple\bin\Debug\02.BiggestTriple.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\02.BiggestTriple\bin\Debug\02.BiggestTriple.pdb
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\02.BiggestTriple\obj\Debug\02.BiggestTriple.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\02.BiggestTriple\obj\Debug\02.BiggestTriple.pdb

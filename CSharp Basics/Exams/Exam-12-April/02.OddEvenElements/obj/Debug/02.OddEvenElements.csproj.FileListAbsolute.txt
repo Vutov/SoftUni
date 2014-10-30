@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-12-April\02.OddEvenElements\bin\Debug\02.OddEvenElements.exe.config
+d:\documents\visual studio 2013\Projects\Exam-12-April\02.OddEvenElements\bin\Debug\02.OddEvenElements.exe
+d:\documents\visual studio 2013\Projects\Exam-12-April\02.OddEvenElements\bin\Debug\02.OddEvenElements.pdb
+d:\documents\visual studio 2013\Projects\Exam-12-April\02.OddEvenElements\obj\Debug\02.OddEvenElements.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-12-April\02.OddEvenElements\obj\Debug\02.OddEvenElements.exe
+d:\documents\visual studio 2013\Projects\Exam-12-April\02.OddEvenElements\obj\Debug\02.OddEvenElements.pdb

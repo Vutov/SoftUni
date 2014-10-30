@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-22-August\03.Car\bin\Debug\03.Car.exe.config
+d:\documents\visual studio 2013\Projects\Exam-22-August\03.Car\bin\Debug\03.Car.exe
+d:\documents\visual studio 2013\Projects\Exam-22-August\03.Car\bin\Debug\03.Car.pdb
+d:\documents\visual studio 2013\Projects\Exam-22-August\03.Car\obj\Debug\03.Car.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-22-August\03.Car\obj\Debug\03.Car.exe
+d:\documents\visual studio 2013\Projects\Exam-22-August\03.Car\obj\Debug\03.Car.pdb

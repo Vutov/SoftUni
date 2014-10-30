@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2013\Projects\BookOperators\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+D:\Documents\Visual Studio 2013\Projects\BookOperators\TrapezoidArea\obj\Debug\TrapezoidArea.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\BookOperators\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\Documents\Visual Studio 2013\Projects\BookOperators\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

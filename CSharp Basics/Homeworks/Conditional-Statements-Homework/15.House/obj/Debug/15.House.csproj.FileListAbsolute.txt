@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\15.House\bin\Debug\15.House.exe.config
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\15.House\bin\Debug\15.House.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\15.House\bin\Debug\15.House.pdb
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\15.House\obj\Debug\15.House.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\15.House\obj\Debug\15.House.pdb

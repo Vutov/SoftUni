@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\03.NewHouse\bin\Debug\03.NewHouse.exe.config
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\03.NewHouse\bin\Debug\03.NewHouse.exe
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\03.NewHouse\bin\Debug\03.NewHouse.pdb
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\03.NewHouse\obj\Debug\03.NewHouse.exe
+d:\documents\visual studio 2013\Projects\Exam-11-April-Evening\03.NewHouse\obj\Debug\03.NewHouse.pdb

@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\05.MaxProgressingLine\bin\Debug\05.MaxProgressingLine.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\05.MaxProgressingLine\bin\Debug\05.MaxProgressingLine.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\05.MaxProgressingLine\bin\Debug\05.MaxProgressingLine.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\05.MaxProgressingLine\obj\Debug\05.MaxProgressingLine.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\05.MaxProgressingLine\obj\Debug\05.MaxProgressingLine.pdb

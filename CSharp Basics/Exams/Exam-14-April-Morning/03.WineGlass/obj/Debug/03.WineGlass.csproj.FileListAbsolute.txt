@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\03.WineGlass\bin\Debug\03.WineGlass.exe.config
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\03.WineGlass\bin\Debug\03.WineGlass.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\03.WineGlass\bin\Debug\03.WineGlass.pdb
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\03.WineGlass\obj\Debug\03.WineGlass.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\03.WineGlass\obj\Debug\03.WineGlass.pdb

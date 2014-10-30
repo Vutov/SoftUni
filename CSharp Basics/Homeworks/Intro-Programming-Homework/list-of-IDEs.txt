@@ -1,0 +1,14 @@
+Eclipse -  It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages.
+/http://en.wikipedia.org/wiki/Eclipse_%28software%29/
+
+NetBeans -  for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others.
+/http://en.wikipedia.org/wiki/NetBeans/
+
+IDLE - for Python, which has been bundled with the default implementation of the language. It is packaged as an optional part of the Python packaging with many Linux distributions. It is completely written in Python and the Tkinter GUI toolkit (wrapper functions for Tcl/Tk).
+/http://en.wikipedia.org/wiki/IDLE_%28Python%29/
+
+Xcode - containing a suite of software development tools developed by Apple for developing software for OS X and iOS. Available via the Mac App Store free of charge for Mac OS X Lion, OS X Mountain Lion and OS X Mavericks users.
+/http://en.wikipedia.org/wiki/Xcode/
+
+Komodo IDE - supports all major programming languages, providing a single tool that meets development needs across the spectrum. Whether working with Python, PHP, Ruby, Perl, HTML, CSS or JavaScript, Komodo provides a clean, intuitive interface with advanced editing capabilities and integrated tools for the most functionality.  
+/http://komodoide.com//

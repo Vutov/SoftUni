@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\09.TrapezoidArea\bin\Debug\09.TrapezoidArea.exe.config
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\09.TrapezoidArea\bin\Debug\09.TrapezoidArea.exe
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\09.TrapezoidArea\bin\Debug\09.TrapezoidArea.pdb
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\09.TrapezoidArea\obj\Debug\09.TrapezoidArea.exe
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\09.TrapezoidArea\obj\Debug\09.TrapezoidArea.pdb

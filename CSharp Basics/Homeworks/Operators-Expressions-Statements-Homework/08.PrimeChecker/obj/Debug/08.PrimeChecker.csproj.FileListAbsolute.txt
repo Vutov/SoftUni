@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\08.PrimeChecker\bin\Debug\08.PrimeChecker.exe.config
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\08.PrimeChecker\obj\Debug\08.PrimeChecker.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\08.PrimeChecker\bin\Debug\08.PrimeChecker.exe
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\08.PrimeChecker\bin\Debug\08.PrimeChecker.pdb
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\08.PrimeChecker\obj\Debug\08.PrimeChecker.exe
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\08.PrimeChecker\obj\Debug\08.PrimeChecker.pdb

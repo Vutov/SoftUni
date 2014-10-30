@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Loops\12.DecToBinary\bin\Debug\12.DecToBinary.exe.config
+d:\documents\visual studio 2013\Projects\Book-Loops\12.DecToBinary\bin\Debug\12.DecToBinary.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\12.DecToBinary\bin\Debug\12.DecToBinary.pdb
+d:\documents\visual studio 2013\Projects\Book-Loops\12.DecToBinary\obj\Debug\12.DecToBinary.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\12.DecToBinary\obj\Debug\12.DecToBinary.pdb

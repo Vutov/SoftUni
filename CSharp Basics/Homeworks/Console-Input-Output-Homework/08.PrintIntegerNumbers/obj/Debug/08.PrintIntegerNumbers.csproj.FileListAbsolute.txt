@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08.PrintIntegerNumbers\bin\Debug\08.PrintIntegerNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08.PrintIntegerNumbers\bin\Debug\08.PrintIntegerNumbers.exe
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08.PrintIntegerNumbers\bin\Debug\08.PrintIntegerNumbers.pdb
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08.PrintIntegerNumbers\obj\Debug\08.PrintIntegerNumbers.exe
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08.PrintIntegerNumbers\obj\Debug\08.PrintIntegerNumbers.pdb

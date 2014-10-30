@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.ReformatedCode\bin\Debug\07.ReformatedCode.exe.config
+d:\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.ReformatedCode\bin\Debug\07.ReformatedCode.exe
+d:\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.ReformatedCode\bin\Debug\07.ReformatedCode.pdb
+d:\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.ReformatedCode\obj\Debug\07.ReformatedCode.exe
+d:\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.ReformatedCode\obj\Debug\07.ReformatedCode.pdb

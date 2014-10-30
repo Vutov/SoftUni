@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\07.BiggestOfFive\bin\Debug\07.BiggestOfFive.exe.config
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\07.BiggestOfFive\bin\Debug\07.BiggestOfFive.exe
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\07.BiggestOfFive\bin\Debug\07.BiggestOfFive.pdb
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\07.BiggestOfFive\obj\Debug\07.BiggestOfFive.exe
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\07.BiggestOfFive\obj\Debug\07.BiggestOfFive.pdb

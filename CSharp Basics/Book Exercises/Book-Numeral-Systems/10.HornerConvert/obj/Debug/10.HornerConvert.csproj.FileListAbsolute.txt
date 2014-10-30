@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\10.HornerConvert\bin\Debug\10.HornerConvert.exe.config
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\10.HornerConvert\bin\Debug\10.HornerConvert.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\10.HornerConvert\bin\Debug\10.HornerConvert.pdb
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\10.HornerConvert\obj\Debug\10.HornerConvert.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\10.HornerConvert\obj\Debug\10.HornerConvert.pdb

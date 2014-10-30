@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\04.MagicCarNumber\bin\Debug\04.MagicCarNumber.exe.config
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\04.MagicCarNumber\obj\Debug\04.MagicCarNumber.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\04.MagicCarNumber\bin\Debug\04.MagicCarNumber.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\04.MagicCarNumber\bin\Debug\04.MagicCarNumber.pdb
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\04.MagicCarNumber\obj\Debug\04.MagicCarNumber.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\04.MagicCarNumber\obj\Debug\04.MagicCarNumber.pdb

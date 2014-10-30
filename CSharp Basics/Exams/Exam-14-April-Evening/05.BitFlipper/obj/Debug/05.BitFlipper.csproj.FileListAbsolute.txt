@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\05.BitFlipper\bin\Debug\05.BitFlipper.exe.config
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\05.BitFlipper\bin\Debug\05.BitFlipper.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\05.BitFlipper\bin\Debug\05.BitFlipper.pdb
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\05.BitFlipper\obj\Debug\05.BitFlipper.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\05.BitFlipper\obj\Debug\05.BitFlipper.pdb

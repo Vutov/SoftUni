@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\10.OddandEvenProduct\bin\Debug\10.OddandEvenProduct.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\10.OddandEvenProduct\bin\Debug\10.OddandEvenProduct.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\10.OddandEvenProduct\bin\Debug\10.OddandEvenProduct.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\10.OddandEvenProduct\obj\Debug\10.OddandEvenProduct.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\10.OddandEvenProduct\obj\Debug\10.OddandEvenProduct.pdb

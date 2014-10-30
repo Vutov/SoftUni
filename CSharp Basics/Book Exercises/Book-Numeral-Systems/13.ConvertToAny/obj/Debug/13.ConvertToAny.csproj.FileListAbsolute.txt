@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\13.ConvertToAny\bin\Debug\13.ConvertToAny.exe.config
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\13.ConvertToAny\obj\Debug\13.ConvertToAny.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\13.ConvertToAny\bin\Debug\13.ConvertToAny.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\13.ConvertToAny\bin\Debug\13.ConvertToAny.pdb
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\13.ConvertToAny\obj\Debug\13.ConvertToAny.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\13.ConvertToAny\obj\Debug\13.ConvertToAny.pdb

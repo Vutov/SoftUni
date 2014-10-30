@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\04.UnicodeChar\bin\Debug\04.UnicodeChar.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\04.UnicodeChar\bin\Debug\04.UnicodeChar.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\04.UnicodeChar\bin\Debug\04.UnicodeChar.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\04.UnicodeChar\obj\Debug\04.UnicodeChar.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\04.UnicodeChar\obj\Debug\04.UnicodeChar.pdb

@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\15.AddingNumbers\bin\Debug\15.AddingNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\15.AddingNumbers\bin\Debug\15.AddingNumbers.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\15.AddingNumbers\bin\Debug\15.AddingNumbers.pdb
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\15.AddingNumbers\obj\Debug\15.AddingNumbers.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\15.AddingNumbers\obj\Debug\15.AddingNumbers.pdb

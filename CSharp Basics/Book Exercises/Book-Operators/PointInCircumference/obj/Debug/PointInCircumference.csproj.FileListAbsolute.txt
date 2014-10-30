@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\BookOperators\PointInCircumference\bin\Debug\PointInCircumference.exe.config
+D:\Documents\Visual Studio 2013\Projects\BookOperators\PointInCircumference\bin\Debug\PointInCircumference.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\PointInCircumference\bin\Debug\PointInCircumference.pdb
+D:\Documents\Visual Studio 2013\Projects\BookOperators\PointInCircumference\obj\Debug\PointInCircumference.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\PointInCircumference\obj\Debug\PointInCircumference.pdb

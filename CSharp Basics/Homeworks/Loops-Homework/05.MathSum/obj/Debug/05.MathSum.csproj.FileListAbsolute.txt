@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\05.MathSum\bin\Debug\05.MathSum.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\05.MathSum\bin\Debug\05.MathSum.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\05.MathSum\bin\Debug\05.MathSum.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\05.MathSum\obj\Debug\05.MathSum.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\05.MathSum\obj\Debug\05.MathSum.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\05.MathSum\obj\Debug\05.MathSum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintTime\bin\Debug\PrintTime.exe.config
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintTime\obj\Debug\PrintTime.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintTime\bin\Debug\PrintTime.exe
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintTime\bin\Debug\PrintTime.pdb
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintTime\obj\Debug\PrintTime.exe
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintTime\obj\Debug\PrintTime.pdb

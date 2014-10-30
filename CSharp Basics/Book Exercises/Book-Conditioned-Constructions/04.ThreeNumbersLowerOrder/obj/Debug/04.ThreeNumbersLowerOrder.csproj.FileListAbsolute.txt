@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\04.ThreeNumbersLowerOrder\bin\Debug\04.ThreeNumbersLowerOrder.exe.config
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\04.ThreeNumbersLowerOrder\bin\Debug\04.ThreeNumbersLowerOrder.exe
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\04.ThreeNumbersLowerOrder\bin\Debug\04.ThreeNumbersLowerOrder.pdb
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\04.ThreeNumbersLowerOrder\obj\Debug\04.ThreeNumbersLowerOrder.exe
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\04.ThreeNumbersLowerOrder\obj\Debug\04.ThreeNumbersLowerOrder.pdb

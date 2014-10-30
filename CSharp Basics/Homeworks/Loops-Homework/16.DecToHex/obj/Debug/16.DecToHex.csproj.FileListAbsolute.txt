@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\16.DecToHex\bin\Debug\16.DecToHex.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\16.DecToHex\bin\Debug\16.DecToHex.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\16.DecToHex\bin\Debug\16.DecToHex.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\16.DecToHex\obj\Debug\16.DecToHex.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\16.DecToHex\obj\Debug\16.DecToHex.pdb

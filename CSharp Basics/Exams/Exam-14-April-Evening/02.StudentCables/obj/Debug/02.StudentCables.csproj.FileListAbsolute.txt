@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\02.StudentCables\bin\Debug\02.StudentCables.exe.config
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\02.StudentCables\bin\Debug\02.StudentCables.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\02.StudentCables\bin\Debug\02.StudentCables.pdb
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\02.StudentCables\obj\Debug\02.StudentCables.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\02.StudentCables\obj\Debug\02.StudentCables.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\02.StudentCables\obj\Debug\02.StudentCables.pdb

@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe.config
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.pdb
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.pdb

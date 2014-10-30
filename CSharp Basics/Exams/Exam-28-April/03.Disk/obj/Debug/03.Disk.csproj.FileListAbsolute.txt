@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2013\Projects\Exam-28-April\03.Disk\bin\Debug\03.Disk.exe.config
+D:\Documents\Visual Studio 2013\Projects\Exam-28-April\03.Disk\bin\Debug\03.Disk.exe
+D:\Documents\Visual Studio 2013\Projects\Exam-28-April\03.Disk\bin\Debug\03.Disk.pdb
+D:\Documents\Visual Studio 2013\Projects\Exam-28-April\03.Disk\obj\Debug\03.Disk.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Exam-28-April\03.Disk\obj\Debug\03.Disk.exe
+D:\Documents\Visual Studio 2013\Projects\Exam-28-April\03.Disk\obj\Debug\03.Disk.pdb

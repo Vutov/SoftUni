@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\07.MaxKN\bin\Debug\07.MaxKN.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\07.MaxKN\bin\Debug\07.MaxKN.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\07.MaxKN\bin\Debug\07.MaxKN.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\07.MaxKN\obj\Debug\07.MaxKN.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\07.MaxKN\obj\Debug\07.MaxKN.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\07.MaxKN\obj\Debug\07.MaxKN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\04.RemainderOfFive\bin\Debug\04.RemainderOfFive.exe.config
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\04.RemainderOfFive\obj\Debug\04.RemainderOfFive.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\04.RemainderOfFive\obj\Debug\04.RemainderOfFive.pdb

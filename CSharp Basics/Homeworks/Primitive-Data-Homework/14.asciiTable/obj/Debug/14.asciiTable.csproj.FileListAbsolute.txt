@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\14.asciiTable\bin\Debug\14.asciiTable.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\14.asciiTable\bin\Debug\14.asciiTable.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\14.asciiTable\bin\Debug\14.asciiTable.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\14.asciiTable\obj\Debug\14.asciiTable.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\14.asciiTable\obj\Debug\14.asciiTable.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\14.asciiTable\obj\Debug\14.asciiTable.csprojResolveAssemblyReference.cache

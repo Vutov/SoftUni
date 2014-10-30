@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\02.CircleAreaParameter\bin\Debug\02.CircleAreaParameter.exe.config
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\02.CircleAreaParameter\bin\Debug\02.CircleAreaParameter.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\02.CircleAreaParameter\bin\Debug\02.CircleAreaParameter.pdb
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\02.CircleAreaParameter\obj\Debug\02.CircleAreaParameter.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\02.CircleAreaParameter\obj\Debug\02.CircleAreaParameter.pdb

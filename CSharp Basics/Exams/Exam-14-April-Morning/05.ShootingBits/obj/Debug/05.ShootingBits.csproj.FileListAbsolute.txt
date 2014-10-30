@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\05.ShootingBits\bin\Debug\05.ShootingBits.exe.config
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\05.ShootingBits\bin\Debug\05.ShootingBits.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\05.ShootingBits\bin\Debug\05.ShootingBits.pdb
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\05.ShootingBits\obj\Debug\05.ShootingBits.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\05.ShootingBits\obj\Debug\05.ShootingBits.exe
+d:\documents\visual studio 2013\Projects\Exam-14-April-Morning\05.ShootingBits\obj\Debug\05.ShootingBits.pdb

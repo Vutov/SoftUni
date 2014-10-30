@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-10-April\04.HayvanNumbers\bin\Debug\04.HayvanNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Exam-10-April\04.HayvanNumbers\bin\Debug\04.HayvanNumbers.exe
+d:\documents\visual studio 2013\Projects\Exam-10-April\04.HayvanNumbers\bin\Debug\04.HayvanNumbers.pdb
+d:\documents\visual studio 2013\Projects\Exam-10-April\04.HayvanNumbers\obj\Debug\04.HayvanNumbers.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-10-April\04.HayvanNumbers\obj\Debug\04.HayvanNumbers.exe
+d:\documents\visual studio 2013\Projects\Exam-10-April\04.HayvanNumbers\obj\Debug\04.HayvanNumbers.pdb

@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Loops\09.StrangeSequence\bin\Debug\09.StrangeSequence.exe.config
+d:\documents\visual studio 2013\Projects\Book-Loops\09.StrangeSequence\bin\Debug\09.StrangeSequence.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\09.StrangeSequence\bin\Debug\09.StrangeSequence.pdb
+d:\documents\visual studio 2013\Projects\Book-Loops\09.StrangeSequence\obj\Debug\09.StrangeSequence.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Loops\09.StrangeSequence\obj\Debug\09.StrangeSequence.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\09.StrangeSequence\obj\Debug\09.StrangeSequence.pdb

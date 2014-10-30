@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\03.Lexicograf\bin\Debug\03.Lexicograf.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\03.Lexicograf\bin\Debug\03.Lexicograf.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\03.Lexicograf\bin\Debug\03.Lexicograf.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\03.Lexicograf\obj\Debug\03.Lexicograf.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\03.Lexicograf\obj\Debug\03.Lexicograf.pdb

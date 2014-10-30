@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\03.FiveAndSevenRemainder\bin\Debug\03.FiveAndSevenRemainder.exe.config
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\03.FiveAndSevenRemainder\bin\Debug\03.FiveAndSevenRemainder.exe
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\03.FiveAndSevenRemainder\bin\Debug\03.FiveAndSevenRemainder.pdb
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\03.FiveAndSevenRemainder\obj\Debug\03.FiveAndSevenRemainder.exe
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\03.FiveAndSevenRemainder\obj\Debug\03.FiveAndSevenRemainder.pdb

@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\09.ExchangeVar\bin\Debug\09.ExchangeVar.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\09.ExchangeVar\bin\Debug\09.ExchangeVar.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\09.ExchangeVar\bin\Debug\09.ExchangeVar.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\09.ExchangeVar\obj\Debug\09.ExchangeVar.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\09.ExchangeVar\obj\Debug\09.ExchangeVar.pdb

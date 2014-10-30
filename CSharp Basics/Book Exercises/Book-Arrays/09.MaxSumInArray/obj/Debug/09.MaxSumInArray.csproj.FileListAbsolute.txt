@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\09.MaxSumInArray\bin\Debug\09.MaxSumInArray.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\09.MaxSumInArray\bin\Debug\09.MaxSumInArray.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\09.MaxSumInArray\bin\Debug\09.MaxSumInArray.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\09.MaxSumInArray\obj\Debug\09.MaxSumInArray.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\09.MaxSumInArray\obj\Debug\09.MaxSumInArray.pdb

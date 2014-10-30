@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\02.ConvertToDecAndHex\bin\Debug\02.ConvertToDecAndHex.exe.config
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\02.ConvertToDecAndHex\bin\Debug\02.ConvertToDecAndHex.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\02.ConvertToDecAndHex\bin\Debug\02.ConvertToDecAndHex.pdb
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\02.ConvertToDecAndHex\obj\Debug\02.ConvertToDecAndHex.exe
+d:\documents\visual studio 2013\Projects\Book-Numeral-Systems\02.ConvertToDecAndHex\obj\Debug\02.ConvertToDecAndHex.pdb

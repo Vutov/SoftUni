@@ -1,0 +1,3 @@
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\08.QuanticFormula\bin\Debug\08.QuanticFormula.exe.config
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\08.QuanticFormula\obj\Debug\08.QuanticFormula.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\08.QuanticFormula\obj\Debug\08.QuanticFormula.pdb

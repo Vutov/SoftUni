@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Methods\01.PrintName\bin\Debug\01.PrintName.exe.config
+d:\documents\visual studio 2013\Projects\Book-Methods\01.PrintName\obj\Debug\01.PrintName.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Methods\01.PrintName\bin\Debug\01.PrintName.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\01.PrintName\bin\Debug\01.PrintName.pdb
+d:\documents\visual studio 2013\Projects\Book-Methods\01.PrintName\obj\Debug\01.PrintName.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\01.PrintName\obj\Debug\01.PrintName.pdb

@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\BookOperators\CheckThirdBit\bin\Debug\CheckThirdBit.exe.config
+D:\Documents\Visual Studio 2013\Projects\BookOperators\CheckThirdBit\bin\Debug\CheckThirdBit.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\CheckThirdBit\bin\Debug\CheckThirdBit.pdb
+D:\Documents\Visual Studio 2013\Projects\BookOperators\CheckThirdBit\obj\Debug\CheckThirdBit.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\CheckThirdBit\obj\Debug\CheckThirdBit.pdb

@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\01.ThreeNumbersSum\bin\Debug\01.ThreeNumbersSum.exe.config
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\01.ThreeNumbersSum\bin\Debug\01.ThreeNumbersSum.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\01.ThreeNumbersSum\bin\Debug\01.ThreeNumbersSum.pdb
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\01.ThreeNumbersSum\obj\Debug\01.ThreeNumbersSum.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\01.ThreeNumbersSum\obj\Debug\01.ThreeNumbersSum.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\01.ThreeNumbersSum\obj\Debug\01.ThreeNumbersSum.pdb

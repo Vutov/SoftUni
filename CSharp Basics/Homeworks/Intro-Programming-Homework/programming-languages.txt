@@ -1,0 +1,30 @@
+According to Spectrum’s 2014 Ranking /http://spectrum.ieee.org/computing/software/top-10-programming-languages/ the top 10 most popular programming languages are:
+Java, C, C++, C#, Python, JavaScript, PHP, RUBY, SQL, MATLAB.
+
+So for the list let's pick Java, C, C++, Python and PHP.
+
+Java and C# look a lot like each other. But the main difference is the capabilities of the languages.
+Here can be found great compassion of the two : http://en.wikipedia.org/wiki/Comparison_of_C_Sharp_and_Java
+
+C, C++ and C# all come from the C Family.
+
+C is an older programming language that is described as Hands-on. As the programmer you must tell the program to do everything. Also this language will let you do almost anything. It does not support object oriented code. Thus no classes.
+
+C++ is an extension language per se of C. In C code ++ means increment 1. Thus C++ is better than C. It allows for highly controlled object oriented code. Once again a very hands on language that goes into MUCH detail.
+
+C# is Full object oriented code resembling the style of C/C++ code. This is really closer to JAVA. C# is the latest version of the C style languages and is very good for developing web applications.
+/https://answers.yahoo.com/question/index?qid=20080521100946AA0iZ1B/
+
+C# and PHP - PHP is open source, multi-platform, server-independent tool by design. It scales well, have some community support etc.
+
+.NET products are closed, one-platform (windows), server dependent tools by design, but of course there are many more-or-less compatible open solutions (e.g. mono). .net also scales well, and have constant m$ support.
+
+PHP is a "scripting" language, while .NET is more like Java
+/http://stackoverflow.com/questions/7104656/how-does-php-compare-with-the-net-languages/
+
+Here is great comparison of Python and C# : http://vschart.com/compare/c-sharp/vs/python-programming-language
+
+Overall I kinda like Python more, the syntax is way simplified. As of capabilities, every language has it's pros and cons.
+
+
+

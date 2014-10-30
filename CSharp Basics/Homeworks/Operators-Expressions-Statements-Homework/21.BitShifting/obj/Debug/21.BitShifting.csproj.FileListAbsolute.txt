@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21.BitShifting\bin\Debug\21.BitShifting.exe.config
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21.BitShifting\bin\Debug\21.BitShifting.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21.BitShifting\bin\Debug\21.BitShifting.pdb
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21.BitShifting\obj\Debug\21.BitShifting.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21.BitShifting\obj\Debug\21.BitShifting.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\21.BitShifting\obj\Debug\21.BitShifting.pdb

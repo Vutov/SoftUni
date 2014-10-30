@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-Sample\03.SandGlass\bin\Debug\03.SandGlass.exe.config
+d:\documents\visual studio 2013\Projects\Exam-Sample\03.SandGlass\bin\Debug\03.SandGlass.exe
+d:\documents\visual studio 2013\Projects\Exam-Sample\03.SandGlass\bin\Debug\03.SandGlass.pdb
+d:\documents\visual studio 2013\Projects\Exam-Sample\03.SandGlass\obj\Debug\03.SandGlass.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-Sample\03.SandGlass\obj\Debug\03.SandGlass.exe
+d:\documents\visual studio 2013\Projects\Exam-Sample\03.SandGlass\obj\Debug\03.SandGlass.pdb

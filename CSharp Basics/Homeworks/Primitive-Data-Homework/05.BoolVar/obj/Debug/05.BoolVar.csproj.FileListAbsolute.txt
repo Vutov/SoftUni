@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\05.BoolVar\bin\Debug\05.BoolVar.exe.config
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\05.BoolVar\bin\Debug\05.BoolVar.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\05.BoolVar\bin\Debug\05.BoolVar.pdb
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\05.BoolVar\obj\Debug\05.BoolVar.exe
+d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\05.BoolVar\obj\Debug\05.BoolVar.pdb

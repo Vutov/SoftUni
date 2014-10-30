@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\08.SelectionSort\bin\Debug\08.SelectionSort.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\08.SelectionSort\bin\Debug\08.SelectionSort.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\08.SelectionSort\bin\Debug\08.SelectionSort.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\08.SelectionSort\obj\Debug\08.SelectionSort.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Arrays\08.SelectionSort\obj\Debug\08.SelectionSort.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\08.SelectionSort\obj\Debug\08.SelectionSort.pdb

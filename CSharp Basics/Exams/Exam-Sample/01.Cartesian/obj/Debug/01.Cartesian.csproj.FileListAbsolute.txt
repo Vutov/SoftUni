@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-Sample\01.Cartesian\bin\Debug\01.Cartesian.exe.config
+d:\documents\visual studio 2013\Projects\Exam-Sample\01.Cartesian\bin\Debug\01.Cartesian.exe
+d:\documents\visual studio 2013\Projects\Exam-Sample\01.Cartesian\bin\Debug\01.Cartesian.pdb
+d:\documents\visual studio 2013\Projects\Exam-Sample\01.Cartesian\obj\Debug\01.Cartesian.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-Sample\01.Cartesian\obj\Debug\01.Cartesian.exe
+d:\documents\visual studio 2013\Projects\Exam-Sample\01.Cartesian\obj\Debug\01.Cartesian.pdb

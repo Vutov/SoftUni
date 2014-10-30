@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\05.BiggerNumber\bin\Debug\05.BiggerNumber.exe.config
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\05.BiggerNumber\bin\Debug\05.BiggerNumber.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\05.BiggerNumber\bin\Debug\05.BiggerNumber.pdb
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\05.BiggerNumber\obj\Debug\05.BiggerNumber.exe
+d:\documents\visual studio 2013\Projects\Book-Console-Input-Output\05.BiggerNumber\obj\Debug\05.BiggerNumber.pdb

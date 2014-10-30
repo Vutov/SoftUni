@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\21.OddEvenElements\bin\Debug\21.OddEvenElements.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\21.OddEvenElements\bin\Debug\21.OddEvenElements.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\21.OddEvenElements\bin\Debug\21.OddEvenElements.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\21.OddEvenElements\obj\Debug\21.OddEvenElements.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\21.OddEvenElements\obj\Debug\21.OddEvenElements.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\21.OddEvenElements\obj\Debug\21.OddEvenElements.csprojResolveAssemblyReference.cache

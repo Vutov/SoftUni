@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Methods\04.DuplicatesInArray\bin\Debug\04.DuplicatesInArray.exe.config
+d:\documents\visual studio 2013\Projects\Book-Methods\04.DuplicatesInArray\bin\Debug\04.DuplicatesInArray.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\04.DuplicatesInArray\bin\Debug\04.DuplicatesInArray.pdb
+d:\documents\visual studio 2013\Projects\Book-Methods\04.DuplicatesInArray\obj\Debug\04.DuplicatesInArray.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\04.DuplicatesInArray\obj\Debug\04.DuplicatesInArray.pdb

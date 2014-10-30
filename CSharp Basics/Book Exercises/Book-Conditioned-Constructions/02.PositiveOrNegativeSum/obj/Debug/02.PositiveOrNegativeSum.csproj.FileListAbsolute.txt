@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Conditioned-Constructions\02.PositiveOrNegativeSum\bin\Debug\02.PositiveOrNegativeSum.exe.config
+D:\Documents\Visual Studio 2013\Projects\Book-Conditioned-Constructions\02.PositiveOrNegativeSum\bin\Debug\02.PositiveOrNegativeSum.exe
+D:\Documents\Visual Studio 2013\Projects\Book-Conditioned-Constructions\02.PositiveOrNegativeSum\bin\Debug\02.PositiveOrNegativeSum.pdb
+D:\Documents\Visual Studio 2013\Projects\Book-Conditioned-Constructions\02.PositiveOrNegativeSum\obj\Debug\02.PositiveOrNegativeSum.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Book-Conditioned-Constructions\02.PositiveOrNegativeSum\obj\Debug\02.PositiveOrNegativeSum.exe
+D:\Documents\Visual Studio 2013\Projects\Book-Conditioned-Constructions\02.PositiveOrNegativeSum\obj\Debug\02.PositiveOrNegativeSum.pdb

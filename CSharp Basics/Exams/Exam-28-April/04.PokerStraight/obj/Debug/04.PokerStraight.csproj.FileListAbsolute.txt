@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-28-April\04.PokerStraight\bin\Debug\04.PokerStraight.exe.config
+d:\documents\visual studio 2013\Projects\Exam-28-April\04.PokerStraight\bin\Debug\04.PokerStraight.exe
+d:\documents\visual studio 2013\Projects\Exam-28-April\04.PokerStraight\bin\Debug\04.PokerStraight.pdb
+d:\documents\visual studio 2013\Projects\Exam-28-April\04.PokerStraight\obj\Debug\04.PokerStraight.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-28-April\04.PokerStraight\obj\Debug\04.PokerStraight.exe
+d:\documents\visual studio 2013\Projects\Exam-28-April\04.PokerStraight\obj\Debug\04.PokerStraight.pdb

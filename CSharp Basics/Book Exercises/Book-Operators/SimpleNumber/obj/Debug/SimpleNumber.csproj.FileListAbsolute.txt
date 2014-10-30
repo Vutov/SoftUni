@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\BookOperators\SimpleNumber\bin\Debug\SimpleNumber.exe.config
+d:\documents\visual studio 2013\Projects\BookOperators\SimpleNumber\bin\Debug\SimpleNumber.exe
+d:\documents\visual studio 2013\Projects\BookOperators\SimpleNumber\bin\Debug\SimpleNumber.pdb
+d:\documents\visual studio 2013\Projects\BookOperators\SimpleNumber\obj\Debug\SimpleNumber.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\BookOperators\SimpleNumber\obj\Debug\SimpleNumber.exe
+d:\documents\visual studio 2013\Projects\BookOperators\SimpleNumber\obj\Debug\SimpleNumber.pdb

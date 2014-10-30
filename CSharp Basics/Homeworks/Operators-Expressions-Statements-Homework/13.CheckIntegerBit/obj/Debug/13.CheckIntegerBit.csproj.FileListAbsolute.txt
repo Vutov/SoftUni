@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\13.CheckIntegerBit\bin\Debug\13.CheckIntegerBit.exe.config
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\13.CheckIntegerBit\bin\Debug\13.CheckIntegerBit.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\13.CheckIntegerBit\bin\Debug\13.CheckIntegerBit.pdb
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\13.CheckIntegerBit\obj\Debug\13.CheckIntegerBit.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\13.CheckIntegerBit\obj\Debug\13.CheckIntegerBit.pdb

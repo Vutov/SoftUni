@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\15.ThreeBitExchange\bin\Debug\15.ThreeBitExchange.exe.config
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\15.ThreeBitExchange\bin\Debug\15.ThreeBitExchange.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\15.ThreeBitExchange\bin\Debug\15.ThreeBitExchange.pdb
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\15.ThreeBitExchange\obj\Debug\15.ThreeBitExchange.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\15.ThreeBitExchange\obj\Debug\15.ThreeBitExchange.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\15.ThreeBitExchange\obj\Debug\15.ThreeBitExchange.pdb

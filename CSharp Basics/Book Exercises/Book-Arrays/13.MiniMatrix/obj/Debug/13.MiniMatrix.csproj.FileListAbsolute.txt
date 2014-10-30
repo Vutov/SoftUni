@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\13.MiniMatrix\bin\Debug\13.MiniMatrix.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\13.MiniMatrix\obj\Debug\13.MiniMatrix.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Book-Arrays\13.MiniMatrix\bin\Debug\13.MiniMatrix.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\13.MiniMatrix\bin\Debug\13.MiniMatrix.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\13.MiniMatrix\obj\Debug\13.MiniMatrix.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\13.MiniMatrix\obj\Debug\13.MiniMatrix.pdb

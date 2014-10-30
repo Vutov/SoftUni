@@ -1,0 +1,10 @@
+d:\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFullName\bin\Debug\PrintFullName.exe.config
+d:\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFullName\bin\Debug\PrintFullName.exe
+d:\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFullName\bin\Debug\PrintFullName.pdb
+d:\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFullName\obj\Debug\PrintFullName.exe
+d:\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintFullName\obj\Debug\PrintFullName.pdb
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\04.PrintFullName\bin\Debug\PrintFullName.exe.config
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\04.PrintFullName\obj\Debug\PrintFullName.exe
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\04.PrintFullName\obj\Debug\PrintFullName.pdb
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\04.PrintFullName\bin\Debug\PrintFullName.exe
+D:\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\04.PrintFullName\bin\Debug\PrintFullName.pdb

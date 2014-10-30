@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\17.BitKiller\bin\Debug\17.BitKiller.exe.config
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\17.BitKiller\bin\Debug\17.BitKiller.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\17.BitKiller\bin\Debug\17.BitKiller.pdb
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\17.BitKiller\obj\Debug\17.BitKiller.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\17.BitKiller\obj\Debug\17.BitKiller.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\17.BitKiller\obj\Debug\17.BitKiller.pdb

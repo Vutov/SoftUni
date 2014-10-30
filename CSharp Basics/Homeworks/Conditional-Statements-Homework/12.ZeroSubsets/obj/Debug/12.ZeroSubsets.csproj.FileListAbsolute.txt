@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.ZeroSubsets\bin\Debug\12.ZeroSubsets.exe.config
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.ZeroSubsets\bin\Debug\12.ZeroSubsets.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.ZeroSubsets\bin\Debug\12.ZeroSubsets.pdb
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.ZeroSubsets\obj\Debug\12.ZeroSubsets.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.ZeroSubsets\obj\Debug\12.ZeroSubsets.exe
+d:\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.ZeroSubsets\obj\Debug\12.ZeroSubsets.pdb

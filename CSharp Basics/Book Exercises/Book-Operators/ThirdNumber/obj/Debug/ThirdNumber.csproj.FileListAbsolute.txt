@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\BookOperators\ThirdNumber\bin\Debug\ThirdNumber.exe.config
+D:\Documents\Visual Studio 2013\Projects\BookOperators\ThirdNumber\bin\Debug\ThirdNumber.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\ThirdNumber\bin\Debug\ThirdNumber.pdb
+D:\Documents\Visual Studio 2013\Projects\BookOperators\ThirdNumber\obj\Debug\ThirdNumber.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\ThirdNumber\obj\Debug\ThirdNumber.pdb

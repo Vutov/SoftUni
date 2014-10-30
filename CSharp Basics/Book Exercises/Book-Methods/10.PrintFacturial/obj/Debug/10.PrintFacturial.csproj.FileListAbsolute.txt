@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Book-Methods\10.PrintFacturial\bin\Debug\10.PrintFacturial.exe.config
+d:\documents\visual studio 2013\Projects\Book-Methods\10.PrintFacturial\bin\Debug\10.PrintFacturial.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\10.PrintFacturial\bin\Debug\10.PrintFacturial.pdb
+d:\documents\visual studio 2013\Projects\Book-Methods\10.PrintFacturial\obj\Debug\10.PrintFacturial.exe
+d:\documents\visual studio 2013\Projects\Book-Methods\10.PrintFacturial\obj\Debug\10.PrintFacturial.pdb
+d:\documents\visual studio 2013\Projects\Book-Methods\10.PrintFacturial\obj\Debug\10.PrintFacturial.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.exe.config
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.pdb
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.pdb

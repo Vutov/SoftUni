@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Loops\04.PrintCards\bin\Debug\04.PrintCards.exe.config
+d:\documents\visual studio 2013\Projects\Book-Loops\04.PrintCards\bin\Debug\04.PrintCards.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\04.PrintCards\bin\Debug\04.PrintCards.pdb
+d:\documents\visual studio 2013\Projects\Book-Loops\04.PrintCards\obj\Debug\04.PrintCards.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\04.PrintCards\obj\Debug\04.PrintCards.pdb

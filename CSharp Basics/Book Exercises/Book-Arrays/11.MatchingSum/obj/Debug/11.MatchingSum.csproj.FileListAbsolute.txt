@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\11.MatchingSum\bin\Debug\11.MatchingSum.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\11.MatchingSum\bin\Debug\11.MatchingSum.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\11.MatchingSum\bin\Debug\11.MatchingSum.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\11.MatchingSum\obj\Debug\11.MatchingSum.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\11.MatchingSum\obj\Debug\11.MatchingSum.pdb

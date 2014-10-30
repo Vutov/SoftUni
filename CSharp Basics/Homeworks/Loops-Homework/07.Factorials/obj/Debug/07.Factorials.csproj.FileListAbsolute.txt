@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Loops-Homework\07.Factorials\bin\Debug\07.Factorials.exe.config
+d:\documents\visual studio 2013\Projects\Loops-Homework\07.Factorials\bin\Debug\07.Factorials.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\07.Factorials\bin\Debug\07.Factorials.pdb
+d:\documents\visual studio 2013\Projects\Loops-Homework\07.Factorials\obj\Debug\07.Factorials.exe
+d:\documents\visual studio 2013\Projects\Loops-Homework\07.Factorials\obj\Debug\07.Factorials.pdb

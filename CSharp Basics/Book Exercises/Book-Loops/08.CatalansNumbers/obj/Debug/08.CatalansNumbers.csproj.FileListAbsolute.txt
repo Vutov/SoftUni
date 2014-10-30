@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Loops\08.CatalansNumbers\bin\Debug\08.CatalansNumbers.exe.config
+d:\documents\visual studio 2013\Projects\Book-Loops\08.CatalansNumbers\bin\Debug\08.CatalansNumbers.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\08.CatalansNumbers\bin\Debug\08.CatalansNumbers.pdb
+d:\documents\visual studio 2013\Projects\Book-Loops\08.CatalansNumbers\obj\Debug\08.CatalansNumbers.exe
+d:\documents\visual studio 2013\Projects\Book-Loops\08.CatalansNumbers\obj\Debug\08.CatalansNumbers.pdb

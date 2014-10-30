@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\14.ModifyIntegerBit\bin\Debug\14.ModifyIntegerBit.exe.config
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\14.ModifyIntegerBit\bin\Debug\14.ModifyIntegerBit.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\14.ModifyIntegerBit\bin\Debug\14.ModifyIntegerBit.pdb
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\14.ModifyIntegerBit\obj\Debug\14.ModifyIntegerBit.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\14.ModifyIntegerBit\obj\Debug\14.ModifyIntegerBit.pdb

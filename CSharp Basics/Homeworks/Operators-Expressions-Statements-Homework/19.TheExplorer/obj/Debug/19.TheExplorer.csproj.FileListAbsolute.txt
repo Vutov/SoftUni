@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\19.TheExplorer\bin\Debug\19.TheExplorer.exe.config
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\19.TheExplorer\bin\Debug\19.TheExplorer.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\19.TheExplorer\bin\Debug\19.TheExplorer.pdb
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\19.TheExplorer\obj\Debug\19.TheExplorer.exe
+D:\Documents\Visual Studio 2013\Projects\Operators-Expressions-Statements-Homework\19.TheExplorer\obj\Debug\19.TheExplorer.pdb

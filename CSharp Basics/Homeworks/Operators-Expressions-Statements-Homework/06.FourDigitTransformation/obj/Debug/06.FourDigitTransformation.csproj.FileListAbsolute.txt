@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\06.FourDigitTransformation\bin\Debug\06.FourDigitTransformation.exe.config
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\06.FourDigitTransformation\bin\Debug\06.FourDigitTransformation.exe
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\06.FourDigitTransformation\bin\Debug\06.FourDigitTransformation.pdb
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\06.FourDigitTransformation\obj\Debug\06.FourDigitTransformation.exe
+d:\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\06.FourDigitTransformation\obj\Debug\06.FourDigitTransformation.pdb

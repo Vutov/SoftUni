@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11.DevidableByFive\bin\Debug\11.DevidableByFive.exe.config
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11.DevidableByFive\bin\Debug\11.DevidableByFive.exe
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11.DevidableByFive\bin\Debug\11.DevidableByFive.pdb
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11.DevidableByFive\obj\Debug\11.DevidableByFive.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11.DevidableByFive\obj\Debug\11.DevidableByFive.exe
+d:\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11.DevidableByFive\obj\Debug\11.DevidableByFive.pdb

@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\BookOperators\FourDigitTransformation\bin\Debug\FourDigitTransformation.exe.config
+D:\Documents\Visual Studio 2013\Projects\BookOperators\FourDigitTransformation\bin\Debug\FourDigitTransformation.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\FourDigitTransformation\bin\Debug\FourDigitTransformation.pdb
+D:\Documents\Visual Studio 2013\Projects\BookOperators\FourDigitTransformation\obj\Debug\FourDigitTransformation.exe
+D:\Documents\Visual Studio 2013\Projects\BookOperators\FourDigitTransformation\obj\Debug\FourDigitTransformation.pdb

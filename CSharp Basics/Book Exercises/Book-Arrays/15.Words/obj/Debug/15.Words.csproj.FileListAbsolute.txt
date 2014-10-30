@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\Book-Arrays\15.Words\bin\Debug\15.Words.exe.config
+d:\documents\visual studio 2013\Projects\Book-Arrays\15.Words\bin\Debug\15.Words.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\15.Words\bin\Debug\15.Words.pdb
+d:\documents\visual studio 2013\Projects\Book-Arrays\15.Words\obj\Debug\15.Words.exe
+d:\documents\visual studio 2013\Projects\Book-Arrays\15.Words\obj\Debug\15.Words.pdb

@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-22-August\02.BookOrders\bin\Debug\02.BookOrders.exe.config
+d:\documents\visual studio 2013\Projects\Exam-22-August\02.BookOrders\bin\Debug\02.BookOrders.exe
+d:\documents\visual studio 2013\Projects\Exam-22-August\02.BookOrders\bin\Debug\02.BookOrders.pdb
+d:\documents\visual studio 2013\Projects\Exam-22-August\02.BookOrders\obj\Debug\02.BookOrders.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-22-August\02.BookOrders\obj\Debug\02.BookOrders.exe
+d:\documents\visual studio 2013\Projects\Exam-22-August\02.BookOrders\obj\Debug\02.BookOrders.pdb
