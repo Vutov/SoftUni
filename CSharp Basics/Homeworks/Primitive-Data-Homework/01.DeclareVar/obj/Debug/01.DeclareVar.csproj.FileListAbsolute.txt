@@ -4,3 +4,9 @@ d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\01.DeclareVar\b
 d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\01.DeclareVar\obj\Debug\01.DeclareVar.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\01.DeclareVar\obj\Debug\01.DeclareVar.exe
 d:\documents\visual studio 2013\Projects\Primitive-Data-Homework\01.DeclareVar\obj\Debug\01.DeclareVar.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Primitive-Data-Homework\01.DeclareVar\bin\Debug\01.DeclareVar.exe.config
+D:\SoftUni\CSharp Basics\Homeworks\Primitive-Data-Homework\01.DeclareVar\obj\Debug\01.DeclareVar.exe
+D:\SoftUni\CSharp Basics\Homeworks\Primitive-Data-Homework\01.DeclareVar\obj\Debug\01.DeclareVar.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Primitive-Data-Homework\01.DeclareVar\bin\Debug\01.DeclareVar.exe
+D:\SoftUni\CSharp Basics\Homeworks\Primitive-Data-Homework\01.DeclareVar\bin\Debug\01.DeclareVar.pdb
+D:\SoftUni\CSharp Basics\Homeworks\Primitive-Data-Homework\01.DeclareVar\obj\Debug\01.DeclareVar.csprojResolveAssemblyReference.cache

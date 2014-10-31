@@ -25,7 +25,7 @@ class BookOrders
 
             if (booksPerPack >= 10 && booksPerPack < 110)
             {
-                while (booksPerPack - 10 > 9)
+                while (booksPerPack - 10 > 9) // Can be done with (booksPerPack / 10) + 4;
                 {
                     booksPerPack -= 10;
                     discount += 0.01m;

@@ -4,3 +4,6 @@ d:\documents\visual studio 2013\Projects\Exam-22-August\05.DoubleDown\bin\Debug\
 d:\documents\visual studio 2013\Projects\Exam-22-August\05.DoubleDown\obj\Debug\05.DoubleDown.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2013\Projects\Exam-22-August\05.DoubleDown\obj\Debug\05.DoubleDown.exe
 d:\documents\visual studio 2013\Projects\Exam-22-August\05.DoubleDown\obj\Debug\05.DoubleDown.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-22-August\05.DoubleDown\bin\Debug\05.DoubleDown.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam-22-August\05.DoubleDown\obj\Debug\05.DoubleDown.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-22-August\05.DoubleDown\obj\Debug\05.DoubleDown.pdb

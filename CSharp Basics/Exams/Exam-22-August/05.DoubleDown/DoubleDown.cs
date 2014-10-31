@@ -35,7 +35,7 @@ class DoubleDown
             //Left diagonal;
             for (int bitR = 0; bitR < 31; bitR++)
             {
-                int firstNumBit = firstNum & (1 << bitR);
+                int firstNumBit = firstNum & (1 << bitR); //shorter: (firstNum >> bitR) & 1
                 firstNumBit = firstNumBit >> bitR;
                 int secondNumBit = secondNum & (1 << bitR + 1);
                 secondNumBit = secondNumBit >> (bitR + 1);

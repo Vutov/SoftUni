@@ -4,3 +4,6 @@ d:\documents\visual studio 2013\Projects\Exam-22-August\04.ChessQueen\bin\Debug\
 d:\documents\visual studio 2013\Projects\Exam-22-August\04.ChessQueen\obj\Debug\04.ChessQueen.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2013\Projects\Exam-22-August\04.ChessQueen\obj\Debug\04.ChessQueen.exe
 d:\documents\visual studio 2013\Projects\Exam-22-August\04.ChessQueen\obj\Debug\04.ChessQueen.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-22-August\04.ChessQueen\bin\Debug\04.ChessQueen.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam-22-August\04.ChessQueen\obj\Debug\04.ChessQueen.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-22-August\04.ChessQueen\obj\Debug\04.ChessQueen.pdb
