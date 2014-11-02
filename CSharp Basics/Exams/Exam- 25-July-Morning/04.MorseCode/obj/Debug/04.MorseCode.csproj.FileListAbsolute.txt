@@ -1,0 +1,5 @@
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\04.MorseCode\bin\Debug\04.MorseCode.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\04.MorseCode\bin\Debug\04.MorseCode.exe
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\04.MorseCode\bin\Debug\04.MorseCode.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\04.MorseCode\obj\Debug\04.MorseCode.exe
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\04.MorseCode\obj\Debug\04.MorseCode.pdb

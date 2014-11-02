@@ -4,3 +4,6 @@ d:\documents\visual studio 2013\Projects\Exam-26-August\03.Star\bin\Debug\03.Sta
 d:\documents\visual studio 2013\Projects\Exam-26-August\03.Star\obj\Debug\03.Star.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2013\Projects\Exam-26-August\03.Star\obj\Debug\03.Star.exe
 d:\documents\visual studio 2013\Projects\Exam-26-August\03.Star\obj\Debug\03.Star.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-26-August\03.Star\bin\Debug\03.Star.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam-26-August\03.Star\obj\Debug\03.Star.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-26-August\03.Star\obj\Debug\03.Star.pdb

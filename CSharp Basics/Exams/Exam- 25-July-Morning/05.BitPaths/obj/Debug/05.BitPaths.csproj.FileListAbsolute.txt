@@ -1,0 +1,6 @@
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\05.BitPaths\bin\Debug\05.BitPaths.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\05.BitPaths\bin\Debug\05.BitPaths.exe
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\05.BitPaths\bin\Debug\05.BitPaths.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\05.BitPaths\obj\Debug\05.BitPaths.csprojResolveAssemblyReference.cache
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\05.BitPaths\obj\Debug\05.BitPaths.exe
+D:\SoftUni\CSharp Basics\Exams\Exam- 25-July-Morning\05.BitPaths\obj\Debug\05.BitPaths.pdb
