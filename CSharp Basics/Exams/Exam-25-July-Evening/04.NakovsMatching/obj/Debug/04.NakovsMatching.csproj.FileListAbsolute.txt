@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\04.NakovsMatching\bin\Debug\04.NakovsMatching.exe.config
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\04.NakovsMatching\bin\Debug\04.NakovsMatching.exe
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\04.NakovsMatching\bin\Debug\04.NakovsMatching.pdb
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\04.NakovsMatching\obj\Debug\04.NakovsMatching.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\04.NakovsMatching\obj\Debug\04.NakovsMatching.exe
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\04.NakovsMatching\obj\Debug\04.NakovsMatching.pdb

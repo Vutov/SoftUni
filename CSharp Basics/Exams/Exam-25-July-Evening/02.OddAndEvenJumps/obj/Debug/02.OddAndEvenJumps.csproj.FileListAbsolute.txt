@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\02.OddAndEvenJumps\bin\Debug\02.OddAndEvenJumps.exe.config
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\02.OddAndEvenJumps\bin\Debug\02.OddAndEvenJumps.exe
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\02.OddAndEvenJumps\bin\Debug\02.OddAndEvenJumps.pdb
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\02.OddAndEvenJumps\obj\Debug\02.OddAndEvenJumps.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\02.OddAndEvenJumps\obj\Debug\02.OddAndEvenJumps.exe
+d:\documents\visual studio 2013\Projects\Exam-25-July-Evening\02.OddAndEvenJumps\obj\Debug\02.OddAndEvenJumps.pdb
