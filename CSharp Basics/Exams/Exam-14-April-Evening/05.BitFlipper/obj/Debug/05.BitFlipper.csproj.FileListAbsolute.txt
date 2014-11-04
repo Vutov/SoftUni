@@ -3,3 +3,6 @@ d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\05.BitFlipper\bin
 d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\05.BitFlipper\bin\Debug\05.BitFlipper.pdb
 d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\05.BitFlipper\obj\Debug\05.BitFlipper.exe
 d:\documents\visual studio 2013\Projects\Exam-14-April-Evening\05.BitFlipper\obj\Debug\05.BitFlipper.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-14-April-Evening\05.BitFlipper\bin\Debug\05.BitFlipper.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam-14-April-Evening\05.BitFlipper\obj\Debug\05.BitFlipper.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-14-April-Evening\05.BitFlipper\obj\Debug\05.BitFlipper.pdb
