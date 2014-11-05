@@ -2,11 +2,12 @@
 
 class LongestWord
 {
-    //malki matrici do 4 ne raboti
     static void Main(string[] args)
     {
         string word = Console.ReadLine();
         int size = int.Parse(Console.ReadLine());
+        //string word = "nakov";
+        //int size = 3;
         int wordLength = word.Length;
         int wordIndex = 0;
         char[,] matrix = new char[size, size];
@@ -71,6 +72,10 @@ class LongestWord
                     max = "";
                 }
             }
+            if (max.Length > saved.Length)
+            {
+                saved = max;
+            }
             max = "";
         }
         //Search right;
@@ -108,6 +113,10 @@ class LongestWord
                     }
                     max = "";
                 }
+            }
+            if (max.Length > saved.Length)
+            {
+                saved = max;
             }
             max = "";
         }
@@ -147,6 +156,10 @@ class LongestWord
                     max = "";
                 }
             }
+            if (max.Length > saved.Length)
+            {
+                saved = max;
+            }
             max = "";
         }
         //Search down;
@@ -185,9 +198,21 @@ class LongestWord
                     max = "";
                 }
             }
+            if (max.Length > saved.Length)
+            {
+                saved = max;
+            }
             max = "";
         }
-        Console.WriteLine(saved);
+        if (size == 1 || word.Length == 1)
+        {
+            Console.WriteLine(word[0]);
+        }
+        else
+        {
+            Console.WriteLine(saved);
+        }
+        
     }
 }
 // unicodove za alfareda
