@@ -1,0 +1,6 @@
+D:\Desktop\Exam-07-November\05.BitSwapper\bin\Debug\05.BitSwapper.exe.config
+D:\Desktop\Exam-07-November\05.BitSwapper\bin\Debug\05.BitSwapper.exe
+D:\Desktop\Exam-07-November\05.BitSwapper\bin\Debug\05.BitSwapper.pdb
+D:\Desktop\Exam-07-November\05.BitSwapper\obj\Debug\05.BitSwapper.csprojResolveAssemblyReference.cache
+D:\Desktop\Exam-07-November\05.BitSwapper\obj\Debug\05.BitSwapper.exe
+D:\Desktop\Exam-07-November\05.BitSwapper\obj\Debug\05.BitSwapper.pdb

@@ -1,0 +1,5 @@
+D:\Desktop\Exam-07-November\03.Plane\bin\Debug\03.Plane.exe.config
+D:\Desktop\Exam-07-November\03.Plane\bin\Debug\03.Plane.exe
+D:\Desktop\Exam-07-November\03.Plane\bin\Debug\03.Plane.pdb
+D:\Desktop\Exam-07-November\03.Plane\obj\Debug\03.Plane.exe
+D:\Desktop\Exam-07-November\03.Plane\obj\Debug\03.Plane.pdb
