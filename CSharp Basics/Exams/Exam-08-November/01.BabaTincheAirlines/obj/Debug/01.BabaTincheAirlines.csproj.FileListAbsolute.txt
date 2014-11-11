@@ -1,0 +1,6 @@
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\01.BabaTincheAirlines\bin\Debug\01.BabaTincheAirlines.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\01.BabaTincheAirlines\bin\Debug\01.BabaTincheAirlines.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\01.BabaTincheAirlines\bin\Debug\01.BabaTincheAirlines.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\01.BabaTincheAirlines\obj\Debug\01.BabaTincheAirlines.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\01.BabaTincheAirlines\obj\Debug\01.BabaTincheAirlines.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\01.BabaTincheAirlines\obj\Debug\01.BabaTincheAirlines.csprojResolveAssemblyReference.cache

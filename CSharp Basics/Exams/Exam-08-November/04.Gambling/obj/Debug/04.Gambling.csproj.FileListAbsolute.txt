@@ -1,0 +1,6 @@
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\04.Gambling\bin\Debug\04.Gambling.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\04.Gambling\bin\Debug\04.Gambling.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\04.Gambling\bin\Debug\04.Gambling.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\04.Gambling\obj\Debug\04.Gambling.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\04.Gambling\obj\Debug\04.Gambling.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\04.Gambling\obj\Debug\04.Gambling.csprojResolveAssemblyReference.cache

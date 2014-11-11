@@ -1,0 +1,6 @@
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\03.RockLq\bin\Debug\03.RockLq.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\03.RockLq\bin\Debug\03.RockLq.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\03.RockLq\bin\Debug\03.RockLq.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\03.RockLq\obj\Debug\03.RockLq.csprojResolveAssemblyReference.cache
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\03.RockLq\obj\Debug\03.RockLq.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\03.RockLq\obj\Debug\03.RockLq.pdb

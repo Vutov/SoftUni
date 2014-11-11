@@ -1,0 +1,6 @@
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\05.BitBuilder\bin\Debug\05.BitBuilder.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\05.BitBuilder\bin\Debug\05.BitBuilder.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\05.BitBuilder\bin\Debug\05.BitBuilder.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\05.BitBuilder\obj\Debug\05.BitBuilder.csprojResolveAssemblyReference.cache
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\05.BitBuilder\obj\Debug\05.BitBuilder.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\05.BitBuilder\obj\Debug\05.BitBuilder.pdb

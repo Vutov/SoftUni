@@ -1,0 +1,6 @@
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\02.Numerology\bin\Debug\02.Numerology.exe.config
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\02.Numerology\bin\Debug\02.Numerology.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\02.Numerology\bin\Debug\02.Numerology.pdb
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\02.Numerology\obj\Debug\02.Numerology.csprojResolveAssemblyReference.cache
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\02.Numerology\obj\Debug\02.Numerology.exe
+D:\SoftUni\CSharp Basics\Exams\Exam-08-November\02.Numerology\obj\Debug\02.Numerology.pdb
