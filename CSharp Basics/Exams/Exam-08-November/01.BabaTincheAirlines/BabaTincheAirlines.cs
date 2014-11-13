@@ -15,10 +15,10 @@ class BabaTincheAirlines
             string flightData = Console.ReadLine();
             double[] currentClass = Array.ConvertAll(flightData.Split(' '), double.Parse);
             double ticketPrice = ticketsPrice[i];
-            totalFlightIncome +=
-                (currentClass[0] - currentClass[1]) * ticketPrice + //Normal seats;
-                currentClass[1] * (ticketPrice - ticketPrice * 0.7d) + //Frequent flayers;
-                currentClass[2] * (ticketPrice * 0.005d); //Meals;
+            double normalSeats = (currentClass[0] - currentClass[1]) * ticketPrice;
+            double frequentFlayers = currentClass[1] * (ticketPrice - ticketPrice * 0.7d);
+            double meals = currentClass[2] * (ticketPrice * 0.005d);
+            totalFlightIncome += normalSeats + frequentFlayers + meals;
         }
         double[] maxPassangersPerClass = { 12, 28, 50 };
         double maxIncome = 0;

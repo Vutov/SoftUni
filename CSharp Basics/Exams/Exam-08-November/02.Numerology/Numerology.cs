@@ -10,14 +10,12 @@ class Numerology
     {
         //string input = "01.01.1914 g0g0";
         string input = Console.ReadLine();
-
         string[] data = input.Split(' ');
-        DateTime birthday = DateTime.Parse(data[0]);
-        //Console.WriteLine(birthday);
+        int[] date = Array.ConvertAll(data[0].Split('.'), int.Parse);
 
-        int day = birthday.Day;
-        int year = birthday.Year;
-        int month = birthday.Month;
+        int day = date[0];
+        int month = date[1];
+        int year = date[2];
         ulong celestialNumber = (ulong)(day * year * month);
         //Console.WriteLine(celestialNumber);
         if (month % 2 == 1)

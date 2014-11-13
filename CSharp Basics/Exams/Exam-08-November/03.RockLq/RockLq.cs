@@ -16,7 +16,6 @@ class RockLq
         char star = '*';
         int innerDots = input;
         int outerDots = input;
-
         Console.WriteLine("{0}{1}{0}", new string(dot, outerDots), new string(star, innerDots));
         innerDots += 2;
         outerDots -= 2;

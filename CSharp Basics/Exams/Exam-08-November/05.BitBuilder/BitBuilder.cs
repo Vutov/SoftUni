@@ -9,7 +9,7 @@ class BitBuilder
     static void Main(string[] args)
     {
         //uint number = 11230;
-        uint number = uint.Parse(Console.ReadLine());
+        long number = long.Parse(Console.ReadLine());
 
         for (int commands = 0; commands < 30; commands++)
         {
@@ -38,19 +38,21 @@ class BitBuilder
         Console.WriteLine(number);
     }
 
-    private static uint RemoveCommand(uint number, int bit)
+    private static long RemoveCommand(long number, int bit)
     {
-        uint newNumber = 0;
-        for (int bitInNumber = 0; bitInNumber < 32; bitInNumber++)
+        long newNumber = 0;
+        //Long has 64 bits, since we don't know how many we will need,
+        //we use all 64.
+        for (int bitInNumber = 0; bitInNumber < 64; bitInNumber++)
         {
             if (bitInNumber < bit)
             {
-                uint currentBit = (number >> bitInNumber) & 1u;
+                long currentBit = (number >> bitInNumber) & 1L;
                 newNumber |= currentBit << bitInNumber;
             }
             else if (bitInNumber > bit)
             {
-                uint currentBit = (number >> bitInNumber) & 1u;
+                long currentBit = (number >> bitInNumber) & 1L;
                 newNumber |= currentBit << bitInNumber - 1;
             }
         }
@@ -58,24 +60,25 @@ class BitBuilder
         return newNumber;
     }
 
-    private static uint InsertCommand(uint number, int bit)
+    private static long InsertCommand(long number, int bit)
     {
-        uint newNumber = 0;
-        //Working with 33 bits since we are adding one;
-        for (int bitInNumber = 0; bitInNumber <= 32; bitInNumber++)
+        long newNumber = 0;
+        //Long has 64 bits, since we don't know how many we will need,
+        //we use all 64.
+        for (int bitInNumber = 0; bitInNumber < 64; bitInNumber++)
         {
             if (bitInNumber < bit)
             {
-                uint currentBit = (number >> bitInNumber) & 1u;
+                long currentBit = (number >> bitInNumber) & 1L;
                 newNumber |= currentBit << bitInNumber;
             }
             else if (bitInNumber == bit)
             {
-                newNumber |= 1u << bitInNumber;
+                newNumber |= 1L << bitInNumber;
             }
             else // bitInNumber > bit;
             {
-                uint currentBit = (number >> bitInNumber - 1) & 1u;
+                long currentBit = (number >> bitInNumber - 1) & 1L;
                 newNumber |= currentBit << bitInNumber;
             }
         }
@@ -83,9 +86,9 @@ class BitBuilder
         return newNumber;
     }
 
-    private static uint FlipCommand(uint number, int bit)
+    private static long FlipCommand(long number, int bit)
     {
-        uint flippedNumber = number ^ (1u << bit);
+        long flippedNumber = number ^ (1L << bit);
 
         return flippedNumber;
     }
