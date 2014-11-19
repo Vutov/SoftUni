@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{13F5D5AB-6FE4-4C51-9EDF-440529BBA614}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Conference", "02.Conference", "{A97365C8-376E-4613-BA6E-875A781D7DB0}"
+	ProjectSection(SolutionItems) = preProject
+		Conference.html = Conference.html
+		ConferenceStyle.css = ConferenceStyle.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.HelloWorld", "01.HelloWorld", "{92D270EF-EC01-4DBA-919B-42FDF74F1161}"
+	ProjectSection(SolutionItems) = preProject
+		HelloWorld.html = HelloWorld.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A97365C8-376E-4613-BA6E-875A781D7DB0} = {13F5D5AB-6FE4-4C51-9EDF-440529BBA614}
+		{92D270EF-EC01-4DBA-919B-42FDF74F1161} = {13F5D5AB-6FE4-4C51-9EDF-440529BBA614}
+	EndGlobalSection
+EndGlobal
