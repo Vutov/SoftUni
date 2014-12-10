@@ -10,6 +10,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.WorldCup", "01.WorldCup"
 		WorldCup.html = WorldCup.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.ColorKitchen", "02.ColorKitchen", "{890C1975-E9C5-4701-9878-1B2EF30377C4}"
+	ProjectSection(SolutionItems) = preProject
+		ColorKitchen.css = ColorKitchen.css
+		ColorKitchen.html = ColorKitchen.html
+		ColorKitchen.png = ColorKitchen.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Student", "03.Student", "{742602BD-55DE-4B2D-8AF8-C2550A7EDCDD}"
+	ProjectSection(SolutionItems) = preProject
+		Student.css = Student.css
+		Student.html = Student.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

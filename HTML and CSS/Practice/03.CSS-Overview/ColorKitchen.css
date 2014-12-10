@@ -1,0 +1,173 @@
+﻿@import "reset.css";
+
+body {
+    width: auto;
+    height: auto;
+    background-image: url(colorful_dots_on_black.jpg);
+}
+
+body > header:first-of-type {
+    font-size: 1.8rem;
+    padding-top: 0.2%;
+    padding-bottom: 1.2%;
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+    background-position: left;
+    background: linear-gradient(to right, red, red 33.3%, green 33.3%, green 67.7%, blue 67.7%);
+}
+
+footer {
+    font-style: italic;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 0.9rem;
+}
+
+aside {
+    float: left;
+    width: 18%;
+    margin-left: 1%;
+    margin-top: 2%;
+    padding-left: 1.5%;
+    border-radius: 10px;
+    background: rgba(230, 230, 230, 0.9);
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+article {
+    float: right;
+    width: 70%;
+    margin-right: 2%;
+    margin-bottom: 0.5%;
+    background: rgba(230, 230, 230, 0.9);
+    border-radius: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    font-size: 1rem;
+}
+
+article div:first-line {
+    font-style: italic;
+}
+
+article div:first-letter {
+    font-size: 2.5rem;
+}
+
+section article:first-of-type {
+    margin-top: 2%;
+}
+
+section article:last-child {
+    margin-bottom: 2%;
+}
+
+#webColors, #webSafeColors, #RGB, #RGBA, #\#HSLHSV, #\#lorem {
+    margin-top: 2%;
+    border-radius: 5px;
+    line-height: 150%;
+    font-size: 1.2rem;
+    padding-left: 2%;
+}
+
+#webColors, #webSafeColors, #RGB, #RGBA, #\#HSLHSV {
+    margin-bottom: 2%;
+}
+
+#webColors {
+    color: white;
+    background: #FF0000;
+}
+
+#webSafeColors {
+    color: black;
+    background: #FFA500;
+}
+
+#RGB {
+    color: black;
+    background: #FFFF00;
+}
+
+#RGBA {
+    color: white;
+    background: #008000;
+}
+
+ #\#HSLHSV {
+    color: white;
+    background: #0000FF;
+}
+
+ #\#lorem {
+    color: white;
+    background: #800080;
+ }
+
+ span:lang(la) {
+     color: #00008B;
+     font-style: italic;
+ }
+
+span:lang(la):before, span:lang(la):after{
+    content: "\" "
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: #808080;
+}
+
+ul a:link {
+    text-decoration: none;
+}
+
+ul {
+    list-style-image: url(bullets.png);
+    list-style-position:inside;
+    font-size: 1rem;
+
+}
+
+li {
+    margin-right: 8%;
+    padding-top: 4%;
+    padding-bottom: 5%;
+    border-radius: 5px;
+}
+
+nav header {
+    text-decoration: underline;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+li:nth-of-type(1):hover {
+    background: #FF0000;
+}
+
+li:nth-of-type(2):hover {
+    background: #FFA500;
+}
+
+li:nth-of-type(3):hover {
+    background: #FFFF00;
+}
+
+li:nth-of-type(4):hover {
+    background: #008000;
+}
+
+li:nth-of-type(5):hover {
+    background: #0000FF;
+}
+
+li:nth-of-type(6):hover {
+    background: #800080;
+}
