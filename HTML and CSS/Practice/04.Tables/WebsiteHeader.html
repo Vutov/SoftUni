@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>04.Website Header</title>
+    <link href="WebsiteHeader.css" type="text/css" rel="stylesheet" />
+    <script>
+        function WriteText() {
+            document.getElementById("clicked").innerHTML = "You shouldn't be clicking there!";
+        }
+    </script>
+</head>
+<body>
+    <table>
+        <tr>
+            <td rowspan="2" class="logo">
+                <div>
+                    <a href="https://softuni.bg">
+                        <img src="SoftuniLogo.png" alt="logo" /></a>
+                </div>
+            </td>
+            <td colspan="4">
+                <div>
+                    0
+                    <img src="bell.png" alt="bell" />
+                    <a href="https://softuni.bg">User</a>
+                </div>
+            </td>
+            <td colspan="2">
+                <div class="search">
+                    <input id="textSearch" type="text" name="search" value="Search..." /><!--
+                    --><input id="buttonSearch" type="button" name="search" value="S" onclick="WriteText()" />
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://softuni.bg">News</a></td>
+            <td><a href="https://softuni.bg">About the university</a></td>
+            <td><a href="https://softuni.bg">Training courses</a></td>
+            <td><a href="https://softuni.bg">For companies</a></td>
+            <td><a href="https://softuni.bg">Forum</a></td>
+            <td><a href="https://softuni.bg">Contacts</a></td>
+        </tr>
+    </table>
+    <div id="clicked"></div>
+</body>
+</html>

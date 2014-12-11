@@ -1,0 +1,19 @@
+﻿body {
+    margin:0;
+}
+
+table {
+    width: 300px;
+}
+
+th {
+    font-size: 1.3rem;
+    text-align: left;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+td {
+    font-size: 0.9rem;
+    padding-left: 10px;
+}

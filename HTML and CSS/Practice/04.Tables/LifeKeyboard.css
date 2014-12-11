@@ -1,0 +1,42 @@
+﻿body {
+    margin: 10px;
+}
+
+table {
+    width: 330px;
+    height: 410px;
+}
+
+table, td, th {
+    border: solid 1px;
+}
+
+td, th {
+    height: 20%;
+    width: 25%;
+    text-align: center;
+}
+
+tr:nth-child(3) td:nth-child(3), tr:nth-child(4) td:nth-child(1) {
+    height: 10%;
+}
+
+    tr:nth-child(3) td:nth-child(3) .buttons, tr:nth-child(4) td:nth-child(1) .buttons {
+        font-size: 0.6rem;
+    }
+
+tr:nth-child(5) td:nth-child(1) .buttons{
+    text-align: right;
+}
+
+
+th .buttons {
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.buttons {
+    width: 98%;
+    height: 96%;
+    color: #1300EE;
+}
