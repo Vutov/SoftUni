@@ -1,0 +1,36 @@
+﻿body {
+    margin: 10px;
+}
+
+table {
+    width: 340px;
+    height: 410px;
+    border: solid 1px;
+    background-color: #A6CFA6;
+    border-radius: 1%;
+}
+
+td {
+    width: 25%;
+    height: 20%;
+    text-align: center;
+}
+
+#display {
+    text-align: right;
+    margin: 1%;
+    background: linear-gradient(to bottom, #CCFFCC, #fff);
+    border: solid 1px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 2%;
+    font-size: 1.5rem;
+}
+
+.buttons {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, #fff, #CCFFCC);
+    border-radius: 20%;
+    font-size: 2rem;
+}

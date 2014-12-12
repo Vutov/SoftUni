@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>07.Calculator</title>
+    <link href="Calculator.css" type="text/css" rel="stylesheet" />
+    <script src="Calculator.js" type="text/javascript"></script>
+</head>
+<body>
+    <table>
+    	<tr>
+            <td colspan="4">
+                <div id="display">0</div>
+            </td>
+    	</tr>
+    	<tr>
+            <td>
+                <input class="buttons" type="button" name="one" value="1" onclick="EvaluateInfo(1)"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="two" value="2" onclick="EvaluateInfo(2)"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="three" value="3" onclick="EvaluateInfo(3)"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="plus" value="+" onclick="EvaluateInfo('+')"/>
+            </td>
+    	</tr>
+    	<tr>
+            <td>
+                <input class="buttons" type="button" name="four" value="4" onclick="EvaluateInfo(4)"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="five" value="5" onclick="EvaluateInfo(5)"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="six" value="6" onclick="EvaluateInfo(6)"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="minus" value="-" onclick="EvaluateInfo('-')"/>
+            </td>
+    	</tr>
+    	<tr>
+            <td>
+                <input class="buttons" type="button" name="seven" value="7" onclick="EvaluateInfo(7)"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="eight" value="8" onclick="EvaluateInfo(8)"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="nine" value="9" onclick="EvaluateInfo(9)"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="multiply" value="*" onclick="EvaluateInfo('*')"/>
+            </td>
+    	</tr>
+    	<tr>
+            <td>
+                <input class="buttons" type="button" name="clear" value="C" onclick="EvaluateInfo('C')"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="zero" value="0" onclick="EvaluateInfo(0)"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="equal" value="=" onclick="EvaluateInfo('=')"/>
+            </td>
+            <td>
+                <input class="buttons" type="button" name="divide" value="/" onclick="EvaluateInfo('/')"/>
+            </td>
+    	</tr>
+    </table>
+</body>
+</html>
