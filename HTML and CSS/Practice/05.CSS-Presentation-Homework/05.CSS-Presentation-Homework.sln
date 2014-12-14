@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1EE9496C-4D4A-41C2-96FF-AC0274D424D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Janty", "01.Janty", "{19164D9A-7F34-4784-A703-396C3AC7E8CF}"
+	ProjectSection(SolutionItems) = preProject
+		TheJauntyTextField.css = TheJauntyTextField.css
+		TheJauntyTextField.html = TheJauntyTextField.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.SoftUni Vacation", "02.SoftUni Vacation", "{121A0B91-6D78-4768-9960-BBF59E785F26}"
+	ProjectSection(SolutionItems) = preProject
+		SoftUniVacation.css = SoftUniVacation.css
+		SoftUniVacation.html = SoftUniVacation.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{19164D9A-7F34-4784-A703-396C3AC7E8CF} = {1EE9496C-4D4A-41C2-96FF-AC0274D424D4}
+		{121A0B91-6D78-4768-9960-BBF59E785F26} = {1EE9496C-4D4A-41C2-96FF-AC0274D424D4}
+	EndGlobalSection
+EndGlobal
