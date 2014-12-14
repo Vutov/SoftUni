@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.WorldCup", "01.WorldCup"
 		reset.css = reset.css
 		WorldCup.css = WorldCup.css
 		WorldCup.html = WorldCup.html
+		WorldCupRework.css = WorldCupRework.css
+		WorldCupRework.html = WorldCupRework.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.ColorKitchen", "02.ColorKitchen", "{890C1975-E9C5-4701-9878-1B2EF30377C4}"

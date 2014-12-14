@@ -39,6 +39,7 @@ img {
 
 .row, .attributes {
     height: 48px;
+    font-size: 1rem;
 }
 
 .col1, .col2, .col3, .col5, .col4, .team, .prediction, .bet {

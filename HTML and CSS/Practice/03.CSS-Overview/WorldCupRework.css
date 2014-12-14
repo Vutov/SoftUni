@@ -1,0 +1,142 @@
+﻿body {
+    margin: 10px;
+    background: #009540;
+}
+
+img {
+    width: 20px;
+    height: 15px;
+}
+
+/*Borders*/
+table {
+    width: 900px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+th:first-child {
+    border-top-left-radius: 20px;
+}
+
+th:last-child {
+    border-top-right-radius: 20px;
+}
+
+tr:last-child td:nth-child(1) {
+    border-bottom-left-radius: 20px;
+}
+
+tr:last-child td:last-child {
+    border-bottom-right-radius: 20px;
+}
+
+table, td, tr, th {
+    border: 1px solid black;
+    border-spacing: 0;
+}
+
+/*Sizes and aligns*/
+tr{
+    height: 16.5%;
+}
+
+    tr td:nth-child(1), th:nth-child(1), tr td:nth-child(5) {
+        text-align: right;
+        padding-right: 1%;
+        width: 15%;
+    }
+
+    tr td:nth-child(2), tr td:nth-child(8) {
+        text-align: center;
+        width: 10%;
+    }
+
+    tr td:nth-child(3), th:nth-child(3), tr td:nth-child(7) {
+        text-align: left;
+        padding-left: 1%;
+        width: 15%;
+    }
+
+    tr td:nth-child(4) {
+        text-align: center;
+        width: 10%;
+    }
+
+    tr td:nth-child(6) {
+        text-align: center;
+        width: 14%;
+    }
+
+/*Fonts and colors*/
+th {
+    font-size: 1.6rem;
+    background: #FFCE11;
+}
+
+td {
+    font-size: 0.9rem;
+}
+
+tr:nth-child(odd) td {
+    background: #CECECE;
+}
+
+tr:nth-child(even) td {
+    background: #fff;
+}
+
+/*Betting circles*/
+.bet-circle-red {
+    background: #FF0000;
+    border-radius: 50%;
+    margin-left: 15%;
+    margin-right: 15%;
+    line-height: 250%;
+    border: outset #A3A3A3 1px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 0.8rem;
+}
+
+.bet-circle-green {
+    background: #008400;
+    border-radius: 50%;
+    margin-left: 15%;
+    margin-right: 15%;
+    line-height: 250%;
+    border: outset #A3A3A3 1px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 0.8rem;
+}
+
+/*Betting boxes*/
+.scoreBox {
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    border: solid #B6B6B6 1px;
+    text-align: left;
+    padding: 2px;
+}
+
+    /*Arrows in the box*/
+    .scoreBox span:first-of-type {
+        color: #000;
+        font-size: 0.4rem;
+        padding-left: 25%;
+    }
+
+.scoreBox-red {
+    color: red;
+    background: #E2E2E2;
+    padding-left: 5%;
+}
+
+.scoreBox-green {
+    color: green;
+    background: #fff;
+    padding-left: 5%;
+}
