@@ -1,0 +1,84 @@
+﻿body {
+    margin: 10px;
+}
+
+.Frame {
+    width: 315px;
+    height: 290px;
+    border: 1px solid red;
+}
+
+header {
+    height: 7%; /*namalqvane kato slagam padding!*/
+    width: 100%;
+    font-size: 0.7rem;
+    font-weight: bold;
+    border: 1px solid green;
+}
+
+    header span, header div {
+        display: inline-block;
+    }
+
+    header div{
+        float: right;
+    }
+
+.Menu {
+    height: 4%;
+    width: 100%;
+    font-size: 0.7rem;
+    border: 1px solid red;
+}
+
+.Display {
+    height: 12%;
+    width: 100%;
+    font-size: 1rem;
+    border: 1px solid blue;
+}
+
+.BinaryTable {
+    height: 15%;
+    width: 100%;
+    font-size: 0.6rem;
+    border: 1px solid green;
+}
+
+.MainContent {
+    height: 50%;
+    width: 100%;
+}
+
+.Options {
+    height: 100%;
+    width: 16%;
+    float: left;
+    font-size: 0.6rem;
+    border: solid red 1px;
+}
+
+.Systems {
+    height: 49%;
+    width: 100%;
+    border: 1px solid black;
+}
+
+input[type="radio"] {
+    height: 8px;
+}
+
+.MainTable {
+    height: 100%;
+    width: 80%;
+    float: right;
+    font-size: 0.8rem;
+    border: 1px solid green;
+}
+
+.MainTable td, .MainTable tr {
+    border: 1px solid #000;
+    text-align: center;
+    height: 12.5%;
+    width: 12.5%;
+}

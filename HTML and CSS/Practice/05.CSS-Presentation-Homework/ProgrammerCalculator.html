@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>05.Programmer Calculator</title>
+    <link href="ProgrammerCalculator.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <div class="Frame">
+        <header>
+            <span>Calculator</span>
+            <div class="TopMenu">box box box</div>
+        </header>
+        <div class="Menu">
+            <span>View</span>
+            <span>Edit</span>
+            <span>Help</span>
+        </div>
+        <div class="Display">0</div>
+        <table class="BinaryTable">
+            <tr>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+            </tr>
+            <tr>
+                <td>63</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>47</td>
+                <td></td>
+                <td></td>
+                <td>32</td>
+            </tr>
+            <tr>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+            </tr>
+            <tr>
+                <td>31</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>15</td>
+                <td></td>
+                <td></td>
+                <td>0</td>
+            </tr>
+        </table>
+        <div class="MainContent">
+            <div class="Options">
+                <div class="Systems">
+                    <input type="radio" name="sys" /><span>Hex</span>
+                    <br />
+                    <input type="radio" name="sys" checked="checked" /><span>Dec</span>
+                    <br />
+                    <input type="radio" name="sys" /><span>Oct</span>
+                    <br />
+                    <input type="radio" name="sys" /><span>Bin</span>
+                    <br />
+                </div>
+                <div class="Systems">
+                    <input type="radio" name="options" checked="checked" /><span>Qword</span>
+                    <br />
+                    <input type="radio" name="options" /><span>Dword</span>
+                    <br />
+                    <input type="radio" name="options" /><span>Word</span>
+                    <br />
+                    <input type="radio" name="options" /><span>Byte</span>
+                    <br />
+                </div>
+            </div>
+            <table class="MainTable">
+            	<tr>
+            		<td></td>
+            		<td>Mod</td>
+            		<td>A</td>
+            		<td>MC</td>
+            		<td>MR</td>
+            		<td>MS</td>
+            		<td>M+</td>
+            		<td>M-</td>
+            	</tr>
+            	<tr>
+            		<td>(</td>
+            		<td>)</td>
+            		<td>B</td>
+            		<td>&lt;-</td>
+            		<td>CE</td>
+            		<td>C</td>
+            		<td>+-</td>
+            		<td>v</td>
+            	</tr>
+            	<tr>
+            		<td>RoL</td>
+            		<td>RoR</td>
+            		<td>C</td>
+            		<td>7</td>
+            		<td>8</td>
+            		<td>9</td>
+            		<td>/</td>
+            		<td>%</td>
+            	</tr>
+            	<tr>
+            		<td>Or</td>
+            		<td>Xor</td>
+            		<td>D</td>
+            		<td>4</td>
+            		<td>5</td>
+            		<td>6</td>
+            		<td>*</td>
+            		<td>1/x</td>
+            	</tr>
+            	<tr>
+            		<td>Lsh</td>
+            		<td>Rsh</td>
+            		<td>E</td>
+            		<td>1</td>
+            		<td>2</td>
+            		<td>3</td>
+            		<td>-</td>
+            		<td rowspan="2">=</td>
+            	</tr>
+            	<tr>
+            		<td>Not</td>
+            		<td>And</td>
+            		<td>F</td>
+            		<td colspan="2">0</td>
+            		<td>.</td>
+            		<td>+</td>
+            	</tr>
+            </table>
+        </div>
+
+
+    </div>
+</body>
+</html>
