@@ -1,0 +1,69 @@
+﻿body {
+    margin: 1%;
+    background: #FFC6D2;
+}
+
+.Content {
+    height: 300px;
+    width: 400px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.Destination div, .Departure div, .Return div, .MoreInfo div {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-style: italic;
+    margin: 0.5%;
+}
+
+.Prefered {
+    width: 73%;
+    font-size: 0.8rem;
+    text-align: right;
+}
+
+.Numbers {
+    width: 99%;
+    word-spacing: 42px;
+}
+
+.Departure div:first-of-type, .Departure div:nth-of-type(2),
+.Destination div:first-of-type, .Destination div:nth-of-type(2),
+.Return div:first-of-type, .Return div:nth-of-type(2),
+.MoreInfoFirst, .MoreInfoSecond {
+    width: 48%;
+}
+
+.Sub {
+    margin-top: 1%;
+    width: 98.5%;
+}
+
+input[type="submit"] {
+    float: right;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 49%;
+}
+
+input[type="date"] {
+    width: 97%;
+}
+
+.Destination select, .MoreInfo select {
+    width: 100%;
+}
+
+input[type="time"] {
+    width: 46%;
+}
+
+input[type="number"] {
+    width: 29%;
+}
