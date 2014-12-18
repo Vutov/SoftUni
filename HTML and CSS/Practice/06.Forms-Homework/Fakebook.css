@@ -1,0 +1,147 @@
+﻿body {
+    margin: 0;
+    width: 700px;
+    background: #3C5D9A;
+}
+
+header {
+    font-size: 6rem;
+    color: #fff;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 2%;
+    font-family: Arial;
+}
+
+    header span {
+        font-size: 1rem;
+        padding-left: 1%;
+    }
+
+h1 {
+    font-size: 3rem;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    margin: 0% 2% 1% 2%;
+}
+
+.Safe {
+    font-size: 1rem;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2%;
+    margin-left: 2%;
+}
+
+fieldset {
+    color: #fff;
+    font-size: 1rem;
+    height: 250px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 10px;
+    border: 1px solid #fff;
+}
+
+input, textarea, select {
+    border: 1px solid #fff;
+    border-radius: 2px;
+}
+
+.ToLeft, .ToRight {
+    margin-bottom: 4%;
+    width: 50%;
+}
+
+    .ToLeft input,
+    .ToRight input {
+        width: 94%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+
+.ToLeft {
+    float: right;
+}
+
+.ToRight {
+    float: right;
+}
+
+.NotImportantInfo {
+    float: left;
+    margin-left: 2%;
+    width: 30%;
+    font-size: 0.9rem;
+}
+
+    .NotImportantInfo input[type="date"] {
+        margin-top: 2%;
+        margin-bottom: 4%;
+        width: 75%;
+    }
+
+    .NotImportantInfo div label {
+        margin-left: 2.5%;
+    }
+
+.ImportantInfo {
+    float: right;
+    width: 55%;
+}
+
+    .ImportantInfo div {
+        margin-bottom: 2%;
+    }
+
+        .ImportantInfo div:first-of-type input {
+            width: 34%;
+            padding-top: 1%;
+            padding-bottom: 1%;
+        }
+
+        .ImportantInfo div:nth-of-type(2) input {
+            width: 19%;
+            padding-top: 1%;
+            padding-bottom: 1%;
+        }
+
+            .ImportantInfo div:nth-of-type(2) input:first-of-type {
+                width: 31%;
+            }
+
+        .ImportantInfo div:nth-of-type(3) input {
+            width: 24%;
+            padding-top: 1%;
+            padding-bottom: 1%;
+        }
+
+    .ImportantInfo textarea {
+        width: 95%;
+        height: 30%;
+    }
+
+input[type="reset"], input[type="submit"] {
+    border: none;
+    border-radius: 10px;
+    color: #3C5D9A;
+}
+
+input[type="reset"] {
+    margin-left: 2%;
+    float: left;
+    width: 33.5%;
+    font-size: 0.9rem;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+input[type="submit"] {
+    float: right;
+    width: 59%;
+    font-size: 1.2rem;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}

@@ -21,6 +21,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.WordPressTheme", "03.Wor
 		WordPressTheme.html = WordPressTheme.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Fakebook", "04.Fakebook", "{14A8756A-E881-4320-A820-DC4D928BDE00}"
+	ProjectSection(SolutionItems) = preProject
+		Fakebook.css = Fakebook.css
+		Fakebook.html = Fakebook.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
