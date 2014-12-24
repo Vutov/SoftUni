@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TravellerBob", "01.TravellerBob\01.TravellerBob.csproj", "{4CA5031B-26E5-4B8B-92A2-1132B9D649A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SpyHard", "02.SpyHard\02.SpyHard.csproj", "{1E3AAB9D-EABD-47B7-A944-5E0E9E11B2C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Headphones", "03.Headphones\03.Headphones.csproj", "{877429F3-A619-44F5-9FDC-B2DDEF1470C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SpiralMatrix", "04.SpiralMatrix\04.SpiralMatrix.csproj", "{D74A416B-0412-4103-AD42-C9D08064003C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PaintBall", "05.PaintBall\05.PaintBall.csproj", "{9E66B245-9C3A-4B77-BEA5-3C4175CBFBD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{4CA5031B-26E5-4B8B-92A2-1132B9D649A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CA5031B-26E5-4B8B-92A2-1132B9D649A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CA5031B-26E5-4B8B-92A2-1132B9D649A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3AAB9D-EABD-47B7-A944-5E0E9E11B2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3AAB9D-EABD-47B7-A944-5E0E9E11B2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3AAB9D-EABD-47B7-A944-5E0E9E11B2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3AAB9D-EABD-47B7-A944-5E0E9E11B2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877429F3-A619-44F5-9FDC-B2DDEF1470C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877429F3-A619-44F5-9FDC-B2DDEF1470C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877429F3-A619-44F5-9FDC-B2DDEF1470C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877429F3-A619-44F5-9FDC-B2DDEF1470C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74A416B-0412-4103-AD42-C9D08064003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74A416B-0412-4103-AD42-C9D08064003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74A416B-0412-4103-AD42-C9D08064003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74A416B-0412-4103-AD42-C9D08064003C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E66B245-9C3A-4B77-BEA5-3C4175CBFBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E66B245-9C3A-4B77-BEA5-3C4175CBFBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E66B245-9C3A-4B77-BEA5-3C4175CBFBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E66B245-9C3A-4B77-BEA5-3C4175CBFBD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
