@@ -1,0 +1,74 @@
+﻿@import "reset.css";
+
+body {
+    width: auto;
+    background: #234667;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+    a:visited {
+        color: #fff;
+    }
+
+header:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.Logo {
+    position: relative;
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+    .Logo img {
+        width: 100%;
+    }
+
+.UpperContent div, .UpperContent ul {
+    display: inline-block;
+}
+
+.Menu, .UpperContent {
+    position: relative;
+    float: right;
+    padding: 0.5%;
+    font-size: 1rem;
+}
+
+    .Menu li {
+        padding: 5px;
+    }
+
+    .Menu ul li, .User ul li {
+        float: left;
+        width: auto;
+        font-size: 1rem;
+        text-align: center;
+    }
+
+        .Menu ul li ul, .User ul li ul {
+            display: none;
+        }
+
+            /*Inner menu*/
+            .Menu ul li ul li, .User ul li ul li {
+                width: 100%;
+                text-align: left;
+            }
+
+        .Menu ul li:hover ul, .User ul li:hover ul {
+            display: block;
+            position: fixed;
+            width: 250px;
+        }
+
+        .User ul li ul li {
+            padding: 2%;
+        }
