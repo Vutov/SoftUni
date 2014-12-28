@@ -18,57 +18,75 @@ header:after {
     content: '';
     display: block;
     clear: both;
+    height: 0;
 }
 
 .Logo {
     position: relative;
     float: left;
-    width: 20%;
+    width: 25%;
+    padding-top: 1%;
     text-align: center;
 }
 
-    .Logo img {
-        width: 100%;
-    }
-
-.UpperContent div, .UpperContent ul {
-    display: inline-block;
-}
-
-.Menu, .UpperContent {
+.Content {
     position: relative;
     float: right;
-    padding: 0.5%;
+    width: 70%;
+    text-align: right;
+    padding: 1% 2% 1% 1%;
     font-size: 1rem;
+}
+
+    .Bell, .User, .Content div:nth-of-type(3) {
+        display: inline-block;
+        color: #fff;
+    }
+
+input[type="submit"] {
+    background: #fff;
+ }
+
+.Bell {
+    padding-right: 2%;
+}
+
+    .Bell:after {
+        content: ' ' url("bell.png");
+    }
+
+.Br {
+    width: 100%;
+    height: 0;
+}
+
+
+.Menu {
+    float: right;
 }
 
     .Menu li {
         padding: 5px;
-    }
-
-    .Menu ul li, .User ul li {
         float: left;
-        width: auto;
-        font-size: 1rem;
-        text-align: center;
     }
 
-        .Menu ul li ul, .User ul li ul {
-            display: none;
+
+
+    .Menu ul li ul, .User ul li ul {
+        display: none;
+    }
+
+        /*Inner menu*/
+        .Menu ul li ul li, .User ul li ul li {
+            width: 100%;
+            text-align: left;
         }
 
-            /*Inner menu*/
-            .Menu ul li ul li, .User ul li ul li {
-                width: 100%;
-                text-align: left;
-            }
+    .Menu ul li:hover ul, .User ul li:hover ul {
+        display: block;
+        position: fixed;
+    }
 
-        .Menu ul li:hover ul, .User ul li:hover ul {
-            display: block;
-            position: fixed;
-            width: 250px;
-        }
-
-        .User ul li ul li {
-            padding: 2%;
-        }
+.User ul li ul li {
+    padding: 2%;
+}
