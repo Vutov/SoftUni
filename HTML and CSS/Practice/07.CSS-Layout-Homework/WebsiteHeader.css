@@ -43,9 +43,20 @@ header:after {
         color: #fff;
     }
 
-input[type="submit"] {
+input[type="submit"], input[type="text"] {
     background: #fff;
+    border: none;
+    height: 100%;
+    border-bottom: 1px solid grey;
+    border-top: 1px solid grey;
+    border-right: 1px solid grey;
  }
+
+input[type="text"] {
+    border-left: 1px solid grey;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
 
 .Bell {
     padding-right: 2%;
