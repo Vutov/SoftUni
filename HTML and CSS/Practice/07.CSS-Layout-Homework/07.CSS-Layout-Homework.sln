@@ -9,6 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.WebsiteHeader", "01.Webs
 		WebsiteHeader.html = WebsiteHeader.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.WebsiteFooter", "02.WebsiteFooter", "{5787BB04-BC77-4613-AB95-FF2D65628914}"
+	ProjectSection(SolutionItems) = preProject
+		WebsiteFooter.css = WebsiteFooter.css
+		WebsiteFooter.html = WebsiteFooter.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
