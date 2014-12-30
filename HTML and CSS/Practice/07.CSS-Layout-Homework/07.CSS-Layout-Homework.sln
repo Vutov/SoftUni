@@ -15,6 +15,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.WebsiteFooter", "02.Webs
 		WebsiteFooter.html = WebsiteFooter.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.SoftUniNews", "03.SoftUniNews", "{727D7F93-6163-4D47-8BD9-19DD014DADDD}"
+	ProjectSection(SolutionItems) = preProject
+		SoftUniNews.css = SoftUniNews.css
+		SoftUniNews.html = SoftUniNews.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.PrettyWebsite", "04.PrettyWebsite", "{6FE104B0-4C5A-4EF6-86B8-11888D1A179B}"
+	ProjectSection(SolutionItems) = preProject
+		PrettyWebsite.css = PrettyWebsite.css
+		PrettyWebsite.html = PrettyWebsite.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
