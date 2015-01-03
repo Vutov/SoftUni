@@ -1,0 +1,22 @@
+﻿@import "reset.css";
+
+body {
+    background: #000;
+    width: auto;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Arial;
+    color: #ffd800;
+    margin-top: 20px;
+    text-align: center;
+}
+
+iframe {
+    width: 100%;
+    height: 300px;
+    margin-top: 20px;
+}
+

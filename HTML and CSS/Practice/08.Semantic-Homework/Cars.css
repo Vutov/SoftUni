@@ -1,0 +1,28 @@
+﻿@import "reset.css";
+
+body {
+    background: #000;
+    width: auto;
+}
+
+img {
+    float: left;
+    height: 200px;
+    width: 300px;
+    margin: 10px 3% 10px 3%;
+    border: 1px solid #ffd800;
+}
+
+a {
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+    a:visited {
+        color: #fff;
+    }
+
+ul li{
+    margin-top: 15px;
+}

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.RefactorWebpage", "01.RefactorWebpage", "{C3B61554-8CF2-4883-9093-DFF78BE9ED6B}"
+	ProjectSection(SolutionItems) = preProject
+		01-Refactor-Webpage.html = 01-Refactor-Webpage.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.KentsMediaProfile", "02.KentsMediaProfile", "{6B115C11-C68B-4D9F-B6D1-9EEB1F712CA4}"
+	ProjectSection(SolutionItems) = preProject
+		KentsMediaProfile.css = KentsMediaProfile.css
+		KentsMediaProfile.html = KentsMediaProfile.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.MagicCarGallery", "03.MagicCarGallery", "{ABFE951B-35B2-4ACC-AAF9-F37BBF4D358E}"
+	ProjectSection(SolutionItems) = preProject
+		Cars.css = Cars.css
+		Cars.html = Cars.html
+		ChangeImages.js = ChangeImages.js
+		MagicCarGallery.css = MagicCarGallery.css
+		MagicCarGallery.html = MagicCarGallery.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
