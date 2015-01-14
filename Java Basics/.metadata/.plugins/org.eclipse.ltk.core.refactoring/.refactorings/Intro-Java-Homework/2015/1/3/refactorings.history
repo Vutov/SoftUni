@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;sorted&apos; in &apos;P4_SortArray.main(...)&apos; to &apos;sort&apos;&#x0A;- Original project: &apos;Intro-Java-Homework&apos;&#x0A;- Original element: &apos;P4_SortArray.main(String[]).sorted&apos;&#x0A;- Renamed element: &apos;sorted&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;sorted&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{P4_SortArray.java[P4_SortArray~main~\[QString;@sorted!319!340!327!332!Z!0!false" name="sort" references="true" stamp="1421241334212" version="1.0"/>
+</session>

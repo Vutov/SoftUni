@@ -1,0 +1,10 @@
+
+public class P4_SortArray {
+
+	public static void main(String[] args) {
+		
+		String[] names = new String[5];
+
+	}
+
+}
