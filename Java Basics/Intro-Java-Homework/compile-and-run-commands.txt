@@ -1,0 +1,1 @@
+"ls" за да видя къде съм, после отивам с "cd директория/директория/Intro-Java-Homework/src" и пиша "javac P3_SumTwoNumbers.java" за да направи .class файл, който пускам с "java P3_SumTwoNumbers"
