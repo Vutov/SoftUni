@@ -8,7 +8,6 @@ public class P3_SumTwoNumbers {
 		Scanner input = new Scanner(System.in);
 		int firstNum = input.nextInt();
 		int secondNum = input.nextInt();
-		input.close();
 		
 		int sum = firstNum + secondNum;
 		System.out.println(sum);

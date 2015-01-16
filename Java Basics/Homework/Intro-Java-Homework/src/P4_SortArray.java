@@ -12,7 +12,6 @@ public class P4_SortArray {
 		for (int i = 0; i < len; i++) {
 			names[i] = input.next();
 		}
-		input.close();
 		
 		//Bubble sort;
 		boolean sort = true;
