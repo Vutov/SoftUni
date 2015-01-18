@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+
+public class P2_Tribonacii {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		long firstNumber = input.nextLong();
+		long secondNumber = input.nextLong();
+		long threeNumber = input.nextLong();
+		int neededNum = input.nextInt();
+		long nextNum = 0;
+		
+		for (int i = 3; i <= neededNum; i++) {
+			nextNum = firstNumber + secondNumber + threeNumber;
+			firstNumber = secondNumber;
+			secondNumber = threeNumber;
+			threeNumber = nextNum;
+		}
+		
+		System.out.println(nextNum);
+	}
+
+}

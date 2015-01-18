@@ -1,0 +1,19 @@
+
+public class P4_MagicCarNumbers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		for (int d1 = 0; d1 < 10; d1++) {
+			for (int d2 = 0; d2 < 10; d2++) {
+				for (int d3 = 0; d3 < 10; d3++) {
+					for (int d4 = 0; d4 < 10; d4++) {
+						
+					
+					}
+				}
+			}
+		}
+	}
+
+}

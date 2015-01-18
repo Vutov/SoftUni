@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+
+public class P2_Tribonacii {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int firstNumber = input.nextInt();
+		int secondNumber = input.nextInt();
+		int threeNumber = input.nextInt();
+	}
+
+}

@@ -1,0 +1,22 @@
+import java.math.BigInteger;
+import java.util.Scanner;
+
+
+public class P5_BitFlipper {
+
+	public static void main(String[] args) {
+		BigInteger number = BigInteger.valueOf(594226797558350599L);
+		Scanner input = new Scanner(System.in);
+//		BigInteger number = input.nextBigInteger();
+		
+		for (int bit = 63; bit >= 2 ; bit--) {
+			if(number.testBit(bit) && number.testBit(bit -1) && number.testBit(bit - 2){
+				
+			}
+		}
+//		System.out.println(Long.toBinaryString(number));
+//		System.out.println("1110111100000000111000111100000001111111000010000111101111100000");
+
+	}
+
+}

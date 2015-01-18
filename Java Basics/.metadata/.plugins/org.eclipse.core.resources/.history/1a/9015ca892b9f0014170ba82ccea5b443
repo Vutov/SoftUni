@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+
+public class P3_Draw {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int height = input.nextInt();
+		System.out.println(new string('*', width));
+	}
+
+}

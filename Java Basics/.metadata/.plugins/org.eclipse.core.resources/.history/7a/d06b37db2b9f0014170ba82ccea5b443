@@ -1,0 +1,14 @@
+import java.util.Scanner;
+import java.lang.Object;
+
+
+public class P3_Draw {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int height = input.nextInt();
+		String frame = new String();
+		System.out.println();
+	}
+
+}
