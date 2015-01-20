@@ -1,0 +1,8 @@
+
+public class P2_PythagoreanNumbers {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+
+	}
+}
