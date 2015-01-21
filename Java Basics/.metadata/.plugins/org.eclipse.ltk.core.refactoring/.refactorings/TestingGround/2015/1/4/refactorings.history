@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;P1_RectangleArea.java&apos; to &apos;Java-Syntax-Homework/src&apos;&#x0A;- Original project: &apos;TestingGround&apos;&#x0A;- Destination element: &apos;Java-Syntax-Homework/src&apos;&#x0A;- Original element: &apos;P1_RectangleArea.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Java-Syntax-Homework/src" element1="/src&lt;{P1_RectangleArea.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1421864509993" units="1" version="1.0"/>
+</session>

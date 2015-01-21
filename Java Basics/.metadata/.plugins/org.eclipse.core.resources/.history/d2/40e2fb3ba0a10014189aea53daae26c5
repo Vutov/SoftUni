@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+
+public class P6_FormattingNumbers {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		int a = input.nextInt();
+	}
+
+}

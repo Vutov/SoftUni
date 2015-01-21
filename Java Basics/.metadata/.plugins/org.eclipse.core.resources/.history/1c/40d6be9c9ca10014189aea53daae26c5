@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+
+public class P3_PointsInsideFigure {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		//double x = input.nextDouble();
+		//double y = input.nextDouble();
+		double x = 10d;
+		double y = 9.7d;
+
+	}
+	
+	private boolean isInsideTop(double x, double y) {
+		boolean isInside = false;
+		
+		return isInside;
+		
+	}
+
+}

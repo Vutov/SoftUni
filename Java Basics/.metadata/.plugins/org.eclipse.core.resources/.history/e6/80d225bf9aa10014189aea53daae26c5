@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+
+public class P2_TriangleArea {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		double aX = input.nextDouble();
+		double aY = input.nextDouble();
+		double bX = input.nextDouble();
+		double bY = input.nextDouble();
+		double cX = input.nextDouble();
+		double aY = input.nextDouble();
+
+	}
+
+}
