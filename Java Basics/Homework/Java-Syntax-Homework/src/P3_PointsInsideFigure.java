@@ -7,16 +7,13 @@ public class P3_PointsInsideFigure {
 		Scanner input = new Scanner(System.in);
 		double x = input.nextDouble();
 		double y = input.nextDouble();
-		//double x = 10d;
-		//double y = 9.7d;
+
 		if (isInside(x, y)) {
 			System.out.println("Inside");
 		}
 		else {
 			System.out.println("Outside");
 		}
-		
-
 	}
 	
 	private static boolean isInside(double x, double y) {

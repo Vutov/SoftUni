@@ -30,9 +30,5 @@ public class P4_CouplesFrequency {
 		    System.out.printf("%s -> %.2f%%\n", key, frequency);
 		}
 		
-		for (Map.Entry<String, Integer> daf : couples.entrySet()) {
-			//System.out.println(daf);
-		}
-		
 	}
 }

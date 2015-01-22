@@ -6,9 +6,6 @@ public class P6_FormattingNumbers {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		
-		/*int a = input.nextInt();
-		double b = input.nextDouble();
-		double c = input.nextDouble();*/
 		int a = 254;
 		double b = 3.5d;
 		double c = 1.5d;

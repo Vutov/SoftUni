@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+
+public class P9_PointInsideHouse {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		//double x = input.nextDouble();
+		//double y = input.nextDouble();
+		double x = 17.5d;
+		double y = 6d;
+		
+		double aX = 12.5d, aY = 8.5d;
+		double bX = 17.5, bY = 3.5d;
+		double cX = 22.5, cY = 8.5d;
+		
+		if (((bX - aX) * (y - aY) - (bY - aY) * (x - aX)) < 0) {
+			System.out.println("Outside");
+		}
+	}
+
+}
+/*
+
+Use the sign of the determinant of vectors (AB,AM), where M(X,Y) is the query point:
+
+position = sign( (Bx-Ax)*(Y-Ay) - (By-Ay)*(X-Ax) )
+
+It is 0 on the line, and +1 on one side, -1 on the other side.
+*/
