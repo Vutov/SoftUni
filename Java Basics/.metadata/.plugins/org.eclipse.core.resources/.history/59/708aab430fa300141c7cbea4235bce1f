@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+
+public class P4_StraightFlush {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String data = input.nextLine();
+		String[] cards = data.split("[,\\s]");
+
+	}
+
+}
+/*
+Split to cards;
+sort cards in 4 lists;
+for-loop to find flushes*/

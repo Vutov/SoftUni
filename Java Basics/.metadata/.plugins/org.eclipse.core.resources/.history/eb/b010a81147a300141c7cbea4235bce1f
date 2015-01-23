@@ -1,0 +1,34 @@
+
+import java.util.Scanner;
+
+public class BitRotation {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        byte number = Byte.parseByte(input.nextLine());
+        byte rotations = Byte.parseByte(input.nextLine());
+        System.out.println(Integer.toBinaryString(number));
+        for (int i = 0; i < rotations; i++) {
+            String direction = input.nextLine();
+
+            if (direction.compareTo("right") == 0) {
+                int rightMostBit = number & 1;
+                number >>= 1;
+                number |= rightMostBit << 6;
+            } else if (direction.compareTo("left") == 0) {
+                int leftMostBit = (number >> 6) & 1;
+                number <<= 1; //number = number << 1
+                System.out.println(Integer.toBinaryString(number));
+                number |= leftMostBit;
+                System.out.println(Integer.toBinaryString(number));
+                int left = number >> 7;
+                if (int) {
+					
+				}
+            }
+        }
+
+        System.out.println(number);
+    }
+}

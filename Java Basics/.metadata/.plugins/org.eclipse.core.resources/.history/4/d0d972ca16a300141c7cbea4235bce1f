@@ -1,0 +1,10 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		double ts = 3.445d;
+		System.out.printf("%.2f", ts);
+
+	}
+
+}

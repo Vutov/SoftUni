@@ -1,0 +1,13 @@
+
+public class P4_StraightFlush {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+/*
+Split to cards;
+sort cards in 4 lists;
+for-loop to find flushes*/

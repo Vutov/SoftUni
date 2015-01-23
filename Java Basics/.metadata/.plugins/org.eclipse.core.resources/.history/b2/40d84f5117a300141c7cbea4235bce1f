@@ -1,0 +1,58 @@
+import java.util.Arrays;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+
+public class Test {
+
+		public static void main(String[] args) {
+			Scanner input = new Scanner(System.in);
+			String nonRelevent = new String();
+			for (int i = 0; i < 3; i++) {
+				nonRelevent = input.nextLine();
+			}
+			String data = input.nextLine();
+			TreeMap<Integer,String> score = new TreeMap<Integer,String>();
+			TreeMap<String, Double> names = new TreeMap<String, Double>();
+			while (data.compareTo(nonRelevent) != 0) {
+				String[] details = data.split("[\\s|]+");
+				/*for (int i = 0; i < details.length; i++) {
+					System.out.println("." + details[i] + ".");
+				}*/
+				int keyScore = Integer.parseInt(details[3]);
+				if (score.containsKey(keyScore)) {
+					double sum = names.get(score.get(keyScore));
+					sum += Double.parseDouble(details[4]);
+					String newNames = score.get(keyScore);
+					newNames += "," + details[1] + " " + details[2];
+					score.put(keyScore, newNames);
+					names.put(newNames, sum);
+				}
+				else {
+					names.put((details[1] + " " + details[2]), Double.parseDouble(details[4]));
+					score.put(keyScore, (details[1] + " " + details[2]));
+				}
+				
+				data = input.nextLine();
+			}
+			for ( Map.Entry<Integer, String> entry : score.entrySet() ) {
+				System.out.printf("%d -> [",entry.getKey());
+				String[] sortedNames = (entry.getValue()).split(",");
+				Arrays.sort(sortedNames);
+				for (int i = 0; i < sortedNames.length; i++) {
+					String name = sortedNames[i];
+					if (i != sortedNames.length - 1) {
+						System.out.printf("%s, ", name);
+					}
+					else {
+						System.out.printf("%s]; ", name);
+					}
+				}
+				double averageScore = names.get(entry.getValue()) / sortedNames.length;
+				System.out.printf("avg=%.2f\n", averageScore);
+			}
+
+	}
+
+}

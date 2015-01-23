@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+
+public class P2_Durts {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String data = input.nextLine();
+		String[] coordinates = data.split(" ");
+		String radius = input.nextLine();
+		String numPoints = input.nextLine();
+		data = input.nextLine();
+		String[] pointsCoordinates = data.split("[\\s]+");
+		System.out.println(pointsCoordinates.length);
+		for (int i = 0; i < Integer.parseInt(numPoints) - 2; i+=2) {
+			//int pointX = Integer.parseInt(pointsCoordinates[i]);
+			//int pointY = Integer.parseInt(pointsCoordinates[i + 1]);
+			System.out.println(pointsCoordinates[i]);
+			System.out.println(pointsCoordinates[i + 1]);
+		}
+
+	}
+
+}
