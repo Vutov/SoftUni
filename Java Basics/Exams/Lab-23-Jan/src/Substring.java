@@ -12,16 +12,16 @@ public class Substring {
         boolean hasMatch = false;
         int endIndex = 1;
         for (int i = 0; i < text.length(); i++) {
-        	//
+        	//Fixed comparison
             if (text.charAt(i) == 'p') {
                 hasMatch = true;
-                //
-                endIndex = i + jump+1;
+                //Fixed the endIndex
+                endIndex = i + jump + 1;
 
                 if (endIndex > text.length()	) {
                     endIndex = text.length();
                 }
-                //
+                
                 String matchedString = text.substring(i, endIndex);
                 System.out.println(matchedString);
                 i += jump;
