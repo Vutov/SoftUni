@@ -6,7 +6,7 @@ public class BePositive {
 		@SuppressWarnings("resource")
 		Scanner scn = new Scanner(System.in);
 
-		//
+		//Fixed the scanner to read line, not next int;
 		String data = scn.nextLine();
 		int countSequences = Integer.parseInt(data);
 
@@ -24,21 +24,21 @@ public class BePositive {
 			boolean found = false;
 			for (int j = 0; j < numbers.size(); j++) {
 				int currentNum = numbers.get(j);
-				// =
+				// Added =
 				if (currentNum >= 0) {
-					// !
+					// Changed the condition to !=
 					System.out.printf("%d%s", currentNum,
 							j != numbers.size() - 1 ? " " : "\n");
 					found = true;
 				} else {
-					//outofbounce
+					//Added - 1 to fix exception - out of bounds
 					if (j < numbers.size() - 1) {
 
 						currentNum += numbers.get(j + 1);
 						j++;
-						// =
+						// Added =
 						if (currentNum >= 0) {
-							// !
+							// Changed the condition to !=
 							System.out.printf("%d%s", currentNum,
 									j != numbers.size() - 1 ? " " : "\n");
 							found = true;
