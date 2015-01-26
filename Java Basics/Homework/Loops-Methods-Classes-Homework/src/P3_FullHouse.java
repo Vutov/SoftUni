@@ -4,6 +4,7 @@ public class P3_FullHouse {
 		String[] faces = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J",
 				"Q", "K", "A" };
 		char[] suits = { '\u2660', '\u2665', '\u2666', '\u2663' };
+		int count = 0;
 		for (int card1 = 0; card1 < faces.length; card1++) {
 			for (int card2 = 0; card2 < faces.length; card2++) {
 				for (int suit1 = 0; suit1 < suits.length; suit1++) {
@@ -20,6 +21,7 @@ public class P3_FullHouse {
 														suits[suit3],
 														suits[suit4],
 														suits[suit5]);
+										count++;
 									}
 								}
 							}
@@ -28,5 +30,6 @@ public class P3_FullHouse {
 				}
 			}
 		}
+		System.out.printf("Total combinations: %d", count);
 	}
 }
