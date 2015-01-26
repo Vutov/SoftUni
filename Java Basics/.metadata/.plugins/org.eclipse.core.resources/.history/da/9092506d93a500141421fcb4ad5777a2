@@ -1,0 +1,27 @@
+public class P3_FullHouse {
+
+	public static void main(String[] args) {
+		String[] faces = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J",
+				"Q", "K", "A" };
+		String[] suits = { "/U+2664", "/U+2661", "/U+2662", "/U+2667" };
+		for (int card1 = 0; card1 < faces.length; card1++) {
+			for (int card2 = card1 + 1; card2 < faces.length; card2++) {
+				for (int suit1 = 0; suit1 < suits.length; suit1++) {
+					for (int suit2 = 0; suit2 < suits.length; suit2++) {
+						for (int suit3 = 0; suit3 < suits.length; suit3++) {
+							for (int suit4 = 0; suit4 < suits.length; suit4++) {
+								for (int suit5 = 0; suit5 < suits.length; suit5++) {
+									System.out
+											.printf("%1$s%3$s %1$s%4$s %1$s%5$s %2$s%6$s %2$s%7$s\n",
+													faces[card1], faces[card2],
+													suits[suit1], suits[suit2],
+													suits[suit3], suits[suit4], suits[suit5]);
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

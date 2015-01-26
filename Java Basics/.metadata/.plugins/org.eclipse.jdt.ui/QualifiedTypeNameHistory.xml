@@ -14,5 +14,6 @@
 <fullyQualifiedTypeName name="com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Collections"/>
 <fullyQualifiedTypeName name="java.util.TreeMap"/>
 <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
