@@ -15,20 +15,28 @@ public class P3_LongestOddEvenSequence {
 		int maxOddEven = 1;
 		for (int i = 0; i < numbers.size(); i++) {
 			int currentMax = 1;
-			for (int j = i; j < numbers.size() - 1; j++) {
-				if (numbers.get(j) % 2 == 0
-						&& (numbers.get(j + 1) % 2 == 1 || numbers.get(j + 1) == 0)) {
-					currentMax++;
-				} else if ((numbers.get(j) % 2 == 1 || numbers.get(j) == 0)
-						&& numbers.get(j + 1) % 2 == 0) {
-					currentMax++;
-				} else {
-					break;
+			boolean prevIsEven = numbers.get(i) % 2 == 0;
+			for (int j = i + 1; j < numbers.size(); j++) {
+				boolean currentIsEven = numbers.get(j) % 2 == 0;
+				//If 0 has to be odd;
+				if (numbers.get(j) == 0) {
+					if (prevIsEven) {
+						currentIsEven = false;
+					}
 				}
+				//Check odd-even-odd or even-odd-even;
+				if ((prevIsEven && !currentIsEven) || (!prevIsEven && currentIsEven)) {
+					currentMax++;
+					if (currentMax > maxOddEven) {
+						maxOddEven = currentMax;
+					}
+				}
+				else {
+					currentMax = 1;
+				}
+				prevIsEven = currentIsEven;
 			}
-			if (currentMax > maxOddEven) {
-				maxOddEven = currentMax;
-			}
+
 		}
 		System.out.println(maxOddEven);
 	}

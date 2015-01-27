@@ -14,14 +14,14 @@ public class P2_ThreeLargestNumbers {
 		}
 		Collections.sort(numbers);
 		if (len == 1) {
-			System.out.println(numbers.get(0));
+			System.out.println(numbers.get(0).toPlainString());
 		} else if (len == 2) {
 			for (int i = 0; i < 2; i++) {
-				System.out.println(numbers.get(len - 1 - i));
+				System.out.println(numbers.get(len - 1 - i).toPlainString());
 			}
 		} else {
 			for (int i = 0; i < 3; i++) {
-				System.out.println(numbers.get(len - 1 - i));
+				System.out.println(numbers.get(len - 1 - i).toPlainString());
 			}
 		}
 	}
