@@ -45,9 +45,7 @@ public class P8_ListOfProducts {
 			System.out.println("Unsupported encoding");
 			e.printStackTrace();
 		}
-		System.out.println("Done!");
-		
-		
+		System.out.println("Done! Check the folder for Output.txt");
 	}
 
 }
