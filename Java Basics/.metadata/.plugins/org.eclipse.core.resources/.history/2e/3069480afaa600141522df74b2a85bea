@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+
+public class Game {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String choice = input.nextLine();
+		switch (choice) {
+		case "1":
+			LevelSoftUni.Execute();
+			break;
+
+		default:
+			//check input
+			break;
+		}
+	}
+
+}

@@ -1,0 +1,6 @@
+
+public class Boss {
+	private String name;
+	private int healthPoints;
+	private int basicAttack'
+}

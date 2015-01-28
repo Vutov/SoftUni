@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+
+public class P3_LargestSequence {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String[] data = input.nextLine().split("\\s+");
+		
+
+	}
+
+}

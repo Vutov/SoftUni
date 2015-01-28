@@ -1,0 +1,15 @@
+
+public class Boss {
+	private String name;
+	private int healthPoints;
+	private int basicAttack;
+	private int specialAttack;
+	
+	//Constructor
+	public Boss(String name, int HP, int basicAttack, int specialAttack){
+		this.name = name;
+		this.healthPoints = HP;
+		this.basicAttack = basicAttack;
+		this.specialAttack = specialAttack;
+	}
+}

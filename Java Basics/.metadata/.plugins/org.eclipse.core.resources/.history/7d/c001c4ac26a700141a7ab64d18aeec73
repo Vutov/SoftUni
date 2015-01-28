@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+
+public class P6_CountSpecifiedWord {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String[] data = input.nextLine().split("\\s+");
+		String searchWord = input.nextLine();
+		int counter = 1;
+		for (String word : data) {
+			
+		}
+	}
+
+}

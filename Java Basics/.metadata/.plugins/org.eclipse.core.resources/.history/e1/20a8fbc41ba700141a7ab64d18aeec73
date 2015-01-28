@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+
+public class P1_SortArrayOfNumbers {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int len = Integer.parseInt(input.nextLine());
+		int[] numbers = new int[len];
+
+	}
+
+}

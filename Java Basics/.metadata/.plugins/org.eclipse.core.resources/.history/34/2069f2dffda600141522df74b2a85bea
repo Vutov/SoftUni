@@ -1,0 +1,6 @@
+
+public class CommonEnemy {
+	private String name;
+	private String healthPoints;
+	private int basicAttack;
+}
