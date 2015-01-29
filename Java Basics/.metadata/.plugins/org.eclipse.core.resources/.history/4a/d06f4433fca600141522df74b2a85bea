@@ -1,9 +1,0 @@
-
-public class LevelSoftUni {
-	public static void Execute(){
-		Scanner input = new Scanner(System.in);
-		System.out.println("test1");
-		System.out.println("Name???");
-		String input
-	}
-}

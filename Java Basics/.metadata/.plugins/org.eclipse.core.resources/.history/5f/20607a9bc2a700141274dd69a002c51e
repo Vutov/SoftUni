@@ -1,0 +1,16 @@
+import java.util.HashSet;
+import java.util.Scanner;
+
+
+public class P10_ExtractAllUniqueWords {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String[] data = input.nextLine().split("\\w");
+		HashSet<String> words = new HashSet<>();
+		for (String word : words) {
+			words.add(word);
+		}
+	}
+
+}

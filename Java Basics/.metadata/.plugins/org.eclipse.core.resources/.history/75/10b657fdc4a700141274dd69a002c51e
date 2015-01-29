@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+
+public class P11_MostFrequentWord {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+
+	}
+
+}
