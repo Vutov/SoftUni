@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+
+public class P3_FireArrows {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int lines = Integer.parseInt(input.nextLine());
+		char matrix[][] = new char[4][4];
+		for (int i = 0; i < lines; i++) {
+			String data = input.nextLine();
+			for (int ch = 0; ch < lines; ch++) {
+				matrix[lines][ch] = data.charAt(ch);
+			}
+		}
+		
+		//Print
+		for (int row = 0; row < matrix.length; row++) {
+			for (int col = 0; col < matrix.length; col++) {
+				System.out.print(matrix[row][col]);
+			}
+			System.out.println();
+		}
+	}
+
+}

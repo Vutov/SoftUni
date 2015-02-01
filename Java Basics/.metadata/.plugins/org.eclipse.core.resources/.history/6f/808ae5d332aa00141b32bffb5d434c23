@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+
+public class P3_FireArrows {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int lines = Integer.parseInt(input.nextLine());
+	}
+
+}

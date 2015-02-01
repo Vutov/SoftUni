@@ -1,0 +1,18 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+
+public class P4_SchoolSystem {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int lines = Integer.parseInt(input.nextLine());
+		TreeMap<String, ArrayList> names = new TreeMap<>();
+		for (int i = 0; i < lines; i++) {
+			
+		}
+
+	}
+
+}

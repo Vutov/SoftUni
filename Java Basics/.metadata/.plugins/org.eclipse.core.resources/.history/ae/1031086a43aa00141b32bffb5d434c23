@@ -1,0 +1,22 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+public class P1_Pyramid {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int lines = Integer.parseInt(input.nextLine());
+		int closest = Integer.parseInt(input.nextLine().trim());
+		ArrayList<Integer> numbers = new ArrayList<>();
+		numbers.add(closest);
+		for (int i = 1; i < lines; i++) {
+			String[] data = input.nextLine().split("\\s+");
+			for (String number : data) {
+				int num = Integer.parseInt(number);
+			}
+		}
+
+	}
+
+}

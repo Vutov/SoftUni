@@ -1,0 +1,49 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class P2_TerroristWin {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String text = input.nextLine();
+
+		Pattern bombPattern = Pattern.compile("\\|(.*?)\\|");
+		Matcher matcher = bombPattern.matcher(text);
+		ArrayList<String> bombs = new ArrayList<>();
+		while (matcher.find()) {
+			String bomb = matcher.group();
+			bomb = bomb.replaceAll("\\|", "");
+			bombs.add(bomb);
+		}
+		for (String bomb : bombs) {
+			int bombStrenght = 0;
+			for (int i = 0; i < bomb.length(); i++) {
+				bombStrenght += bomb.charAt(i);
+			}
+			String bombStr = "" + bombStrenght;
+			int len = bombStr.length();
+			String lastDigit = "" + bombStr.charAt(len - 1);
+			bombStrenght = Integer.parseInt(lastDigit);
+			int firstSlash = text.indexOf("|");
+			int secondSlash = text.indexOf("|", firstSlash + 1);
+			secondSlash += bombStrenght + 1;
+			firstSlash -= bombStrenght;
+			if (firstSlash < 0) {
+				firstSlash = 0;
+			}
+			if (secondSlash > text.length()) {
+				secondSlash = text.length();
+			}
+			int dots = bomb.length() + 2 * bombStrenght + 2; //+2 for |'s
+			String doted = "";
+			for (int i = 0; i < dots; i++) {
+				doted = doted + ".";
+			}
+			//String dots = ".";
+			text = text.substring(0,firstSlash)+ doted +text.substring(secondSlash);
+			System.out.println(text);
+		}
+	}
+}

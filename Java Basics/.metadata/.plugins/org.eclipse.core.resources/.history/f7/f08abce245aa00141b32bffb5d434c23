@@ -1,0 +1,35 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
+
+
+public class P1_Pyramid {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int lines = Integer.parseInt(input.nextLine());
+		int closest = Integer.parseInt(input.nextLine().trim());
+		ArrayList<Integer> numbers = new ArrayList<>();
+		numbers.add(closest);
+		for (int i = 1; i < lines; i++) {
+			String[] data = input.nextLine().trim().split("\\s+");
+			ArrayList<Integer> allowedNumbers = new ArrayList<>();
+			for (String number : data) {
+				int num = Integer.parseInt(number);
+				if (num > closest) {
+					allowedNumbers.add(num);
+				}
+			}
+			if (allowedNumbers.size() != 0) {
+				Collections.sort(allowedNumbers);
+				closest = allowedNumbers.get(0);
+				numbers.add(closest);
+			}
+		}
+		int len = numbers.size();
+		for (int i = 0; i < len; i++) {
+			System.out.print(numbers.get(i));
+		}
+	}
+
+}

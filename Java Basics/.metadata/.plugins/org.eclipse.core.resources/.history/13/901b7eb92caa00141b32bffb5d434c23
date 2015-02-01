@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+
+public class P4_SchoolSystem {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int lins = Integer.parseInt(input.nextLine());
+
+	}
+
+}

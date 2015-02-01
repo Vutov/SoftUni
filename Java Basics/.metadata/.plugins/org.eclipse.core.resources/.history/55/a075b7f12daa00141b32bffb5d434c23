@@ -1,0 +1,42 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+
+public class P4_SchoolSystem {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int lines = Integer.parseInt(input.nextLine());
+		TreeMap<String, TreeMap<String, ArrayList<Integer>>> names = new TreeMap<>();
+		for (int i = 0; i < lines; i++) {
+			String[] data = input.nextLine().split("\\s+");
+			String name = data[0] + data[1];
+			if (names.containsKey(name)) {
+				
+			}
+			else {
+				TreeMap<String, ArrayList<Integer>> subjects = new TreeMap<>();
+				String subject = data[2];
+				ArrayList<Integer> grades = new ArrayList<>();
+				if (subjects.containsKey(subject)) {
+					
+				}
+				else {
+					grades.add(Integer.parseInt(data[3]));
+					subjects.put(subject, grades);
+				}
+				names.put(name, value)
+			}
+			
+			
+			
+			
+			
+			
+			
+		}
+
+	}
+
+}

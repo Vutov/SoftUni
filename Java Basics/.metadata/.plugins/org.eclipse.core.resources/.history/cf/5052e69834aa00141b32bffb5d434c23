@@ -1,0 +1,42 @@
+import java.util.Scanner;
+
+public class P3_FireArrows {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int lines = Integer.parseInt(input.nextLine());
+		char matrix[][] = new char[4][4];
+		// Fill matrix;
+		for (int i = 0; i < lines; i++) {
+			String data = input.nextLine();
+			for (int ch = 0; ch < 4; ch++) {
+				matrix[i][ch] = data.charAt(ch);
+			}
+		}
+		for (int i = 0; i < lines; i++) {
+			for (int row = 0; row < matrix.length; row++) {
+				for (int col = 0; col < matrix.length; col++) {
+					char currentChar = matrix[row][col];
+					if (currentChar == '<' && row >= 1) {
+						matrix[row - 1][col] = '<';
+						matrix[row][col] = 'o';
+					} else if (currentChar == '>' && row <= 3) {
+
+					} else if (currentChar == 'v') {
+
+					} else if (currentChar == '^') {
+
+					}
+				}
+			}
+		}
+		// Print
+		for (int row = 0; row < matrix.length; row++) {
+			for (int col = 0; col < matrix.length; col++) {
+				System.out.print(matrix[row][col]);
+			}
+			System.out.println();
+		}
+	}
+
+}
