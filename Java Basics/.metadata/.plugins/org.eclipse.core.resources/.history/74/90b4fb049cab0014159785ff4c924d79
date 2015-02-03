@@ -1,0 +1,10 @@
+import javax.sound.sampled.AudioSystem;
+
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		AudioSystem.getAudioFileTypes(mp3);
+	}
+}

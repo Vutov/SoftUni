@@ -4,7 +4,7 @@
 	<item value="3" key="TypeHierarchyViewPart.orientation"/>
 	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
 	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
-	<item value="/home/spas/SoftUni/Java Basics/Exams/Exam-07-Jan" key="org.eclipse.jdt.ui.last.external.project"/>
+	<item value="/home/spas/SoftUni/Java Basics/Exams/Exam-07-Jan/src" key="org.eclipse.jdt.ui.last.external.project"/>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 		<item value="false" key="updateSimilarElements"/>
 		<item value="1" key="updateSimilarElementsMatchStrategy"/>
@@ -33,7 +33,7 @@
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
 		<item value="627" key="DIALOG_WIDTH"/>
 		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
-		<item value="724" key="DIALOG_HEIGHT"/>
+		<item value="736" key="DIALOG_HEIGHT"/>
 		<item value="327" key="DIALOG_X_ORIGIN"/>
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
 	</section>
