@@ -4,7 +4,7 @@
 	<item value="3" key="TypeHierarchyViewPart.orientation"/>
 	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
 	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
-	<item value="/home/spas/SoftUni/Java Basics/Exams/Exam-07-Jan/src" key="org.eclipse.jdt.ui.last.external.project"/>
+	<item value="/home/spas/SoftUni/Java Basics/Exams/Exam-08-Feb" key="org.eclipse.jdt.ui.last.external.project"/>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 		<item value="false" key="updateSimilarElements"/>
 		<item value="1" key="updateSimilarElementsMatchStrategy"/>
@@ -90,6 +90,8 @@
 		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
 		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="/home/spas/USH.jar"/>
+			<item value="/home/spas/Gm.jar"/>
 			<item value="Intro-Java-Homework/Intro-Java-Homework.jar"/>
 		</list>
 	</section>

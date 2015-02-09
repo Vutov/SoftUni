@@ -1,0 +1,61 @@
+import java.util.Scanner;
+
+public class P3_ {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int len = Integer.parseInt(input.nextLine());
+		// First
+		String[] data = input.nextLine().trim().split("\\s+");
+		int size = data.length;
+		String matrixOne[][] = new String[len][size];
+		for (int j = 0; j < size; j++) {
+			matrixOne[0][j] = data[j];
+		}
+		for (int i = 1; i < len; i++) {
+			data = input.nextLine().split("\\s+");
+			for (int j = 0; j < size; j++) {
+				if (j < data.length) {
+					matrixOne[i][j] = data[j];
+				} else {
+					matrixOne[i][j] = "e";
+				}
+
+			}
+		}
+		// second
+		String[] dataTwo = input.nextLine().trim().split("\\s+");
+		int sizeTwo = dataTwo.length;
+		String matrixTwo[][] = new String[len][size];
+		for (int j = 0; j < sizeTwo; j++) {
+			matrixTwo[0][j] = dataTwo[j];
+		}
+		for (int i = 1; i < len; i++) {
+			dataTwo = input.nextLine().split("\\s+");
+			for (int j = 0; j < sizeTwo; j++) {
+				if (j < dataTwo.length) {
+					matrixTwo[i][j] = dataTwo[j];
+				} else {
+					matrixTwo[i][j] = "e";
+				}
+
+			}
+		}
+		// Print
+		for (int row = 0; row < len; row++) {
+			for (int col = 0; col < size; col++) {
+				System.out.print(matrixOne[row][col] + " ");
+			}
+			System.out.println();
+		}
+		// Print
+		for (int row = 0; row < len; row++) {
+			for (int col = 0; col < sizeTwo; col++) {
+				System.out.print(matrixTwo[row][col] + " ");
+			}
+			System.out.println();
+		}
+
+	}
+
+}

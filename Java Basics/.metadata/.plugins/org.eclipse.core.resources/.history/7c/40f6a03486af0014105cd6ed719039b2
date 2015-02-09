@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+
+public class P3_ {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int len = Integer.parseInt(input.nextLine());
+		//First
+		String[] data = input.nextLine().trim().split("\\s+");
+		int size = data.length + 1;
+		String matrixOne[][] = new String[len][size];
+		for (int i = 0; i < len - 1; i++) {
+			for (int j = 0; j < matrixOne.length; j++) {
+				matrixOne[i][j] = data[j];
+			}
+			data = input.nextLine().split("\\s+");
+		}
+		//Print
+		System.out.println(len);
+		System.out.println(size);
+		for (int row = 0; row < len; row++) {
+			for (int col = 0; col < size; col++) {
+				System.out.println(matrixOne[row][col]);
+			}
+		}
+		
+
+	}
+
+}

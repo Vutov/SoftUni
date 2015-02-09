@@ -1,0 +1,41 @@
+import java.util.Scanner;
+
+public class P2_ {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String[] words = input.nextLine().trim().split("\\s+");
+		double sum = 0; // bigDeouble if needed;
+		int counter = 1;
+		for (int w = 0; w < words.length; w++) {
+			if (!words[w].equals("")) {
+				String[] letters = words[w].split("\\d+");
+				String[] digit = words[w].split("\\D");
+				double number = Double.parseDouble(digit[1]);
+				double currentSum = number;
+				for (int i = 0; i < letters.length; i++) {
+					char character = letters[i].charAt(0);
+					if (i == 0) { //first letter
+						if (character >= 'a' && character <= 'z') {
+							currentSum *= (character - 'a' + 1);
+						}
+						else { //upper;
+							currentSum /= (character - 'a' + 1);
+						}
+					}
+					else { //second letter
+						
+					}
+					
+					
+					
+				}
+				sum += currentSum;
+				currentSum = number;
+				counter++;
+			}
+		}
+		System.out.printf("%.2f", sum);
+	}
+}
+// decimal, ""

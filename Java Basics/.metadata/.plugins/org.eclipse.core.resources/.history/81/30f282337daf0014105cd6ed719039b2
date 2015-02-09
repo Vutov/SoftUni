@@ -1,0 +1,61 @@
+import java.util.Scanner;
+
+public class P2_ {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String[] words = input.nextLine().trim().split("\\s+");
+		double sum = 0; //bigDeouble if needed;
+		for (int i = 0; i < words.length; i++) {
+			if (!words[i].equals("")) {
+				String[] letters = words[i].split("\\d+");
+				String[] digit = words[i].split("\\D");
+				double number = Double.parseDouble(digit[1]);
+				for (String letter : letters) {
+					char character = letter.charAt(0);
+					if (character >= 'a' && character <= 'z') {
+						if (i == 0 || i == 4 || i == 8) {
+							sum += number / (character - 'a' + 1);
+							System.out.println(sum);
+						}
+						if (i == 1 || i == 5 || i == 9) {
+							sum += number + (character - 'a' + 1);
+							System.out.println(sum);
+						}
+						if (i == 2 || i == 6) {
+							sum += number * (character - 'a' + 1);
+							System.out.println(sum);
+						}
+						if (i == 3 || i == 7) {
+							sum += number - (character - 'a' + 1);
+							System.out.println(sum);
+						}
+						
+					}
+					else if (character >= 'A' && character <= 'Z') {
+						if (i == 0 || i == 4 || i == 8) {
+							sum += number / (character - 'A' + 1);
+							System.out.println(sum);
+						}
+						if (i == 1 || i == 5 || i == 9) {
+							sum += number + (character - 'A' + 1);
+							System.out.println(sum);
+						}
+						if (i == 2 || i == 6) {
+							sum += number * (character - 'A' + 1);
+							System.out.println(sum);
+						}
+						if (i == 3 || i == 7) {
+							sum += number - (character - 'A' + 1);
+							System.out.println(sum);
+						}
+					}
+				}
+			}
+
+		}
+
+	}
+
+}
+// decimal, ""

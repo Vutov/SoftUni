@@ -1,0 +1,51 @@
+import java.util.Scanner;
+
+public class P1_GandalfsStash {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int mood = Integer.parseInt(input.nextLine());
+		String[] data = input.nextLine().toLowerCase().trim()
+				.split("[^a-zA-Z]+");
+		for (String string : data) {
+			//System.out.println(string);
+			switch (string) {
+			case "cram":
+				mood += 2;
+				break;
+			case "lembas":
+				mood += 3;
+				break;
+			case "apple":
+				mood += 1;
+				break;
+			case "melon":
+				mood += 1;
+				break;
+			case "honeycake":
+				mood += 5;
+				break;
+			case "mushrooms":
+				mood -= 10;
+				break;
+			default:
+				mood -= 1;
+				break;
+			}
+		}
+		System.out.println(mood);
+		if (mood < - 5) {
+			System.out.println("Angry");
+		}
+		else if (mood < 0) {
+			System.out.println("Sad");
+		}
+		else if (mood < 15) {
+			System.out.println("Happy");
+		}
+		else {
+			System.out.println("Special JavaScript mood");
+		}
+	}
+
+}

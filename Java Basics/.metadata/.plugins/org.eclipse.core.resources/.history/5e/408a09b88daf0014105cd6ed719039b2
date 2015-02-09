@@ -1,0 +1,97 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
+
+public class P3__ {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int len = Integer.parseInt(input.nextLine());
+		// first
+		ArrayList<ArrayList<String>> firstMatrix = new ArrayList<>();
+		for (int i = 0; i < len; i++) {
+			String data[] = input.nextLine().trim().split("\\s+");
+			ArrayList<String> col = new ArrayList<>();
+			for (String string : data) {
+				col.add(string);
+			}
+			firstMatrix.add(col);
+		}
+		// second
+		ArrayList<ArrayList<String>> secondMatrix = new ArrayList<>();
+		for (int i = 0; i < len; i++) {
+			String data[] = input.nextLine().trim().split("\\s+");
+			ArrayList<String> col = new ArrayList<>();
+			for (String string : data) {
+				col.add(string);
+			}
+			secondMatrix.add(col);
+		}
+		// reverse second
+		ArrayList<ArrayList<String>> reversedSecond = new ArrayList<>();
+		for (int i = 0; i < secondMatrix.size(); i++) {
+			ArrayList col = secondMatrix.get(i);
+			Collections.reverse(col);
+			reversedSecond.add(col);
+		}
+		ArrayList<ArrayList<String>> finalPrint = new ArrayList<>();
+		for (int i = 0; i < firstMatrix.size(); i++) {
+			ArrayList<String> firstList = firstMatrix.get(i);
+			ArrayList<String> secondList = reversedSecond.get(i);
+			// secondList.removeAll(firstList);
+			firstList.addAll(secondList);
+			finalPrint.add(firstList);
+			/*
+			 * for (String letter : firstList) { System.out.print(letter + " ");
+			 * } System.out.println();
+			 */
+		}
+
+		/*
+		 * secondList.removeAll(firstList); firstList.addAll(secondList); for
+		 * (Character letter : firstList) { System.out.print(letter + " "); }
+		 */
+
+		/*
+		 * print for (int i = 0; i < firstMatrix.size(); i++) { ArrayList data =
+		 * firstMatrix.get(i); for (int col = 0; col < data.size(); col++) {
+		 * System.out.print(data.get(col) + " "); } System.out.println(); }
+		 * 
+		 * for (int i = 0; i < reversedSecond.size(); i++) { ArrayList data =
+		 * reversedSecond.get(i); for (int col = 0; col < data.size(); col++) {
+		 * System.out.print(data.get(col) + " "); } System.out.println(); }
+		 */
+		// Test print
+		boolean isValid = true;
+		for (int i = 0; i < finalPrint.size() - 1; i++) {
+			ArrayList<String> line = finalPrint.get(i);
+			ArrayList<String> nextLine = finalPrint.get(i + 1);
+			if (line.size() != nextLine.size()) {
+				isValid = false;
+			}
+		}
+		// Print
+		if (isValid) {
+			for (int i = 0; i < finalPrint.size(); i++) {
+				ArrayList<String> line = finalPrint.get(i);
+				System.out.print("[");
+				int count = -1;
+				int currentCount = 0;
+				for (String letter : line) {
+					count++;
+				}
+				for (String letter : line) {
+					if (count == currentCount) {
+						System.out.printf("%s]\n", letter);
+					} else {
+						System.out.printf("%s, ", letter);
+					}
+					currentCount++;
+				}
+			}
+		}
+		else {
+			System.out.println("The total number of cells is: %d", num);
+		}
+	}
+}

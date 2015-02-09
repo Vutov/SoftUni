@@ -1,9 +1,0 @@
-
-public class P1_SortArrayOfNumbers {
-
-	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
-
-	}
-
-}

@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class P1_ {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int mood = Integer.parseInt(input.nextLine());
+		String[] data = input.nextLine().toLowerCase().trim()
+				.split("[^a-zA-Z]+");
+		for (String string : data) {
+			switch (string) {
+			case "Cram":
+
+				break;
+			case "Lembas":
+				mood += 3;
+				break;
+			case "Apple":
+				mood += 1;
+				break;
+			case "Melon":
+				mood += 1;
+				break;
+			case "HoneyCake":
+				mood += 5;
+				break;
+			case "Mushrooms":
+				mood -= 10;
+				break;
+			default:
+				mood -= 1;
+				break;
+			}
+		}
+	}
+
+}

@@ -1,0 +1,27 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class P4_ {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String log = input.nextLine();
+		while (!log.equals("end")) {
+			String[] data = log.split("[IP= ]+");
+			ArrayList<String> clearedData = new ArrayList<>();
+			for (int i = 0; i < data.length; i++) {
+				if (!data[i].equals("")) {
+					clearedData.add(data[i]);
+				} 
+				System.out.println(data[i]);
+			}
+			System.out.println(data[0]);
+			System.out.println(data[4]);
+
+			log = input.nextLine();
+		}
+
+	}
+
+}
+// user - treemap, ip - linkedhashmap, integer

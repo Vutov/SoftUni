@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+
+public class P1_ {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int mood = Integer.parseInt(input.nextLine());
+		String[] data = input.nextLine().toLowerCase().trim().split("\\W+");
+		for (String string : data) {
+			System.out.println(string);
+		}
+	}
+
+}

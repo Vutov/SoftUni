@@ -1,0 +1,43 @@
+import java.util.Scanner;
+
+public class P1_ {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int mood = Integer.parseInt(input.nextLine());
+		String[] data = input.nextLine().toLowerCase().trim()
+				.split("[^a-zA-Z]+");
+		for (String string : data) {
+			switch (string) {
+			case value:
+
+				break;
+			case value:
+
+				break;
+			case value:
+
+				break;
+			case value:
+
+				break;
+			case value:
+
+				break;
+			case value:
+
+				break;
+			case value:
+
+				break;
+			case value:
+
+				break;
+
+			default:
+				break;
+			}
+		}
+	}
+
+}
