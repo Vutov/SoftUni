@@ -1,7 +1,562 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2c06f11-22ab-4743-bc1c-7bba1777138f" name="Default" comment="" />
+    <list default="true" id="d2c06f11-22ab-4743-bc1c-7bba1777138f" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\0\b08017c18daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\0\e05c81c42daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\10\409a171f81af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\11\6061a0752eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\11\60f57e338faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\11\d04092cb7daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\11\f067451233aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\12\a081bb6644aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\13\901b7eb92caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\15\c0ca59eb30aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\16\0002155233aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\16\102ac2cff7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\17\30ee88b035aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\18\d0ff70377eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\19\3081acc686af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\1a\1029b12d7faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\1a\709207047faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\1d\009860353caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\1d\00e5321dfdaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\1d\b047d1daf7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\1f\008503588eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\1f\7046bc168baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\1f\70952ce03eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\20\80e46ad934aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\20\d00a53a3f7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\21\50ef0e4180af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\22\505734d18faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\24\f04266b377af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\25\b01e28197daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\25\d0551a748daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\25\f0a4d46d7eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\26\20049b6a86af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\26\5063ae4081af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\27\a031cb3b2daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\27\f01471003faa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2b\3031610a43aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2c\b0de6f1b41aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2c\f0d6c0b586af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2d\20d9e85681af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2d\f0fcacbd76af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2e\108a84042eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2e\30f06f7c76af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2f\00974e683faa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2f\5081f40035aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2f\700cc4bc8aaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\2f\f01acf6b2eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\30\f05b6f9582af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\32\40bf0ddd8eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\33\806074822eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\33\80f67f8d40aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\34\000c6451f8aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\34\b008070983af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\34\c0b2557b35aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\34\f0f60bb332aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\35\70248a0181af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\35\802833e986af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\35\80b328fe8caf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\35\c0532f788baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\36\00cd926077af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\37\107509e078af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\37\1084f9b58faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\37\506f0b8641aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\37\800aebda87af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\38\400baee88caf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\38\804b2d9540aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\38\b0fccf0f79af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\39\508e819385af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\39\80d4f2b332aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\39\a0e884f53eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3a\00f42de27eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3a\30854fd68eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3a\601e4e822faa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3b\004dd3c489af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3c\10bb33d18faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3c\5094b99e2daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3c\a0c56bb08daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3c\b0a2374586af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3d\10bae296f8aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3d\b000bcdcf7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3d\d0779ee72daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3e\00f747172daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3e\b0969579faaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3e\c01d475586af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3e\d023872c86af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3e\d0f639307faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\3f\70fe05377daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\40\60a0d6b032aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\41\3067b7102eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\41\a027cf8c41aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\41\c0fab0918aaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\42\207496da82af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\42\70a89b9e85af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\42\d0509c678baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\43\c027dc0f41aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\44\708c7a1943aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\44\c052a87845aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\45\800995b478af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\45\907d38a38faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\46\c05c5ea940aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\47\a066609333aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\48\10b82d7a36aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\48\401ec27682af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\48\50774c8189af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\48\d02e135279af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\49\60a15b3f7daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\49\803ee42141aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\4\50449afa86af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\4\50c9fb8f8daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\4\a0f09a658daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\4a\d0ca84a144aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\4b\c0f59fe187af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\4d\30c84fd3f8aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\4d\40bd4d323daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\4e\d0e5a3f876af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\4f\40a76efa32aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\4f\704c7f9278af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\50\405141ba3caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\50\801f097281af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\51\4010af5a7eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\52\3016c58682af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\52\e00592cd42aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\54\20dece0f3daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\54\f0b856cf45aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\55\a075b7f12daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\56\60a86b9d8faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\56\705a0377f7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\56\80f0505007ab00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\58\30532a523daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\58\4062649c44aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\58\80ffb9b58eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\58\d09c22b23caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\59\30c3df6144aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\5\90faf43d7faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\5a\8043687c80af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\5a\b0380ae62caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\5b\903df0a62daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\5c\70a8109f42aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\5e\408a09b88daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\60\40172f0b3daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\60\804af5b783af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\60\a0bfc7b686af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\61\008f29b885af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\61\d09e137086af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\62\1012397c2eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\62\304027668faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\63\b005410d7faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\63\e066872477af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\65\109d43133eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\66\604452d99dab0014159785ff4c924d79" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\66\9081dbf342aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\68\10d1e7a4f6aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\68\60b795b142aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\68\9098b24b8eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\68\90d63d4044aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\69\400d2a4436aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\69\904dc09a86af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\69\b0424c583caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\69\f0173c5e36aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6\101eb1c876af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6\80c438ed81af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6\c09a43193faa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6\d000f9312daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6a\806cb49a3daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6a\d0a93ea133aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6b\90840a533eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6c\90513f6386af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6c\c09e263d34aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6d\c00cf3be2caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6d\c038117333aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6d\f086dccf78af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6e\10fd7dd4faaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6e\30d90c5f8baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6e\b01d85bf89af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6e\b06c9cf6faaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6f\10dd833b8baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\6f\808ae5d332aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\70\00797e418baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\70\009cee8644aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\70\100fd8e32faa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\71\10af863e86af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\72\100352f0faaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\72\b028771df7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\72\b0a0ef332daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\73\50b7d1043caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\73\b0f949c9f7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\74\90b4fb049cab0014159785ff4c924d79" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\75\3041c5da30aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\75\3054d092faaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\75\30f1a0db80af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\75\40cd4e0482af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\75\d0a19b273faa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\75\d0a6c3b335aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\75\e073dadef7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\78\d085503f43aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\79\00ae4fb476af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\79\d0996ca377af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\79\f03c4b872eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7\002778327faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7\a0248bf98eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7a\50ee724744aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7a\a0a374648eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7b\30a4ad9381af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7b\607ecd0379af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7b\6086a90cfaaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7b\80980d013eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7b\a06f86238daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7c\1046168735aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7c\40f6a03486af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7c\60a17e08faaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7d\9027e66b3daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7f\c017c5c2faaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\7f\f0a5e1daf8aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\80\10df4b558eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\80\208c80a042aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\80\503e691f3faa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\81\102de9e080af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\81\300805898faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\81\30f282337daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\81\f00097f98daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\82\304138b38faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\82\40fc5e4e80af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\83\7042732d8faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\84\7072c5fa35aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\84\90d0e3f476af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\85\e0b79f2a30aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\85\f06b2415f7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\86\40d06d4367af001414d8f4372e4cf02b" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\87\103ed27e2faa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\87\b0b1b02686af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\89\d0b4aa8a82af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8\7097d00541aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8\90a4c84d2eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8\d04068c080af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8c\5080597d8baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8c\604c78fe87af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8d\903f4cc632aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8e\0018f9203daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8e\404b913f36aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8e\b06334a586af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8e\d0abc84e86af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\8f\b09a5e0f3eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\90\10fb868e76af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\90\308755d42eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\90\5087ebe340aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\90\50caf47076af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\91\802ce49782af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\91\b01e22e485af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\92\901b57b183af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\92\e04550c934aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\93\c07f90d785af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\94\1009b39d78af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\94\10ac4bd442aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\94\f0e1ecf078af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\95\609bb2188faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\96\a07006cd85af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\97\508bf28a34aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\98\70aece9c76af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\99\70eed4cc87af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9\80ab6b3683af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9\d0d2840f8daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9a\102935ee85af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9a\e08bc03387af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9b\90f473829dab0014159785ff4c924d79" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9b\d0e1652c44aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9b\d0efc0df77af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9c\40574fd32daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9c\b0f4f8eb85af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9f\20d0331c2faa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9f\f052c4b886af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\9f\f08d6d227faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a1\3022195581af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a1\903de9d33eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a2\9095c46281af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a3\10a17fe42caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a3\20d577f633aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a3\40e968a92eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a3\60717c603eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a3\b095cbf134aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a4\2058512205ab00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a4\70d042658baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a5\1022db1d30aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a7\70ab4db677af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a9\50c585cf81af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a\60746e807eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\a\b0b0b4672eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\aa\70a7f23935aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ab\a07e2dd6f6aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ab\e0689c3333aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ab\f0317f1a77af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ac\b0b905bf77af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ae\1031086a43aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ae\3025eae085af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ae\906b8cfafaaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b0\70c2d44f77af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b0\f0620f0779af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b1\3047ac9187af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b1\408482272eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b2\7004ffad34aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b2\8012664743aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b3\0051d49077af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b4\30066d93f6aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b4\3020fbef7eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b4\306612a030aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b5\601b5f608eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b6\307a52798faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b6\a0365a728aaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b6\f00511ba80af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b7\90e701d18daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b7\b07828668faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b8\8016b1bf35aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b8\f0c115038baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b8\f0d7d89e34aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b9\2019824f78af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b\500ec40330aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b\a0b669d178af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\b\f06d791834aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ba\e01328a23daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ba\e07c4bf887af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ba\e0dfb4df8daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ba\f03744762daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\bb\d01e9f7886af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\bc\50ef956836aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\bd\40c16c6a2daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\bf\0075e10efaaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\bf\d0bc112a3daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c0\90d0b72577af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c1\009f31d29dab0014159785ff4c924d79" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c1\50437bd986af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c1\703bc18478af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c1\903ec68f86af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c2\301837cb3daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c2\3056ff8577af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c2\50f7d4d93caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c2\90fe4dd68eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c2\c01232a835aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c3\10779fdc3eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c3\407f582587af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c3\90e0674187af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c4\80ab5c358eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c5\201099b18faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c6\3098eb4043aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c6\4039bd2a86af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c6\7034b5e377af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c7\00ea11928baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c7\8071a35183af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c7\f0a6e0fe8eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c8\001cb68544aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c8\e01808b734aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c8\f01045e782af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c9\70e7fe2886af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c9\80713af340aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c9\90142c4734aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c9\e0cd99c633aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c\00781bc778af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c\70145b0af8aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\c\90b0289877af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\cb\10b9dcd787af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\cb\d06f31f580af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\cc\101db643f7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\cd\a0a0ab958daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\cd\b01d0eab42aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ce\700d22c582af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\cf\5052e69834aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d0\b066915b8eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d1\10061a977faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d1\604293498baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d2\007a5165f7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d2\b03ab2ff81af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d3\20aaf63c8faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d3\40f9f36e3caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d3\f0a0df5e86af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d5\001c04fd2eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d5\309a3d1d6daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d5\c0086f538eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d6\6069f3d130aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d6\90a6de662faa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d6\b0e04615faaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d7\30d5d1c630aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d7\50fcf1b282af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d8\2080c5878baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d8\f0a46b7dfaaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d9\20e8fa9d41aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d9\c038395df8aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d\30fea8858aaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\d\a0fa39c17eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\da\20c6cd013caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\da\d031f3a731aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\da\f0dd51798faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\dc\405bbec734aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\dd\c03baa903daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\df\c03cf8128faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e0\1026675144aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e0\a06d083330aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e2\e0b93b393daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e3\c00508ce2daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e3\d01d69f37eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e3\d04337ddfaaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e3\e0c36c4730aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e4\30bef04d8daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e4\b04ceb3b41aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e5\00ab49e530aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e6\d0ea32393eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e6\e00738d777af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e6\e021a69234aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e7\003e63cd82af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e7\a033a6438eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e7\f0082c863caa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e8\809cb73187af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e9\007cb6308eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e\308f32c9f9aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\e\90fe7f503daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ea\102b2d6443aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\eb\4067b5ae86af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\eb\b06c5f4981af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ed\10d5700a87af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ee\00017f1282af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ee\7046148533aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ef\b050e5fa7eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f0\a0e842728baf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f0\d05273f385af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f0\f0d6764a2daa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f2\10063fb3fcaa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f2\10ec4bf676af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f3\509326a830aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f4\6099160a82af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f5\404cfc077faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f6\70b1b30c8daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f7\50c9bd4d77af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f7\609545dd2eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f7\80c0b6ab76af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f7\f08abce245aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f8\202602757faf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f8\b00d26ce30aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f9\c02b258385af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f\50d18df182af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\f\f0de2c7b3eaa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\fa\a08b4d2d87af0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\fb\60a014f57daf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\fb\7069436d44aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\fc\407551b18eaf0014105cd6ed719039b2" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ff\3061635ff7aa00141c5aa489c17befbc" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.history\ff\c094cdd035aa00141b32bffb5d434c23" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-07-Jan\.indexes\e4\history.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-08-Feb\.indexes\e4\history.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-22-June\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-22-June\.location" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-22-June\.markers" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-22-June\org.eclipse.egit.core\GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-22-June\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-26-May\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-26-May\.location" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-26-May\.markers" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-26-May\org.eclipse.egit.core\GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Exam-26-May\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Intro-Java-Homework\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Intro-Java-Homework\.location" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Intro-Java-Homework\.markers" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Intro-Java-Homework\org.eclipse.egit.core\GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Intro-Java-Homework\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Java-Collections-Basics-Homework\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Java-Collections-Basics-Homework\.location" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Java-Collections-Basics-Homework\.markers" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Java-Collections-Basics-Homework\org.eclipse.egit.core\GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Java-Collections-Basics-Homework\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Java-Syntax-Homework\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Java-Syntax-Homework\.location" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Java-Syntax-Homework\.markers" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Java-Syntax-Homework\org.eclipse.egit.core\GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Java-Syntax-Homework\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Lab-23-Jan\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Lab-23-Jan\.location" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Lab-23-Jan\.markers" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Lab-23-Jan\org.eclipse.egit.core\GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Lab-23-Jan\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Loops-Methods-Classes-Homework\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Loops-Methods-Classes-Homework\.location" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Loops-Methods-Classes-Homework\.markers" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Loops-Methods-Classes-Homework\org.eclipse.egit.core\GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Loops-Methods-Classes-Homework\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Sample-Exam\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Sample-Exam\.location" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Sample-Exam\.markers" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Sample-Exam\org.eclipse.egit.core\GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\Sample-Exam\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\TestingGround\.indexes\e4\history.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\TestingGround\.location" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\TestingGround\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\UniSurvivalHorror\.indexes\e4\history.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\UniSurvivalHorror\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\UniSurvivalHorror\.location" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\UniSurvivalHorror\.markers" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\UniSurvivalHorror\org.eclipse.egit.core\GitProjectData.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.projects\UniSurvivalHorror\org.eclipse.jdt.core\state.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.core.resources\.root\40.tree" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\1037104508.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\1118981827.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\120211678.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\1481904673.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\1539712199.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\1913109094.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\1932949083.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\1991379375.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\2055460964.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\2066489604.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\2233963263.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\2630498905.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\2771403403.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\2836131162.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\2841451250.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\2971370535.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\2982035129.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\3214207201.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\3251253990.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\330268801.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\3679668754.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\3721837726.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\3852180344.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\3885805113.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\3888198363.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\4114573083.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\46282419.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\SoftUni\Java Basics\.metadata\.plugins\org.eclipse.jdt.core\742522455.index" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-07-Jan/.location" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-07-Jan/.location" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-08-Feb/.location" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-08-Feb/.location" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-07-Jan/.markers" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-07-Jan/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-08-Feb/.markers" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-08-Feb/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.mylyn/.tasks.xml.zip" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.mylyn/.tasks.xml.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-07-Jan/org.eclipse.jdt.core/state.dat" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-07-Jan/org.eclipse.jdt.core/state.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-08-Feb/org.eclipse.jdt.core/state.dat" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-08-Feb/org.eclipse.jdt.core/state.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.mylyn/tasks.xml.zip" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.mylyn/tasks.xml.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-07-Jan/org.eclipse.egit.core/GitProjectData.properties" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-07-Jan/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-08-Feb/org.eclipse.egit.core/GitProjectData.properties" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam-08-Feb/org.eclipse.egit.core/GitProjectData.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/version.ini" afterPath="$PROJECT_DIR$/Java Basics/.metadata/version.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/Java Basics/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SoftUni.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +579,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01.HelloHTML.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="01.HelloHTML.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML and CSS/Practice/01.HTML5-Overview-Homework/01.HelloHTML.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3148148" vertical-offset="0" max-vertical-offset="540">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02.Paragraphs-And-Images.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML and CSS/Practice/01.HTML5-Overview-Homework/02.Paragraphs-And-Images.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="526">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -71,7 +636,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,17 +696,22 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d2c06f11-22ab-4743-bc1c-7bba1777138f" name="Default" comment="" />
@@ -153,27 +722,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="698" extended-state="1" />
+    <frame x="10" y="20" width="1346" height="698" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -199,8 +768,48 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HTML and CSS/Practice/01.HTML5-Overview-Homework/01.HelloHTML.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3148148" vertical-offset="0" max-vertical-offset="540">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML and CSS/Practice/01.HTML5-Overview-Homework/01.HelloHTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML and CSS/Practice/01.HTML5-Overview-Homework/01.HelloHTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML and CSS/Practice/01.HTML5-Overview-Homework/01.HelloHTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML and CSS/Practice/01.HTML5-Overview-Homework/01.HelloHTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML and CSS/Practice/01.HTML5-Overview-Homework/02.Paragraphs-And-Images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="552">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

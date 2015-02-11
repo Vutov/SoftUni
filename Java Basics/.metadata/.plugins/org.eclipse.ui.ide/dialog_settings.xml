@@ -5,6 +5,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\SoftUni\Java Basics"/>
 			<item value="/home/spas/Java-Game"/>
 			<item value="/home/spas/SoftUni/Java Basics/Homework/Intro-Java-Homework"/>
 		</list>
