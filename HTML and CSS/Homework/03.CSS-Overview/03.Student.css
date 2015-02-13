@@ -1,0 +1,80 @@
+﻿@import "reset.css";
+
+
+.face {
+    border: solid;
+    height: 380px;
+    width: 380px;
+    margin: 10px;
+    border-radius: 50%;
+    background: yellow;
+}
+
+.leftEye, .rightEye {
+    border: solid;
+    display: inline-block;
+    height: 75px;
+    width: 75px;
+    margin-left: 70px;
+    margin-top: 60px;
+    border-radius: 70%;
+    background: white;
+}
+
+.leftEyeCircle, .rightEyeCircle {
+    border: solid;
+    display: inline-block;
+    height: 21px;
+    width: 21px;
+    border-radius: 50%;
+}
+
+.rightEyeCircle {
+    border: solid;
+    background: black;
+    margin-bottom: 35px;
+}
+
+.leftEyeCircle {
+    border: solid;
+    background: black;
+    margin-left: 40px;
+    margin-top: 35px;
+}
+
+.nose {
+    border: solid;
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 160px;
+    border-radius: 50%;
+    background: red;
+}
+
+.mouth {
+    border: solid;
+    height: 70px;
+    width: 190px;
+    margin-top: 30px;
+    margin-left: 95px;
+    border-radius: 40px;
+    background: white;
+}
+
+.leftTeeth, .rightTeeth {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: solid;
+    border-left: solid;
+    border-right: solid;
+    background: white;
+}
+
+.leftTeeth {
+    margin-left: 55px;
+}
+
