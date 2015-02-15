@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BC16FFB3-BEEE-46AD-B9CE-210454876E78}"
+	ProjectSection(SolutionItems) = preProject
+		Problem-01\01-Unresponsive-Homework.html = Problem-01\01-Unresponsive-Homework.html
+		styles\01.Problem.css = styles\01.Problem.css
+		02-Flowers-Home.html = 02-Flowers-Home.html
+		styles\02.Problem.css = styles\02.Problem.css
+		styles\reset.css = styles\reset.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
