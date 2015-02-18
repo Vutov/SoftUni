@@ -1,0 +1,41 @@
+﻿@import "reset.css";
+
+body {
+    width: auto;
+    font-size: 1rem;
+    background: pink;
+}
+
+img {
+    width: 100px;
+    height: 150px;
+}
+
+.Content {
+    display: flex;
+}
+
+audio, video {
+    display: block;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+
+section {
+    flex-grow: 1;
+    flex-wrap: wrap;
+    margin: 0 2% 0 4%;
+}
+    
+div, figcaption {
+    margin-bottom: 10px;
+}
+
+meter {
+    width: 150px;
+}

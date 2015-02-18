@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>03.Form</title>
+    <link href="Form.css" type="text/css" rel="stylesheet" />
+    <script>
+        function Bought() {
+            document.getElementById("Basket").innerHTML = "You bought new Ferrari!"
+        }
+    </script>
+</head>
+<body>
+    <div class="AboveText">Step 1: Your details</div>
+    <form class="Content">
+        <label for="Name">Name</label>
+        <input id="Name" type="text" placeholder="First and last name" />
+    </form>
+    <form class="Content">
+        <label for="Email">Email</label>
+        <input id="Email" type="text" placeholder="example@domain.com" />
+    </form>
+    <form class="Content">
+        <label for="Phone">Phone</label>
+        <input id="Phone" type="text" placeholder="eg. +447500000000" />
+    </form>
+    <div class="AboveText">Step 2: Delivery address</div>
+    <form class="Content">
+        <label id="AddressLabel" for="Address">Address</label>
+        <textarea id="Address"></textarea>
+    </form>
+    <form class="Content">
+        <label for="PostCode">Post code</label>
+        <input id="PostCode" type="text" />
+    </form>
+    <form class="Content">
+        <label for="Country">Country</label>
+        <input id="Country" type="text" />
+    </form>
+    <div class="AboveText">Step 3: Card details</div>
+    <form class="Content">
+        <label for="CardType">Card type</label><br />
+        <div class="radioButtons">
+            <input type="radio" name="card" value="Visa" /><img src="http://visa.ca/merchant/resources/logos-and-trademarks/images/logos/jpg/visa-full-colour.jpg" alt="visa logo" />VISA
+            <input type="radio" name="card" value="AmEx" /><img src="http://www.magentocommerce.com/magento-connect/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/a/m/amex_1.jpg" alt="AmEx logo" />AmEx
+            <input type="radio" name="card" value="Mastercard" /><img src="http://www.zacknoblauch.com/wp-content/uploads/2012/11/mastercard-logo-redesign1.jpg" alt="Mastercard logo" />Mastercard
+        </div>
+    </form>
+    <form class="Content">
+        <label for="CardID">Card number</label>
+        <input id="CardID" type="text" />
+    </form>
+    <form class="Content">
+        <label for="SecurityCode">Security Code</label>
+        <input id="SecurityCode" type="text" />
+    </form>
+    <form class="Content">
+        <label for="CardName">Name on card</label>
+        <input id="CardName" type="text" placeholder="exact name as on the card" />
+    </form>
+    <div class="BuyButton">
+        <input type="button" name="BuyIt" value="buy it!" onclick="Bought()" />
+    </div>
+    <div id="Basket"></div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1EE9496C-4D4A-41C2-96FF-AC0274D424D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Janty", "01.Janty", "{19164D9A-7F34-4784-A703-396C3AC7E8CF}"
+	ProjectSection(SolutionItems) = preProject
+		TheJauntyTextField.css = TheJauntyTextField.css
+		TheJauntyTextField.html = TheJauntyTextField.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.SoftUni Vacation", "02.SoftUni Vacation", "{121A0B91-6D78-4768-9960-BBF59E785F26}"
+	ProjectSection(SolutionItems) = preProject
+		SoftUniVacation.css = SoftUniVacation.css
+		SoftUniVacation.html = SoftUniVacation.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Form", "03.Form", "{AB400CB4-0F6D-4232-AF72-3712BFCCC1F7}"
+	ProjectSection(SolutionItems) = preProject
+		Form.css = Form.css
+		Form.html = Form.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.NestedDivs", "04.NestedDivs", "{D1BE99BA-EA81-4A0E-B812-26FFF839A6D4}"
+	ProjectSection(SolutionItems) = preProject
+		NestedDivs.css = NestedDivs.css
+		NestedDivs.html = NestedDivs.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.ProgrammerCalculator", "05.ProgrammerCalculator", "{E1256881-BA86-4249-A3B4-731E08391E3E}"
+	ProjectSection(SolutionItems) = preProject
+		ProgrammerCalculator.css = ProgrammerCalculator.css
+		ProgrammerCalculator.html = ProgrammerCalculator.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{19164D9A-7F34-4784-A703-396C3AC7E8CF} = {1EE9496C-4D4A-41C2-96FF-AC0274D424D4}
+		{121A0B91-6D78-4768-9960-BBF59E785F26} = {1EE9496C-4D4A-41C2-96FF-AC0274D424D4}
+		{AB400CB4-0F6D-4232-AF72-3712BFCCC1F7} = {1EE9496C-4D4A-41C2-96FF-AC0274D424D4}
+		{D1BE99BA-EA81-4A0E-B812-26FFF839A6D4} = {1EE9496C-4D4A-41C2-96FF-AC0274D424D4}
+		{E1256881-BA86-4249-A3B4-731E08391E3E} = {1EE9496C-4D4A-41C2-96FF-AC0274D424D4}
+	EndGlobalSection
+EndGlobal

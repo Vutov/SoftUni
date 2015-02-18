@@ -1,0 +1,185 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>05.Programmer Calculator</title>
+    <link href="ProgrammerCalculator.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <div class="Frame">
+        <header>
+            <div class="Calc">Calculator</div>
+            <table class="TopMenu">
+                <tr>
+                    <td>-</td>
+                    <td>&#9633</td>
+                    <td>X</td>
+                </tr>
+            </table>
+        </header>
+        <div class="Menu">
+            <span>View</span>
+            <span>Edit</span>
+            <span>Help</span>
+        </div>
+        <div class="Display">
+            <span>0</span>
+        </div>
+        <table class="BinaryTable">
+            <tr>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+            </tr>
+            <tr>
+                <td>63</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>47</td>
+                <td></td>
+                <td></td>
+                <td>32</td>
+            </tr>
+            <tr>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+            </tr>
+            <tr>
+                <td>31</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>15</td>
+                <td></td>
+                <td></td>
+                <td>0</td>
+            </tr>
+        </table>
+        <div class="MainContent">
+            <table class="Options">
+                <tr>
+                    <td>
+                        <input type="radio" name="sys" /><span>Hex</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="radio" name="sys" checked="checked" /><span>Dec</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="radio" name="sys" /><span>Oct</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="radio" name="sys" /><span>Bin</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="radio" name="options" checked="checked" /><span>Qword</span>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="radio" name="options" /><span>Dword</span>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="radio" name="options" /><span>Word</span>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="radio" name="options" /><span>Byte</span>
+                    </td>
+                </tr>
+            </table>
+            <table class="MainTable">
+                <tr>
+                    <td></td>
+                    <td class="Active">Mod</td>
+                    <td>A</td>
+                    <td>MC</td>
+                    <td>MR</td>
+                    <td>MS</td>
+                    <td>M+</td>
+                    <td>M-</td>
+                </tr>
+                <tr>
+                    <td class="Active">(</td>
+                    <td class="Active">)</td>
+                    <td>B</td>
+                    <td class="Active"><span id="Arrow">Arr</span></td>
+                    <td class="Active">CE</td>
+                    <td class="Active">C</td>
+                    <td class="Active">+-</td>
+                    <td>v</td>
+                </tr>
+                <tr>
+                    <td class="Active">RoL</td>
+                    <td class="Active">RoR</td>
+                    <td>C</td>
+                    <td class="Digit">7</td>
+                    <td class="Digit">8</td>
+                    <td class="Digit">9</td>
+                    <td class="Active">/</td>
+                    <td>%</td>
+                </tr>
+                <tr>
+                    <td class="Active">Or</td>
+                    <td class="Active">Xor</td>
+                    <td>D</td>
+                    <td class="Digit">4</td>
+                    <td class="Digit">5</td>
+                    <td class="Digit">6</td>
+                    <td class="Active">*</td>
+                    <td>1/x</td>
+                </tr>
+                <tr>
+                    <td class="Active">Lsh</td>
+                    <td class="Active">Rsh</td>
+                    <td>E</td>
+                    <td class="Digit">1</td>
+                    <td class="Digit">2</td>
+                    <td class="Digit">3</td>
+                    <td class="Active">-</td>
+                    <td class="Active" rowspan="2">=</td>
+                </tr>
+                <tr>
+                    <td class="Active">Not</td>
+                    <td class="Active">And</td>
+                    <td>F</td>
+                    <td class="Digit" colspan="2">0</td>
+                    <td>.</td>
+                    <td class="Active">+</td>
+                </tr>
+            </table>
+        </div>
+
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,201 @@
+﻿body {
+    margin: 10px;
+}
+
+.Frame {
+    width: 410px;
+    height: 380px;
+    background: linear-gradient(to bottom, #fff, #D7E7F7);
+    box-shadow: 0 0 0 4px #ADCAE3;
+}
+
+header {
+    height: 7%;
+    width: 100%;
+    font-size: 0.8rem;
+    background: #ADCAE3;
+}
+
+    header .Calc {
+        float: left;
+        width: 30%;
+        padding-left: 2%;
+        padding-top: 2%;
+    }
+
+        header .Calc:before {
+            content: url("CalcLogo.png") " ";
+        }
+
+.TopMenu {
+    float: right;
+    height: 85%;
+    width: 25%;
+    margin-top: 0.5%;
+
+}
+
+    .TopMenu tr {
+        height: 100%;
+        width: 100%;
+    }
+
+    /*Colors for the buttons, to be added buttons later*/
+    .TopMenu td {
+        height: 100%;
+        width: 33.4%;
+        border: 1px solid #8092AA;
+        border-radius: 2px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .TopMenu tr td:nth-child(1) {
+        background: linear-gradient(to bottom, #D2E0F0 50%, #9EB7D4 80%, #B9D5EF);
+    }
+
+    .TopMenu tr td:nth-child(2) {
+        background: linear-gradient(to bottom, #BED1E9 40%, #A7C4DE 80%, #B9D4EF);
+    }
+
+    .TopMenu tr td:nth-child(3) {
+        background: linear-gradient(to bottom, #F2BAB0 40%, #BF4A31 80%, #D67C70);
+    }
+
+.Menu {
+    height: 4%;
+    width: 98%;
+    font-size: 0.7rem;
+    border-bottom: 1px solid #A6B3C5;
+    padding-left: 2%;
+    word-spacing: 10px;
+    padding-top: 0.5%;
+    background: linear-gradient(to bottom, #fff 15%, #DBE3F8, #E7EDFD);
+}
+
+.Display {
+    height: 4%;
+    width: 94.5%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-right: 1%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 1rem;
+    border: 1px solid #A6B3C5;
+    border-radius: 2px;
+    text-align: right;
+    background: linear-gradient(to top, #fff 40%, #E5E8ED);
+}
+
+.BinaryTable {
+    height: 15%;
+    width: 96%;
+    margin: 2%;
+    font-size: 0.6rem;
+    border: 1px solid #A6B3C5;
+    border-radius: 2px;
+}
+
+    .BinaryTable tr, .BinaryTable td {
+        height: 24%;
+        width: 12.5%;
+    }
+
+        .BinaryTable td:nth-child(5) {
+            padding-left: 2%;
+        }
+
+
+        .BinaryTable td:nth-child(6) {
+            text-align: center;
+        }
+
+        .BinaryTable td:nth-child(7) {
+            padding-left: 5%;
+        }
+
+        .BinaryTable td:last-child {
+            text-align: right;
+        }
+
+        .BinaryTable tr:nth-child(even) {
+            color: #BCAB9B;
+        }
+
+.MainContent {
+    height: 50%;
+    width: 100%;
+}
+
+.Options {
+    height: 98%;
+    width: 14%;
+    float: left;
+    font-size: 0.6rem;
+    border-radius: 2px;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    border-spacing: 0;
+}
+
+    .Options tr {
+        height: 12.2%;
+    }
+
+        .Options tr:nth-child(5) {
+            height: 7%;
+        }
+
+        .Options tr td {
+            border-right: 1px solid #A6B3C5;
+            border-left: 1px solid #A6B3C5;
+        }
+
+        .Options tr:first-of-type td {
+            border-top: 1px solid #A6B3C5;
+        }
+
+        .Options tr:last-of-type td {
+            border-bottom: 1px solid #A6B3C5;
+        }
+
+        .Options tr:nth-child(5) td {
+            border-top: 1px solid #A6B3C5;
+            border-bottom: 1px solid #A6B3C5;
+            border-left: none;
+            border-right: none;
+        }
+
+
+input[type="radio"] {
+    height: 10px;
+}
+
+.MainTable {
+    height: 100%;
+    width: 80%;
+    float: right;
+    font-size: 0.8rem;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+
+    .MainTable td, .MainTable tr {
+        border: 1px solid #A6B3C5;
+        border-radius: 2px;
+        text-align: center;
+        height: 12.5%;
+        width: 12.5%;
+    }
+
+/*Colors for the active buttons, to be added buttons later*/
+.Digit {
+    background: linear-gradient(to bottom, #fff, #E7ECEF);
+    font-size: 1rem;
+}
+
+.Active {
+    background: linear-gradient(to bottom, #fff, #DCE7F7);
+}

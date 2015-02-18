@@ -1,0 +1,200 @@
+﻿@import "reset.css";
+
+body {
+    width: auto;
+    font-size: 1rem;
+}
+
+li a {
+    text-decoration: none;
+}
+
+header h1 {
+    font-size: 2rem;
+    padding: 15px 0 15px 3%;
+}
+
+
+nav {
+    margin: 10px 2% 10px 2%;
+    border-bottom: 1px solid #F6F6F6;
+}
+
+    nav ul li {
+        float: left;
+        padding-right: 5%;
+    }
+
+        nav ul li a {
+            color: #C6C6C6;
+            text-transform: uppercase;
+        }
+
+            nav ul li a:hover, footer ul li a:hover {
+                text-decoration: underline;
+            }
+
+    nav div {
+        float: right;
+    }
+
+    nav input[type="text"], nav input[type="button"] {
+        background: #fff;
+        margin-bottom: 5px;
+    }
+
+    nav input[type="text"] {
+        border-right: none;
+        border-left: 1px solid #C6C6C6;
+        border-top: 1px solid #C6C6C6;
+        border-bottom: 1px solid #C6C6C6;
+        padding-left: 3px;
+    }
+
+    nav input[type="button"] {
+        border-left: none;
+        border-right: 1px solid #C6C6C6;
+        border-top: 1px solid #C6C6C6;
+        border-bottom: 1px solid #C6C6C6;
+    }
+
+main {
+    display: flex;
+}
+
+.LeftMenu {
+    order: 1;
+    width: 30%;
+    margin: 40px 1% 0 2%;
+    border-top: 1px solid #C6C6C6;
+}
+
+    .LeftMenu ul {
+        padding-top: 10px;
+    }
+
+        .LeftMenu ul li {
+            margin-bottom: 5px;
+        }
+
+
+            .LeftMenu ul li a, .LeftMenu ul li a:visited {
+                color: #5C8AC2;
+            }
+
+.RightMenu {
+    order: 3;
+    width: 30%;
+    margin-left: 1%;
+    margin-right: 2%;
+    font-size: 0.8rem;
+}
+
+    .RightMenu label, .RightMenu select {
+        display: block;
+    }
+
+    .RightMenu label {
+        border-bottom: 1px solid #C6C6C6;
+        text-transform: uppercase;
+        color: #C6C6C6;
+        margin-bottom: 10px;
+    }
+
+    .RightMenu div {
+        border-bottom: 1px solid #C6C6C6;
+        text-transform: uppercase;
+        color: #C6C6C6;
+        margin-top: 20px;
+    }
+
+.Content {
+    order: 2;
+    width: 100%;
+    flex-grow: 1;
+}
+
+    .Content a, .Content a:visited {
+        color: #5C8AC2;
+        text-decoration: none;
+    }
+
+    .Content h2 {
+        font-size: 2rem;
+        padding-bottom: 5px;
+    }
+
+    .Content time {
+        font-size: 0.7rem;
+        display: block;
+        padding-bottom: 20px;
+    }
+
+    .Content article:last-of-type {
+        border-bottom: 1px solid #C6C6C6;
+    }
+
+    .Content article div:last-of-type {
+        padding: 20px 0 20px 0;
+    }
+
+    .Content .Previous {
+        padding: 30px 0 30px 0;
+    }
+
+.Twitter {
+    margin: 10px 2% 10px 2%;
+    font-size: 0.8rem;
+    color: #C6C6C6;
+}
+
+footer {
+    display: flex;
+    background: #000;
+}
+
+    footer section {
+        width: 20%;
+        margin: 15px 1% 15px 1%;
+        color: #fff;
+        font-size: 0.8rem;
+    }
+
+        footer section:first-of-type {
+            margin-left: 2%;
+            font-size: 1.5rem;
+        }
+
+        footer section:nth-of-type(2) div,
+        footer section:nth-of-type(3) div:first-of-type,
+        footer section:nth-of-type(4) div:first-of-type {
+            text-transform: uppercase;
+            padding-bottom: 10px;
+        }
+
+        footer section:nth-of-type(2) ul li {
+            padding: 0 0 5px 3%;
+        }
+
+        footer section:nth-of-type(2) a,
+        footer section:nth-of-type(2) a:visited {
+            color: #fff;
+        }
+
+        footer section:nth-of-type(3) div:last-of-type,
+        footer section:nth-of-type(4) div:last-of-type,
+        footer section:nth-of-type(5) {
+            color: #C6C6C6;
+        }
+
+        footer section:last-of-type {
+            margin-right: 2%;
+        }
+
+/*Reset floating*/
+nav:after {
+    content: '';
+    display: block;
+    height: 0;
+    clear: both;
+}

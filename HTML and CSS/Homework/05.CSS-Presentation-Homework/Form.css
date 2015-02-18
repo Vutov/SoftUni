@@ -1,0 +1,108 @@
+﻿body {
+    margin: 20px;
+    background: url('resources/formBackground.jpg');
+}
+
+.AboveText {
+    font-size: 1rem;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #fff;
+}
+
+.Content {
+    width: 335px;
+    font-size: 0.9rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+input[type="button"] {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-top: 10px;
+    border-radius: 15px;
+    background-color: #000;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid #000;
+}
+
+img {
+    width: 23px;
+    height: 14px;
+}
+
+#Basket {
+    color: #ff0000;
+    font-size: 3rem;
+    font-family: Arial;
+}
+
+/*Positioning fields*/
+.BuyButton {
+    width: 335px;
+    text-align: center;
+}
+
+textarea {
+    height: 75px;
+    width: 165px;
+    position: relative;
+    left: 13%;
+}
+
+#AddressLabel {
+    vertical-align: top;
+}
+
+input[type="text"] {
+    height: 20px;
+    position: relative;
+}
+
+.radioButtons {
+    padding: 8px;
+    word-spacing: 15px;
+}
+
+#Name {
+    left: 17%;
+}
+
+#Email {
+    left: 16.8%;
+}
+
+#Phone {
+    left: 16.5%;
+}
+
+#PostCode {
+    left: 10%;
+}
+
+#Country {
+    left: 12.5%;
+}
+
+#CardID {
+    left: 5%;
+}
+
+#SecurityCode {
+    left: 3.3%;
+}
+
+#CardName {
+    left: 3.6%;
+}
