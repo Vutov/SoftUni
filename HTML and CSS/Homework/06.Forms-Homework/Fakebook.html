@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link href="Fakebook.css" type="text/css" rel="stylesheet" />
+    <title>04.Fakebook</title>
+</head>
+<body>
+    <header>
+        <div>fakebook<span>&reg</span></div>
+    </header>
+    <h1>Registration</h1>
+    <div class="Safe">It is safe and will aways be!</div>
+    <form action="#" method="post">
+        <div>
+            <fieldset class="NotImportantInfo">
+                <legend>None-Important Information</legend>
+                <div class="ToLeft">
+                    <input type="text" name="name" value="" placeholder="First Name" tabindex="8" />
+                </div>
+                <div class="ToRight">
+                    <input type="text" name="name" value="" placeholder="Last Name" tabindex="7" />
+                </div>
+                <div class="ToLeft">
+                    <input type="email" name="name" value="" placeholder="Your Email" tabindex="6" />
+                </div>
+                <div class="ToRight">
+                    <input type="tel" name="name" value="" placeholder="Phone Number" tabindex="3" />
+                </div>
+                <div class="ToLeft">
+                    <input type="password" name="name" value="" placeholder="Your Password" tabindex="1" />
+                </div>
+                <div class="ToRight">
+                    <input type="text" name="name" value="" placeholder="Website" tabindex="2" />
+                </div>
+                <label for="Birtday">Birthday</label>
+                <br />
+                <input id="Birtday" type="date" name="name" value="" />
+                <div>
+                    <input id="Female" type="radio" name="sex" value="" />
+                    <label for="Female">Female</label>
+                    <input id="Male" type="radio" name="sex" value="" />
+                    <label for="Male">Male</label>
+                    <input id="Other" type="radio" name="sex" value="" checked="checked" />
+                    <label for="Other">Other</label>
+                </div>
+            </fieldset>
+        </div>
+        <div>
+            <fieldset class="ImportantInfo">
+                <legend>Important Information *required</legend>
+                <div>
+                    <select required="required">
+                        <option value="">Country</option>
+                        <option value="Bulgaria">Bulgaria</option>
+                        <option value="Germany">Germany</option>
+                        <option value="USA">USA</option>
+                    </select>
+                    <input type="text" name="address" placeholder="Village" required="required" tabindex="4" />
+                    <input type="text" name="address" placeholder="District" required="required" />
+                </div>
+                <div>
+                    <input type="text" name="address" placeholder="Street" required="required" />
+                    <input type="text" name="address" placeholder="Nr" required="required" />
+                    <input type="text" name="address" placeholder="Floor" required="required" />
+                    <input type="text" name="address" placeholder="Ap Nr;" required="required" />
+                </div>
+                <div>
+                    <label for="Door">Door Color</label><br />
+                    <input type="color" name="aditionalInfo" value="#ff84c6" />
+                    <input type="text" name="aditionalInfo" value="" placeholder="Water Meter Nr" required="required" tabindex="5" />
+                    <select required="required">
+                        <option value="">Aunt Panties's Size</option>
+                        <option value="small">Small size</option>
+                        <option value="big">Big size</option>
+                    </select>
+                </div>
+                <textarea required="required" placeholder="Give Us More Information!!!"></textarea>
+            </fieldset>
+            <div>
+                <input type="reset" name="clear" value="Clear Form" />
+                <input type="submit" name="aditionalInfo" value="Register" />
+            </div>
+
+        </div>
+
+
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,29 @@
+﻿@import "reset.css";
+
+body {
+    margin: 0;
+}
+
+header img {
+    height: 100px;
+    width: 350px;
+}
+
+.Files {
+    margin-left: 20px;
+    font-size: 1rem;
+}
+
+.Search {
+    margin-left: 20px;
+    font-size: 1rem;
+}
+
+.Search img{
+    height: 30px;
+    width: 30px;
+}
+
+input[type="search"] {
+    padding-top: 10px;
+}

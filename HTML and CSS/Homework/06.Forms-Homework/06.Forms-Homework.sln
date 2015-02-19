@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.SimpleForm", "01.SimpleForm", "{757F2F47-DC36-46E3-8FD0-CBCABABD9DAF}"
+	ProjectSection(SolutionItems) = preProject
+		SimpleForm.css = SimpleForm.css
+		SimpleForm.html = SimpleForm.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.FlightOrder", "02.FlightOrder", "{24A322A1-AEB9-47F5-8034-E750591D0085}"
+	ProjectSection(SolutionItems) = preProject
+		FlightOrder.css = FlightOrder.css
+		FlightOrder.html = FlightOrder.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.WordPressTheme", "03.WordPressTheme", "{C3E1436A-E3EF-4F10-A06E-ECCE74D663D7}"
+	ProjectSection(SolutionItems) = preProject
+		WordPressTheme.css = WordPressTheme.css
+		WordPressTheme.html = WordPressTheme.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Fakebook", "04.Fakebook", "{14A8756A-E881-4320-A820-DC4D928BDE00}"
+	ProjectSection(SolutionItems) = preProject
+		Fakebook.css = Fakebook.css
+		Fakebook.html = Fakebook.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.LaptopChoice", "06.LaptopChoice", "{0183E595-38BF-4D9F-A422-2460F1F99857}"
+	ProjectSection(SolutionItems) = preProject
+		LaptopChoice.css = LaptopChoice.css
+		LaptopChoice.html = LaptopChoice.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

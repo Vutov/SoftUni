@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link href="FlightOrder.css" type="text/css" rel="stylesheet" />
+    <title>02.Flight Order</title>
+</head>
+<body>
+    <div class="Content">
+        <h1>Flight Order</h1>
+        <form action="#" method="post">
+            <div class="Destination">
+                <div>
+                    <label for="From">From</label>
+                    <br />
+                    <select id="From">
+                        <option>Enter a city</option>
+                        <option value="Sofia">Sofia</option>
+                        <option value="Varna">Varna</option>
+                        <option value="Burgas">Burgas</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="To">To</label>
+                    <br />
+                    <select id="To">
+                        <option>Enter a city</option>
+                        <option value="Sofia">Sofia</option>
+                        <option value="Varna">Varna</option>
+                        <option value="Burgas">Burgas</option>
+                    </select>
+                </div>
+            </div>
+            <div class="Prefered">
+                <input id="Directions" type="checkbox" name="directs" value=" " />
+                <label for="Directions">Prefer directs</label>
+            </div>
+            <div class="Departure">
+                <div>
+                    <label for="DepartureDate">Departure date</label>
+                    <br />
+                    <input id="DepartureDate" type="date" name="Departure" value=" " />
+                </div>
+                <div>
+                    <label for="TimeIntervalDep">Time Interval</label>
+                    <br />
+                    <input id="TimeIntervalDep" type="time" name="Departure" value=" " />
+                    <input type="time" name="Departure" value=" " />
+                </div>
+            </div>
+            <div class="Return">
+                <div>
+                    <label for="ReturnDate">Return date</label>
+                    <input id="ReturnDate" type="date" name="Return" value=" " />
+                </div>
+                <div>
+                    <label for="TimeIntervalRet">Time Interval</label>
+                    <br />
+                    <input id="TimeIntervalRet" type="time" name="Return" value=" " />
+                    <input type="time" name="Departure" value=" " />
+                </div>
+            </div>
+            <div>
+                <div class="MoreInfo">
+                    <div class="MoreInfoFirst">
+                        <div class="Numbers">12+ 2-12 0-12</div>
+                        <br />
+                        <input type="number" name="number" value=" " />
+                        <input type="number" name="number" value=" " />
+                        <input type="number" name="number" value=" " />
+                    </div>
+                    <div class="MoreInfoSecond">
+                        <div>Choose class</div>
+                        <br />
+                        <select>
+                            <option value="Economy">Economy</option>
+                            <option value="Business">Business</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="Sub">
+                <input type="submit" name="Search" value="Search" />
+            </div>
+        </form>
+    </div>
+</body>
+</html>
