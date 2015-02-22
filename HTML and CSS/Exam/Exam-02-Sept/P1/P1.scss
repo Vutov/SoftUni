@@ -1,0 +1,82 @@
+#wrapper {
+    width: 648px;
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+
+    h1, section {
+        border-bottom: 1px solid black;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+        padding-bottom: 15px;
+    }
+
+    section {
+        //border: 1px solid blue;
+        margin-bottom: 15px;
+
+        .content {
+            //border: 1px solid red;
+            display: flex;
+            flex-flow: row wrap;
+
+            .avatar {
+                order: 1;
+                background: url("annonymous-user.jpg") no-repeat;
+                width: 50px;
+            }
+
+            .user {
+                //border: 1px solid green;
+                width: 78%;
+                order: 2;
+
+                h2 {
+                    margin: 0;
+                    padding: 0;
+                    font-size: 1rem;
+                }
+
+                time {
+                    color: grey;
+                }
+            }
+
+            .right {
+                order: 3;
+
+                img {
+                    margin-left: 10px;
+                }
+
+                .votes {
+                    text-align: right;
+                }
+
+                .votes-red {
+                    color: red;
+                    font-weight: 700;
+                }
+            }
+        }
+
+        .comment {
+            //border: 1px solid red;
+            padding: 20px 0;
+            font-size: 0.75rem;
+
+            a {
+                color: black;
+
+                &:visited {
+                    color: black;
+                }
+
+                &:hover {
+                    color: grey;
+                }
+            }
+        }
+    }
+}

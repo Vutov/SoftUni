@@ -1,0 +1,88 @@
+@font-face {
+    font-family: Montserrat Regular;
+    src: url("Montserrat-Regular.ttf");
+}
+
+body {
+    background: url("body-background.jpg");
+    #wrapper {
+        width: 450px;
+        margin: 0 auto;
+        font-family: Montserrat Regular, sans-serif;
+
+        h1 {
+            font-weight: normal;
+            text-align: center;
+            color: #F18F32;
+        }
+
+        fieldset {
+            border-radius: 4px;
+            background: radial-gradient(#ECE2CE,#E9DDC8);
+
+            input {
+                width: 94%;
+                margin: 5px 0;
+                padding: 12px 0 12px 30px;
+                color: #A4875D;
+                border: 1px solid #A4875D;
+                border-radius: 4px;
+            }
+
+            input[type="email"] {
+                background: url("icon-email.png") no-repeat, #FFFBF4;
+                background-position: 2px -2px;
+            }
+
+            input[type="password"] {
+                margin-bottom: 15px;
+                background: url("icon-password.png") no-repeat, #FFFBF4;
+                background-position: 2px -2px;
+            }
+
+            input[type="text"] {
+                background: url("icon-name.png") no-repeat, #FFFBF4;
+                background-position: 2px -2px;
+            }
+
+            #submit {
+                display: flex;
+                flex-flow: row wrap;
+
+                input[type="submit"] {
+                    width: 150px;
+                    order: 1;
+                    padding: 12px 0;
+                    text-align: center;
+                    font-size: 1.2rem;
+                    background: #06C2E3;
+                    color: black;
+
+                    &:hover {
+                        background: radial-gradient(#06C2E3, #04ADCE);
+                        cursor: pointer;
+                    }
+                }
+
+                #check {
+                    order: 2;
+                    width: 25px;
+                    height: 25px;
+                    align-self: center;
+                    background: red;
+                    margin-left: 15px;
+                    margin-right: 5px;
+                    border: 1px solid #A4875D;
+                    border-radius: 3px;
+                    background: url("tick.png") no-repeat, #FFFBF4;
+                    background-position: 4px 2px;
+                }
+
+                #remember {
+                    order: 3;
+                    align-self: center;
+                }
+            }
+        }
+    }
+}
