@@ -1,0 +1,154 @@
+﻿@import "reset.css";
+
+body {
+    font-family: Arial;
+    font-size: 1rem;
+    width: auto;
+}
+
+header {
+    background: url("resources/headerBackground.jpg") no-repeat;
+    background-size: 100% 100%;
+}
+
+    header div {
+        width: 97%;
+        font-size: 1.5rem;
+        padding: 205px 3% 30px 0;
+        text-align: right;
+        color: #fff;
+        font-weight: bold;
+    }
+
+nav {
+    border-bottom: 1px solid #fff;
+    box-shadow: 0 1px 0 1px #EFEFEF;
+    background: #EFEFEF;
+}
+
+    nav ul li {
+        float: left;
+    }
+
+        nav ul li a {
+            display: block;
+            padding: 8px 15px 6px 15px;
+            text-decoration: none;
+            font-size: 1rem;
+            color: #738AA0;
+            text-transform: uppercase;
+            border-right: 1px solid #fff;
+            background: #EFEFEF;
+        }
+
+            nav ul li a:hover, nav ul li:first-of-type a {
+                color: #fff;
+                background: #BCBCBC;
+            }
+
+aside {
+    float: right;
+    width: 18%;
+}
+
+    aside section {
+        margin: 20px 10% 0 2%;
+        border: 1px solid #E6E6E6;
+        border-radius: 10px;
+        padding: 15px 5% 5px 5%;
+        font-size: 0.9rem;
+    }
+
+        aside section:first-of-type {
+            background: #F6F6F6;
+        }
+
+        aside section:nth-of-type(2) .Unit div:nth-child(4) {
+            padding-top: 15px;
+        }
+
+    aside h4 {
+        font-size: 1.2rem;
+        color: #8AC421;
+        text-transform: uppercase;
+        padding-bottom: 15px;
+    }
+
+    aside .Unit {
+        margin-bottom: 10px;
+    }
+
+    aside time, aside span {
+        font-weight: bold;
+    }
+
+    aside div a {
+        color: #A6D258;
+    }
+
+        aside div a:visited {
+            color: #A6D258;
+        }
+
+.Content {
+    float: left;
+    width: 81%;
+}
+
+    .Content section {
+        border: 1px solid #E6E6E6;
+        border-radius: 10px;
+    }
+
+        .Content section:nth-of-type(1) {
+            margin: 20px 2% 0 4%;
+        }
+
+        .Content section:nth-of-type(2) {
+            margin: 10px 2% 30px 4%;
+        }
+
+    .Content .Unit {
+        padding: 10px 4% 10px 4%;
+    }
+
+    .Content img {
+        float: left;
+        padding: 0 3% 3px 0;
+    }
+
+    .Content article {
+        margin-bottom: 10px;
+    }
+
+    .Content strong, .Content h3 {
+        font-weight: bold;
+    }
+
+    .Content h3 {
+        padding-bottom: 10px;
+    }
+
+    .Content h1, .Content h2 {
+        font-size: 1.5rem;
+        color: #88C559;
+        padding: 10px 0 10px 0;
+    }
+
+footer {
+    background: linear-gradient(#ADDE43, #87C518);
+}
+
+    footer div {
+        width: 69%;
+        text-align: center;
+        padding: 20px 0 40px 0;
+    }
+
+/*Reset floats*/
+nav:after, main:after, article:after {
+    content: '';
+    height: 0;
+    display: block;
+    clear: both;
+}

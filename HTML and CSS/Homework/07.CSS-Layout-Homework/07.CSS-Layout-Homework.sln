@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.WebsiteHeader", "01.WebsiteHeader", "{AE92E5FA-07F0-4EC6-96F9-40F9B1F005E0}"
+	ProjectSection(SolutionItems) = preProject
+		WebsiteHeader.css = WebsiteHeader.css
+		WebsiteHeader.html = WebsiteHeader.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.WebsiteFooter", "02.WebsiteFooter", "{5787BB04-BC77-4613-AB95-FF2D65628914}"
+	ProjectSection(SolutionItems) = preProject
+		WebsiteFooter.css = WebsiteFooter.css
+		WebsiteFooter.html = WebsiteFooter.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.SoftUniNews", "03.SoftUniNews", "{727D7F93-6163-4D47-8BD9-19DD014DADDD}"
+	ProjectSection(SolutionItems) = preProject
+		SoftUniNews.css = SoftUniNews.css
+		SoftUniNews.html = SoftUniNews.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.PrettyWebsite", "04.PrettyWebsite", "{6FE104B0-4C5A-4EF6-86B8-11888D1A179B}"
+	ProjectSection(SolutionItems) = preProject
+		PrettyWebsite.css = PrettyWebsite.css
+		PrettyWebsite.html = PrettyWebsite.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

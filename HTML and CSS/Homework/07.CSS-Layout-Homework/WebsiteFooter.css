@@ -1,0 +1,73 @@
+﻿@import "reset.css";
+
+body {
+    background: #264768;
+}
+
+.Content {
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-size: 0.8rem;
+    margin: 3%;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #fff;
+}
+
+/*.Buttons, .Menu, .Partners, .CopyRight, .Facebook {
+    border: 1px solid red;
+}*/
+
+.Menu, .Partners {
+    flex-grow: 1;
+}
+
+.Facebook {
+    flex-grow: 3;
+}
+
+.CopyRight, .Buttons {
+    flex-grow: 2;
+}
+
+.Buttons input {
+    display: block;
+    width: 150px;
+    height: 35px;
+    font-size: 0.8rem;
+    margin-left: 15%;
+    margin-right: 15%;
+
+    background: none;
+    color: #ffffff;
+    border: 2px solid #FFA000;
+    border-radius: 1px;
+}
+
+    .Buttons input:first-child {
+        margin-bottom: 3%;
+    }
+
+h3 {
+    margin-bottom: 10px;
+    color: #FFA000;
+    text-transform: uppercase;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+li {
+    margin-bottom: 5%;
+}
+
+.CopyRight div {
+    margin-bottom: 4%;
+}
