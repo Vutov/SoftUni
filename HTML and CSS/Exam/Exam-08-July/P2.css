@@ -1,0 +1,122 @@
+﻿@font-face {
+  font-family: 'Patua One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Patua One'), local('PatuaOne-Regular'), url(http://fonts.gstatic.com/s/patuaone/v6/yAXhog6uK3bd3OwBILv_SFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'), url(http://fonts.gstatic.com/s/patuaone/v6/yAXhog6uK3bd3OwBILv_SD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff'); }
+
+body {
+  font-family: Georgia; }
+  body #wrapper {
+    width: 940px;
+    margin: 0 auto; }
+    body #wrapper header {
+      width: 564px;
+      margin: 0 auto;
+      text-align: center;
+      margin-bottom: 40px; }
+      body #wrapper header div h1 {
+        font-family: 'Patua One';
+        font-size: 45px;
+        margin: 10px 0 5px 0;
+        cursor: pointer;
+        background: url("site-logo.png") no-repeat;
+        background-position: 137px 6px;
+        background-size: 8%;
+        padding: 0 0 0 68px; }
+        body #wrapper header div h1:hover {
+          color: #777777; }
+      body #wrapper header div div {
+        font-family: Georgia;
+        font-size: 12px;
+        font-style: italic;
+        color: #777777; }
+      body #wrapper header nav ul {
+        border-top: 1px dashed #777;
+        border-bottom: 2px dotted #DDD;
+        list-style: none; }
+        body #wrapper header nav ul li {
+          display: inline-block; }
+          body #wrapper header nav ul li:first-of-type a {
+            background: #EEE; }
+          body #wrapper header nav ul li a {
+            display: block;
+            padding: 4px 10px;
+            margin: 10px 5px;
+            text-decoration: none;
+            color: #999;
+            font-weight: 700; }
+            body #wrapper header nav ul li a:visited {
+              text-decoration: none;
+              color: #999; }
+            body #wrapper header nav ul li a:hover {
+              color: #666; }
+    body #wrapper main #image {
+      height: 350px;
+      background: url("cover-mountains.jpg") no-repeat;
+      background-size: 100%; }
+    body #wrapper main #flex-wrapper {
+      display: flex;
+      flex-flow: row wrap; }
+    body #wrapper main section {
+      width: 76%;
+      order: 1;
+      flex-grow: 1;
+      margin-right: 2%; }
+      body #wrapper main section #important-title {
+        border-bottom: 1px dashed #777;
+        border-top: 2px dotted #DDD;
+        margin: 30px 70px;
+        text-align: center;
+        color: #666; }
+        body #wrapper main section #important-title h2 {
+          font-weight: normal; }
+        body #wrapper main section #important-title div {
+          font-size: 0.8rem;
+          padding-bottom: 30px;
+          line-height: 150%; }
+      body #wrapper main section #some-title h2 {
+        font-weight: normal;
+        font-size: 2rem;
+        margin-top: 60px; }
+      body #wrapper main section #some-title div {
+        padding-bottom: 30px;
+        line-height: 150%; }
+    body #wrapper main aside {
+      width: 18%;
+      order: 2;
+      flex-grow: 1; }
+      body #wrapper main aside .aside-wrapper {
+        padding: 15px;
+        border: 1px dashed #777;
+        margin-top: 15px;
+        background: #F9F9F9; }
+        body #wrapper main aside .aside-wrapper #search input {
+          display: inline-block; }
+        body #wrapper main aside .aside-wrapper #search input[type="text"] {
+          width: 50%;
+          padding: 2px; }
+        body #wrapper main aside .aside-wrapper h3 {
+          color: #666;
+          margin: 10px 0 5px 0; }
+        body #wrapper main aside .aside-wrapper a {
+          display: block;
+          padding: 2px 0;
+          color: #007CD8;
+          text-decoration: none; }
+          body #wrapper main aside .aside-wrapper a:hover {
+            color: #FF4B33;
+            text-decoration: underline; }
+          body #wrapper main aside .aside-wrapper a:last-of-type {
+            padding-bottom: 10px; }
+          body #wrapper main aside .aside-wrapper a:visited {
+            color: #743399; }
+          body #wrapper main aside .aside-wrapper a:visited:hover {
+            color: #FF4B33;
+            text-decoration: underline; }
+  body footer {
+    text-align: center;
+    border-top: 1px solid #CCC;
+    padding: 15px;
+    background: #EEE;
+    color: #666;
+    font-size: 0.9rem; }
