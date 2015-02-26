@@ -1,0 +1,399 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Fonts */
+@font-face {
+    font-family: 'Fairview';
+    src: url('Fairview_Regular.otf') format('opentype');
+}
+
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    color: #111;
+    background-color: #FFF;
+    font: 1.1em 'Nunito', Arial, sans-serif;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    /*min-width: 600px;*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+}
+
+h1 {
+    font-size: 150%;
+    margin-bottom: 1em;
+}
+
+p {
+    margin: 1em 0;
+}
+
+ul, ol {
+    list-style-position: outside;
+}
+
+    ul li {
+        margin-bottom: 0.5em;
+    }
+
+hr {
+    display: block;
+    margin: 1em 0;
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: #ddd;
+}
+
+blockquote {
+    display: blocks;
+    background: #fdd;
+    padding-left: 0.2em;
+}
+
+th, td {
+    padding: 0 2em 1em 0;
+}
+
+img {
+    width: 36em;
+}
+
+a {
+    color: #a00;
+    transition: color 0.075s;
+}
+
+    a:hover {
+        color: #000;
+    }
+
+.writing a {
+    text-decoration: none;
+    border-bottom: 1px dotted tomato;
+}
+
+    .writing a:hover {
+        border-bottom: 1px solid tomato;
+    }
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+.post-index hr {
+    margin: 2em 0;
+}
+
+.post-index:last-of-type hr {
+    display: none;
+}
+
+.post .title {
+    margin-bottom: 0em;
+}
+
+    .post .title a {
+        text-decoration: none;
+        color: #000;
+        transition: color 0.075s;
+    }
+
+        .post .title a:hover {
+            color: #a00;
+        }
+
+.post .date {
+    display: block;
+    margin-top: 1.1em;
+    font-size: 0.9em;
+    color: #aaa;
+}
+
+.post .excerpt {
+}
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+.site {
+    box-sizing: border-box;
+    text-align: left;
+    line-height: 1.45em;
+    overflow: hidden;
+}
+
+    .site .container {
+        width: 38em;
+        margin: 1em auto 2em;
+    }
+
+        .site .container .writing {
+            padding: 1em;
+        }
+
+.header {
+    padding: 0;
+}
+
+.banner {
+    background: #E05E43;
+    color: #FFF;
+    text-align: center;
+}
+
+    .banner a.title {
+        font-family: 'Fairview', 'Helvetica', sans-serif;
+        color: #fff;
+        font-size: 700%;
+    }
+
+.header a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+    .header a.title:hover {
+        color: #000;
+    }
+
+.header .navigation {
+    font-family: 'Fairview', 'Helvetica', sans-serif;
+    list-style-type: none;
+    overflow: hidden;
+    font-size: 150%;
+    padding: 0.5em 0;
+}
+
+    .header .navigation li {
+        display: inline;
+    }
+
+.header a.extra {
+    color: #666;
+    margin: 0 0.5em;
+}
+
+    .header a.extra:hover {
+        color: #000;
+    }
+
+.header a.highlight {
+    color: white;
+    background: tomato;
+    padding: 6px 10px;
+}
+
+.icon-heart {
+    font-family: FontAwesome;
+    font-size: 90%;
+    color: #a00;
+}
+
+.site .meta {
+    color: #aaa;
+}
+
+.footer {
+    padding: 0 1em;
+    background: #222;
+    color: #AAA;
+    font-size: 1em;
+    height: 10.45em;
+    clear: both;
+}
+
+    .footer hr {
+        border-color: #444;
+    }
+
+    .footer .foot-body {
+        padding: 1em;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .footer .navigation {
+        list-style-type: none;
+        text-align: center;
+        margin-bottom: 1em;
+    }
+
+        .footer .navigation li {
+            display: inline;
+        }
+
+    .footer a {
+        text-decoration: none;
+        color: #555;
+    }
+
+        .footer a.extra {
+            font-weight: bold;
+            text-decoration: none;
+            color: #aaa;
+            font-size: 90%;
+            margin: 0;
+            padding: 5px 10px;
+        }
+
+            .footer a.extra:hover {
+                color: #a22;
+                background: #aaa;
+            }
+
+    .footer .location, .footer .email {
+        font-size: 0.75em;
+        color: #555;
+    }
+
+        .footer .location span, .footer .email {
+            transition: color 0.075s;
+        }
+
+            .footer .location a:hover, .footer .email:hover {
+                color: #aaa;
+            }
+
+    .footer .location {
+        margin-bottom: 1em;
+    }
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.break {
+    height: 1em;
+}
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+/* standard */
+.post pre {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .4em;
+}
+
+.post code {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .2em;
+}
+
+.post pre code {
+    border: none;
+}
+
+/* terminal */
+.post pre.terminal {
+    border: 1px solid #000;
+    background-color: #333;
+    color: #FFF;
+}
+
+    .post pre.terminal code {
+        background-color: #333;
+    }
+
+@media screen and (max-width: 568px) {
+    body {
+        font-size: 10.5px;
+    }
+
+    .header .navigation {
+        font-size: 250%;
+    }
+
+    .site .container {
+        width: auto;
+    }
+
+    table {
+        width: 100%;
+    }
+
+    th {
+        display: none;
+    }
+
+    td {
+        display: block;
+        padding-left: 5px;
+    }
+
+    tr:nth-child(2n+1) {
+        width: 80%;
+        background: #EEEEEF;
+        margin-bottom: 10px;
+    }
+
+        tr:nth-child(2n+1) td:first-of-type {
+            padding-top: 10px;
+        }
+
+    tr:nth-child(2n) td:first-of-type {
+        padding-top: 10px;
+    }
+
+    tr td:first-of-type:before {
+        content: "When:";
+        margin-right: 10px;
+        font-weight: bold;
+    }
+
+    tr td:nth-of-type(2):before {
+        content: "When:";
+        margin-right: 10px;
+        font-weight: bold;
+        visibility: hidden;
+    }
+
+    tr td:nth-of-type(3):before {
+        content: "What:";
+        margin-right: 10px;
+        font-weight: bold;
+    }
+
+    .footer .navigation li {
+        display: block;
+    }
+}
