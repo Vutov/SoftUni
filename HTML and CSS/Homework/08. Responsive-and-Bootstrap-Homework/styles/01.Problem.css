@@ -1,0 +1,276 @@
+﻿body {
+    margin: 1%;
+    padding: 0;
+    background: #6698FF;
+}
+
+#wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header:first-of-type h1 {
+    margin: 0 auto;
+    padding-bottom: 2%;
+}
+
+header h1 a {
+    font-size: 2.5rem;
+    text-decoration: none;
+    color: #fff;
+}
+
+    header h1 a:visited {
+        text-decoration: none;
+        color: #fff;
+    }
+
+    header h1 a span {
+        display: inline-block;
+    }
+
+nav {
+    height: 0;
+    border-top: 1px solid #000;
+}
+
+    nav ul {
+        list-style-type: none;
+        position: relative;
+        left: 45%;
+        bottom: 2rem;
+        width: 50%;
+    }
+
+        nav ul li {
+            float: left;
+            border: 1px solid #000;
+            margin: 0 1% 0 1%;
+        }
+
+            nav ul li a {
+                display: block;
+                padding: 0.25rem 0.8rem 0.25rem 0.8rem;
+                background: #fff;
+                text-decoration: none;
+                color: #000;
+            }
+
+            nav ul li a {
+                text-decoration: none;
+                color: #000;
+            }
+
+section, aside {
+    display: inline-block;
+}
+
+aside {
+    border: 1px solid #000;
+    float: right;
+    width: 20%;
+}
+
+    aside ul {
+        list-style-type: none;
+        -webkit-margin-before: 0;
+        -webkit-margin-after: 0;
+        -webkit-padding-start: 0;
+    }
+
+        aside ul li a {
+            display: block;
+            background: #E0EAFE;
+            padding: 4%;
+            color: #000;
+            text-decoration: none;
+            font-size: 1rem;
+        }
+
+            aside ul li a:hover {
+                color: #000;
+                text-decoration: none;
+            }
+
+section {
+    width: 78%;
+}
+
+article {
+    border: 1px solid #000;
+    margin-bottom: 2%;
+    background: #E0EAFE;
+}
+
+    article h1 {
+        font-size: 2rem;
+        color: #000;
+        padding: 1%;
+    }
+
+    article p {
+        margin: 0;
+        padding: 0 2% 2% 2%;
+        text-indent: 2rem;
+        text-align: justify;
+        font-size: 1rem;
+    }
+
+footer {
+    border: 1px solid yellow;
+    text-align: center;
+    padding-top: 2%;
+    border: 1px solid #000;
+    background: #E0EAFE;
+}
+
+    footer h2 {
+        margin: 0;
+    }
+
+nav:after {
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+}
+
+@media only screen and (min-width : 780px) and (max-width : 960px) {
+    nav ul {
+        float: right;
+        left: 0%;
+        width: 60%;
+    }
+}
+
+@media only screen and (min-width : 640px) and (max-width : 780px) {
+    header:first-of-type h1 {
+        padding-bottom: 3%;
+    }
+
+    header h1 a {
+        font-size: 2rem;
+    }
+
+    nav ul {
+        float: right;
+        left: 0%;
+        width: 75%;
+    }
+
+    section, aside {
+        display: block;
+    }
+
+    section {
+        margin-top: 5%;
+        width: auto;
+    }
+
+    aside {
+        float: none;
+        width: auto;
+        margin-bottom: 2%;
+        background: #E0EAFE;
+    }
+
+        aside li {
+            float: left;
+            width: 25%;
+            height: auto;
+            padding-bottom: 5%;
+        }
+
+            aside li a {
+                width: auto;
+                height: auto;
+                padding-bottom: 5%;
+                text-align: center;
+            }
+
+        aside:after {
+            content: "";
+            height: 0;
+            display: block;
+            clear: both;
+        }
+
+    article h1 {
+        font-size: 1.5rem;
+    }
+
+    article p {
+        font-size: 0.8rem;
+    }
+}
+
+@media only screen and (max-width : 640px) {
+
+    header:first-of-type h1 {
+        padding-bottom: 6%;
+    }
+
+    header h1{
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
+    nav {
+        height: auto;
+    }
+
+        nav ul {
+            left: 0;
+            bottom: 1rem;
+            width: auto;
+            padding-left: 0;
+            -webkit-margin-before: 0;
+            -webkit-margin-after: 0;
+            -webkit-margin-start: 0;
+            -webkit-margin-end: 0;
+            -webkit-padding-start: 0;
+        }
+
+            nav ul li {
+                width: 85%;
+                padding-left: 0;
+                float: none;
+                margin: 0 7.5% 0 7.5%;
+            }
+
+                nav ul li a {
+                    width: auto;
+                }
+
+    section, aside {
+        display: block;
+    }
+
+    section {
+        margin-top: 5%;
+        width: auto;
+    }
+
+    aside {
+        float: none;
+        width: auto;
+        margin-bottom: 2%;
+        background: #E0EAFE;
+    }
+
+        aside li a {
+            width: auto;
+            height: auto;
+            text-align: center;
+        }
+
+    article h1 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    article p {
+        font-size: 0.8rem;
+    }
+}
+}
