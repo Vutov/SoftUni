@@ -1,0 +1,273 @@
+﻿@import "reset.css";
+
+$purple: #310231;
+$blue: #0202B0;
+$green: #023202;
+$yellow: #F5F502;
+$orange: #EC9202;
+$red: #CD0202;
+$grey: #808080;
+
+$siteWidth: 900px;
+
+@mixin border() {
+    border: 3px double $grey;
+    margin: 10px;
+}
+
+@mixin linearGradient($firstColor, $secondColor) {
+    background: linear-gradient($firstColor, $secondColor);
+}
+
+@mixin roundLinear($firstColor) {
+    background: linear-gradient($firstColor, #fff);
+    border-radius: 10px;
+}
+
+@mixin roundHorizontal($firstColor) {
+    background: linear-gradient(to right, $firstColor, #fff);
+    border-radius: 10px;
+}
+
+@mixin roundDiagonal($firstColor) {
+    background: linear-gradient(to bottom right, $firstColor, #fff);
+    border-radius: 10px;
+}
+
+
+@mixin roundRadian($firstColor) {
+    background: radial-gradient($firstColor, #fff);
+    border-radius: 10px;
+}
+
+body {
+    @include linearGradient($grey, #fff);
+
+    #wrapper {
+        width: $siteWidth;
+        margin: 0 auto;
+        background: #fff;
+        //border: 1px solid red;
+        header {
+            @include border();
+
+            h1 {
+                font-size: 2rem;
+                font-weight: 700;
+                color: $grey;
+                text-align: center;
+                margin: 15px 0;
+            }
+
+            nav {
+
+                ul {
+                    width: 600px / $siteWidth * 100%;
+                    margin: 0 auto;
+                    //border: 1px solid red;
+                    display: flex;
+                    margin-bottom: 15px;
+
+                    li {
+                        display: inline-block;
+                        flex-grow: 1;
+                        text-align: center;
+
+                        a {
+                            @include border();
+                            display: block;
+                            width: 50%;
+                            margin: 0 25%;
+                            padding: 10px 5px;
+                            color: $grey;
+                            text-decoration: none;
+
+                            &:visited {
+                                color: $grey;
+                                text-decoration: none;
+                            }
+
+                            &:hover {
+                                color: #fff;
+                                @include linearGradient($grey, #fff);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        article {
+            border: 1px solid $grey;
+            padding-top: 10px;
+            margin: 10px;
+
+            .innerContainer {
+                width: auto;
+                height: 140px;
+                margin: 0 10px;
+                //background: yellow;
+                div {
+                    background: red;
+                    display: inline-block;
+                    margin: 0 auto 5% auto;
+                    width: 16.2%;
+                    height: 95%;
+                }
+            }
+        }
+
+        .linear {
+            //background: red;
+            @include border();
+
+            #linear {
+                //background: yellow;
+                border: none;
+
+                h1 {
+                    font-size: 1.2rem;
+                    text-decoration: underline;
+                    font-weight: normal;
+                }
+            }
+        }
+
+        header {
+            border: none;
+            text-align: center;
+        }
+
+        article:first-of-type {
+            .purple {
+                @include roundLinear($purple);
+            }
+
+            .blue {
+                @include roundLinear($blue);
+            }
+
+            .green {
+                @include roundLinear($green);
+            }
+
+            .yellow {
+                @include roundLinear($yellow);
+            }
+
+            .orange {
+                @include roundLinear($orange);
+            }
+
+            .red {
+                @include roundLinear($red);
+            }
+        }
+
+        article:nth-of-type(2) {
+            .purple {
+                @include roundHorizontal($purple);
+            }
+
+            .blue {
+                @include roundHorizontal($blue);
+            }
+
+            .green {
+                @include roundHorizontal($green);
+            }
+
+            .yellow {
+                @include roundHorizontal($yellow);
+            }
+
+            .orange {
+                @include roundHorizontal($orange);
+            }
+
+            .red {
+                @include roundHorizontal($red);
+            }
+        }
+
+        article:nth-of-type(3) {
+            .purple {
+                @include roundDiagonal($purple);
+            }
+
+            .blue {
+                @include roundDiagonal($blue);
+            }
+
+            .green {
+                @include roundDiagonal($green);
+            }
+
+            .yellow {
+                @include roundDiagonal($yellow);
+            }
+
+            .orange {
+                @include roundDiagonal($orange);
+            }
+
+            .red {
+                @include roundDiagonal($red);
+            }
+        }
+
+        .radial {
+            @include border();
+
+            article {
+                .purple {
+                    @include roundRadian($purple);
+                }
+
+                .blue {
+                    @include roundRadian($blue);
+                }
+
+                .green {
+                    @include roundRadian($green);
+                }
+
+                .yellow {
+                    @include roundRadian($yellow);
+                }
+
+                .orange {
+                    @include roundRadian($orange);
+                }
+
+                .red {
+                    @include roundRadian($red);
+                }
+            }
+        }
+
+        footer {
+            @include border();
+            padding: 20px;
+            text-align: center;
+
+            h3 {
+                font-size: 1.2rem;
+                text-decoration: underline;
+                color: $grey;
+                padding-bottom: 20px;
+            }
+
+            a {
+                text-decoration: none;
+                color: $grey;
+                line-height: 120%;
+
+                &:visited {
+                    text-decoration: none;
+                    color: $grey;
+                }
+            }
+        }
+    }
+}
