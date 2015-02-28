@@ -1,0 +1,298 @@
+/* ===========================
+   ======= Body style ======== 
+   =========================== */
+
+body {
+    background-image: url('bg.png');
+    color: #000305;
+    font-size: 87.5%; /* Base font size: 14px */
+    font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.429;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.body {
+    clear: both;
+    margin: 0 auto;
+    max-width: 740px;
+}
+
+/* ===========================
+   ========= Headings ======== 
+   =========================== */
+h2 {
+    font-size: 1.571em;
+}
+/* 22px */
+h3 {
+    font-size: 1.429em;
+}
+/* 20px */
+h4 {
+    font-size: 1.286em;
+}
+/* 18px */
+h5 {
+    font-size: 1.143em;
+}
+/* 16px */
+h6 {
+    font-size: 1em;
+}
+/* 14px */
+
+h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    line-height: 1.1;
+    margin-bottom: .8em;
+}
+
+/* ===========================
+   ======= Anchor style ====== 
+   =========================== */
+a {
+    outline: 0;
+}
+
+    a img {
+        border: 0px;
+        text-decoration: none;
+    }
+
+    a:link, a:visited {
+        color: #CF5C3F;
+        padding: 0 1px;
+        text-decoration: none;
+    }
+
+    a:hover, a:active {
+        background-color: #CF5C3F;
+        color: #fff;
+        text-decoration: none;
+    }
+
+/* ===========================
+   ===== Main Navigation ===== 
+   =========================== */
+
+.mainHeader nav {
+    background: #666;
+    font-size: 1.143em;
+    height: 40px;
+    line-height: 30px;
+    margin: 0 auto 30px auto;
+    text-align: center;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+    .mainHeader nav ul {
+        list-style: none;
+        margin: 0 auto;
+    }
+
+        .mainHeader nav ul li {
+            float: left;
+            display: inline;
+        }
+
+    .mainHeader nav a:link, .mainHeader nav a:visited {
+        color: #fff;
+        display: inline-block;
+        height: 30px;
+        padding: 5px 23px;
+        text-decoration: none;
+    }
+
+    .mainHeader nav a:hover, .mainHeader nav a:active,
+    .mainHeader nav .active a:link, .mainHeader nav .active a:visited {
+        background: #CF5C3F;
+        color: #fff;
+        text-shadow: none !important;
+    }
+
+    .mainHeader nav li a {
+        border-radius: 5px;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+    }
+
+.mainHeader img {
+    width: 30%;
+    height: auto;
+    margin: 3% 0;
+}
+
+/* ===========================
+   ======= Content Area ====== 
+   =========================== */
+
+.mainContent {
+    overflow: hidden;
+    line-height: 25px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.topcontent {
+    background-color: #FFF;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    padding: 3% 5%;
+    margin-bottom: 3%;
+}
+
+.bottomcontent {
+    background-color: #FFF;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    padding: 3% 5%;
+}
+
+.content {
+    width: 68%;
+    float: left;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.post-info {
+    font-style: italic;
+    color: #999;
+    font-size: 85%;
+}
+
+/* ===========================
+   ======== Sidebar ========== 
+   =========================== */
+
+.top-sidebar {
+    width: 24%;
+    float: left;
+    margin-left: 2%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background-color: #FFF;
+    padding: 2% 3%;
+    margin-bottom: 2%;
+}
+
+.middle-sidebar {
+    width: 24%;
+    float: left;
+    margin-left: 2%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background-color: #FFF;
+    padding: 2% 3%;
+    margin-bottom: 2%;
+}
+
+.bottom-sidebar {
+    width: 24%;
+    float: left;
+    margin-left: 2%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background-color: #FFF;
+    padding: 2% 3%;
+}
+
+/* ===========================
+   ========= Footer ========== 
+   =========================== */
+
+.mainFooter {
+    width: 100%;
+    float: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-left: 0;
+    background-color: #666;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    color: #FFF;
+}
+
+    .mainFooter p {
+        width: 91%;
+        margin: 2% auto;
+    }
+
+@media screen and (max-width: 780px) {
+    .mainHeader img {
+        width: 94%;
+        display: flex;
+        align-self: center;
+        margin: 15px auto;
+    }
+
+    .mainHeader nav {
+        height: auto;
+        margin: 0 3%;
+    }
+
+        .mainHeader nav ul {
+            padding-left: 0;
+        }
+
+        .mainHeader nav a:link, .mainHeader nav a:visited {
+            color: #fff;
+            display: inline-block;
+            height: 30px;
+            padding: 5px 0;
+            text-decoration: none;
+        }
+
+        .mainHeader nav ul li {
+            float: none;
+            display: block;
+        }
+
+
+            .mainHeader nav ul li a {
+                width: 100%;
+                padding: 5px 0;
+            }
+
+                .mainHeader nav ul li a:hover {
+                    width: 100%;
+                    padding: 5px 0;
+                }
+
+    .mainHeader:after {
+        content: "";
+        display: block;
+        height: 0;
+        clear: both;
+    }
+
+    .content {
+        float: none;
+        width: 94%;
+        padding: 2% 3%;
+    }
+
+    .top-sidebar, .middle-sidebar, .bottom-sidebar {
+        float: none;
+        width: 88%;
+        padding: 2% 3%;
+        margin-left: 3%;
+    }
+
+    .mainFooter {
+        width: 94%;
+        margin: 2% 3%;
+    }
+}
