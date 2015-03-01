@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'Yano';
+    src: url("yanonekaffeesatz-regular-webfont.ttf");
+}
+
+
+body {
+    background: url("envelope-bottom.png"),url("letter-background.png"), url("envelope-top.png"), url("form-background.png");
+    background-repeat: no-repeat, no-repeat, no-repeat, repeat;
+    background-size: auto, 495px 453px, auto, auto;
+    background-position: 115px 435px, 134px 118px, 115px 133px;
+    font-family: Yano, Aril, sans-serif;
+
+    .wrapper {
+        width: 470px;
+        //border: 1px solid red;
+        margin: 0 137px;
+
+        form {
+            display: flex;
+            flex-flow: column;
+            justify-content: center;
+
+            h1 {
+                color: #7C7873;
+                font-weight: normal;
+                font-size: 3rem;
+                text-align: center;
+            }
+
+            h2 {
+                color: #7C7873;
+                font-weight: normal;
+                font-size: 1.6rem;
+                margin: 0;
+            }
+
+            h3 {
+                color: #BAB2A1;
+                font-weight: normal;
+                font-size: 1rem;
+                text-transform: uppercase;
+                margin: 0;
+            }
+
+            textarea {
+                padding: 7px;
+                width: 452px;
+                height: 100px;
+                background: rgba(0, 0, 0, 0);
+
+                &:focus {
+                    background: rgba(255, 255, 255, 0.4);
+                }
+            }
+
+            input {
+                font-family: Helvetica, Arial, serif;
+                display: block;
+            }
+
+            input[type="text"], input[type="email"] {
+                padding: 7px;
+                width: 452px;
+                margin-bottom: 5px;
+                background: rgba(0, 0, 0, 0);
+            }
+
+            input[type="text"], input[type="email"], textarea {
+                border-radius: 4px;
+                border: 1px solid #E8E1DA;
+                outline: 0;
+            }
+
+            input[type="submit"] {
+                background: rgba(0, 0, 0, 0);
+                border: none;
+                color: #7C7873;
+                width: 40%;
+                align-self: center;
+                margin-top: 10px;
+                font-size: 1.6rem;
+                padding: 7px 0;
+                cursor: pointer;
+
+                &:hover {
+                    background: #BBC9CF;
+                    border-radius: 4px;
+                    color: #435C70;
+                }
+            }
+        }
+    }
+}
