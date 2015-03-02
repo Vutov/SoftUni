@@ -1,0 +1,237 @@
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Nunito-Regular'), url(http://fonts.gstatic.com/s/nunito/v7/cSNs3NwpEgPVRQzvkh3NeQ.woff2) format('woff2'), url(http://fonts.gstatic.com/s/nunito/v7/0rdItLTcOd8TSMl72RUU5w.woff) format('woff');
+}
+
+.wrapper {
+    width: 1020px;
+    margin: 0 auto;
+    font-size: 13px;
+    font-family: Verdana;
+
+    header {
+
+        h1 {
+            text-transform: uppercase;
+            color: #fff;
+            padding: 20px;
+            font-size: 42px;
+            font-weight: 700;
+            font-family: Nunito;
+            background: #FBBE61;
+            margin: 0;
+        }
+
+        nav {
+            background: #40312A;
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: space-between;
+            align-content: center;
+            border: 1px solid #000;
+
+            ul, .search {
+                margin: 20px;
+                padding: 0;
+            }
+
+            ul {
+                list-style: none;
+
+                li {
+                    display: inline-block;
+
+                    a {
+                        text-transform: uppercase;
+                        font-size: 16px;
+                        font-weight: 100;
+                        font-family: Nunito;
+                        text-decoration: none;
+                        color: #fff;
+
+                        &:visited {
+                            text-decoration: none;
+                            color: #fff;
+                        }
+
+                        &:hover {
+                            color: #328899;
+                        }
+
+                        &:visited:hover {
+                            color: #328899;
+                        }
+                    }
+                }
+            }
+
+            .search {
+                display: flex;
+
+                label {
+                    text-transform: uppercase;
+                    color: #fff;
+                    padding-top: 2px;
+                    margin-right: 5px;
+                }
+
+                input {
+                    background: #2C8897;
+                    padding: 2px 5px;
+                    border: none;
+                }
+
+                input[type=button] {
+                    margin-left: 5px;
+                    width: 25px;
+                    height: 22px;
+                    background: url("../search-icon.png") no-repeat;
+                    //background: red;
+                    background-position: 4px 2px;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+
+    .main {
+        display: flex;
+        flex-flow: row wrap;
+
+        section:first-of-type {
+            width: 61%;
+            flex-grow: 1;
+            //border: 1px solid red;
+            background: #F7EEDF;
+            padding-right: 30px;
+
+            h1 {
+                color: #2F8795;
+                font-family: Cambria;
+                font-size: 22px;
+                padding: 10px 20px;
+                margin-bottom: 0;
+            }
+
+            article {
+                padding: 10px 20px 0 20px;
+                margin-bottom: 20px;
+
+                h2 {
+                    font-family: Nunito;
+                    font-size: 22px;
+                    margin: 0;
+                    color: #463130;
+                }
+
+                time {
+                    display: block;
+                    margin-bottom: 10px;
+                    font-family: Cambria;
+                    font-size: 10px;
+                    font-weight: 700;
+                    color: #D7925B;
+                }
+
+                .image {
+                    height: 138px;
+                    display: flex;
+                    flex-flow: row wrap;
+                    margin-bottom: 20px;
+
+                    .text {
+                        background: rgba(0, 0, 0, 0.4);
+                        align-self: flex-end;
+                        width: 100%;
+                        padding: 7px 5px;
+                        color: #fff;
+                    }
+                }
+
+                .first-image {
+                    background: url("../article-pic-01.png") no-repeat;
+                    background-size: 100%;
+                }
+
+                .second-image {
+                    background: url("../article-pic-02.png") no-repeat;
+                    background-size: 100%;
+                }
+
+                a, a:visited {
+                    color: #28727B;
+                    text-decoration: none;
+                }
+            }
+
+            article:last-of-type {
+                padding-bottom: 40px;
+            }
+        }
+
+        section:last-of-type {
+            width: 35%;
+            flex-grow: 1;
+            //border: 1px solid red;
+            background: #EDDEC7;
+
+            ul {
+                list-style: none;
+                //border: 1px solid red;
+                margin: 20px 30px;
+                padding: 0;
+
+                li {
+                    //border: 1px solid blue;
+                    a {
+                        display: block;
+                        padding: 10px 20px;
+                        background: #2D8A9B;
+                        text-decoration: none;
+                        color: #fff;
+
+                        &:visited {
+                            text-decoration: none;
+                            color: #fff;
+                        }
+
+                        &:hover, &:visited:hover {
+                            background: #37A5B6;
+                            text-decoration: underline;
+                        }
+                    }
+                }
+            }
+
+            h2 {
+                margin: 20px 30px 10px 30px;
+                text-transform: uppercase;
+                color: #2C8A96;
+                font-weight: normal;
+            }
+
+            img {
+                margin: 0 30px;
+                width: 82%;
+            }
+
+            div {
+                margin: 10px 30px 10px 30px;
+
+                a, a:visited {
+                    text-decoration: none;
+                    color: #20718E;
+                }
+            }
+        }
+    }
+
+    footer {
+        font-family: Cambria;
+        color: #fff;
+        background: #2C8897;
+        padding: 20px;
+    }
+}
