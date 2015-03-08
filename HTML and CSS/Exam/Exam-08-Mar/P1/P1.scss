@@ -1,0 +1,103 @@
+/*Fonts:
+Site content: Arial, Helvetica, sans-serif; 12px.
+Link Read More: 10px.
+Site content: fixed width 800px.*/
+
+$shadow: 1px 1px 1px #fff;
+
+body {
+    //background: red;
+}
+
+.wrapper {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 800px;
+    //box-sizing: border-box;
+    //margin: 0 auto;
+    //border: 1px solid red;
+    padding: 0 20px;
+
+    h1 {
+        font-size: 2rem;
+        font-weight: normal;
+        width: auto;
+        background: #dddddd;
+        color: #9470dc;
+        text-align: center;
+        padding: 10px 0;
+        border-radius: 15px;
+        //margin: 0;
+        text-shadow: $shadow;
+    }
+
+    .container {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+
+        .content {
+            background: #eeeeee;
+            //border: 1px solid red;
+            width: 23%;
+            margin-right: 18px;
+            border-radius: 15px;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+
+        div:last-of-type {
+            margin-right: 0;
+            color: #9da1a8;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        a:first-of-type {
+            display: block;
+            width: 90%;
+            padding: 39px 0;
+            font-size: 5rem;
+            font-weight: 700;
+            border-radius: 50%;
+            //background: red;
+            margin: 10px;
+            color: #fff;
+            background: #9470dc;
+
+            &:visited {
+                color: #efeef2;
+            }
+
+            &:hover, &:visited:hover {
+                color: #9470dc;
+                background: #fff;
+            }
+        }
+
+        div {
+            margin: 10px 0;
+        }
+
+        a:last-of-type {
+            display: block;
+            background: #dddddd;
+            margin: 0 5px;
+            margin-bottom: 7px;
+            border-radius: 10px;
+            padding: 10px 0;
+            color: black;
+            text-shadow: $shadow;
+
+            &:visited {
+                color: black;
+            }
+
+            &:visited:hover, &:hover {
+                color: black;
+                background: #fff;
+            }
+        }
+    }
+}

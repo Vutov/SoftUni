@@ -1,0 +1,404 @@
+﻿$border: 1px solid white;
+$font-Color: #f5bda6;
+$shadow: #3c0000 0 0 200px;
+
+@font-face {
+    font-family: 'GothamNightsBoldItalic';
+    src: url('../Fonts/Gotham Nights Bold Italic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'GothamNightsBold';
+    src: url('../Fonts/Gotham Nights Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'GothamNightsItalic';
+    src: url('../Fonts/Gotham Nights Italic.otf') format('opentype');
+}
+
+a {
+    color: $font-Color;
+}
+/*1366px normal resolution*/
+body {
+    margin: 0;
+    padding: 0 20px;
+    background-color: #130707;
+
+    #wrapper {
+        max-width: 1200px;
+        margin: 0 auto;
+        color: $font-Color;
+        padding: 10px;
+
+        header {
+            max-width: 1200px;
+            //box-sizing: border-box;
+            box-shadow: $shadow;
+
+            ul {
+                margin: 0;
+                padding: 10px 0 5px 0;
+                height: 185px;
+
+                #arkham-knight-logo {
+                    float: left;
+                }
+
+                #right-padded {
+                    float: right;
+                    margin: 60px 0;
+                }
+
+                li {
+                    width: 155px;
+                    text-align: center;
+                    border-radius: 5px;
+                    list-style: none;
+                    display: inline-block;
+                    font-family: GothamNightsBold;
+                    font-size: 40px;
+                    margin: 5px 20px;
+                    transition: 0.8s;
+
+                    img {
+                        width: 300px;
+                    }
+
+                    &:hover {
+                        background-color: black;
+                    }
+                }
+            }
+        }
+
+        main {
+            max-width: 1200px;
+
+            .union {
+                box-shadow: $shadow;
+                margin: 10px 0;
+
+                section {
+                    width: 48%;
+                }
+            }
+
+            .section-main-info {
+                display: inline-block;
+                max-width: 787px;
+
+                section {
+                    margin: 5px;
+                    display: inline-block;
+
+                    h2 {
+                        font-family: GothamNightsBold;
+                        font-size: 30px;
+                    }
+
+                    img {
+                        width: 360px;
+                    }
+
+                    article {
+                        display: inline-block;
+                        width: 320px;
+                        font-family: GothamNightsBoldItalic;
+                        font-size: 21px;
+                    }
+                }
+            }
+
+            .section-secondary-info {
+                position: relative;
+                bottom: 108px;
+                display: inline-block;
+                width: 322px;
+                padding: 5px;
+
+                header {
+                    font-family: GothamNightsBold;
+                    font-size: 24px;
+                    width: 340px;
+
+                    h3 {
+                        width: auto;
+                        margin: 0;
+                    }
+                }
+
+                section {
+                    font-family: GothamNightsBold;
+                    /*&:last-of-type {
+                        margin-top: 53px;
+                    }*/
+                }
+            }
+
+            nav {
+                padding: 0 6%;
+
+                ul {
+                    margin: 0 auto;
+                    padding: 0;
+
+                    li {
+                        display: inline-block;
+                        font-family: GothamNightsBold;
+                        font-size: 30px;
+                        margin: -30px 20px;
+                        transition: 1s;
+
+                        &:hover {
+                            color: #580d0d;
+                            text-decoration: underline;
+                            cursor: pointer;
+                        }
+                    }
+                }
+            }
+        }
+
+        footer {
+            text-align: center;
+            font-family: GothamNightsItalic;
+            font-size: 10px;
+        }
+    }
+}
+
+#wrapper > main > section > .union > section > article {
+    width: 100%;
+}
+
+#wrapper > header > ul > li:nth-child(1) {
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.00) !important;
+    }
+}
+
+#arkham-knight-logo {
+    float: left;
+}
+
+#wrapper > main > section > div:nth-child(2) > section:nth-child(2) > h2 > a {
+    color: darkred;
+}
+/*******************************1200 small resolution****************/
+/*****************************Implement missing layout***************************/
+@media screen and (max-width: 1199px) {
+    body {
+        #wrapper {
+            background: url(../images/LogoBackground.png) no-repeat;
+            /*Can be just center, not fixed!*/
+            background-attachment: fixed;
+            background-position: center center;
+
+            header {
+
+                ul {
+                    display: flex;
+                    flex-flow: row wrap;
+                    justify-content: center;
+                    //align-content: center;
+                    #arkham-knight-logo {
+                        display: none;
+                    }
+
+                    #right-padded {
+                        float: none;
+                        //align-self: center;
+                    }
+
+                    li {
+
+
+                        img {
+                            width: 300px;
+                        }
+                    }
+                }
+            }
+
+            main {
+
+                .section-main-info {
+                    max-width: none;
+                    width: auto;
+
+                    .union {
+                        display: flex;
+                        flex-flow: row wrap;
+                    }
+
+                    section {
+                        width: 40%;
+                        flex-grow: 1;
+
+                        img {
+                            width: 360px;
+                            max-width: 100%;
+                        }
+
+                        article {
+                            width: auto;
+                        }
+                    }
+                }
+
+                .section-secondary-info {
+                    bottom: 0;
+                    width: auto;
+                    display: flex;
+                    flex-flow: row wrap;
+
+                    header {
+                        width: auto;
+
+                        h3 {
+                            width: auto;
+                            margin: 0;
+                        }
+                    }
+
+                    section {
+                        width: 40%;
+                        flex-grow: 1;
+
+                        &:last-of-type {
+                            padding-left: 5px;
+                        }
+                    }
+                }
+
+                nav {
+                    padding: 0;
+
+                    ul {
+                        margin: 0 auto;
+                        width: auto;
+
+                        li {
+                            margin: -35px 18px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/*******************************560 xsmall resolution*****************************/
+/*****************************Implement missing layout***************************/
+@media screen and (max-width:559px) {
+    body {
+        //background: red;
+        #wrapper {
+            background: none;
+
+            .main-header {
+                padding: 0;
+                height: 250px;
+
+                ul {
+                    display: block;
+                    width: 100%;
+
+                    #right-padded {
+                        margin: 0;
+                    }
+
+                    a {
+                        text-decoration: none;
+                    }
+
+                    li {
+                        display: block;
+                        width: 90%;
+                        //background: red;
+                        border-bottom: 1px solid #fff;
+
+
+                        img {
+                            width: 300px;
+                        }
+                    }
+                }
+            }
+
+            main {
+
+                .section-main-info {
+                    max-width: none;
+                    width: auto;
+
+                    .union {
+                        flex-flow: column wrap;
+                    }
+
+                    section {
+                        width: 99%;
+                        text-align: center;
+
+                        img {
+                            width: 100%;
+                            max-width: none;
+                        }
+
+                        article {
+                            padding: 0 5px;
+                        }
+                    }
+                }
+
+                .section-secondary-info {
+                    flex-flow: column wrap;
+
+                    header {
+
+                        h3 {
+                            text-align: center;
+                        }
+                    }
+
+                    section {
+                        width: 100%;
+                    }
+                }
+
+                nav {
+                    display: flex;
+                    flex-flow: row wrap;
+                    justify-content: center;
+
+                    ul {
+                        margin-bottom: 10px;
+
+                        li {
+                            display: block;
+                            margin: 0;
+
+                            h2 {
+                                margin: 20px 0;
+                                text-decoration: underline;
+                            }
+
+                            &:last-of-type {
+                                text-decoration: underline;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    footer {
+        img {
+            width:23%;
+        }
+    }
+}

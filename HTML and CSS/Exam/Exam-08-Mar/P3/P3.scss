@@ -1,0 +1,131 @@
+/*Fonts:
+Site content: Tahoma, Helvetica, sans-serif; 14px.
+Site content: fixed width 1000px.*/
+
+body {
+    //background: blue;
+}
+
+$liColor: #384452;
+$backPos: 0 -4px;
+
+@mixin backIconFirst($url) {
+    background: url($url) no-repeat, #3bbc96;
+    //background-size: 100%;
+    background-position: $backPos;
+}
+
+@mixin backIconOther($url) {
+    background: url($url) no-repeat, $liColor;
+    //background-size: 100%;
+    background-position: $backPos;
+}
+
+.wrapper {
+    width: 1000px;
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 14px;
+    box-sizing: border-box;
+    //border: 1px solid red;
+    nav {
+        //border: 1px solid blue;
+        background: $liColor;
+
+        ul {
+            //border: 1px solid pink;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+
+            li {
+                float: left;
+                //background: green;
+                a {
+                    display: block;
+                    color: #aeb8b0;
+                    text-decoration: none;
+                    padding: 20px 36px 20px 48px;
+
+                    &:visited {
+                        color: #aeb8b0;
+                        text-decoration: none;
+                    }
+                }
+
+                &:first-of-type a {
+                    @include backIconFirst("resources/03-tab01.png");
+                    color: #fff;
+
+                    &:visited {
+                        color: #fff;
+                    }
+                }
+
+                &:nth-of-type(2) a {
+                    @include backIconOther("resources/03-tab02.png");
+                }
+
+                &:nth-of-type(3) a {
+                    @include backIconOther("resources/03-tab03.png");
+                }
+
+                &:nth-of-type(4) a {
+                    @include backIconOther("resources/03-tab04.png");
+                }
+            }
+        }
+
+        &:after {
+            content: "";
+            height: 0;
+            display: block;
+            clear: both;
+        }
+    }
+
+    form {
+        //border: 1px solid black;
+        background: #eeeeee;
+        padding-bottom: 25px;
+
+        .row {
+            //background: red;
+            padding-top: 30px;
+
+            label {
+                display: block;
+                margin-bottom: 14px;
+                font-weight: bold;
+                color: #3b414d;
+            }
+
+            input {
+                margin-left: 3px;
+                width: 98%;
+                box-sizing: border-box;
+                padding: 10px;
+            }
+
+            .couple {
+                display: inline-block;
+                //background: pink;
+                width: 20%;
+                margin-left: 3.8%;
+            }
+
+            input[type=submit] {
+                background: #3bbc96;
+                color: #fffff8;
+                cursor: pointer;
+                border: none;
+                padding: 12px;
+                border-radius: 2px;
+
+                &:hover {
+                    background: #384452;
+                    color: #fffff8;
+                }
+            }
+        }
+    }
+}

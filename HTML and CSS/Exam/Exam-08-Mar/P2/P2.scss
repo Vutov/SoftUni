@@ -1,0 +1,252 @@
+/*Fonts:
+Site content: Calibri, Arial, sans-serif; 12px.
+Header title (68px), Main article title (48px) and quote: http://fonts.googleapis.com/css?family=Oleo+Script 
+Navigation font size: 18px;
+Subtitles font size: 26px;
+Site content: fixed width 1000px.*/
+
+@font-face {
+    font-family: 'Oleo Script';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Oleo Script'), local('OleoScript-Regular'), url(http://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjo4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2'), url(http://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
+
+body {
+    //background: green;
+    margin: 0 auto;
+    background: #50247d;
+}
+
+.wrapper {
+    width: 1000px;
+    box-sizing: border-box;
+    font-family: Caliri, Arial, sans-serif;
+    font-size: 12px;
+    //border: 1px solid red;
+    margin: 0 auto;
+
+    a {
+        text-decoration: none;
+
+        &:visited {
+            text-decoration: none;
+        }
+    }
+
+    .oleo-font {
+        font-family: 'Oleo Script', sans-serif;
+    }
+
+    .subtitle {
+        font-size: 26px;
+    }
+
+    .read-more {
+        //background: red;
+        display: flex;
+        flex-flow: column wrap;
+
+        a {
+            align-self: flex-end;
+            background: #36a4d5;
+            display: block;
+            color: #fff;
+            text-transform: uppercase;
+            padding: 10px 17px;
+
+
+            &:visited {
+                color: #fff;
+            }
+        }
+    }
+
+
+    header {
+        border-bottom: 10px solid #38a3d9;
+        text-align: center;
+        margin-bottom: 30px;
+        background: url("resources/orion-gas-and-star-bgr.jpg") no-repeat;
+        color: #fffeff;
+
+        h1 {
+            font-size: 68px;
+            margin: 0;
+            padding: 30px 0 0 0;
+            line-height: 80%;
+        }
+
+        h3 {
+            margin: 0;
+            padding: 0;
+            font-weight: normal;
+        }
+
+        nav {
+            font-size: 18px;
+            display: flex;
+            flex-flow: column wrap;
+            text-transform: uppercase;
+
+            ul {
+                align-self: center;
+                margin: 0;
+                padding: 0;
+                //border: 1px solid pink;
+                list-style: none;
+                margin: 30px 0;
+
+                li {
+                    float: left;
+                    margin: 10px;
+
+                    a {
+                        display: block;
+                        background: #ffffff;
+                        padding: 15px 20px;
+                        color: #492184;
+                        //box-shadow: 10px 10px 10px black;
+                        &:hover, &:visited:hover {
+                            background: #36a4d5;
+                            color: #fff;
+                        }
+                    }
+                }
+
+                &:after {
+                    content: "";
+                    height: 0;
+                    display: block;
+                    clear: both;
+                }
+            }
+        }
+    }
+
+    main {
+        //border: 1px solid pink;
+        border-bottom: 10px solid #38a3d9;
+        border-top: 10px solid #865ab3;
+        display: flex;
+        flex-flow: row wrap;
+        background: #e8e8e8;
+
+        section {
+            margin: 40px;
+        }
+
+
+        .left-section {
+            //border: 1px solid blue;
+            width: 40%;
+            order: 1;
+            flex-grow: 1;
+            margin-right: 0;
+            padding-left: 30px;
+            background: #fff;
+
+            article {
+                h2 {
+                    font-size: 48px;
+                    // background: red;
+                    margin: 0;
+                    line-height: 80%;
+                }
+
+                h3 {
+                    margin: 0;
+                    padding-bottom: 18px;
+                }
+
+                div {
+                    font-size: 12px;
+                    padding-right: 30px;
+                    font-size: 14px;
+                    line-height: 140%;
+                }
+
+                .second-div-content {
+                    margin-top: 20px;
+
+                    span {
+                        padding-left: 10px;
+                    }
+                }
+            }
+
+            .origin {
+                margin-top: 15px;
+
+                a {
+                    background: #835ab6;
+
+                    &:hover, &:visited:hover {
+                        background: #4e237c;
+                    }
+                }
+            }
+        }
+
+        .right-section {
+            width: 40%;
+            order: 2;
+            flex-grow: 1;
+            //border: 1px solid green;
+            margin-left: 30px;
+            display: flex;
+            flex-flow: row wrap;
+
+            article {
+                width: 45%;
+                flex-grow: 1;
+                //border: 1px solid blue;
+                background: #fff;
+
+                &:nth-of-type(odd) {
+                    margin-right: 35px;
+                }
+
+                &:nth-of-type(1), &:nth-of-type(2) {
+                    margin-bottom: 20px;
+                }
+
+                .read-more-img {
+                    height: 150px;
+                }
+
+                .img1 {
+                    background: url("resources/02-pic1.jpg") no-repeat;
+                }
+
+                .img2 {
+                    background: url("resources/02-pic2.jpg") no-repeat;
+                }
+
+                .img3 {
+                    background: url("resources/02-pic3.jpg") no-repeat;
+                }
+
+                .img4 {
+                    background: url("resources/02-pic4.jpg") no-repeat;
+                }
+
+
+                h2, div:last-of-type {
+                    margin: 0;
+                    padding: 7px 22px 7px 15px;
+                }
+
+                h2 {
+                    color: #1685c6;
+                    font-weight: 700;
+                }
+            }
+        }
+    }
+
+    footer {
+        padding: 30px 0 30px 20px;
+        color: #fff;
+    }
+}
