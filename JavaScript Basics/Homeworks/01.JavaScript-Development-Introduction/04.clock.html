@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>04. Clock</title>
+    <script>
+        function timerFunc() {
+            var timer = document.getElementById("clock");
+            var now = new Date();
+            var hour = now.getHours();
+            var min = now.getMinutes();
+            var sec = now.getSeconds();
+            if (sec < 10) {
+                sec = '0' + sec;
+            }
+            if (sec % 2 == 0) {
+                timer.style.color = '#FFD700';
+            }
+            else {
+                timer.style.color = '#000';
+            }
+            timer.value = '' + hour + ':' + min + ':' + sec;
+        }
+        setInterval('timerFunc()', 1000);
+    </script>
+    <style>
+        body {
+            display: flex;
+            flex-flow: column wrap;
+        }
+
+        #clock {
+            align-self: center;
+            font-size: 3rem;
+            border: none;
+            outline: 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <input type="text" id="clock" readonly />
+</body>
+</html>

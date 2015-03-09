@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01.Current-Time", "01.Current-Time\01.Current-Time.njsproj", "{C3665C3C-77B9-48AF-A497-8A6F86CE8E3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Circle-Area", "02.Circle-Area", "{87A53CE0-D625-48E0-B69C-F08E37782902}"
+	ProjectSection(SolutionItems) = preProject
+		02.Circle-Area.html = 02.Circle-Area.html
+		circle-area.js = circle-area.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.DecToHex", "03.DecToHex", "{BA297306-ECFA-4E5A-BE74-3CC2137211FF}"
+	ProjectSection(SolutionItems) = preProject
+		03.dec2hex.html = 03.dec2hex.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Clock", "04.Clock", "{FB1A28FF-C658-4F39-9BDB-CA4A260A9B0C}"
+	ProjectSection(SolutionItems) = preProject
+		04.clock.html = 04.clock.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.Tic-Tac-Toe", "05.Tic-Tac-Toe", "{8E0031CB-0E97-459F-8DAA-2A55D6E6EB53}"
+	ProjectSection(SolutionItems) = preProject
+		05.Tic-Tac-Toe.html = 05.Tic-Tac-Toe.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3665C3C-77B9-48AF-A497-8A6F86CE8E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3665C3C-77B9-48AF-A497-8A6F86CE8E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3665C3C-77B9-48AF-A497-8A6F86CE8E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3665C3C-77B9-48AF-A497-8A6F86CE8E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

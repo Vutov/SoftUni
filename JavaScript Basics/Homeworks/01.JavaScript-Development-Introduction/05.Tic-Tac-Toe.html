@@ -1,0 +1,249 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>05. Tic Tac Toe</title>
+    <script>
+        var turnCounter = 1;
+        var scorePlayer1 = 0;
+        var scorePlayer2 = 0;
+        var player1;
+        var player2;
+        var gameOver = false;
+
+        function fillField(fieldId) {
+            turnCounter++;
+            var empty = document.getElementById(fieldId).value == '';
+            if (turnCounter % 2 == 0 && empty && !gameOver) {
+                document.getElementById(fieldId).value = 'x';
+            }
+            else if (turnCounter % 2 == 1 && empty && !gameOver) {
+                document.getElementById(fieldId).value = 'o';
+            }
+            checkForDraw();
+            checkForWinner();
+        }
+
+        function checkForWinner() {
+            var field1 = document.getElementById('field1');
+            var field2 = document.getElementById('field2');
+            var field3 = document.getElementById('field3');
+            var field4 = document.getElementById('field4');
+            var field5 = document.getElementById('field5');
+            var field6 = document.getElementById('field6');
+            var field7 = document.getElementById('field7');
+            var field8 = document.getElementById('field8');
+            var field9 = document.getElementById('field9');
+
+            if (field1.value != '' && field1.value == field2.value && field1.value == field3.value) {
+                changeColor(field1, field2, field3);
+                announceWinner();
+            }
+            else if (field4.value != '' && field4.value == field5.value && field4.value == field6.value) {
+                changeColor(field4, field5, field6);
+                announceWinner();
+            }
+            else if (field7.value != '' && field7.value == field8.value && field7.value == field9.value) {
+                changeColor(field7, field8, field9);
+                announceWinner();
+            }
+            else if (field1.value != '' && field1.value == field4.value && field1.value == field7.value) {
+                changeColor(field1, field4, field7);
+                announceWinner();
+            }
+            else if (field2.value != '' && field2.value == field5.value && field2.value == field8.value) {
+                changeColor(field2, field5, field8);
+                announceWinner();
+            }
+            else if (field3.value != '' && field3.value == field6.value && field3.value == field9.value) {
+                changeColor(field3, field6, field9);
+                announceWinner();
+            }
+            else if (field1.value != '' && field1.value == field5.value && field1.value == field9.value) {
+                changeColor(field1, field5, field9);
+                announceWinner();
+            }
+            else if (field3.value != '' && field3.value == field5.value && field3.value == field7.value) {
+                changeColor(field3, field5, field7);
+                announceWinner();
+            }
+        }
+
+        function changeColor(field1, field2, field3) {
+            field1.style.color = '#FFD700';
+            field2.style.color = '#FFD700';
+            field3.style.color = '#FFD700';
+        }
+
+        function announceWinner() {
+            document.getElementById('winner').style.display = 'block';
+            if (!gameOver) {
+                if (turnCounter % 2 == 0) {
+                    document.getElementById('winnerAnounce').value = "The winner is " + player1;
+                    scorePlayer1++;
+                }
+                else {
+                    document.getElementById('winnerAnounce').value = "The winner is " + player2;
+                    scorePlayer2++;
+                }
+            }
+            gameOver = true;
+            document.getElementById('scoreboard').innerHTML = player1 + ": " + scorePlayer1 + "<br>" + player2 + ": " + scorePlayer2;
+        }
+
+        function checkForDraw() {
+            var field1 = document.getElementById('field1').value;
+            var field2 = document.getElementById('field2').value;
+            var field3 = document.getElementById('field3').value;
+            var field4 = document.getElementById('field4').value;
+            var field5 = document.getElementById('field5').value;
+            var field6 = document.getElementById('field6').value;
+            var field7 = document.getElementById('field7').value;
+            var field8 = document.getElementById('field8').value;
+            var field9 = document.getElementById('field9').value;
+            if (field1 != '' && field2 != '' && field3 != '' && field4 != '' && field5 != '' &&
+                field6 != '' && field7 != '' && field8 != '' && field9 != '') {
+                document.getElementById('winner').style.display = 'block';
+                document.getElementById('winnerAnounce').value = "The game is DRAW";
+                document.getElementById('scoreboard').innerHTML = player1 + ": " + scorePlayer1 + "<br>" + player2 + ": " + scorePlayer2;
+            }
+        }
+
+        function beginGame() {
+            document.getElementById('game-field').style.display = 'flex';
+            document.getElementById('players').style.display = 'none';
+            player1 = document.getElementById('player1').value;
+            player2 = document.getElementById('player2').value;
+            if (player1 == '') {
+                player1 = 'player1';
+            }
+            if (player2 == '') {
+                player2 = 'player2';
+            }
+        }
+
+        function resetGame() {
+            document.getElementById('winner').style.display = 'none';
+            turnCounter = 1;
+            gameOver = false;
+            document.getElementById('field1').value = '';
+            document.getElementById('field2').value = '';
+            document.getElementById('field3').value = '';
+            document.getElementById('field4').value = '';
+            document.getElementById('field5').value = '';
+            document.getElementById('field6').value = '';
+            document.getElementById('field7').value = '';
+            document.getElementById('field8').value = '';
+            document.getElementById('field9').value = '';
+            document.getElementById('field1').style.color = '#000';
+            document.getElementById('field2').style.color = '#000';
+            document.getElementById('field3').style.color = '#000';
+            document.getElementById('field4').style.color = '#000';
+            document.getElementById('field5').style.color = '#000';
+            document.getElementById('field6').style.color = '#000';
+            document.getElementById('field7').style.color = '#000';
+            document.getElementById('field8').style.color = '#000';
+            document.getElementById('field9').style.color = '#000';
+        }
+    </script>
+    <style>
+        #players input {
+            display: block;
+            padding: 5px;
+            border: 1px solid black;
+            margin-top: 10px;
+            border-radius: 5px;
+            outline: 0;
+        }
+
+            #players input[type=submit] {
+                padding: 5px 20px;
+                background: #fff;
+                border: none;
+                font-size: 2rem;
+                margin-left: 23px;
+                cursor: pointer;
+            }
+
+                #players input[type=submit]:hover {
+                    background: #ffd800;
+                    color: #fff;
+                }
+
+        #game-field {
+            width: 189px;
+            border: 1px solid black;
+            display: none;
+            flex-flow: row wrap;
+            justify-content: space-around;
+            background: #ffd800;
+        }
+
+            #game-field input {
+                text-align: center;
+                width: 25%;
+                flex-grow: 1;
+                font-size: 3rem;
+                margin: 1px;
+                cursor: pointer;
+            }
+
+        #winner {
+            margin-top: 10px;
+            display: none;
+        }
+
+            #winner #winnerAnounce {
+                font-size: 2rem;
+                border: none;
+                display: block;
+            }
+
+            #winner input[type=submit] {
+                background: #fff;
+                border: 1px solid groove;
+                font-size: 2rem;
+                cursor: pointer;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+
+                #winner input[type=submit]:hover {
+                    background: #ffd800;
+                    color: #fff;
+                }
+
+            #winner .score {
+                font-size: 1.3rem;
+                margin-top: 5px;
+            }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div id="players">
+            <input type="text" placeholder="Enter name for player one" id="player1">
+            <input type="text" placeholder="Enter name for player two" id="player2">
+            <input type="submit" value="Play" onclick="beginGame()" />
+        </div>
+        <div id="game-field">
+            <input type="text" id="field1" onclick="fillField('field1')" readonly>
+            <input type="text" id="field2" onclick="fillField('field2')" readonly>
+            <input type="text" id="field3" onclick="fillField('field3')" readonly>
+            <input type="text" id="field4" onclick="fillField('field4')" readonly>
+            <input type="text" id="field5" onclick="fillField('field5')" readonly>
+            <input type="text" id="field6" onclick="fillField('field6')" readonly>
+            <input type="text" id="field7" onclick="fillField('field7')" readonly>
+            <input type="text" id="field8" onclick="fillField('field8')" readonly>
+            <input type="text" id="field9" onclick="fillField('field9')" readonly>
+        </div>
+        <div id="winner">
+            <input type="text" id="winnerAnounce" readonly>
+            <input type="submit" value="Click to play again" onclick="resetGame()" />
+            <div class="score">Score:</div>
+            <div class="score" id="scoreboard"></div>
+        </div>
+    </div>
+</body>
+</html>
