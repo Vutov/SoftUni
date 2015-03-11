@@ -1,12 +1,4 @@
-﻿//double firstRoot = (-b - Math.Sqrt(Math.Pow(b, 2) - 4 * a * c)) / (2 * a);
-//double secondRoot = (-b + Math.Sqrt(Math.Pow(b, 2) - 4 * a * c)) / (2 * a);
-//if (firstRoot.ToString() == "NaN" && secondRoot.ToString() == "NaN") {
-//    Console.WriteLine("no real roots");
-//}
-//else {
-//    Console.WriteLine("x1 = {0}, x2 = {1}", firstRoot, secondRoot);
-//}
-function getRoots(a, b, c) {
+﻿function getRoots(a, b, c) {
     a = parseInt(a);
     b = parseInt(b);
     c = parseInt(c);

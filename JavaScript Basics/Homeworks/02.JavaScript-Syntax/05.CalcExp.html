@@ -13,13 +13,18 @@
             outline: 0;
             background: #234456;
             padding: 10px;
-            color: #fff;
+            color: lightsalmon;
         }
 
         input[type=button] {
             margin: 10px 65px;
             border: 1px solid black;
             background: #fff;
+            cursor: pointer;
+        }
+
+        input[type=button]:hover {
+            background: #ddd;
         }
 
         p {
@@ -28,13 +33,13 @@
              background: #234456;
             padding: 10px;
             height: 20px;
-            color: #fff;
+            color: navajowhite;
         }
     </style>
 </head>
 <body>
-    <input type="text" value="" id="evaluate"/>
-    <input type="button" value="Eval result" onclick="calcExp()">
+    <input type="text" value="" id="evaluate" placeholder="Type equation here."/>
+    <input type="button" value="Eval result" onclick="calcExp()" />
     <p id="display"></p>
 </body>
 </html>
