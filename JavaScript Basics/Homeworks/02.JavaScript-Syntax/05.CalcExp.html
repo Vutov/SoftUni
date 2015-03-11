@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script src="calcExpression.js"></script>
+    <title></title>
+    <style>
+        input[type=text] {
+            width: 200px;
+            display: block;
+            border: none;
+            outline: 0;
+            background: #234456;
+            padding: 10px;
+            color: #fff;
+        }
+
+        input[type=button] {
+            margin: 10px 65px;
+            border: 1px solid black;
+            background: #fff;
+        }
+
+        p {
+            margin: 0;
+            width: 200px;
+             background: #234456;
+            padding: 10px;
+            height: 20px;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <input type="text" value="" id="evaluate"/>
+    <input type="button" value="Eval result" onclick="calcExp()">
+    <p id="display"></p>
+</body>
+</html>

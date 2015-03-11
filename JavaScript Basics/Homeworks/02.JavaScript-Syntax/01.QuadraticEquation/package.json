@@ -1,0 +1,10 @@
+{
+  "name": "01.QuadraticEquation",
+  "version": "0.0.0",
+  "description": "01.QuadraticEquation",
+  "main": "app.js",
+  "author": {
+    "name": "Spas",
+    "email": ""
+  }
+}

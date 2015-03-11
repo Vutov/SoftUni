@@ -1,0 +1,10 @@
+{
+  "name": "02.CalculateKnots",
+  "version": "0.0.0",
+  "description": "02.CalculateKnots",
+  "main": "app.js",
+  "author": {
+    "name": "Spas",
+    "email": ""
+  }
+}
