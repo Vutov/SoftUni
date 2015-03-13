@@ -1,0 +1,10 @@
+{
+  "name": "02.RevealTriangles",
+  "version": "0.0.0",
+  "description": "02.RevealTriangles",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
