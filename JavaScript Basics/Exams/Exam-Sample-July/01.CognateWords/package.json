@@ -1,0 +1,10 @@
+{
+  "name": "01.CognateWords",
+  "version": "0.0.0",
+  "description": "01.CognateWords",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
