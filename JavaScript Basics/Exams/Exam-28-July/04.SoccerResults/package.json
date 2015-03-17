@@ -1,0 +1,10 @@
+{
+  "name": "04.SoccerResults",
+  "version": "0.0.0",
+  "description": "04.SoccerResults",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}

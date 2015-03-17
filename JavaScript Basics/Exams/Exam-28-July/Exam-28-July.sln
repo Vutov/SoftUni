@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01.DoubleRakiyaNumbers", "01.DoubleRakiyaNumbers\01.DoubleRakiyaNumbers.njsproj", "{A38987F4-E388-45A7-8DAF-55589D7EB359}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02.StringMatrixRotation", "02.StringMatrixRotation\02.StringMatrixRotation.njsproj", "{24B203F6-6292-429B-A7FD-67B033C8A864}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "03.SortTable", "03.SortTable\03.SortTable.njsproj", "{55EE7CC3-0C0A-4AC2-BF3A-488A1132C39F}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "04.SoccerResults", "04.SoccerResults\04.SoccerResults.njsproj", "{03448307-965F-4B2A-B0A9-DAC605A0733A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38987F4-E388-45A7-8DAF-55589D7EB359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38987F4-E388-45A7-8DAF-55589D7EB359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38987F4-E388-45A7-8DAF-55589D7EB359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38987F4-E388-45A7-8DAF-55589D7EB359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B203F6-6292-429B-A7FD-67B033C8A864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B203F6-6292-429B-A7FD-67B033C8A864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B203F6-6292-429B-A7FD-67B033C8A864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B203F6-6292-429B-A7FD-67B033C8A864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EE7CC3-0C0A-4AC2-BF3A-488A1132C39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EE7CC3-0C0A-4AC2-BF3A-488A1132C39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EE7CC3-0C0A-4AC2-BF3A-488A1132C39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EE7CC3-0C0A-4AC2-BF3A-488A1132C39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03448307-965F-4B2A-B0A9-DAC605A0733A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03448307-965F-4B2A-B0A9-DAC605A0733A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03448307-965F-4B2A-B0A9-DAC605A0733A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03448307-965F-4B2A-B0A9-DAC605A0733A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
