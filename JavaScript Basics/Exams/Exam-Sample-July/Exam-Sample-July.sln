@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01.CognateWords", "01.CognateWords\01.CognateWords.njsproj", "{0B5479B5-7774-4D91-855D-FD0B5AB4BEC5}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02.LongestOddEvenSequence", "02.LongestOddEvenSequence\02.LongestOddEvenSequence.njsproj", "{15E89F2C-39BE-4FE8-980A-51F27B18EC9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0B5479B5-7774-4D91-855D-FD0B5AB4BEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B5479B5-7774-4D91-855D-FD0B5AB4BEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B5479B5-7774-4D91-855D-FD0B5AB4BEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E89F2C-39BE-4FE8-980A-51F27B18EC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E89F2C-39BE-4FE8-980A-51F27B18EC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E89F2C-39BE-4FE8-980A-51F27B18EC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E89F2C-39BE-4FE8-980A-51F27B18EC9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

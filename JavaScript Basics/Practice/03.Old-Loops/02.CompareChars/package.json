@@ -1,0 +1,10 @@
+{
+  "name": "02.CompareChars",
+  "version": "0.0.0",
+  "description": "02.CompareChars",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "05.CardsFrequencies",
+  "version": "0.0.0",
+  "description": "05.CardsFrequencies",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
