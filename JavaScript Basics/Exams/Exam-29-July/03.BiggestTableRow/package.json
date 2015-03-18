@@ -1,0 +1,10 @@
+{
+  "name": "03.BiggestTableRow",
+  "version": "0.0.0",
+  "description": "03.BiggestTableRow",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "02.Tetris",
+  "version": "0.0.0",
+  "description": "02.Tetris",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
