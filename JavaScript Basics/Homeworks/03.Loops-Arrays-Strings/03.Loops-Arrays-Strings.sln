@@ -11,6 +11,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "03.ReplaceTag", "03.Replace
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "04.CourseGadeScaling", "04.CourseGadeScaling\04.CourseGadeScaling.njsproj", "{2018567C-B9FE-417C-B3A2-EF789C7146F1}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "05.GroupPeople", "05.GroupPeople\05.GroupPeople.njsproj", "{61602D77-1116-4028-8665-885D8CCF7931}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2018567C-B9FE-417C-B3A2-EF789C7146F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2018567C-B9FE-417C-B3A2-EF789C7146F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2018567C-B9FE-417C-B3A2-EF789C7146F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61602D77-1116-4028-8665-885D8CCF7931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61602D77-1116-4028-8665-885D8CCF7931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61602D77-1116-4028-8665-885D8CCF7931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61602D77-1116-4028-8665-885D8CCF7931}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+{
+  "name": "05.GroupPeople",
+  "version": "0.0.0",
+  "description": "05.GroupPeople",
+  "main": "app.js",
+  "author": {
+    "name": "Spas",
+    "email": ""
+  }
+}
