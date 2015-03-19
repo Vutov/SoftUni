@@ -1,0 +1,10 @@
+{
+  "name": "05.PrototypeFunction",
+  "version": "0.0.0",
+  "description": "05.PrototypeFunction",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
