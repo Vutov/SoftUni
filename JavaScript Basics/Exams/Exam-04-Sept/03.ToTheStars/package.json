@@ -1,0 +1,10 @@
+{
+  "name": "03.ToTheStars",
+  "version": "0.0.0",
+  "description": "03.ToTheStars",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}

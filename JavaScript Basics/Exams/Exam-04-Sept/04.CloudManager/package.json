@@ -1,0 +1,10 @@
+{
+  "name": "04.CloudManager",
+  "version": "0.0.0",
+  "description": "04.CloudManager",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}

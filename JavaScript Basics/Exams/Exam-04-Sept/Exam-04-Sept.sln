@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "03.ToTheStars", "03.ToTheStars\03.ToTheStars.njsproj", "{1DDD6E40-2A8C-482F-8E56-0922E00C1F33}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02.TheNumbers", "02.TheNumbers\02.TheNumbers.njsproj", "{ED3CA33D-91B7-4D5F-90C5-1CC4BE641A8F}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01.KeepTheChange", "01.KeepTheChange\01.KeepTheChange.njsproj", "{077DB2F5-821A-4C66-8A98-D75155BA68FE}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "04.CloudManager", "04.CloudManager\04.CloudManager.njsproj", "{76553850-0F38-45AD-9442-0F44AB901F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DDD6E40-2A8C-482F-8E56-0922E00C1F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDD6E40-2A8C-482F-8E56-0922E00C1F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDD6E40-2A8C-482F-8E56-0922E00C1F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDD6E40-2A8C-482F-8E56-0922E00C1F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3CA33D-91B7-4D5F-90C5-1CC4BE641A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3CA33D-91B7-4D5F-90C5-1CC4BE641A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3CA33D-91B7-4D5F-90C5-1CC4BE641A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3CA33D-91B7-4D5F-90C5-1CC4BE641A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{077DB2F5-821A-4C66-8A98-D75155BA68FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077DB2F5-821A-4C66-8A98-D75155BA68FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077DB2F5-821A-4C66-8A98-D75155BA68FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077DB2F5-821A-4C66-8A98-D75155BA68FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76553850-0F38-45AD-9442-0F44AB901F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76553850-0F38-45AD-9442-0F44AB901F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76553850-0F38-45AD-9442-0F44AB901F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76553850-0F38-45AD-9442-0F44AB901F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

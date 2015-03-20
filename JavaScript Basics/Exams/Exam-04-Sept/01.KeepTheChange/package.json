@@ -1,0 +1,10 @@
+{
+  "name": "01.KeepTheChange",
+  "version": "0.0.0",
+  "description": "01.KeepTheChange",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
