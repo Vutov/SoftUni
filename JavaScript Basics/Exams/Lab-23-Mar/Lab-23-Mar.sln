@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5EFFB7C9-AA48-4379-9EFE-80A219B02B79}"
+	ProjectSection(SolutionItems) = preProject
+		framework.js = framework.js
+		game.html = game.html
+		game.js = game.js
+		Index.html = Index.html
+		lab.js = lab.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
