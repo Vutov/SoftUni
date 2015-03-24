@@ -1,0 +1,10 @@
+{
+  "name": "03.QueryMess",
+  "version": "0.0.0",
+  "description": "03.QueryMess",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}

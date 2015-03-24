@@ -1,0 +1,10 @@
+{
+  "name": "04.VladkosNotebook",
+  "version": "0.0.0",
+  "description": "04.VladkosNotebook",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
