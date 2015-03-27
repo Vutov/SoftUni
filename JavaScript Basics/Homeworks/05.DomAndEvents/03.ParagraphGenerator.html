@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>03.Paragraph generator</title>
+</head>
+<body>
+    <input type="text" value="" placeholder="Text for the <p>" id="p-text" />
+    <input type="button" value="Generate <p>" onclick="createParagraph()" />
+    <div id="wrapper"></div>
+
+    <script>
+        var counter = 1;
+        function createParagraph() {
+            var text = document.getElementById('p-text').value;
+            var wrapper = document.getElementById('wrapper');
+            var p = document.createElement('p');
+            if (counter < 10) {
+                counter = '0' + counter;
+            }
+            p.innerHTML = counter + '.' + text;
+            wrapper.appendChild(p);
+            counter++;
+        }
+    </script>
+</body>
+</html>
