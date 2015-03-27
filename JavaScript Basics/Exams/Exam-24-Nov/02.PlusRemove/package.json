@@ -1,0 +1,10 @@
+{
+  "name": "02.PlusRemove",
+  "version": "0.0.0",
+  "description": "02.PlusRemove",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
