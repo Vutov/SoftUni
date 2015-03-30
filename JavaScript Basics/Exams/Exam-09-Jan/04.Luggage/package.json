@@ -1,0 +1,10 @@
+{
+  "name": "04.Luggage",
+  "version": "0.0.0",
+  "description": "04.Luggage",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
