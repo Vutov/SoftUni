@@ -1,0 +1,10 @@
+{
+  "name": "01.TetevenTrip",
+  "version": "0.0.0",
+  "description": "01.TetevenTrip",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}

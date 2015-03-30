@@ -1,0 +1,10 @@
+{
+  "name": "02.Parachute",
+  "version": "0.0.0",
+  "description": "02.Parachute",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
