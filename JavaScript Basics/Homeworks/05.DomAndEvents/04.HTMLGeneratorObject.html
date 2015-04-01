@@ -18,14 +18,14 @@
                 var p = document.createElement('p');
                 p.innerHTML = text;
                 parent.appendChild(p);
-            }
+            };
 
             HtmlGen.prototype.createDiv = function (id, divClass) {
                 var parent = document.getElementById(id);
                 var div = document.createElement('div');
                 div.className = divClass;
                 parent.appendChild(div);
-            }
+            };
 
             HtmlGen.prototype.createLink = function (id, text, url) {
                 var parent = document.getElementById(id);
@@ -33,7 +33,7 @@
                 a.innerHTML = text;
                 a.href = url;
                 parent.appendChild(a);
-            }
+            };
 
             return HtmlGen;
         })();

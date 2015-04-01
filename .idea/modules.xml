@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SoftUni.iml" filepath="$PROJECT_DIR$/.idea/SoftUni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Exam-01-Jun/Exam-01-Jun.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Exam-01-Jun/Exam-01-Jun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Exam-03-Sept/Exam-03-Sept.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Exam-03-Sept/Exam-03-Sept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Exam-07-Jan/Exam-07-Jan.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Exam-07-Jan/Exam-07-Jan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Exam-08-Feb/Exam-08-Feb.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Exam-08-Feb/Exam-08-Feb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Exam-21-Sept-Evening/Exam-21-Sept-Evening.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Exam-21-Sept-Evening/Exam-21-Sept-Evening.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Exam-21-Sept-morning/Exam-21-Sept-evening.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Exam-21-Sept-morning/Exam-21-Sept-evening.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Exam-22-June/Exam-22-June.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Exam-22-June/Exam-22-June.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Exam-26-May/Exam-26-May.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Exam-26-May/Exam-26-May.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Exam-27-May/Exam-27-May.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Exam-27-May/Exam-27-May.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Homework/Intro-Java-Homework/Intro-Java-Homework.iml" filepath="$PROJECT_DIR$/Java Basics/Homework/Intro-Java-Homework/Intro-Java-Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Homework/Java-Collections-Basics-Homework/Java-Collections-Basics-Homework.iml" filepath="$PROJECT_DIR$/Java Basics/Homework/Java-Collections-Basics-Homework/Java-Collections-Basics-Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Homework/Java-Syntax-Homework/Java-Syntax-Homework.iml" filepath="$PROJECT_DIR$/Java Basics/Homework/Java-Syntax-Homework/Java-Syntax-Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Lab-01-Feb/Lab-01-Feb.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Lab-01-Feb/Lab-01-Feb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Lab-23-Jan/Lab-23-Jan.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Lab-23-Jan/Lab-23-Jan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Homework/Loops-Methods-Classes-Homework/Loops-Methods-Classes-Homework.iml" filepath="$PROJECT_DIR$/Java Basics/Homework/Loops-Methods-Classes-Homework/Loops-Methods-Classes-Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Exams/Sample-Exam/Sample-Exam.iml" filepath="$PROJECT_DIR$/Java Basics/Exams/Sample-Exam/Sample-Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Test/Test.iml" filepath="$PROJECT_DIR$/Java Basics/Test/Test.iml" />
     </modules>
   </component>
 </project>
