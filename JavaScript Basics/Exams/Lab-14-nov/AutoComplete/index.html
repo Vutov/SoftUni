@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>AutoComplete Form</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div id="wrapper">
+        <section class="main">
+            <section class="input-section">
+                <h3>Text:</h3>
+                <input type="text" id="input" onkeyup="autoComplete()" />
+            </section>
+            <section class="preview-section">
+                <p id="preview"></p>
+            </section>
+        </section>
+        <section class="output">
+            <h3>List:</h3>
+            <ul id="list"></ul>
+        </section>
+    </div>
+
+    <script>
+        function autoComplete() {
+            //console.log('in');
+            var text = document.getElementById('input').value;
+            var dictionary = 'word screammm screech speech wolf';
+            dictionary = dictionary.split(' ');
+            var matchingWords = [];
+            //Find if any word in the dictionary can be auto-complete;
+            dictionary.forEach(function (x) {
+                if (x.toLowerCase().slice(0, text.length) === text.toLowerCase() && text.toLowerCase() !== '') {
+                    matchingWords.push(x);
+                }
+                matchingWords.sort(function (x, y) {
+                    if (x.length === y.length) {
+                        return x.toLowerCase().localeCompare(y.toLowerCase());
+                    } else {
+                        return x.length - y.length;
+                    }
+                });
+            });
+            //Visualize best match;
+            if (matchingWords.length > 0) {
+                document.getElementById('preview').innerHTML = matchingWords[0];
+            }
+            //Add to list or clear on space;
+            //console.log(text.slice(text.length - 1, text.length));
+            if (text.slice(text.length - 1, text.length) === ' ') {
+                if (document.getElementById('preview').innerHTML !== '') {
+                    var list = document.getElementById('list');
+                    var li = document.createElement('li');
+                    li.innerHTML = document.getElementById('preview').innerHTML;
+                    list.appendChild(li);
+                }
+                document.getElementById('input').value = '';
+                document.getElementById('preview').innerHTML = '';
+                matchingWords = [];
+            }
+            //console.log(matchingWords)
+        }
+    </script>
+</body>
+</html>

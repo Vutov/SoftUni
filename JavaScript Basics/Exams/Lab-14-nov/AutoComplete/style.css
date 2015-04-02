@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: Calibri;
+}
+
+section {
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: top;
+}
+
+section.main {
+    width: 220px;
+    margin: 1% 2%;
+    border-right: solid 1px #000;
+}
+
+section.preview-section {
+    width: auto;
+    display: block;
+}
+
+section.preview-section > p {
+    display: inline-block;
+    margin: 0 auto;
+    width: 210px;
+}
+
+h3 {
+    margin-top: 0;
+    padding: 5px 10px;
+    text-decoration: underline;
+}

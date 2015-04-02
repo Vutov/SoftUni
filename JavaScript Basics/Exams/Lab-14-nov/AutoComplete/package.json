@@ -1,0 +1,10 @@
+{
+  "name": "AutoComplete",
+  "version": "0.0.0",
+  "description": "AutoComplete",
+  "main": "app.js",
+  "author": {
+    "name": "Kamigawa",
+    "email": ""
+  }
+}
