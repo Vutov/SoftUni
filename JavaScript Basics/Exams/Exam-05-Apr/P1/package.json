@@ -1,0 +1,10 @@
+{
+  "name": "P1",
+  "version": "0.0.0",
+  "description": "P1",
+  "main": "app.js",
+  "author": {
+    "name": "Spas",
+    "email": ""
+  }
+}
