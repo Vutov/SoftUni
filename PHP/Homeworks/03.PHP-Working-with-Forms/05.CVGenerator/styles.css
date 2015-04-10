@@ -1,0 +1,45 @@
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+form {
+    order: 1;
+    width: 50%;
+}
+
+aside {
+    margin-left: 30px;
+    order: 2;
+    width: 40%;
+}
+
+.head {
+    font-size: 2rem;
+    font-width: 700;
+}
+
+input {
+    margin: 5px 0;
+}
+
+fieldset:first-of-type input {
+    display: block;
+}
+
+fieldset:first-of-type input[type=radio] {
+    display: inline;
+}
+
+table, td, tr, th {
+    border: 1px solid black;
+}
+
+table {
+    margin: 20px 0;
+}
+
+select {
+    margin-left: 5px;
+}
