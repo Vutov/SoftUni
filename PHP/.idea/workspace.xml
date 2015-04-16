@@ -25,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WorkingDays.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/WorkingDays.html">
+      <file leaf-file-name="PHPChess.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/PHPChess.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.44" vertical-offset="79" max-vertical-offset="544">
-              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+            <state vertical-scroll-proportion="-10.88" vertical-offset="0" max-vertical-offset="442">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03.WorkingDays.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/03.WorkingDays.php">
+      <file leaf-file-name="04.PHPChess.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/04.PHPChess.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41371682" vertical-offset="102" max-vertical-offset="850">
-              <caret line="17" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.2924731" vertical-offset="0" max-vertical-offset="1071">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -86,6 +86,8 @@
         <option value="$PROJECT_DIR$/Exams/Exam-Sample-1/02.EmailsFromText.php" />
         <option value="$PROJECT_DIR$/Exams/Exam-Sample-1/WorkingDays.html" />
         <option value="$PROJECT_DIR$/Exams/Exam-Sample-1/03.WorkingDays.php" />
+        <option value="$PROJECT_DIR$/Exams/Exam-Sample-1/PHPChess.html" />
+        <option value="$PROJECT_DIR$/Exams/Exam-Sample-1/04.PHPChess.php" />
       </list>
     </option>
   </component>
@@ -172,28 +174,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PHP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homeworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homeworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02.PHP-Syntax" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -350,20 +330,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homeworks/04.PHP-Flow-Control/01.SquareRootSum.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="765">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homeworks/04.PHP-Flow-Control/02.RichPeoplesProblems.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="901">
-          <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homeworks/04.PHP-Flow-Control/03.ShowAnnualExpenses.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="1139">
@@ -693,18 +659,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/03.WorkingDays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67699116" vertical-offset="0" max-vertical-offset="850">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/WorkingDays.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.44" vertical-offset="79" max-vertical-offset="544">
+        <state vertical-scroll-proportion="0.5612903" vertical-offset="79" max-vertical-offset="544">
           <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/PHPChess.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.88" vertical-offset="0" max-vertical-offset="442">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/03.WorkingDays.php">
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/04.PHPChess.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41371682" vertical-offset="102" max-vertical-offset="850">
-          <caret line="17" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.2924731" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="24" />
           <folding />
         </state>
       </provider>
