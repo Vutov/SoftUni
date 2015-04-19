@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Add / Remove Input Fields Dynamically</title>
+	</head>
+	<body>
+		<script>
+			var nextId = 0;
+
+			function addInput() {
+				nextId++;
+				var inputDiv = document.createElement("div");
+				inputDiv.setAttribute("id", "deliver" + nextId);
+				inputDiv.innerHTML =
+					"<input type='text' name='invoices[]' /> " +
+						"<a href=\"javascript:removeElement('deliver" + nextId + "')\">[Remove]</a>" + "<br/>";
+				document.getElementById('parent').appendChild(inputDiv);
+			}
+
+			function removeElement(id) {
+				var inputDiv = document.getElementById(id);
+				document.getElementById('parent').removeChild(inputDiv);
+			}
+		</script>
+
+		<form method="GET" action="04-Pesho-the-Pharmacist.php">
+			<input type="text" name="today"/>
+			<div id="parent">
+				<!-- We shall add inputs here with JavaScript -->
+			</div>
+			<script>addInput();</script>
+			<div><a href="javascript:addInput()">[Add]</a></div>
+			<input type="submit"/>
+		</form>
+	</body>
+</html>
