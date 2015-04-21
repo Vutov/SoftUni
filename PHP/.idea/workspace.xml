@@ -24,21 +24,36 @@
     <favorites_list name="PHP" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="softuniTunes.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exams/Exam-29-Aug-morning/softuniTunes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.0" vertical-offset="211" max-vertical-offset="782">
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.softuniTunes.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exams/Exam-29-Aug-morning/04.softuniTunes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.72131145" vertical-offset="848" max-vertical-offset="1343">
+              <caret line="68" column="91" selection-start-line="68" selection-start-column="91" selection-end-line="68" selection-end-column="91" />
+              <folding>
+                <marker date="1429656101881" expanded="true" signature="1819:1829" placeholder="..." />
+                <marker date="1429656101881" expanded="true" signature="1819:1915" placeholder="..." />
+                <marker date="1429656101881" expanded="true" signature="1819:2268" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Homeworks/02.PHP-Syntax/GetFormData.php" />
-        <option value="$PROJECT_DIR$/Homeworks/02.PHP-Syntax/TimeUntilNewYear.php" />
-        <option value="$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/03.CalculateInterest.php" />
-        <option value="$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/02.MostFrequentTag.php" />
-        <option value="$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/01.PrintTags.php" />
-        <option value="$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/04.HTMLTags.php" />
-        <option value="$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/05.CVGenerator/script.js" />
-        <option value="$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/05.CVGenerator/index.php" />
-        <option value="$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/05.CVGenerator/CVGenerator.php" />
-        <option value="$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/05.CVGenerator/styles.css" />
         <option value="$PROJECT_DIR$/Homeworks/04.PHP-Flow-Control/01.SquareRootSum.php" />
         <option value="$PROJECT_DIR$/Homeworks/04.PHP-Flow-Control/02.RichPeoplesProblems.php" />
         <option value="$PROJECT_DIR$/Homeworks/04.PHP-Flow-Control/03.ShowAnnualExpenses.php" />
@@ -80,6 +95,16 @@
         <option value="$PROJECT_DIR$/Exams/Exam-Sample-3/Problem-4-Pesho-the-Pharmacist.html" />
         <option value="$PROJECT_DIR$/Exams/Exam-Sample-3/a.html" />
         <option value="$PROJECT_DIR$/Exams/Exam-Sample-3/04-Pesho-the-Pharmacist.php" />
+        <option value="$PROJECT_DIR$/Exams/Exam-29-Aug-morning/DropIt.html" />
+        <option value="$PROJECT_DIR$/Exams/Exam-29-Aug-morning/01.DropIt.php" />
+        <option value="$PROJECT_DIR$/Exams/Exam-29-Aug-morning/ChatLogger.html" />
+        <option value="$PROJECT_DIR$/Exams/Exam-29-Aug-morning/af.html" />
+        <option value="$PROJECT_DIR$/Exams/Exam-29-Aug-morning/02.ChatLogger.php" />
+        <option value="$PROJECT_DIR$/Exams/Exam-29-Aug-morning/ArticleParser.html" />
+        <option value="$PROJECT_DIR$/Exams/Exam-29-Aug-morning/03.ArticleParser.php" />
+        <option value="$PROJECT_DIR$/Exams/Exam-29-Aug-morning/softuniTunes.html" />
+        <option value="$PROJECT_DIR$/Exams/Exam-29-Aug-morning/asd.html" />
+        <option value="$PROJECT_DIR$/Exams/Exam-29-Aug-morning/04.softuniTunes.php" />
       </list>
     </option>
   </component>
@@ -88,10 +113,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.4" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="741" />
+    <option name="x" value="596" />
     <option name="y" value="5" />
-    <option name="width" value="932" />
-    <option name="height" value="626" />
+    <option name="width" value="1079" />
+    <option name="height" value="630" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -182,10 +207,6 @@
               <option name="myItemId" value="Exams" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exam-Sample-3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -201,21 +222,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exam-Sample-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exams" />
+              <option name="myItemId" value="Exam-29-Aug-morning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,6 +246,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\PHP\Exams\Exam-29-Aug-morning" />
       <recent name="D:\SoftUni\PHP\Exams\Exam-Sample-3" />
       <recent name="D:\SoftUni\PHP\Exams\Exam-Sample-2" />
       <recent name="D:\SoftUni\PHP\Exams\Exam-Sample-1" />
@@ -320,8 +328,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="741" y="5" width="932" height="626" extended-state="0" />
-    <editor active="false" />
+    <frame x="596" y="5" width="1079" height="630" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -330,7 +338,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19759825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2587018" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -371,76 +379,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homeworks/02.PHP-Syntax/07.GetFormData.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homeworks/02.PHP-Syntax/07.GetFormData.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homeworks/01.InstallAndConfigure/Numbers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homeworks/01.InstallAndConfigure/Numbers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38418078" vertical-offset="0" max-vertical-offset="354">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homeworks/02.PHP-Syntax/07.GetFormData.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="612">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/03.CalculateInterest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1394">
-          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/02.MostFrequentTag.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="816">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/01.PrintTags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="663">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/04.HTMLTags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.038462" vertical-offset="119" max-vertical-offset="816">
-          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/05.CVGenerator/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="149" max-vertical-offset="850">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/05.CVGenerator/CVGenerator.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1309" max-vertical-offset="3587">
@@ -595,13 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/WorkingDays.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5612903" vertical-offset="79" max-vertical-offset="544">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/PHPChess.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="442">
@@ -613,13 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14623655" vertical-offset="408" max-vertical-offset="1071">
           <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/03.WorkingDays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03761062" vertical-offset="0" max-vertical-offset="850">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -683,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6017699" vertical-offset="153" max-vertical-offset="697">
           <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.64" vertical-offset="0" max-vertical-offset="1207">
           <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.24" vertical-offset="0" max-vertical-offset="1462">
           <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="442">
           <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.03761062" vertical-offset="0" max-vertical-offset="748">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9402655" vertical-offset="0" max-vertical-offset="1003">
           <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,7 +649,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="452">
           <caret line="0" column="470" selection-start-line="0" selection-start-column="470" selection-end-line="0" selection-end-column="470" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-29-Aug-morning/DropIt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.6" vertical-offset="92" max-vertical-offset="612">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-29-Aug-morning/01.DropIt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="697">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-29-Aug-morning/ChatLogger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1020">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/WorkingDays.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7249467" vertical-offset="0" max-vertical-offset="544">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-29-Aug-morning/02.ChatLogger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.12" vertical-offset="326" max-vertical-offset="884">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-Sample-1/03.WorkingDays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0372807" vertical-offset="0" max-vertical-offset="850">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-29-Aug-morning/03.ArticleParser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48464912" vertical-offset="0" max-vertical-offset="561">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <marker date="1429645875773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429645875773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429645875773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429645875773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429645875773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429645875773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429645875773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429645875773" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-29-Aug-morning/ArticleParser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48464912" vertical-offset="204" max-vertical-offset="867">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/03.PHP-Working-with-Forms/01.PrintTags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7249467" vertical-offset="0" max-vertical-offset="663">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-29-Aug-morning/softuniTunes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.0" vertical-offset="211" max-vertical-offset="782">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/Exam-29-Aug-morning/04.softuniTunes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72131145" vertical-offset="848" max-vertical-offset="1343">
+          <caret line="68" column="91" selection-start-line="68" selection-start-column="91" selection-end-line="68" selection-end-column="91" />
+          <folding>
+            <marker date="1429656101881" expanded="true" signature="1819:1829" placeholder="..." />
+            <marker date="1429656101881" expanded="true" signature="1819:1915" placeholder="..." />
+            <marker date="1429656101881" expanded="true" signature="1819:2268" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
