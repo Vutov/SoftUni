@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Box Office</title>
+</head>
+<body>
+    <form action="04.box-office.php" method="GET">
+        <div>
+            <label for="list">
+                Input
+                <br/>
+                <textarea name="list" id="list" rows="18" cols="100">
+The Hobbit: The Battle of the Five Armies (adventure)- Ian McKellen, Martin Freeman, Richard Armitage, Cate Blanchett / 300
+Night at the Museum: Secret of the Tomb (comedy)- Ben Stiller, Robin Williams, Owen Wilson, Dick Van Dyke / 200
+Annie (comedy)- Quvenzhane Wallis, Cameron Diaz, Jamie Foxx, Rose Byrne / 160
+Night at the Museum: Secret of the Tomb (comedy)- Ben Stiller, Robin Williams, Owen Wilson, Dick Van Dyke / 180
+Exodus: Gods and Kings (action)- Christian Bale, Joel Edgerton, Ben Kingsley, Sigourney Weaver / 250</textarea>
+            </label>
+        </div>
+        <div>
+            <label for="minSeats">
+                Minimum Seats:
+                <br/>
+                <input type="text" name="minSeats" id="minSeats" value="160"/>
+            </label>
+        </div>
+        <div>
+            <label for="maxSeats">
+                Maximum Seats:
+                <br/>
+                <input type="text" name="maxSeats" id="maxSeats" value="300"/>
+            </label>
+        </div>
+        <div>
+            <label for="filter">
+                Genre:
+                <br/>
+                <input type="text" name="filter" id="filter" value="comedy"/>
+            </label>
+        </div>
+        <div>
+            <label for="order">
+                Order:
+                <br/>
+                <input type="text" name="order" id="order" value="ascending"/>
+            </label>
+        </div>
+        <input type="submit"/>
+    </form>
+</body>
+</html>
