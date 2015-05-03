@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>04.Events</title>
+
+	<style>
+		label {
+			display: block;
+		}
+
+		textarea, input {
+			width: 700px;
+			box-sizing: border-box;
+		}
+	</style>
+</head>
+<body>
+<form action="conferences.php" method="get">
+    <label for="page">Page</label>
+    <input type="text" id="page" name="page" value="1" />
+    <label for="pageSize">Page size</label>
+    <input type="text" id="pageSize" name="pageSize" value="3" />
+    <label for="conferences">Events</label>
+    <textarea name="conferences" id="conferences" cols="30" rows="11">
+$confs = array(
+    [2015-05-03, #TED, 'The-Exam-Damn', SoftUni, 250, 250],
+    [2015/05/03, NOT, DO NOT CAPTURE, Warning, 269, 69],
+    [2015/05/03, #L.L, 'Let Bankin Live', Pernik-Bulgaria, 222, 22],
+    [2015-02-23, #NOT, Dont, Capture,Bulgaria, 666, a6],
+    ['2015-02-23', #NOT,  DO NOT CAPTURE, Warning, Warning , 666, 66],
+    [2015-02/23, #NOT, 'DO NOT CAPTURE', Warning, 666, 66],
+    [2015-02-22, #NOt, Not a conference, Pleasedonotgetthis, 134, 56]
+    [2015-02-23, #RSS, 'RoYaL Should Survive', Vratsa,Bulgaria, 666, 66]
+);
+    </textarea><br/>
+    <input type="submit" name="submit" value="Submit" />
+</form>
+<p><b>Expected Output:</b><table border="1" cellpadding="5"><tr><th>Date</th><th>Event name</th><th>Event hash</th><th>Days left</th><th>Seats left</th></tr><tr><td rowspan="2">2015-05-03</td><td>The Exam Damn</td><td>#TED</td><td>+0 days</td><td>0 seats left</td></tr><tr><td>Let Bankin Live</td><td>#L.L</td><td>+0 days</td><td>200 seats left</td></tr><tr><td>2015-02-23</td><td>RoYaL Should Survive</td><td>#RSS</td><td>-69 days</td><td>600 seats left</td></tr></table></p>
+<br/>
+<form action="conferences.php" method="get">
+    <label for="page">Page</label>
+    <input type="text" id="page" name="page" value="1" />
+    <label for="pageSize">Page size</label>
+    <input type="text" id="pageSize" name="pageSize" value="1" />
+    <label for="conferences">Events</label>
+    <textarea name="conferences" id="conferences" cols="30" rows="7">
+$confs = array(
+    [2015-05-10, #TDD, 'The-Exam-Damn', SoftUni, 250, 250],
+    [2015/05/03, NOT, DO NOT CAPTURE, Warning, 269, 69],
+    [2015/05/01, #LSL, 'Love.Live', SoftUni, 222, 22],
+    [2015-02-23, #NOT, Dont, Capture,Bulgaria, 666, a6]
+);
+    </textarea><br/>
+    <input type="submit" name="submit" value="Submit" />
+</form>
+<p><b>Expected Output:</b><table border="1" cellpadding="5"><tr><th>Date</th><th>Event name</th><th>Event hash</th><th>Days left</th><th>Seats left</th></tr><tr><td>2015-05-10</td><td>The-Exam-Damn</td><td>#TDD</td><td>+7 days</td><td>0 seats left</td></tr></table></p>
+</body>
+</html>

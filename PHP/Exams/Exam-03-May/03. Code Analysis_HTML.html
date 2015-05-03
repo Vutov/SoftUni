@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Problem03</title>
+</head>
+<body>
+<b>Input:</b>
+<form action="codeAnalysis.php" method="get">
+    <textarea name='code' cols="90" rows="11">
+<?php
+    $firstNumber = 1;
+    $secondNumber = 10;
+    echo '$firstNumber + $secondNumber = ';
+    while ($firstNumber < $secondNumber) {
+        echo "$firstNumber + $secondNumber = ";
+        $firstNumber++;
+        $secondNumber--;
+    }
+    echo $firstNumber + $secondNumber;
+?></textarea><br>
+    <input type="submit"/>
+</form>
+<p><b>Expected Output:</b>{"variables":{"$firstNumber":6,"$secondNumber":6},"loops":{"while":["while ($firstNumber < $secondNumber)"],"for":[],"foreach":[]},"conditionals":[]}</p>
+<br/>
+<b>Input:</b>
+<form action="codeAnalysis.php" method="get">
+    <textarea name='code' cols="90" rows="31">
+<?php
+    if (isset($_POST['input'])) {
+        $input = preg_split('/, /' ,htmlspecialchars($_POST['input']));
+        $elements = [];
+        $count = 0;
+        $maxCount = 0;
+        $mostFrequentElement = "";
+
+        for ($index = 0; $index < count($input); $index++) {
+            if (in_array($input[$index], $elements)) {
+                continue;
+            } else {
+                $elements[] = $input[$index];
+            }
+            for ($nextIndex = $index; $nextIndex < count($input); $nextIndex++) {
+                if ($input[$nextIndex] == $input[$index]) {
+                    $count++;
+                }
+            }
+            echo '<div>' . "$input[$index] : $count times" . "</div>\n";
+
+            if ($maxCount < $count) {
+                $maxCount = $count;
+                $mostFrequentElement = $input[$index];
+            }
+            $count = 0;
+        }
+
+        echo '<div>' . "Most Frequent Tag : $mostFrequentElement" . "</div>\n";
+    }
+?></textarea><br>
+    <input type="submit"/>
+</form>
+<p><b>Expected Output:</b>{"variables":{"$_POST":2,"$input":9,"$elements":3,"$count":6,"$maxCount":3,"$mostFrequentElement":3,"$index":9,"$nextIndex":4},"loops":{"while":[],"for":["for ($index = 0; $index < count($input); $index++)","for ($nextIndex = $index; $nextIndex < count($input); $nextIndex++)"],"foreach":[]},"conditionals":["if (isset($_POST['input']))","if (in_array($input[$index], $elements))","if ($input[$nextIndex] == $input[$index])","if ($maxCount < $count)"]}</p>
+</body>
+</html>

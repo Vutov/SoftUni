@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Problem01</title>
+</head>
+<body>
+<b>Input:</b>
+<form action="kitodar.php" method="get">
+    <textarea name='data' cols="30" rows="5">mine bobovDol gold 10, mine medenRudnik silver 22, mine chernoMore shrimps 24, gold 50</textarea><br>
+    <input type="submit"/>
+</form>
+<p><b>Expected Output:</b><p>*Gold: 10</p><p>*Silver: 22</p><p>*Diamonds: 0</p></p>
+<br/>
+<b>Input:</b>
+<form action="kitodar.php" method="get">
+    <textarea name='data' cols="30" rows="5">mine bobovdol gold 10, mine tomn diamonds 5, mine colas Gold 10, mine myMine silver 14, mine silver14 siLver 14</textarea><br>
+    <input type="submit"/>
+</form>
+<p><b>Expected Output:</b><p>*Gold: 20</p><p>*Silver: 28</p><p>*Diamonds: 5</p></p>
+</body>
+</html>
