@@ -22,6 +22,7 @@ class PlusRemove
             {
                 longest = currLen;
             }
+
             line = Console.ReadLine();
         }
 
@@ -67,7 +68,7 @@ class PlusRemove
             }
         }
 
-        //Print matrix;
+        // Print matrix;
         foreach (var row in result)
         {
             Console.WriteLine(string.Join("", row));

@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.NightLife", "08.NightLif
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.TerroristsWin", "09.TerroristsWin\09.TerroristsWin.csproj", "{C4EA0E3E-0BBA-4E21-BA27-DE960F84BA70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivityTracker", "ActivityTracker\ActivityTracker.csproj", "{688DDD43-9C17-47D6-BC90-E28995169171}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C4EA0E3E-0BBA-4E21-BA27-DE960F84BA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4EA0E3E-0BBA-4E21-BA27-DE960F84BA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4EA0E3E-0BBA-4E21-BA27-DE960F84BA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688DDD43-9C17-47D6-BC90-E28995169171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688DDD43-9C17-47D6-BC90-E28995169171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688DDD43-9C17-47D6-BC90-E28995169171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688DDD43-9C17-47D6-BC90-E28995169171}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
