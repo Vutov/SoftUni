@@ -1,5 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\01.FillMatrix\bin\Debug\01.FillMatrix.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\01.FillMatrix\bin\Debug\01.FillMatrix.exe
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\01.FillMatrix\bin\Debug\01.FillMatrix.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\01.FillMatrix\obj\Debug\01.FillMatrix.exe
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\01.FillMatrix\obj\Debug\01.FillMatrix.pdb

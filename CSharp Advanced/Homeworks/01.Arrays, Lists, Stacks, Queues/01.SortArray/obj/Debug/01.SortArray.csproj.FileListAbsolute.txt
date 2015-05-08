@@ -1,6 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\01.SortArray\bin\Debug\01.Arrays, Lists, Stacks, Queues.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\01.SortArray\obj\Debug\01.Arrays, Lists, Stacks, Queues.exe
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\01.SortArray\obj\Debug\01.Arrays, Lists, Stacks, Queues.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\01.SortArray\bin\Debug\01.Arrays, Lists, Stacks, Queues.exe
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\01.SortArray\bin\Debug\01.Arrays, Lists, Stacks, Queues.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\01.SortArray\obj\Debug\01.SortArray.csprojResolveAssemblyReference.cache

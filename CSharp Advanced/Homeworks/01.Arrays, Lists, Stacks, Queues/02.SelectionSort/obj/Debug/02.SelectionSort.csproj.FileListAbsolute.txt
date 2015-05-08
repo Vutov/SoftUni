@@ -1,5 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\02.SelectionSort\bin\Debug\02.SelectionSort.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\02.SelectionSort\bin\Debug\02.SelectionSort.exe
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\02.SelectionSort\bin\Debug\02.SelectionSort.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\02.SelectionSort\obj\Debug\02.SelectionSort.exe
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\02.SelectionSort\obj\Debug\02.SelectionSort.pdb

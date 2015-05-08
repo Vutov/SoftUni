@@ -1,5 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe
-D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
-D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb

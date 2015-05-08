@@ -1,6 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\07.Phonebook\bin\Debug\07.Phonebook.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\07.Phonebook\obj\Debug\07.Phonebook.csprojResolveAssemblyReference.cache
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\07.Phonebook\obj\Debug\07.Phonebook.exe
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\07.Phonebook\obj\Debug\07.Phonebook.pdb

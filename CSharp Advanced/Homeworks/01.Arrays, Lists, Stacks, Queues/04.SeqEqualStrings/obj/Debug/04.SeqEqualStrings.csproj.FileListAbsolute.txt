@@ -1,6 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\04.SeqEqualStrings\bin\Debug\04.SeqEqualStrings.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\04.SeqEqualStrings\bin\Debug\04.SeqEqualStrings.exe
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\04.SeqEqualStrings\bin\Debug\04.SeqEqualStrings.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\04.SeqEqualStrings\obj\Debug\04.SeqEqualStrings.exe
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\04.SeqEqualStrings\obj\Debug\04.SeqEqualStrings.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\04.SeqEqualStrings\obj\Debug\04.SeqEqualStrings.csprojResolveAssemblyReference.cache

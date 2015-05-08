@@ -1,6 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.csprojResolveAssemblyReference.cache
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.exe
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.pdb

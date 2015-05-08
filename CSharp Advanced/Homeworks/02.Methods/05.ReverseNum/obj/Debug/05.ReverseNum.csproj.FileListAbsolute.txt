@@ -1,5 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\05.ReverseNum\bin\Debug\05.ReverseNum.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\05.ReverseNum\bin\Debug\05.ReverseNum.exe
-D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\05.ReverseNum\bin\Debug\05.ReverseNum.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\05.ReverseNum\obj\Debug\05.ReverseNum.exe
-D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\05.ReverseNum\obj\Debug\05.ReverseNum.pdb

@@ -1,6 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\08.NightLife\bin\Debug\08.NightLife.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\08.NightLife\obj\Debug\08.NightLife.csprojResolveAssemblyReference.cache
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\08.NightLife\bin\Debug\08.NightLife.exe
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\08.NightLife\bin\Debug\08.NightLife.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\08.NightLife\obj\Debug\08.NightLife.exe
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\08.NightLife\obj\Debug\08.NightLife.pdb

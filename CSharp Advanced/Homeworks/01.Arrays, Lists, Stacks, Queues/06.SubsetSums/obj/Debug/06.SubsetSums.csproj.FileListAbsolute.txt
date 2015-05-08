@@ -1,5 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\06.SubsetSums\bin\Debug\06.SubsetSums.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\06.SubsetSums\bin\Debug\06.SubsetSums.exe
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\06.SubsetSums\bin\Debug\06.SubsetSums.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\06.SubsetSums\obj\Debug\06.SubsetSums.exe
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\06.SubsetSums\obj\Debug\06.SubsetSums.pdb

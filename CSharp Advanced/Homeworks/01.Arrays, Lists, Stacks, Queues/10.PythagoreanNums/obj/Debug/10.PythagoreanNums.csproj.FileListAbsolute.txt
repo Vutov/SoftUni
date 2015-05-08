@@ -1,5 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\10.PythagoreanNums\bin\Debug\10.PythagoreanNums.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\10.PythagoreanNums\bin\Debug\10.PythagoreanNums.exe
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\10.PythagoreanNums\bin\Debug\10.PythagoreanNums.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\10.PythagoreanNums\obj\Debug\10.PythagoreanNums.exe
-D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\10.PythagoreanNums\obj\Debug\10.PythagoreanNums.pdb

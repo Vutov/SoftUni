@@ -1,6 +1,0 @@
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\04.SeqInMatrix\bin\Debug\04.SeqInMatrix.exe.config
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\04.SeqInMatrix\bin\Debug\04.SeqInMatrix.exe
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\04.SeqInMatrix\bin\Debug\04.SeqInMatrix.pdb
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\04.SeqInMatrix\obj\Debug\04.SeqInMatrix.csprojResolveAssemblyReference.cache
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\04.SeqInMatrix\obj\Debug\04.SeqInMatrix.exe
-D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\04.SeqInMatrix\obj\Debug\04.SeqInMatrix.pdb
