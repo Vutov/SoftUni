@@ -1,0 +1,5 @@
+D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\06.CountSymbols\obj\Debug\06.CountSymbols.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe.config
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\09.StuckNumbers\bin\Debug\09.StuckNumbers.pdb
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb

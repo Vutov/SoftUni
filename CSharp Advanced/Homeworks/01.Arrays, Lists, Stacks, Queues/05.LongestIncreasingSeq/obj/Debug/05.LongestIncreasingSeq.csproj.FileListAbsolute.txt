@@ -1,0 +1,5 @@
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\05.LongestIncreasingSeq\bin\Debug\05.LongestIncreasingSeq.exe.config
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\05.LongestIncreasingSeq\bin\Debug\05.LongestIncreasingSeq.exe
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\05.LongestIncreasingSeq\bin\Debug\05.LongestIncreasingSeq.pdb
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\05.LongestIncreasingSeq\obj\Debug\05.LongestIncreasingSeq.exe
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\05.LongestIncreasingSeq\obj\Debug\05.LongestIncreasingSeq.pdb

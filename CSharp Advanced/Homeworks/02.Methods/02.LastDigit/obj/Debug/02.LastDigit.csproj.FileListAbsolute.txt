@@ -1,0 +1,5 @@
+D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\02.LastDigit\bin\Debug\02.LastDigit.exe.config
+D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\02.LastDigit\bin\Debug\02.LastDigit.exe
+D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\02.LastDigit\bin\Debug\02.LastDigit.pdb
+D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\02.LastDigit\obj\Debug\02.LastDigit.exe
+D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\02.LastDigit\obj\Debug\02.LastDigit.pdb

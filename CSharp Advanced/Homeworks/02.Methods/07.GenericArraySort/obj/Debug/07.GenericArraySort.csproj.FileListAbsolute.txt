@@ -1,0 +1,5 @@
+D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe.config
+D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe
+D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\07.GenericArraySort\bin\Debug\07.GenericArraySort.pdb
+D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\07.GenericArraySort\obj\Debug\07.GenericArraySort.exe
+D:\SoftUni\CSharp Advanced\Homeworks\02.Methods\07.GenericArraySort\obj\Debug\07.GenericArraySort.pdb

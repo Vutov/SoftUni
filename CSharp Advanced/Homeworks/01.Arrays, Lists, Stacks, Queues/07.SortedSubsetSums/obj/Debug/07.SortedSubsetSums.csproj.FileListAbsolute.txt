@@ -1,0 +1,5 @@
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe.config
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.pdb
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.exe
+D:\SoftUni\CSharp Advanced\Homeworks\01.Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.pdb

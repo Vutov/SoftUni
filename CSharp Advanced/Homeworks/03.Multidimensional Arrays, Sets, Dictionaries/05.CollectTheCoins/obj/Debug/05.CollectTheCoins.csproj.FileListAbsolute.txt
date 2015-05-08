@@ -1,0 +1,5 @@
+D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\bin\Debug\05.CollectTheCoins.exe.config
+D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\bin\Debug\05.CollectTheCoins.exe
+D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\bin\Debug\05.CollectTheCoins.pdb
+D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\obj\Debug\05.CollectTheCoins.exe
+D:\SoftUni\CSharp Advanced\Homeworks\03.Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\obj\Debug\05.CollectTheCoins.pdb
