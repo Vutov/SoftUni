@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Prime Factorization", "01. Prime Factorization\01. Prime Factorization.csproj", "{785CA03E-E684-44E7-85C1-9229FEE532F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Sieve of Eratosthenes", "02.Sieve of Eratosthenes\02.Sieve of Eratosthenes.csproj", "{660C1854-8E4B-46AE-A600-F4768D98C73E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.InsertionSort", "03.InsertionSort\03.InsertionSort.csproj", "{6DE1C3AA-5961-466D-B2E1-20F6E9788EF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BinarySearch", "04.BinarySearch\04.BinarySearch.csproj", "{D82753B0-BDD8-4F2F-A74D-12DCECC41D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785CA03E-E684-44E7-85C1-9229FEE532F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785CA03E-E684-44E7-85C1-9229FEE532F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785CA03E-E684-44E7-85C1-9229FEE532F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785CA03E-E684-44E7-85C1-9229FEE532F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660C1854-8E4B-46AE-A600-F4768D98C73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660C1854-8E4B-46AE-A600-F4768D98C73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660C1854-8E4B-46AE-A600-F4768D98C73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660C1854-8E4B-46AE-A600-F4768D98C73E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE1C3AA-5961-466D-B2E1-20F6E9788EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE1C3AA-5961-466D-B2E1-20F6E9788EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE1C3AA-5961-466D-B2E1-20F6E9788EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE1C3AA-5961-466D-B2E1-20F6E9788EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82753B0-BDD8-4F2F-A74D-12DCECC41D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82753B0-BDD8-4F2F-A74D-12DCECC41D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82753B0-BDD8-4F2F-A74D-12DCECC41D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82753B0-BDD8-4F2F-A74D-12DCECC41D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
