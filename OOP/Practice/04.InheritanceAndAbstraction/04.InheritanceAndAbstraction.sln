@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Human, Student and Worker", "Human, Student and Worker\Human, Student and Worker.csproj", "{4A094B92-6C99-41EA-A577-1077ECD3BFA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{EE7409A6-0213-4773-92B5-8B49381987B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company Hierarchy", "Company Hierarchy\Company Hierarchy.csproj", "{E6EC6CE3-6C21-4FBA-A9E7-C81F1EF120ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4A094B92-6C99-41EA-A577-1077ECD3BFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A094B92-6C99-41EA-A577-1077ECD3BFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A094B92-6C99-41EA-A577-1077ECD3BFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7409A6-0213-4773-92B5-8B49381987B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7409A6-0213-4773-92B5-8B49381987B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7409A6-0213-4773-92B5-8B49381987B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7409A6-0213-4773-92B5-8B49381987B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6EC6CE3-6C21-4FBA-A9E7-C81F1EF120ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EC6CE3-6C21-4FBA-A9E7-C81F1EF120ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EC6CE3-6C21-4FBA-A9E7-C81F1EF120ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EC6CE3-6C21-4FBA-A9E7-C81F1EF120ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
