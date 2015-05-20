@@ -1,0 +1,32 @@
+  1. using System;
+  2. using System.Collections.Generic;
+  3. using System.IO;
+  4. using System.Linq;
+  5. using System.Text;
+  6. using System.Threading.Tasks;
+  7. 
+  8. namespace _02.LineNumbers
+  9. {
+ 10.     class LineNumbers
+ 11.     {
+ 12.         private static void Main(string[] args)
+ 13.         {
+ 14.             using (var reader = new StreamReader("../../LineNumbers.cs"))
+ 15.             {
+ 16.                 using (var writer = new StreamWriter("../../GenFile.txt"))
+ 17.                 {
+ 18.                     int rowCounter = 1;
+ 19.                     var line = reader.ReadLine();
+ 20.                     while (line != null)
+ 21.                     {
+ 22.                         writer.WriteLine("{0,3}. {1}",rowCounter, line);
+ 23.                         rowCounter++;
+ 24.                         line = reader.ReadLine();
+ 25.                     }
+ 26.                 }
+ 27.             }
+ 28. 
+ 29.             Console.WriteLine("File done");
+ 30.         }
+ 31.     }
+ 32. }
