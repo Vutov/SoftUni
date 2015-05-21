@@ -1,0 +1,19 @@
+                 break;
+                    }
+
+                    for (int i = 0; i < readBytes; i++)
+                    {
+                        allData.Add(buffer[i]);
+                    }
+                }
+
+                Console.WriteLine(allData.Count);
+                int partSize = allData.Count / parts;
+                int leftOver = allData.Count - partSize * parts;
+                for (int i = 0; i < parts; i++)
+                {
+                    var newFile = destinationDirectory + "part-" + i + ".txt";
+                    using (var copy = new FileStream(newFile, FileMode.Create))
+                    {
+                        if (i == parts - 1)
+  

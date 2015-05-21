@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _05.SlicingFile
+{
+    class SlicingFile
+    {
+        private static void Slice(string sourceFile, string destinationDirectory, int parts)
+        {
+            using (var source = new FileStream(sourceFile, FileMode.Open))
+            {
+                byte[] buffer = new byte[4096];
+                var allData = new List<byte>();
+                while (true)
+                {
+                    int readBytes = source.Read(buffer, 0, buffer.Length);
+                    if (readBytes == 0)
+                    {
+       

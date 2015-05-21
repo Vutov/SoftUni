@@ -1,0 +1,24 @@
+rectory, FileMode.Create))
+            {
+                copy.Write(allData.ToArray(), 0, allData.Count);
+            }
+
+        }
+
+        static void Main(string[] args)
+        {
+            string sourceFile = "../../SlicingFile.cs";
+            string destinationDirectory = "../../";
+            int parts = 5;
+            Slice(sourceFile, destinationDirectory, parts);
+            Assemble(new List<string>()
+            {
+                "../../part-0.txt",
+                "../../part-1.txt",
+                "../../part-2.txt",
+                "../../part-3.txt",
+                "../../part-4.txt",
+            }, "../../Constructed.txt");
+        }
+    }
+}
