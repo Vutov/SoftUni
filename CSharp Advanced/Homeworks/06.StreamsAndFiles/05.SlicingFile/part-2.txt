@@ -1,0 +1,20 @@
+                      {
+                            copy.Write(allData.ToArray(), i * partSize, partSize + leftOver);
+                        }
+                        else
+                        {
+                            copy.Write(allData.ToArray(), i * partSize, partSize);
+                        }
+                    }
+                }
+
+            }
+        }
+
+        static void Assemble(List<string> files, string destinationDirectory)
+        {
+            var allData = new List<byte>();
+            for (int i = 0; i < files.Count; i++)
+            {
+                var sourceFile = files[i];
+                using (var source = new FileStream(sourceFile,

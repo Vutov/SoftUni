@@ -11,6 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WordCount", "03.WordCoun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CopyBinaryFile", "04.CopyBinaryFile\04.CopyBinaryFile.csproj", "{B185124E-C0A6-467D-B0D0-56CBD99F133E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SlicingFile", "05.SlicingFile\05.SlicingFile.csproj", "{37DA1EFB-9904-4530-ABB7-FA93F7E9D7C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ZippingSlicedFiles", "06.ZippingSlicedFiles\06.ZippingSlicedFiles.csproj", "{E14E8215-BD36-47E9-81D3-2C2C18E1A16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.DirectoryTraversal", "07.DirectoryTraversal\07.DirectoryTraversal.csproj", "{0DC745DB-B236-45EE-9343-ACA5C116701C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabyrinthDash", "LabyrinthDash\LabyrinthDash.csproj", "{6801A26C-7417-4E77-A68E-32CD477FB639}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +41,22 @@ Global
 		{B185124E-C0A6-467D-B0D0-56CBD99F133E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B185124E-C0A6-467D-B0D0-56CBD99F133E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B185124E-C0A6-467D-B0D0-56CBD99F133E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DA1EFB-9904-4530-ABB7-FA93F7E9D7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DA1EFB-9904-4530-ABB7-FA93F7E9D7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DA1EFB-9904-4530-ABB7-FA93F7E9D7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DA1EFB-9904-4530-ABB7-FA93F7E9D7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E14E8215-BD36-47E9-81D3-2C2C18E1A16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14E8215-BD36-47E9-81D3-2C2C18E1A16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14E8215-BD36-47E9-81D3-2C2C18E1A16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14E8215-BD36-47E9-81D3-2C2C18E1A16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC745DB-B236-45EE-9343-ACA5C116701C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC745DB-B236-45EE-9343-ACA5C116701C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC745DB-B236-45EE-9343-ACA5C116701C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC745DB-B236-45EE-9343-ACA5C116701C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6801A26C-7417-4E77-A68E-32CD477FB639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6801A26C-7417-4E77-A68E-32CD477FB639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6801A26C-7417-4E77-A68E-32CD477FB639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6801A26C-7417-4E77-A68E-32CD477FB639}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
