@@ -1,0 +1,1 @@
+The PRIMARY KEY constraint uniquely identifies each record in a database table.A FOREIGN KEY in one table points to a PRIMARY KEY in another table.A table can have only one primary key and many foreign.

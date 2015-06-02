@@ -1,0 +1,3 @@
+Database transaction is collection of SQL queries which forms a logical one task. For transaction to be completed successfully all SQL queries has to run successfully. Database transaction executes either all or none, so for example if your database transaction contains 4 SQL queries and one of them fails then change made by other 3 queries will be rolled back. This way your database always remain consistent whether transaction succeeded or failed. Transaction is implemented in database using SQL keyword transaction, commit and rollback. Commit writes the changes made by transaction into database and rollback removes temporary changes logged in transaction log by database transaction.
+
+examples: http://www.tutorialspoint.com/sql/sql-transactions.htm

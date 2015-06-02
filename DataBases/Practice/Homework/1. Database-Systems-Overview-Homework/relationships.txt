@@ -1,0 +1,25 @@
+There are several types of database relationships.
+
+    One to One Relationships
+    One to Many and Many to One Relationships
+    Many to Many Relationships
+
+One to One Relationships
+
+One cusomer has one name.
+
+
+One to Many and Many to One Relationships
+
+This is the most commonly used type of relationship. Consider an e-commerce website, with the following:
+
+    Customers can make many orders.
+    Orders can contain many items.
+    Items can have descriptions in many languages.
+
+In these cases we would need to create "One to Many" relationships.
+
+
+Many to Many Relationships
+
+In some cases, you may need multiple instances on both sides of the relationship. For example, each order can contain multiple items. And each item can also be in multiple orders.
