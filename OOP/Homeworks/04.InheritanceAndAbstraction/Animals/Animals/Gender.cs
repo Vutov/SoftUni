@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace School
+namespace Animals
 {
-    class Program
+    enum Gender
     {
-        static void Main(string[] args)
-        {
-        }
+        Male,
+        Female
     }
 }
