@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geomet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLDispatcher", "HTMLDispatcher\HTMLDispatcher.csproj", "{E8668E92-D568-4101-8758-25C3417EA162}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paths", "Paths\Paths.csproj", "{19D3A012-6F85-4DFD-B462-79AC08B31E71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E8668E92-D568-4101-8758-25C3417EA162}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8668E92-D568-4101-8758-25C3417EA162}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8668E92-D568-4101-8758-25C3417EA162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D3A012-6F85-4DFD-B462-79AC08B31E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D3A012-6F85-4DFD-B462-79AC08B31E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D3A012-6F85-4DFD-B462-79AC08B31E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D3A012-6F85-4DFD-B462-79AC08B31E71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
