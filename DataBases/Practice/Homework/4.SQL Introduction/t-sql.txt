@@ -1,0 +1,12 @@
+Transact-SQL (T-SQL) is Microsoft's and Sybase's proprietary extension to SQL. SQL, the acronym for Structured Query Language, is a standardized computer language that was originally developed by IBM for querying, altering and defining relational databases, using declarative statements. T-SQL expands on the SQL standard to include procedural programming, local variables, various support functions for string processing, date processing, mathematics, etc. and changes to the DELETE and UPDATE statements. These additional features make Transact-SQL Turing complete.
+
+Transact-SQL is central to using Microsoft SQL Server. All applications that communicate with an instance of SQL Server do so by sending Transact-SQL statements to the server, regardless of the user interface of the application.
+
+Transact-SQL provides the following statements to declare and set local variables: DECLARE, SET and SELECT.
+
+DECLARE @var1 NVARCHAR(30)    
+SET @var1 = 'Some Name'       
+SELECT @var1 = Name       
+FROM Sales.Store       
+WHERE CustomerID = 1000
+

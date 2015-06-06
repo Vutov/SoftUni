@@ -1,0 +1,3 @@
+SELECT DISTINCT Name
+FROM Departments
+ORDER By Name
