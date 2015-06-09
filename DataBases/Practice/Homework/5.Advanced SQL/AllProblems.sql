@@ -132,8 +132,52 @@ WHERE CONVERT (date, LastLogin) = CONVERT (date, GETDATE())
 
 GO
 
-DROP VIEW view_users_logged_today
+--Problem 17. Write a SQL statement to create a table Groups. 
+CREATE TABLE Groups(
+	Id int PRIMARY KEY IDENTITY,
+	Name nvarchar(25) UNIQUE
+)
+
+GO
+
+--Problem 18. Write a SQL statement to add a column GroupID to the table Users.
+INSERT INTO Groups VALUES ('Name');
+INSERT INTO Groups VALUES ('Name');
+
+GO
+
+ALTER TABLE Users
+ADD GroupId int FOREIGN KEY REFERENCES Groups(Id)
+
+GO
+
+--Problem 19. Write SQL statements to insert several records in the Users and Groups tables.
+INSERT INTO Users VALUES('test34', '123456', 'test', GETDATE(), 1);
+INSERT INTO Users VALUES('test35', '123456', 'test', GETDATE(), 1);
+INSERT INTO Users VALUES('test36', '123456', 'test', GETDATE(), 1);
+INSERT INTO Groups VALUES('test34');
+INSERT INTO Groups VALUES('test35');
+
+--Problem 20. Write SQL statements to update some of the records in the Users and Groups tables.
+UPDATE Users SET Username = 'updated' WHERE Id = 1
+UPDATE Users SET Username = 'updated1' WHERE Id = 2
+UPDATE Users SET Username = 'updated2' WHERE Id = 3
+UPDATE Users SET GroupId = '1' WHERE GroupId IS NULL
+UPDATE Groups SET Name = 'updated' WHERE Id = 1
+
+GO
+
+SELECT *
+FROM Users
 
 GO
 
 DROP TABLE Users
+
+GO
+
+DROP TABLE Groups
+
+GO
+
+DROP VIEW view_users_logged_today
