@@ -167,8 +167,114 @@ UPDATE Groups SET Name = 'updated' WHERE Id = 1
 
 GO
 
+--Problem 21.Write SQL statements to delete some of the records from the Users and Groups tables.
+DELETE FROM Users
+WHERE Id = 1
+DELETE FROM Users
+WHERE Id = 2
+DELETE FROM Groups
+WHERE Id = 3
+
+GO
+
+--Problem 21. Write SQL statements to insert in the Users table the names of all employees from the Employees table.
+INSERT INTO Users
+	SELECT
+	LEFT(FirstName, 1) + '' + LOWER(LastName) + CAST(EmployeeID AS nvarchar(25)) AS [Username],
+	LEFT(FirstName, 1) + '' + LOWER(LastName) + '---' AS [Password],
+	FirstName + ' ' + LastName,
+	GETDATE(),
+	1
+FROM Employees
+
+GO
+--Problem 22. Write a SQL statement that changes the password to NULL for all users that have not been in the system since 10.03.2010.
+UPDATE Users
+SET LastLogin = CONVERT (date, '2010-01-30')
+WHERE Id < 10
+
+GO
+
+UPDATE Users 
+SET [Password] = NULL 
+WHERE CONVERT (date, LastLogin) < CONVERT (date, '2010-03-10')
+
+GO
+
+--Problem 23. Write a SQL statement that deletes all users without passwords (NULL password).
+DELETE FROM Users
+WHERE [Password] IS NULL
+
+GO
+
+--Problem 24. Write a SQL query to display the average employee salary by department and job title.
+SELECT
+	d.Name AS Department,
+	e.JobTitle AS [Job Title],
+	AVG(Salary) AS [Avarage Salary]
+FROM Employees e
+JOIN Departments d
+ON e.DepartmentID = d.DepartmentID
+GROUP BY d.Name, e.JobTitle
+
+GO
+
+--Problem 25.Write a SQL query to display the minimal employee salary by department and job title along with the name of some of the employees that take it.
+SELECT
+	d.Name AS Department,
+	e.JobTitle AS [Job Title],
+	MIN(e.FirstName) as [First Name],
+	MIN(Salary) AS [Avarage Salary]
+FROM Employees e
+JOIN Departments d
+ON e.DepartmentID = d.DepartmentID
+GROUP BY d.Name, e.JobTitle
+ORDER BY d.Name, [Avarage Salary]
+
+GO
+
+--Problem 26.Write a SQL query to display the town where maximal number of employees work.
+SELECT TOP 1 
+	t.Name, COUNT(t.Name) AS [Number of employees]
+FROM Employees e
+JOIN Addresses a
+ON e.AddressID = a.AddressID
+JOIN Towns t
+ON a.TownID = t.TownID
+GROUP BY t.Name
+ORDER BY [Number of employees] DESC
+
+--Problem 27. Write a SQL query to display the number of managers from each town.
+SELECT
+	t.Name, COUNT(DISTINCT m.EmployeeID)
+FROM Employees e
+JOIN Employees m 
+ON e.ManagerID = m.EmployeeID
+JOIN Addresses a
+ON m.AddressID = a.AddressID
+JOIN Towns t
+ON a.TownID = t.TownID
+GROUP BY t.Name
+ORDER BY t.Name
+
+
+
+
+
+
+
+DELETE FROM Users
+WHERE Id > 8
+
+GO
+
 SELECT *
 FROM Users
+
+GO
+
+SELECT *
+FROM Groups
 
 GO
 
