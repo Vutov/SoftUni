@@ -167,7 +167,7 @@ UPDATE Groups SET Name = 'updated' WHERE Id = 1
 
 GO
 
---Problem 21.Write SQL statements to delete some of the records from the Users and Groups tables.
+--Problem 21. Write SQL statements to delete some of the records from the Users and Groups tables.
 DELETE FROM Users
 WHERE Id = 1
 DELETE FROM Users
@@ -177,7 +177,7 @@ WHERE Id = 3
 
 GO
 
---Problem 21. Write SQL statements to insert in the Users table the names of all employees from the Employees table.
+--Problem 22. Write SQL statements to insert in the Users table the names of all employees from the Employees table.
 INSERT INTO Users
 	SELECT
 	LEFT(FirstName, 1) + '' + LOWER(LastName) + CAST(EmployeeID AS nvarchar(25)) AS [Username],
@@ -188,7 +188,7 @@ INSERT INTO Users
 FROM Employees
 
 GO
---Problem 22. Write a SQL statement that changes the password to NULL for all users that have not been in the system since 10.03.2010.
+--Problem 23. Write a SQL statement that changes the password to NULL for all users that have not been in the system since 10.03.2010.
 UPDATE Users
 SET LastLogin = CONVERT (date, '2010-01-30')
 WHERE Id < 10
@@ -201,13 +201,13 @@ WHERE CONVERT (date, LastLogin) < CONVERT (date, '2010-03-10')
 
 GO
 
---Problem 23. Write a SQL statement that deletes all users without passwords (NULL password).
+--Problem 24. Write a SQL statement that deletes all users without passwords (NULL password).
 DELETE FROM Users
 WHERE [Password] IS NULL
 
 GO
 
---Problem 24. Write a SQL query to display the average employee salary by department and job title.
+--Problem 25. Write a SQL query to display the average employee salary by department and job title.
 SELECT
 	d.Name AS Department,
 	e.JobTitle AS [Job Title],
@@ -219,7 +219,7 @@ GROUP BY d.Name, e.JobTitle
 
 GO
 
---Problem 25.Write a SQL query to display the minimal employee salary by department and job title along with the name of some of the employees that take it.
+--Problem 26. Write a SQL query to display the minimal employee salary by department and job title along with the name of some of the employees that take it.
 SELECT
 	d.Name AS Department,
 	e.JobTitle AS [Job Title],
@@ -233,7 +233,7 @@ ORDER BY d.Name, [Avarage Salary]
 
 GO
 
---Problem 26.Write a SQL query to display the town where maximal number of employees work.
+--Problem 27. Write a SQL query to display the town where maximal number of employees work.
 SELECT TOP 1 
 	t.Name, COUNT(t.Name) AS [Number of employees]
 FROM Employees e
@@ -244,7 +244,7 @@ ON a.TownID = t.TownID
 GROUP BY t.Name
 ORDER BY [Number of employees] DESC
 
---Problem 27. Write a SQL query to display the number of managers from each town.
+--Problem 28. Write a SQL query to display the number of managers from each town.
 SELECT
 	t.Name, COUNT(DISTINCT m.EmployeeID)
 FROM Employees e
@@ -257,33 +257,63 @@ ON a.TownID = t.TownID
 GROUP BY t.Name
 ORDER BY t.Name
 
+--Problem 29. Write a SQL to create table WorkHours to store work reports for each employee.
+CREATE TABLE WorkHours(
+	Id int PRIMARY KEY IDENTITY,
+	[Date] date NOT NULL,
+	Task nvarchar(30) NOT NULL,
+	[Hours] int NOT NULL,
+	Comments nvarchar(150),
+	EmployeeId int UNIQUE FOREIGN KEY REFERENCES Employees(EmployeeID)
+)
 
 
+--Problem 30. Issue few SQL statements to insert, update and delete of some data in the table.
+INSERT INTO WorkHours VALUES(GETDATE(), 'Worker', 5, NULL, 1)
+INSERT INTO WorkHours VALUES(GETDATE(), 'Worker', 15, NULL, 4)
+INSERT INTO WorkHours VALUES(GETDATE(), 'Worker', 2, NULL, 2)
+INSERT INTO WorkHours VALUES(GETDATE(), 'Worker', 8, NULL, 13)
+UPDATE WorkHours SET Task = 'Not Worker' WHERE Id = 1
+UPDATE WorkHours SET Task = 'Not Worker' WHERE Id = 2
+UPDATE WorkHours SET Comments = 'Some comment' WHERE Comments IS NULL
+DELETE FROM WorkHours WHERE Task = 'Worker'
 
-
-
-
-DELETE FROM Users
-WHERE Id > 8
-
-GO
-
-SELECT *
-FROM Users
-
-GO
-
-SELECT *
-FROM Groups
-
-GO
-
-DROP TABLE Users
-
-GO
-
-DROP TABLE Groups
+SELECT * 
+FROM WorkHours
 
 GO
 
-DROP VIEW view_users_logged_today
+--Problem 31. Define a table WorkHoursLogs to track all changes in the WorkHours table with triggers.
+CREATE TABLE WorkHoursLogs(
+	Id int PRIMARY KEY IDENTITY,
+	[Old Date] date NOT NULL,
+	[New Date] date NOT NULL,
+	[Old Task] nvarchar(30) NOT NULL,
+	[New Task] nvarchar(30) NOT NULL,
+	[Old Hours] int NOT NULL,
+	[New Hours] int NOT NULL,
+	[Old Comments] nvarchar(150),
+	[New Comments] nvarchar(150),
+	[Command type] nvarchar(25) NOT NULL,
+	EmployeeId int UNIQUE FOREIGN KEY REFERENCES Employees(EmployeeID)
+)
+
+GO
+
+CREATE TRIGGER track_changes_in_WorkHours
+ON WorkHours
+FOR UPDATE AS
+--??
+
+GO
+
+--Problem 32. Start a database transaction, delete all employees from the 'Sales' department along with all dependent records from the pother tables. At the end rollback the transaction.
+BEGIN TRAN
+DELETE FROM Employees WHERE DepartmentID = (
+	SELECT DepartmentID
+	FROM Departments 
+	WHERE Name = 'Sales')
+ROLLBACK TRAN
+
+SELECT * FROM Employees
+
