@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CustomList.Attributes;
 
 namespace CustomList
 {
@@ -10,6 +11,17 @@ namespace CustomList
     {
         static void Main(string[] args)
         {
+            Type type = typeof(GenericList<>);
+            object[] allAttributes = type.GetCustomAttributes(false);
+            foreach (var version in allAttributes)
+            {
+                if (version is CurrVersion)
+                {
+                    Console.WriteLine(version);
+                }
+            }
+
+            Console.WriteLine(new string('-', 50));
             GenericList<int> myList = new GenericList<int>();
 
             myList.Add(1);
@@ -50,7 +62,14 @@ namespace CustomList
 
             Console.WriteLine(myList.Contains(1000));
 
-            Console.WriteLine(myList[34]);
+            try
+            {
+                Console.WriteLine(myList[34]);
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                Console.WriteLine("Exception: {0}",ex.Message);
+            }
         }
     }
 }

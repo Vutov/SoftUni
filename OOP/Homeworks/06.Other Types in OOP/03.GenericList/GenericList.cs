@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CustomList.Attributes;
 
 namespace CustomList
 {
+    [CurrVersion(2, 15)]
     public class GenericList<T> where T: IComparable
     {
         private const int DefaultCapacity = 16;
