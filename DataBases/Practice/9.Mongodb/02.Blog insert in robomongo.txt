@@ -1,0 +1,16 @@
+{
+    "blog post" : {
+        "title" : "Some title",
+        "content" : "bla",
+        "category" : "some",
+        "tags" : [ 
+            "some", 
+            "tag"
+        ],
+        "author" : {
+            "name" : "me",
+            "tweeter" : "sads",
+            "linqin" : "asds"
+        }
+    }
+}
