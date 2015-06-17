@@ -1,0 +1,16 @@
+Database normalization is the process of organizing the attributes and tables of a relational database to minimize data redundancy.
+
+Normalization involves decomposing a table into less redundant (and smaller) tables but without losing information; defining foreign keys in the old table referencing the primary keys of the new ones. The objective is to isolate data so that additions, deletions, and modifications of an attribute can be made in just one table and then propagated through the rest of the database using the defined foreign keys.
+
+Advantages of normalization
+1. Smaller database: By eliminating duplicate data, you will be able to reduce the overall size of the database.
+2. Better performance:
+a. Narrow tables: Having more fine-tuned tables allows your tables to have less columns and allows you to fit more records per data page.
+b. Fewer indexes per table mean faster maintenance tasks such as index rebuilds.
+c. Only join tables that you need.
+
+
+Disadvantages of normalization
+1. More tables to join: By spreading out your data into more tables, you increase the need to join tables.
+2. Tables contain codes instead of real data: Repeated data is stored as codes rather than meaningful data. Therefore, there is always a need to go to the lookup table for the value.
+3. Data model is difficult to query against: The data model is optimized for applications, not for ad hoc querying.

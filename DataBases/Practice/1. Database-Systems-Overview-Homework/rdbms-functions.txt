@@ -1,0 +1,5 @@
+Relational database management system is a type of database management system (DBMS) that stores data in the form of related tables. Relational databases are powerful because they require few assumptions about how data is related or how it will be extracted from the database. As a result, the same database can be viewed in many different ways.
+
+An important feature of relational systems is that a single database can be spread across several tables. This differs from flat-file databases, in which each database is self-contained in a single table.
+
+Almost all full-scale database systems are RDBMS's. Small database systems, however, use other designs that provide less flexibility in posing queries.
