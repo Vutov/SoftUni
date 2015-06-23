@@ -45,6 +45,15 @@ namespace _04_06.ATM
 
                 context.SaveChanges();
 
+                context.TransactionHistories.Add(new TransactionHistory()
+                {
+                    CardNumber = cardNumber,
+                    TransactionDate = DateTime.Now,
+                    Amount = moneyToWithdraw
+                });
+
+                context.SaveChanges();
+
                 Console.WriteLine("Transaction end.");
             }
         }

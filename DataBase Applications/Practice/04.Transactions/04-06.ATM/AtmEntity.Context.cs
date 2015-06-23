@@ -26,5 +26,6 @@ namespace _04_06.ATM
         }
     
         public virtual DbSet<CardAccount> CardAccounts { get; set; }
+        public virtual DbSet<TransactionHistory> TransactionHistories { get; set; }
     }
 }

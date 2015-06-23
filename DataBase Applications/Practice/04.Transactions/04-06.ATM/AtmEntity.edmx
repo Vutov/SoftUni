@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="ATMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="ATMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="CardAccounts">
           <Key>
             <PropertyRef Name="Id" />
@@ -14,11 +14,20 @@
           <Property Name="CardPIN" Type="char" MaxLength="4" Nullable="false" />
           <Property Name="CardCash" Type="money" Nullable="false" />
         </EntityType>
+        <EntityType Name="TransactionHistory">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CardNumber" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="TransactionDate" Type="date" Nullable="false" />
+          <Property Name="Amount" Type="money" Nullable="false" />
+        </EntityType>
         <EntityContainer Name="ATMModelStoreContainer">
           <EntitySet Name="CardAccounts" EntityType="Self.CardAccounts" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TransactionHistory" EntityType="Self.TransactionHistory" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="ATMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -33,7 +42,17 @@
         </EntityType>
         <EntityContainer Name="ATMEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="CardAccounts" EntityType="Self.CardAccount" />
+          <EntitySet Name="TransactionHistories" EntityType="ATMModel.TransactionHistory" />
         </EntityContainer>
+        <EntityType Name="TransactionHistory">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CardNumber" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="TransactionDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Amount" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+        </EntityType>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -47,6 +66,16 @@
                 <ScalarProperty Name="CardNumber" ColumnName="CardNumber" />
                 <ScalarProperty Name="CardPIN" ColumnName="CardPIN" />
                 <ScalarProperty Name="CardCash" ColumnName="CardCash" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TransactionHistories">
+            <EntityTypeMapping TypeName="ATMModel.TransactionHistory">
+              <MappingFragment StoreEntitySet="TransactionHistory">
+                <ScalarProperty Name="Amount" ColumnName="Amount" />
+                <ScalarProperty Name="TransactionDate" ColumnName="TransactionDate" />
+                <ScalarProperty Name="CardNumber" ColumnName="CardNumber" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
