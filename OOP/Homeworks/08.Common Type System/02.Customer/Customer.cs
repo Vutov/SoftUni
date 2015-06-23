@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _02.Customer
 {
-    class Customer: ICloneable, IComparable
+    class Customer : ICloneable, IComparable<Customer>
     {
         public Customer(string firstName, string middleName, string lastName, string id,
             string address, string mobilePhone, string email, List<Payment> payments,
@@ -37,7 +37,7 @@ namespace _02.Customer
         {
             if (other is Customer)
             {
-                var otherCustomer = (Customer) other;
+                var otherCustomer = (Customer)other;
                 if (this.Id == otherCustomer.Id)
                 {
                     return true;
@@ -57,31 +57,26 @@ namespace _02.Customer
             return string.Format("{0} {1} Id: {2}", this.FirstName, this.LastName, this.Id);
         }
 
-        public int CompareTo(object other)
+        public int CompareTo(Customer other)
         {
-            if (other is Customer)
-            {
-                string fullName = string.Format("{0} {1} {2}",
-                this.FirstName, this.MiddleName, this.LastName);
-                var otherCustomer = (Customer) other;
-                string otherFullName = string.Format("{0} {1} {2}",
-                    otherCustomer.FirstName,
-                    otherCustomer.MiddleName,
-                    otherCustomer.LastName);
-                if (fullName.CompareTo(otherCustomer) != 0)
-                {
-                    return fullName.CompareTo(otherCustomer);
-                }
 
-                return this.Id.CompareTo(otherCustomer.Id);
+            string fullName = string.Format("{0} {1} {2}",
+            this.FirstName, this.MiddleName, this.LastName);
+            string otherFullName = string.Format("{0} {1} {2}",
+                other.FirstName,
+                other.MiddleName,
+                other.LastName);
+            if (fullName.CompareTo(otherFullName) != 0)
+            {
+                return fullName.CompareTo(otherFullName);
             }
 
-            return 0;
+            return this.Id.CompareTo(other.Id);
         }
 
         public object Clone()
         {
-            return new Customer(this.FirstName, this.MiddleName, this.LastName,this.Id,
+            return new Customer(this.FirstName, this.MiddleName, this.LastName, this.Id,
                 this.Address, this.MobilePhone, this.Email, new List<Payment>(this.Payments),
                 this.CustomerType);
         }

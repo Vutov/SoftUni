@@ -1,0 +1,24 @@
+Please be kind, I don't have time for this txt.
+
+
+Which .NET data types are value types? Which types are reference types?
+https://msdn.microsoft.com/en-us/library/t63sy5hs.aspx
+
+How do value and reference types differ when assigned to a variable? 
+http://www.albahari.com/valuevsreftypes.aspx
+
+How do value and reference types behave when passed as argument to a method?
+https://www.safaribooksonline.com/library/view/head-first-java/0596009208/ch04.html
+
+Where in memory are value types allocated? Where are reference types allocated?
+http://www.codeproject.com/Articles/76153/Six-important-NET-concepts-Stack-heap-value-types
+
+What is data mutation? Can value types be mutated? Can reference types be mutated?
+http://stackoverflow.com/questions/7088108/in-c-sharp-are-value-types-mutable-or-immutable
+
+What is the difference between mutating and setting (assigning) a variable? Give examples.
+http://stackoverflow.com/questions/6236569/string-assignment-in-c-sharp
+
+What are the out and ref keywords used for? In what do they differ?
+https://msdn.microsoft.com/en-us/library/14akc2c7.aspx
+https://msdn.microsoft.com/en-us/library/t3c3bfhx.aspx

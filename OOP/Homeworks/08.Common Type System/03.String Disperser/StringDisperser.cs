@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _03.String_Disperser
 {
-    class StringDisperser : ICloneable, IComparable, IEnumerable
+    class StringDisperser : ICloneable, IComparable<StringDisperser>, IEnumerable
     {
         public StringDisperser(params string[] values)
         {
@@ -32,22 +32,21 @@ namespace _03.String_Disperser
             return new StringDisperser(new List<string>(this.Words).ToArray());
         }
 
-        public int CompareTo(object obj)
+        public int CompareTo(StringDisperser obj)
         {
-            if (obj is StringDisperser)
-            {
-                var otherDisp = obj as StringDisperser;
-                if (this.Words.Length >= otherDisp.Words.Length)
-                {
-                   
-                    return -1;
-                }
 
-                if (this.Words.Length >= otherDisp.Words.Length)
-                {
-                    return 1;
-                }
+            var otherDisp = obj as StringDisperser;
+            if (this.Words.Length >= otherDisp.Words.Length)
+            {
+
+                return -1;
             }
+
+            if (this.Words.Length <= otherDisp.Words.Length)
+            {
+                return 1;
+            }
+
 
             return 0;
         }
