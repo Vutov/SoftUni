@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students xmlns = "urn:Students">
+  <Student>
+    <Name>Some Guy</Name>
+    <Gender>Male</Gender>
+    <BirthDay>2000-02-15</BirthDay>
+    <PhoneNumber>0333333</PhoneNumber>
+    <Email>email@email</Email>
+    <University>SoftUni</University>
+    <Speciality>IT</Speciality>
+    <FacultyNumber>1</FacultyNumber>
+    <Exams>
+      <Exam>
+        <Name>Some</Name>
+        <Date>2015-03-12</Date>
+        <Grade>6</Grade>
+      </Exam>
+      <Exam>
+        <Name>Other</Name>
+        <Date>2015-03-13</Date>
+        <Grade>6</Grade>
+      </Exam>
+    </Exams>
+  </Student>
+  <Student>
+    <Name>Other Guy</Name>
+    <Gender>Male</Gender>
+    <BirthDay>2000-02-16</BirthDay>
+    <Email>email@email</Email>
+    <University>SoftUni</University>
+    <Speciality>IT</Speciality>
+    <Exams>
+      <Exam>
+        <Name>Some</Name>
+        <Date>2015-03-12</Date>
+        <Grade>3</Grade>
+      </Exam>
+    </Exams>
+  </Student>
+  <Student>
+    <Name>Gril</Name>
+    <Gender>Female</Gender>
+    <BirthDay>1980-02-16</BirthDay>
+    <Email>email@email</Email>
+    <University>SoftUni</University>
+    <Speciality>IT</Speciality>
+    <Exams>
+      <Exam>
+        <Name>Some</Name>
+        <Date>2015-03-12</Date>
+        <Grade>3</Grade>
+      </Exam>
+      <Exam>
+        <Name>Other</Name>
+        <Date>2015-03-13</Date>
+        <Grade>3</Grade>
+      </Exam>
+      <Exam>
+        <Name>An other</Name>
+        <Date>2015-04-12</Date>
+        <Grade>5</Grade>
+      </Exam>
+    </Exams>
+    <Endorsements>
+      <Endorsement>
+        <Author>Some</Author>
+        <AuthorEmail>Some@soem</AuthorEmail>
+        <EndorsementDate>2015-01-11</EndorsementDate>
+        <EndorsementText>Sobalfjkm</EndorsementText>
+      </Endorsement>
+    </Endorsements>
+  </Student>
+</Students>
