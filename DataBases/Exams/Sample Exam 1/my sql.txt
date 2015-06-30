@@ -1,0 +1,11 @@
+select 
+	p.name as product_name,
+	count(oi.id) as num_orders,
+    COALESCE(sum(oi.quantity),0) as quantity,
+    p.price as price,
+    COALESCE(sum(p.price * oi.quantity),0) as total_price
+from products p
+left join order_items oi
+on p.id = oi.product_id
+group by p.name, p.price
+order by p.name

@@ -152,3 +152,191 @@ FROM Ads fa
 CROSS JOIN Ads sa
 WHERE DATEDIFF(HOUR, fa.[Date], sa.[Date]) BETWEEN 1 AND 11
 ORDER BY fa.[Date], sa.[Date] ASC
+
+GO
+--Changes in the Database
+BEGIN TRAN
+CREATE TABLE Countries(
+	Id int PRIMARY KEY IDENTITY,
+	Name nvarchar(50) NOT NULL,
+)
+
+GO
+
+ALTER TABLE Towns ADD CountryId int FOREIGN KEY REFERENCES Towns(Id) NULL
+
+GO
+
+INSERT INTO Countries(Name) VALUES ('Bulgaria'), ('Germany'), ('France')
+UPDATE Towns SET CountryId = (SELECT Id FROM Countries WHERE Name='Bulgaria')
+INSERT INTO Towns VALUES
+('Munich', (SELECT Id FROM Countries WHERE Name='Germany')),
+('Frankfurt', (SELECT Id FROM Countries WHERE Name='Germany')),
+('Berlin', (SELECT Id FROM Countries WHERE Name='Germany')),
+('Hamburg', (SELECT Id FROM Countries WHERE Name='Germany')),
+('Paris', (SELECT Id FROM Countries WHERE Name='France')),
+('Lyon', (SELECT Id FROM Countries WHERE Name='France')),
+('Nantes', (SELECT Id FROM Countries WHERE Name='France'))
+
+GO
+
+UPDATE Ads SET TownId = (
+	SELECT t.Id
+	FROM Towns t
+	WHERE t.Name = 'Paris'
+	)
+WHERE Id IN (
+	SELECT a.Id
+	FROM Ads a
+	WHERE DATENAME(weekday, [Date]) = 'Friday'
+	)
+
+UPDATE Ads SET TownId = (
+	SELECT t.Id
+	FROM Towns t
+	WHERE t.Name = 'Hamburg'
+	)
+WHERE Id IN (
+	SELECT a.Id
+	FROM Ads a
+	WHERE DATENAME(weekday, [Date]) = 'Thursday'
+	)
+
+GO
+
+DELETE Ads WHERE Id IN (
+	SELECT a.Id
+	FROM Ads a
+	JOIN AspNetUsers u
+	ON a.OwnerId = u.Id
+	JOIN AspNetUserRoles ar
+	ON u.Id = ar.UserId
+	JOIN AspNetRoles ro
+	ON ar.RoleId = ro.Id
+	WHERE ro.Name = 'Partner'
+)
+
+GO
+
+INSERT INTO Ads (Title, [Text], [Date], OwnerId, StatusId) VALUES (
+'Free Book',
+'Free C# Book',
+GETDATE(),
+(SELECT Id AS OwnerId
+FROM AspNetUsers
+WHERE Name = 'Nakov'),
+(SELECT Id AS StatusId
+FROM AdStatuses
+WHERE [Status] = 'Waiting Approval')
+)
+
+GO
+
+SELECT 
+	t.Name AS [Town], c.Name AS [Country], COUNT(a.Id) AS [AdsCount]
+FROM Ads a
+FULL JOIN Towns t
+ON a.TownId = t.Id
+FULL JOIN Countries c
+ON t.CountryId = c.Id
+GROUP BY t.Name, c.Name
+ORDER BY t.Name, c.Name
+
+ROLLBACK TRAN
+
+GO
+--Stored Procedures
+BEGIN TRAN
+
+GO
+
+CREATE VIEW AllAds AS
+	SELECT a.Id, a.Title, u.UserName AS [Author], a.[Date], t.Name AS [Town],
+		c.Name AS [Category], s.[Status]
+	FROM Ads a
+	FULL JOIN AspNetUsers u
+	ON a.OwnerId = u.Id
+	LEFT JOIN Towns t
+	ON a.TownId = t.Id
+	LEFT JOIN Categories c
+	ON a.CategoryId = c.Id
+	LEFT JOIN AdStatuses s
+	ON a.StatusId = s.Id
+
+GO
+
+COMMIT TRAN
+
+GO
+
+BEGIN TRAN
+
+GO
+
+CREATE FUNCTION fn_ListUsersAds()
+RETURNS @UsersAndDates TABLE
+   (
+    UserName nvarchar(50),
+    AdDates nvarchar(Max)
+   )
+AS
+BEGIN
+	DECLARE empCursor CURSOR READ_ONLY FOR
+	SELECT Author, [Date] FROM AllAds ORDER BY Author DESC, [Date] ASC
+
+	OPEN empCursor
+	DECLARE @currAuthor nvarchar(50), @lastAuthor nvarchar(50),
+		@currDate date, @dates nvarchar(Max)
+	SET @dates = NULL
+	FETCH NEXT FROM empCursor INTO @currAuthor, @currDate
+	SET @lastAuthor = @currAuthor
+
+	WHILE @@FETCH_STATUS = 0
+	  BEGIN
+		IF @currAuthor = @lastAuthor
+			BEGIN
+				IF @dates IS NULL
+					BEGIN
+						IF @currDate IS NULL
+							BEGIN
+								SET @dates = @currDate
+							END
+						ELSE
+							BEGIN
+								SET @dates = convert(varchar, @currDate, 112)
+							END
+					END
+				ELSE
+					BEGIN
+						SET @dates = @dates+ '; ' + convert(varchar, @currDate, 112)
+					END
+			END
+		ELSE
+			BEGIN
+				INSERT @UsersAndDates VALUES (@lastAuthor, ISNULL(@dates, 'NULL'))
+
+				SET @lastAuthor = @currAuthor
+				SET @dates = convert(varchar, @currDate, 112)
+			END
+
+		FETCH NEXT FROM empCursor INTO @currAuthor, @currDate
+	  END
+
+	INSERT @UsersAndDates VALUES (@lastAuthor, ISNULL(@dates, 'NULL'))
+
+	CLOSE empCursor
+	DEALLOCATE empCursor
+
+	RETURN
+END
+
+GO
+
+--ROLLBACK TRAN
+COMMIT TRAN
+
+GO
+
+SELECT * FROM fn_ListUsersAds()
+
+--SELECT Author,[Date] FROM AllAds GROUP BY Author,[Date] ORDER BY Author DESC, [Date] ASC
