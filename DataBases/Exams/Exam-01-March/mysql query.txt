@@ -1,0 +1,7 @@
+select tc.name as 'traning center', t.start_date as 'start date', c.name as 'course name', c.description as 'more info'
+from `timetable` t
+join training_centers tc
+on t.`training_id` = tc.id
+join courses c
+on t.`course_id` = c.id
+order by t.start_date, t.id
