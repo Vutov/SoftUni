@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{44737E1C-73A0-4479-9C9B-0A006069526E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WinterIsComing</RootNamespace>
+    <AssemblyName>WinterIsComing</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contracts\ICombatHandler.cs" />
+    <Compile Include="Contracts\ICommandDispatcher.cs" />
+    <Compile Include="Contracts\IInputReader.cs" />
+    <Compile Include="Contracts\IOutputWriter.cs" />
+    <Compile Include="Contracts\ISpell.cs" />
+    <Compile Include="Contracts\IUnit.cs" />
+    <Compile Include="Contracts\IUnitContainer.cs" />
+    <Compile Include="Contracts\IUnitEffector.cs" />
+    <Compile Include="Core\CommandDispatcher.cs" />
+    <Compile Include="Core\Commands\AbstractCommand.cs" />
+    <Compile Include="Core\Commands\FightCommand.cs" />
+    <Compile Include="Contracts\ICommand.cs" />
+    <Compile Include="Core\Commands\MoveCommand.cs" />
+    <Compile Include="Core\Commands\SpawnCommand.cs" />
+    <Compile Include="Core\Commands\StatusCommand.cs" />
+    <Compile Include="Core\Commands\ToggleEffectorCommand.cs" />
+    <Compile Include="Core\Commands\WinterCameCommand.cs" />
+    <Compile Include="Core\ConsoleReader.cs" />
+    <Compile Include="Core\ConsoleWriter.cs" />
+    <Compile Include="Core\Engine.cs" />
+    <Compile Include="Contracts\IEngine.cs" />
+    <Compile Include="Core\Exceptions\GameException.cs" />
+    <Compile Include="Core\Exceptions\InvalidPositionException.cs" />
+    <Compile Include="Core\Exceptions\NotEnoughEnergyException.cs" />
+    <Compile Include="Core\ExtendedCommandDispatcher.cs" />
+    <Compile Include="Core\GlobalMessages.cs" />
+    <Compile Include="Core\MatrixContainer.cs" />
+    <Compile Include="Core\EmptyUnitEffector.cs" />
+    <Compile Include="Core\UnitEfector.cs" />
+    <Compile Include="Core\UnitFactory.cs" />
+    <Compile Include="Models\CombatHandlers\IceGiantCombatHandler.cs" />
+    <Compile Include="Models\CombatHandlers\MageCombatHandler.cs" />
+    <Compile Include="Models\CombatHandlers\WarriorCombatHandler.cs" />
+    <Compile Include="Models\Spells\Blizzard.cs" />
+    <Compile Include="Models\Spells\Cleave.cs" />
+    <Compile Include="Models\Spells\FireBreath.cs" />
+    <Compile Include="Models\Spells\Stomp.cs" />
+    <Compile Include="Models\Units\GameUnit.cs" />
+    <Compile Include="Models\Units\IceGiant.cs" />
+    <Compile Include="Models\Units\Mage.cs" />
+    <Compile Include="Models\Units\Warrior.cs" />
+    <Compile Include="Models\UnitType.cs" />
+    <Compile Include="Models\Validator.cs" />
+    <Compile Include="WinterIsComingMain.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
