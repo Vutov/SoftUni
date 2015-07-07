@@ -371,3 +371,94 @@ LEFT JOIN TeamMatches tm
 ON t.Id = tm.HomeTeamId OR t.Id = tm.AwayTeamId
 WHERE t.CountryCode = 'BG'
 ORDER BY t.TeamName, tm.MatchDate DESC
+
+GO
+
+IF OBJECT_ID('fn_TeamsJSON') IS NOT NULL
+  DROP FUNCTION fn_TeamsJSON
+GO
+CREATE FUNCTION fn_TeamsJSON() 
+RETURNS  @result TABLE
+   (
+    JSON nvarchar(Max)
+   )
+AS
+BEGIN
+DECLARE empCursor CURSOR READ_ONLY FOR
+SELECT 
+	t.TeamName,
+	(SELECT TeamName
+	FROM Teams
+	WHERE Id = tm.HomeTeamId
+	), 
+	tm.HomeGoals,
+	(SELECT TeamName
+	FROM Teams
+	WHERE Id = tm.AwayTeamId
+	),
+	tm.AwayGoals,
+	CONVERT(nvarchar, tm.MatchDate, 103)
+FROM Teams t 
+LEFT JOIN TeamMatches tm
+ON t.Id = tm.HomeTeamId OR t.Id = tm.AwayTeamId
+WHERE t.CountryCode = 'BG'
+ORDER BY t.TeamName, tm.MatchDate DESC
+  
+  
+OPEN empCursor
+
+DECLARE @currentTeamName nvarchar(50), @lastTeamName nvarchar(50), @firstTeam nvarchar(50), @secondTeam nvarchar(50), @homeScore int, @awayScore int, @matchDate nvarchar(50)
+DECLARE @json nvarchar(max) = '{"teams":[', @teamJson nvarchar(max) = '{"name":"', @matches nvarchar(max) = '['
+
+FETCH NEXT FROM empCursor INTO @currentTeamName, @firstTeam, @homeScore, @secondTeam, @awayScore, @matchDate
+SET @lastTeamName = @currentTeamName
+
+WHILE @@FETCH_STATUS = 0
+  BEGIN
+    IF @currentTeamName = @lastTeamName
+		BEGIN
+			IF @firstTeam IS NOT NULL
+			BEGIN
+				IF @matches = '['
+					BEGIN
+						SET @matches = @matches + '{"' + @firstTeam + '":' + CAST(@homeScore AS nvarchar(4)) + ',"' + @secondTeam + '":' + CAST(@awayScore AS nvarchar(4)) + ',"date":' + @matchDate + '}'
+					END
+				ELSE 
+					BEGIN
+						SET @matches = @matches + ',{"' + @firstTeam + '":' + CAST(@homeScore AS nvarchar(4)) + ',"' + @secondTeam + '":' + CAST(@awayScore AS nvarchar(4))+ ',"date":' + @matchDate + '}'
+					END
+			END
+		END
+	ELSE
+		BEGIN
+			SET @teamJson = @teamJson + @lastTeamName + '","matches":'
+
+			SET @json = @json + @teamJson + @matches + ']}'
+
+			SET @matches = '['
+			IF @firstTeam IS NOT NULL
+				BEGIN
+					SET @matches = @matches + '{"' + @firstTeam + '":' + CAST(@homeScore AS nvarchar(4)) + ',"' + @secondTeam + '":' + CAST(@awayScore AS nvarchar(4)) + ',"date":' + @matchDate + '}'
+				END
+
+			--Reset
+			SET @teamJson = ',{"name":"'
+			SET @lastTeamName = @currentTeamName
+		END
+
+    FETCH NEXT FROM empCursor INTO @currentTeamName, @firstTeam, @homeScore, @secondTeam, @awayScore, @matchDate
+  END
+
+--Last Row
+SET @teamJson = @teamJson + @lastTeamName + '","matches":'
+SET @json = @json + @teamJson + @matches + ']}'
+
+CLOSE empCursor
+DEALLOCATE empCursor
+SET @json = @json + ']}'
+INSERT @result VALUES (@Json)
+RETURN
+END
+
+GO
+SELECT * FROM fn_TeamsJSON()
