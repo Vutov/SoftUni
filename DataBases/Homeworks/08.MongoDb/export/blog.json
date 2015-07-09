@@ -1,0 +1,38 @@
+{
+	"_id": {
+		"$oid": "558156cc44601fbd75bc5dc1"
+	},
+	"blog post": {
+		"author": {
+			"linqin": "asds",
+			"name": "me",
+			"tweeter": "sads"
+		},
+		"category": "some",
+		"content": "bla",
+		"tags": [
+			"some",
+			"tag"
+		],
+		"title": "Some title"
+	}
+}
+{
+	"_id": {
+		"$oid": "558158d611d84020180480af"
+	},
+	"blog post": {
+		"author": {
+			"linqin": "asds",
+			"name": "me",
+			"tweeter": "sads"
+		},
+		"category": "some",
+		"content": "bla",
+		"tags": [
+			"some",
+			"tag"
+		],
+		"title": "Some title"
+	}
+}

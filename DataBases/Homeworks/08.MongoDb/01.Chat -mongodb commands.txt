@@ -1,0 +1,8 @@
+use chat
+db.chat.insert({"message" : {"text" : "some text", "date" : "12.12.12", "read" : true, "user" : {"username" : "me", "fullname" : "some full name", "website" : "www.we"}}})
+db.chat.insert({"message" : {"text" : "some text2", "date" : Date(), "read" : false, "user" : {"username" : "me1", "fullname" : "Other full name", "website" : "www.dsadas"}}})
+db.chat.insert({"message" : {"text" : "some text3", "date" : Date(), "read" : true, "user" : {"username" : "me2", "fullname" : "mmememe", "website" : "www.dasdx"}}})
+db.chat.insert({"message" : {"text" : "some text4", "date" : Date(), "read" : false, "user" : {"username" : "me3", "fullname" : "blasla", "website" : "www.aaaaa"}}})
+db.chat.insert({"message" : {"text" : "some text5", "date" : Date(), "read" : true, "user" : {"username" : "me4", "fullname" : "dsdsadasdasd", "website" : "www.eee3"}}})
+db.chat.insert({"message" : {"text" : "some text6", "date" : Date(), "read" : false, "user" : {"username" : "me5", "fullname" : "some", "website" : "www.4455"}}})
+db.chat.find().pretty()

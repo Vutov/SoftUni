@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5581500195876555d1587fd3"},"message":{"date":"12.12.12","read":true,"text":"some text","user":{"fullname":"some full name","username":"me","website":"www.wwww/www"}}}
+{"_id":{"$oid":"558150f595876555d1587fd4"},"message":{"date":"Wed Jun 17 2015 13:50:29 GMT+0300 (FLE Daylight Time)","read":false,"text":"some text2","user":{"fullname":"Other full name","username":"me1","website":"www.dsadas"}}}
+{"_id":{"$oid":"558150fb95876555d1587fd5"},"message":{"date":"Wed Jun 17 2015 13:50:35 GMT+0300 (FLE Daylight Time)","read":true,"text":"some text3","user":{"fullname":"mmememe","username":"me2","website":"www.dasdx"}}}
+{"_id":{"$oid":"558150fb95876555d1587fd6"},"message":{"date":"Wed Jun 17 2015 13:50:35 GMT+0300 (FLE Daylight Time)","read":false,"text":"some text4","user":{"fullname":"blasla","username":"me3","website":"www.aaaaa"}}}
+{"_id":{"$oid":"558150fb95876555d1587fd7"},"message":{"date":"Wed Jun 17 2015 13:50:35 GMT+0300 (FLE Daylight Time)","read":true,"text":"some text5","user":{"fullname":"dsdsadasdasd","username":"me4","website":"www.eee3"}}}
+{"_id":{"$oid":"5581513295876555d1587fd8"},"message":{"date":"Wed Jun 17 2015 13:51:30 GMT+0300 (FLE Daylight Time)","read":false,"text":"some text6","user":{"fullname":"some","username":"me5","website":"www.4455"}}}

@@ -1,0 +1,2 @@
+mongoexport --db chat --collection chat --out chat.json
+mongoexport --db blog --collection blog /pretty --out blog.json
