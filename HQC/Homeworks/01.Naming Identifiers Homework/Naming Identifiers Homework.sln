@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Orders", "Orders\02. Orders.csproj", "{32FFFB9D-C7B7-4D0B-9392-231F62595912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. MatrixMultiplication", "MatrixMultiplication\01. MatrixMultiplication.csproj", "{F93E5A43-0119-4961-B21C-BDF4A1FBE9AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Minesweaper Game", "Minesweaper\03.Minesweaper Game.csproj", "{E2B7BED8-5433-40ED-9870-4E775782E5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FFFB9D-C7B7-4D0B-9392-231F62595912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FFFB9D-C7B7-4D0B-9392-231F62595912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FFFB9D-C7B7-4D0B-9392-231F62595912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FFFB9D-C7B7-4D0B-9392-231F62595912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93E5A43-0119-4961-B21C-BDF4A1FBE9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93E5A43-0119-4961-B21C-BDF4A1FBE9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93E5A43-0119-4961-B21C-BDF4A1FBE9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93E5A43-0119-4961-B21C-BDF4A1FBE9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B7BED8-5433-40ED-9870-4E775782E5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B7BED8-5433-40ED-9870-4E775782E5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B7BED8-5433-40ED-9870-4E775782E5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B7BED8-5433-40ED-9870-4E775782E5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
