@@ -1,0 +1,9 @@
+SELECT u.username, u.fullname, job.title as Job, s.from_value as 'From Value', s.to_value as 'To Value'
+FROM `job_ad_applications` ja
+join users u
+on ja.`user_id` = u.id
+join job_ads job
+on ja.`job_ad_id` = job.id
+join salaries s
+on job.salary_id = s.id
+order BY u.username, job.title
