@@ -1,4 +1,4 @@
---09 NOT WORKING
+--09
 
 begin tran
 CREATE TABLE #Temp6 ( [Username] nvarchar(100), [Game] nvarchar(100), [Character] nvarchar(100),
