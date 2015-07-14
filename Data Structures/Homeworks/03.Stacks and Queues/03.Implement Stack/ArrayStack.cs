@@ -38,7 +38,7 @@
                 throw new InvalidOperationException("Stack is empty");
             }
 
-            var element = this.elements[this.Count];
+            var element = this.elements[this.Count - 1];
             this.Count--;
 
             return element;
@@ -49,7 +49,7 @@
             var result = new T[this.Count];
             for (int i = 0; i < this.Count; i++)
             {
-                result[i] = this.elements[i];
+                result[i] = this.elements[this.Count - 1 - i];
             }
 
             return result;
