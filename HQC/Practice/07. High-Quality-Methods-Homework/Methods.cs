@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace Methods
+﻿namespace Methods
 {
+    using System;
+
     class Methods
     {
         static double CalcTriangleArea(double a, double b, double c)
@@ -84,13 +84,18 @@ namespace Methods
             {
                 Console.WriteLine("{0:f2}", number);
             }
-            if (format == "%")
+            else if (format == "%")
             {
                 Console.WriteLine("{0:p0}", number);
             }
-            if (format == "r")
+            else if (format == "r")
             {
                 Console.WriteLine("{0,8}", number);
+            }
+            else
+            {
+                var errorMessage = string.Format("{0} is not valid format", format);
+                throw new InvalidOperationException(errorMessage);
             }
         }
 
@@ -101,12 +106,12 @@ namespace Methods
             return distance;
         }
 
-        static bool IsHorizontal(double x1, double x2)
+        static bool IsVertical(double x1, double x2)
         {
             return x1 == x2;
         }
 
-        static bool IsVertical(double y1, double y2)
+        static bool IsHorizontal(double y1, double y2)
         {
             return y1 == y2;
         }

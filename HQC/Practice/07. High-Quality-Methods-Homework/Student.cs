@@ -17,12 +17,17 @@ namespace Methods
 
         public bool IsOlderThan(Student other)
         {
-            DateTime firstDate =
-                DateTime.Parse(this.OtherInfo.Substring(this.OtherInfo.Length - 10));
-            DateTime secondDate =
-                DateTime.Parse(other.OtherInfo.Substring(other.OtherInfo.Length - 10));
+            DateTime firstDate = this.GetDateFromInfo(this.OtherInfo);
+            DateTime secondDate = this.GetDateFromInfo(other.OtherInfo);
 
             return firstDate > secondDate;
+        }
+
+        private DateTime GetDateFromInfo(string info)
+        {
+            var date = DateTime.Parse(info.Substring(info.Length - 10));
+
+            return date;
         }
     }
 }
