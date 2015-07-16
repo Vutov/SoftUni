@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConnection", "DBConnection\DBConnection.csproj", "{FB8CD833-7D56-4780-B741-ADC2D29B5402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problems", "Problems\Problems.csproj", "{D1CB7EAA-DD90-4413-923E-181C575EED36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrent Changes", "Concurrent Changes\Concurrent Changes.csproj", "{5F5983A6-0155-4701-B0C0-AE89193A7D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8CD833-7D56-4780-B741-ADC2D29B5402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8CD833-7D56-4780-B741-ADC2D29B5402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8CD833-7D56-4780-B741-ADC2D29B5402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8CD833-7D56-4780-B741-ADC2D29B5402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CB7EAA-DD90-4413-923E-181C575EED36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CB7EAA-DD90-4413-923E-181C575EED36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CB7EAA-DD90-4413-923E-181C575EED36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CB7EAA-DD90-4413-923E-181C575EED36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5983A6-0155-4701-B0C0-AE89193A7D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5983A6-0155-4701-B0C0-AE89193A7D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5983A6-0155-4701-B0C0-AE89193A7D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5983A6-0155-4701-B0C0-AE89193A7D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
