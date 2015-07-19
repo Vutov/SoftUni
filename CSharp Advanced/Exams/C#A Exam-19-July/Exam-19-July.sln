@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Population Counter", "04.Population Counter\04.Population Counter.csproj", "{26550318-F72C-405A-8BD4-3D1A947F9AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Rage Quit", "03.Rage Quit\03.Rage Quit.csproj", "{8AA6833F-1FEA-4408-86CE-90EFF81C9802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Bunker Buster", "01.Bunker Buster\01.Bunker Buster.csproj", "{EF3E5122-36EA-47B0-BCC7-EA02B91F7F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ArraySlider", "02.ArraySlider\02.ArraySlider.csproj", "{1063E37B-8BD0-4184-A499-2B9A6FB3DF8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26550318-F72C-405A-8BD4-3D1A947F9AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26550318-F72C-405A-8BD4-3D1A947F9AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26550318-F72C-405A-8BD4-3D1A947F9AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26550318-F72C-405A-8BD4-3D1A947F9AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA6833F-1FEA-4408-86CE-90EFF81C9802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA6833F-1FEA-4408-86CE-90EFF81C9802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA6833F-1FEA-4408-86CE-90EFF81C9802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA6833F-1FEA-4408-86CE-90EFF81C9802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3E5122-36EA-47B0-BCC7-EA02B91F7F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3E5122-36EA-47B0-BCC7-EA02B91F7F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3E5122-36EA-47B0-BCC7-EA02B91F7F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3E5122-36EA-47B0-BCC7-EA02B91F7F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1063E37B-8BD0-4184-A499-2B9A6FB3DF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1063E37B-8BD0-4184-A499-2B9A6FB3DF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1063E37B-8BD0-4184-A499-2B9A6FB3DF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1063E37B-8BD0-4184-A499-2B9A6FB3DF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
