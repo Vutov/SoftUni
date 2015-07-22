@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportRiversAsJSON", "Expor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportMonasteriesAsXML", "ExportMonasteriesAsXML\ExportMonasteriesAsXML.csproj", "{048927FD-5AD8-438B-A1E2-F39A0EE6CD56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportRiversFromXML", "ImportRiversFromXML\ImportRiversFromXML.csproj", "{F2DF308D-2BB1-47D2-A0C2-45E2F8F6CA8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{048927FD-5AD8-438B-A1E2-F39A0EE6CD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{048927FD-5AD8-438B-A1E2-F39A0EE6CD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{048927FD-5AD8-438B-A1E2-F39A0EE6CD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DF308D-2BB1-47D2-A0C2-45E2F8F6CA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DF308D-2BB1-47D2-A0C2-45E2F8F6CA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DF308D-2BB1-47D2-A0C2-45E2F8F6CA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DF308D-2BB1-47D2-A0C2-45E2F8F6CA8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
