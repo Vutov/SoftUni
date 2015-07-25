@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<category>
+  <album>
+    <name>Some name33</name>
+    <artist>Me</artist>
+    <year>2012</year>
+    <producer>Other guy</producer>
+    <price>2.1</price>
+    <songs>
+      <song>
+        <title>Somem1</title>
+        <duration>10</duration>
+      </song>
+    </songs>
+  </album>
+</category>
