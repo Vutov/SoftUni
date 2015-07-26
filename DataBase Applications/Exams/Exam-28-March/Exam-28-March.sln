@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseFirstMapping", "DatabaseFirstMapping\DatabaseFirstMapping.csproj", "{921FFC29-5D1A-4552-810B-C7860425C66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportLeagueAndTeamsJson", "ExportLeagueAndTeamsJson\ExportLeagueAndTeamsJson.csproj", "{0EE6F0EB-07B6-4A1B-A3FC-D52768DE0FC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportInternationalMatchesAsXml", "ExportInternationalMatchesAsXml\ExportInternationalMatchesAsXml.csproj", "{0496932C-5F03-4F17-BB49-50D216B4CE50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportLeaguesAndTeamsFromXml", "ImportLeaguesAndTeamsFromXml\ImportLeaguesAndTeamsFromXml.csproj", "{72158182-89B4-44C8-9B0D-FEBBEBEE9B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstPhonebook", "CodeFirstPhonebook\CodeFirstPhonebook.csproj", "{107608FD-489A-45CB-AEE3-5DE4CB3D4B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertContactsFromJson", "InsertContactsFromJson\InsertContactsFromJson.csproj", "{3D1CA325-8333-4DA3-A4D5-DE771C257400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateRandomMatches", "GenerateRandomMatches\GenerateRandomMatches.csproj", "{2A962C5B-D0AE-4936-BFB2-46BB44FEC2A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921FFC29-5D1A-4552-810B-C7860425C66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921FFC29-5D1A-4552-810B-C7860425C66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921FFC29-5D1A-4552-810B-C7860425C66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921FFC29-5D1A-4552-810B-C7860425C66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE6F0EB-07B6-4A1B-A3FC-D52768DE0FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE6F0EB-07B6-4A1B-A3FC-D52768DE0FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE6F0EB-07B6-4A1B-A3FC-D52768DE0FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE6F0EB-07B6-4A1B-A3FC-D52768DE0FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0496932C-5F03-4F17-BB49-50D216B4CE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0496932C-5F03-4F17-BB49-50D216B4CE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0496932C-5F03-4F17-BB49-50D216B4CE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0496932C-5F03-4F17-BB49-50D216B4CE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72158182-89B4-44C8-9B0D-FEBBEBEE9B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72158182-89B4-44C8-9B0D-FEBBEBEE9B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72158182-89B4-44C8-9B0D-FEBBEBEE9B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72158182-89B4-44C8-9B0D-FEBBEBEE9B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107608FD-489A-45CB-AEE3-5DE4CB3D4B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107608FD-489A-45CB-AEE3-5DE4CB3D4B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107608FD-489A-45CB-AEE3-5DE4CB3D4B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107608FD-489A-45CB-AEE3-5DE4CB3D4B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1CA325-8333-4DA3-A4D5-DE771C257400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1CA325-8333-4DA3-A4D5-DE771C257400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1CA325-8333-4DA3-A4D5-DE771C257400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1CA325-8333-4DA3-A4D5-DE771C257400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A962C5B-D0AE-4936-BFB2-46BB44FEC2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A962C5B-D0AE-4936-BFB2-46BB44FEC2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A962C5B-D0AE-4936-BFB2-46BB44FEC2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A962C5B-D0AE-4936-BFB2-46BB44FEC2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
