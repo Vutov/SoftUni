@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <album>
+    <name>Some name</name>
+    <artist>Me</artist>
+    <year>2000</year>
+    <producer>Other guy</producer>
+    <price>200.1</price>
+    <songs>
+      <song>
+        <title>Somem</title>
+        <duration>10</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Some name33</name>
+    <artist>Me</artist>
+    <year>2012</year>
+    <producer>Other guy</producer>
+    <price>2.1</price>
+    <songs>
+      <song>
+        <title>Somem1</title>
+        <duration>10</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Some name2</name>
+    <artist>Eh me</artist>
+    <year>2001</year>
+    <producer>Other guy2</producer>
+    <price>21.1</price>
+    <songs>
+      <song>
+        <title>Somem2</title>
+        <duration>101</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Some name3</name>
+    <artist>Guy GUy</artist>
+    <year>2003</year>
+    <producer>Other guy3</producer>
+    <price>230.1</price>
+    <songs>
+      <song>
+        <title>Somem3</title>
+        <duration>103</duration>
+        <title>Somem4</title>
+        <duration>4</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>
