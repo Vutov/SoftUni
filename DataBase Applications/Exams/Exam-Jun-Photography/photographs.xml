@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<photographs>
+  <photograph title=".">
+    <category>Portrait</category>
+    <link>http://photo-forum.net/i/1920515</link>
+    <equipment>
+      <camera megapixels="24">Canon EOS 760D</camera>
+      <lens>Canon EF 15mm f/2.8 Fisheye</lens>
+    </equipment>
+  </photograph>
+  <photograph title="Angel eyes">
+    <category>Portrait</category>
+    <link>http://photo-forum.net/i/1919347</link>
+    <equipment>
+      <camera megapixels="24">Canon EOS 760D</camera>
+      <lens>Canon EF 15mm f/2.8 Fisheye</lens>
+    </equipment>
+  </photograph>
+  <photograph title="Dog">
+    <category>Street</category>
+    <link>http://photo-forum.net/i/1920281</link>
+    <equipment>
+      <camera megapixels="24">Canon EOS 750D</camera>
+      <lens price="799.0000">Canon EF 17-40mm f/4.0L USM</lens>
+    </equipment>
+  </photograph>
+  <photograph title="Tilma Lek ">
+    <category>Street</category>
+    <link>http://photo-forum.net/i/1920390</link>
+    <equipment>
+      <camera megapixels="16">Canon PowerShot SX530 HS</camera>
+      <lens price="1599.0000">Canon EF 16-35mm f/2.8L II USM</lens>
+    </equipment>
+  </photograph>
+  <photograph title="Духовито време... ">
+    <category>Portrait</category>
+    <link>http://photo-forum.net/i/1920110</link>
+    <equipment>
+      <camera megapixels="16">Canon PowerShot SX530 HS</camera>
+      <lens price="1599.0000">Canon EF 16-35mm f/2.8L II USM</lens>
+    </equipment>
+  </photograph>
+  <photograph title="Жита">
+    <category>Reportage</category>
+    <link>http://photo-forum.net/i/1919442</link>
+    <equipment>
+      <camera megapixels="24">Canon EOS 760D</camera>
+      <lens>Canon EF 14mm f/2.8L USM</lens>
+    </equipment>
+  </photograph>
+  <photograph title="Идват!">
+    <category>Street</category>
+    <link>http://photo-forum.net/i/1920370</link>
+    <equipment>
+      <camera megapixels="12">Fujifilm XQ2</camera>
+      <lens price="729.0000">Nikon AF Nikkor 24-85mm f/2.8-4D IF</lens>
+    </equipment>
+  </photograph>
+  <photograph title="Кацнал на едно дърво...">
+    <category>Nature</category>
+    <link>http://photo-forum.net/i/1920004</link>
+    <equipment>
+      <camera megapixels="24">Canon EOS 750D</camera>
+      <lens price="799.0000">Canon EF 17-40mm f/4.0L USM</lens>
+    </equipment>
+  </photograph>
+  <photograph title="Не искам да си тръгваш!">
+    <category>Portrait</category>
+    <link>http://photo-forum.net/i/1919931</link>
+    <equipment>
+      <camera megapixels="24">Canon EOS 750D</camera>
+      <lens price="799.0000">Canon EF 17-40mm f/4.0L USM</lens>
+    </equipment>
+  </photograph>
+</photographs>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<generate-random-equipments>  
+  <generate generate-count="2">
+    <manufacturer>Canon</manufacturer>
+  </generate>  
+  <generate />
+  <generate generate-count="4" />  
+  <generate generate-count="3">
+    <manufacturer>Pentax</manufacturer>
+  </generate>  
+  <generate generate-count="5">
+    <manufacturer>Sony</manufacturer>
+  </generate>  
+</generate-random-equipments>

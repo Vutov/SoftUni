@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseFirstMapping", "DatabaseFirstMapping\DatabaseFirstMapping.csproj", "{FBE017A5-0416-4B57-8BC7-A94317D96E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportJson", "Export the Manufacturers and Cameras as JSON\ExportJson.csproj", "{BA2257B8-DF57-4AAF-AC21-66A26E57BA8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportXml", "ExportXml\ExportXml.csproj", "{9ABA9410-7F35-4C97-94DF-42AD6EC1C597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportXml", "ImportXml\ImportXml.csproj", "{BAFBB07E-6A6B-4AF3-994F-2E7D34057BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstPhonebook", "CodeFirstPhonebook\CodeFirstPhonebook.csproj", "{8E912FAC-DE53-46B7-B7D7-C5B91F82E808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportJson", "ImportJson\ImportJson.csproj", "{1FEE029D-A127-4297-AF52-A1D4171BB7F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomEquipment", "RandomEquipment\RandomEquipment.csproj", "{FCB53FA1-1982-45C4-9F47-A0AB395D9B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE017A5-0416-4B57-8BC7-A94317D96E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE017A5-0416-4B57-8BC7-A94317D96E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE017A5-0416-4B57-8BC7-A94317D96E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE017A5-0416-4B57-8BC7-A94317D96E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2257B8-DF57-4AAF-AC21-66A26E57BA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2257B8-DF57-4AAF-AC21-66A26E57BA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2257B8-DF57-4AAF-AC21-66A26E57BA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2257B8-DF57-4AAF-AC21-66A26E57BA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABA9410-7F35-4C97-94DF-42AD6EC1C597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABA9410-7F35-4C97-94DF-42AD6EC1C597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABA9410-7F35-4C97-94DF-42AD6EC1C597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABA9410-7F35-4C97-94DF-42AD6EC1C597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFBB07E-6A6B-4AF3-994F-2E7D34057BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFBB07E-6A6B-4AF3-994F-2E7D34057BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFBB07E-6A6B-4AF3-994F-2E7D34057BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFBB07E-6A6B-4AF3-994F-2E7D34057BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E912FAC-DE53-46B7-B7D7-C5B91F82E808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E912FAC-DE53-46B7-B7D7-C5B91F82E808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E912FAC-DE53-46B7-B7D7-C5B91F82E808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E912FAC-DE53-46B7-B7D7-C5B91F82E808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEE029D-A127-4297-AF52-A1D4171BB7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEE029D-A127-4297-AF52-A1D4171BB7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEE029D-A127-4297-AF52-A1D4171BB7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEE029D-A127-4297-AF52-A1D4171BB7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB53FA1-1982-45C4-9F47-A0AB395D9B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB53FA1-1982-45C4-9F47-A0AB395D9B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB53FA1-1982-45C4-9F47-A0AB395D9B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB53FA1-1982-45C4-9F47-A0AB395D9B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
