@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre", "Theatre\Theatre.csproj", "{94F3D43F-0B18-46B3-9017-7D3B247756F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheatreTests", "TheatreTests\TheatreTests.csproj", "{53A591C4-0C46-4820-8262-CBD12C44FFB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F3D43F-0B18-46B3-9017-7D3B247756F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F3D43F-0B18-46B3-9017-7D3B247756F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F3D43F-0B18-46B3-9017-7D3B247756F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F3D43F-0B18-46B3-9017-7D3B247756F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A591C4-0C46-4820-8262-CBD12C44FFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A591C4-0C46-4820-8262-CBD12C44FFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A591C4-0C46-4820-8262-CBD12C44FFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A591C4-0C46-4820-8262-CBD12C44FFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+No performances
+No theatres
+Theatre added
+Theatre added
+Error: Duplicate theatre
+Theatre 199, Theatre Sofia
+Theatre added
+Performance added
+Error: Time/duration overlap
+Error: Time/duration overlap
+Performance added
+Performance added
+Error: Theatre does not exist
+Performance added
+Performance added
+Performance added
+Error: Time/duration overlap
+(Frozen, Theatre 199, 18.01.2015 10:00), (Don Juan, Theatre 199, 18.01.2015 19:30), (Duende, Theatre 199, 20.01.2015 20:00), (Star Gate, Theatre 199, 20.01.2015 22:00), (Bella Donna, Theatre Sofia, 20.01.2015 19:30), (Don Juan, Theatre Sofia, 20.01.2015 20:31)
+No performances
+Error: Theatre does not exist
+(Frozen, 18.01.2015 10:00), (Don Juan, 18.01.2015 19:30), (Duende, 20.01.2015 20:00), (Star Gate, 20.01.2015 22:00)
+Error: Time/duration overlap
+Error: Time/duration overlap
