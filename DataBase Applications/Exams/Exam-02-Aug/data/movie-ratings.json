@@ -1,0 +1,2977 @@
+[
+  {
+    "user": "pmoore0",
+    "movie": "518306831-3",
+    "rating": 1
+  },
+  {
+    "user": "pmoore0",
+    "movie": "145920032-2",
+    "rating": 6
+  },
+  {
+    "user": "pmoore0",
+    "movie": "546217593-0",
+    "rating": 9
+  },
+  {
+    "user": "pmoore0",
+    "movie": "688435337-6",
+    "rating": 3
+  },
+  {
+    "user": "pmoore0",
+    "movie": "841961291-X",
+    "rating": 8
+  },
+  {
+    "user": "pmoore0",
+    "movie": "654056951-3",
+    "rating": 3
+  },
+  {
+    "user": "pmoore0",
+    "movie": "726379192-7",
+    "rating": 1
+  },
+  {
+    "user": "pmoore0",
+    "movie": "211868397-9",
+    "rating": 10
+  },
+  {
+    "user": "pmoore0",
+    "movie": "103248182-X",
+    "rating": 10
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "518306831-3",
+    "rating": 8
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "918671907-6",
+    "rating": 7
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "995248859-9",
+    "rating": 5
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "159485877-2",
+    "rating": 10
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "535892759-X",
+    "rating": 7
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "857069003-7",
+    "rating": 9
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "688435337-6",
+    "rating": 7
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "366340039-5",
+    "rating": 2
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "508675473-9",
+    "rating": 10
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "945308954-0",
+    "rating": 2
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "599359762-3",
+    "rating": 9
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "354380262-3",
+    "rating": 8
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "683752612-X",
+    "rating": 2
+  },
+  {
+    "user": "tmurphy1",
+    "movie": "790319651-0",
+    "rating": 7
+  },
+  {
+    "user": "gmartin2",
+    "movie": "203452973-1",
+    "rating": 8
+  },
+  {
+    "user": "gmartin2",
+    "movie": "996922754-8",
+    "rating": 10
+  },
+  {
+    "user": "gmartin2",
+    "movie": "282990643-8",
+    "rating": 10
+  },
+  {
+    "user": "gmartin2",
+    "movie": "832500498-3",
+    "rating": 4
+  },
+  {
+    "user": "gmartin2",
+    "movie": "753355152-4",
+    "rating": 1
+  },
+  {
+    "user": "gmartin2",
+    "movie": "341876828-8",
+    "rating": 6
+  },
+  {
+    "user": "gmartin2",
+    "movie": "660097222-X",
+    "rating": 7
+  },
+  {
+    "user": "gmartin2",
+    "movie": "160229250-7",
+    "rating": 3
+  },
+  {
+    "user": "gmartin2",
+    "movie": "857570246-7",
+    "rating": 8
+  },
+  {
+    "user": "gmartin2",
+    "movie": "018933187-9",
+    "rating": 3
+  },
+  {
+    "user": "cholmes3",
+    "movie": "282990643-8",
+    "rating": 6
+  },
+  {
+    "user": "cholmes3",
+    "movie": "818098605-5",
+    "rating": 9
+  },
+  {
+    "user": "cholmes3",
+    "movie": "033293371-7",
+    "rating": 1
+  },
+  {
+    "user": "cholmes3",
+    "movie": "435551301-7",
+    "rating": 8
+  },
+  {
+    "user": "cholmes3",
+    "movie": "649350641-7",
+    "rating": 3
+  },
+  {
+    "user": "cholmes3",
+    "movie": "917311738-2",
+    "rating": 6
+  },
+  {
+    "user": "cholmes3",
+    "movie": "158155123-1",
+    "rating": 5
+  },
+  {
+    "user": "cholmes3",
+    "movie": "822455813-4",
+    "rating": 3
+  },
+  {
+    "user": "tgrant4",
+    "movie": "453527261-1",
+    "rating": 2
+  },
+  {
+    "user": "tgrant4",
+    "movie": "178300857-1",
+    "rating": 5
+  },
+  {
+    "user": "tgrant4",
+    "movie": "496048692-9",
+    "rating": 5
+  },
+  {
+    "user": "tgrant4",
+    "movie": "230685292-8",
+    "rating": 9
+  },
+  {
+    "user": "tgrant4",
+    "movie": "546217593-0",
+    "rating": 1
+  },
+  {
+    "user": "tgrant4",
+    "movie": "519680973-2",
+    "rating": 5
+  },
+  {
+    "user": "tgrant4",
+    "movie": "351315357-0",
+    "rating": 6
+  },
+  {
+    "user": "tgrant4",
+    "movie": "916368123-4",
+    "rating": 8
+  },
+  {
+    "user": "lcarroll5",
+    "movie": "845008613-2",
+    "rating": 6
+  },
+  {
+    "user": "lcarroll5",
+    "movie": "818098605-5",
+    "rating": 9
+  },
+  {
+    "user": "lcarroll5",
+    "movie": "649350641-7",
+    "rating": 3
+  },
+  {
+    "user": "lcarroll5",
+    "movie": "695841701-1",
+    "rating": 7
+  },
+  {
+    "user": "lcarroll5",
+    "movie": "979677302-3",
+    "rating": 2
+  },
+  {
+    "user": "dmurray6",
+    "movie": "308270318-6",
+    "rating": 8
+  },
+  {
+    "user": "dmurray6",
+    "movie": "830211566-5",
+    "rating": 5
+  },
+  {
+    "user": "dmurray6",
+    "movie": "519680973-2",
+    "rating": 10
+  },
+  {
+    "user": "dmurray6",
+    "movie": "626274457-6",
+    "rating": 10
+  },
+  {
+    "user": "dmurray6",
+    "movie": "677965579-1",
+    "rating": 4
+  },
+  {
+    "user": "dmurray6",
+    "movie": "366340039-5",
+    "rating": 7
+  },
+  {
+    "user": "dmurray6",
+    "movie": "346057577-8",
+    "rating": 7
+  },
+  {
+    "user": "dmurray6",
+    "movie": "515607912-1",
+    "rating": 7
+  },
+  {
+    "user": "dmurray6",
+    "movie": "853859411-7",
+    "rating": 8
+  },
+  {
+    "user": "cbryant7",
+    "movie": "991270425-8",
+    "rating": 6
+  },
+  {
+    "user": "cbryant7",
+    "movie": "760780861-2",
+    "rating": 9
+  },
+  {
+    "user": "cbryant7",
+    "movie": "145920032-2",
+    "rating": 4
+  },
+  {
+    "user": "cbryant7",
+    "movie": "230685292-8",
+    "rating": 3
+  },
+  {
+    "user": "cbryant7",
+    "movie": "994207961-0",
+    "rating": 6
+  },
+  {
+    "user": "cbryant7",
+    "movie": "519680973-2",
+    "rating": 6
+  },
+  {
+    "user": "cbryant7",
+    "movie": "446985987-7",
+    "rating": 2
+  },
+  {
+    "user": "dwashington8",
+    "movie": "453527261-1",
+    "rating": 8
+  },
+  {
+    "user": "dwashington8",
+    "movie": "168752022-4",
+    "rating": 9
+  },
+  {
+    "user": "dwashington8",
+    "movie": "163718543-X",
+    "rating": 4
+  },
+  {
+    "user": "dwashington8",
+    "movie": "496048692-9",
+    "rating": 6
+  },
+  {
+    "user": "dwashington8",
+    "movie": "292760458-4",
+    "rating": 9
+  },
+  {
+    "user": "dwashington8",
+    "movie": "626274457-6",
+    "rating": 2
+  },
+  {
+    "user": "dwashington8",
+    "movie": "901611270-7",
+    "rating": 4
+  },
+  {
+    "user": "dwashington8",
+    "movie": "320877923-2",
+    "rating": 8
+  },
+  {
+    "user": "dwashington8",
+    "movie": "683752612-X",
+    "rating": 10
+  },
+  {
+    "user": "dwashington8",
+    "movie": "191956416-0",
+    "rating": 2
+  },
+  {
+    "user": "dwashington8",
+    "movie": "787954316-3",
+    "rating": 4
+  },
+  {
+    "user": "dwashington8",
+    "movie": "822455813-4",
+    "rating": 10
+  },
+  {
+    "user": "dhansen9",
+    "movie": "398377709-0",
+    "rating": 5
+  },
+  {
+    "user": "dhansen9",
+    "movie": "435551301-7",
+    "rating": 6
+  },
+  {
+    "user": "dhansen9",
+    "movie": "677965579-1",
+    "rating": 4
+  },
+  {
+    "user": "dhansen9",
+    "movie": "649350641-7",
+    "rating": 3
+  },
+  {
+    "user": "dhansen9",
+    "movie": "144332332-2",
+    "rating": 1
+  },
+  {
+    "user": "dhansen9",
+    "movie": "917311738-2",
+    "rating": 6
+  },
+  {
+    "user": "dhansen9",
+    "movie": "853859411-7",
+    "rating": 2
+  },
+  {
+    "user": "dhansen9",
+    "movie": "916368123-4",
+    "rating": 4
+  },
+  {
+    "user": "dhansen9",
+    "movie": "588556893-6",
+    "rating": 6
+  },
+  {
+    "user": "jhowarda",
+    "movie": "845008613-2",
+    "rating": 2
+  },
+  {
+    "user": "jhowarda",
+    "movie": "451558493-6",
+    "rating": 10
+  },
+  {
+    "user": "jhowarda",
+    "movie": "826949258-2",
+    "rating": 9
+  },
+  {
+    "user": "jhowarda",
+    "movie": "621062208-9",
+    "rating": 4
+  },
+  {
+    "user": "jhowarda",
+    "movie": "535892759-X",
+    "rating": 7
+  },
+  {
+    "user": "jhowarda",
+    "movie": "683752612-X",
+    "rating": 1
+  },
+  {
+    "user": "jhowarda",
+    "movie": "342622516-6",
+    "rating": 7
+  },
+  {
+    "user": "tbennettb",
+    "movie": "203452973-1",
+    "rating": 4
+  },
+  {
+    "user": "tbennettb",
+    "movie": "145920032-2",
+    "rating": 2
+  },
+  {
+    "user": "tbennettb",
+    "movie": "163718543-X",
+    "rating": 6
+  },
+  {
+    "user": "tbennettb",
+    "movie": "685416258-0",
+    "rating": 5
+  },
+  {
+    "user": "tbennettb",
+    "movie": "398377709-0",
+    "rating": 1
+  },
+  {
+    "user": "tbennettb",
+    "movie": "545610533-0",
+    "rating": 9
+  },
+  {
+    "user": "tbennettb",
+    "movie": "832500498-3",
+    "rating": 3
+  },
+  {
+    "user": "tbennettb",
+    "movie": "341876828-8",
+    "rating": 8
+  },
+  {
+    "user": "tbennettb",
+    "movie": "973489955-4",
+    "rating": 6
+  },
+  {
+    "user": "tbennettb",
+    "movie": "682093079-8",
+    "rating": 1
+  },
+  {
+    "user": "tbennettb",
+    "movie": "351315357-0",
+    "rating": 8
+  },
+  {
+    "user": "tbennettb",
+    "movie": "790319651-0",
+    "rating": 4
+  },
+  {
+    "user": "rwashingtonc",
+    "movie": "653288544-4",
+    "rating": 1
+  },
+  {
+    "user": "rwashingtonc",
+    "movie": "368085837-X",
+    "rating": 8
+  },
+  {
+    "user": "sfloresd",
+    "movie": "518306831-3",
+    "rating": 9
+  },
+  {
+    "user": "sfloresd",
+    "movie": "004105549-7",
+    "rating": 7
+  },
+  {
+    "user": "sfloresd",
+    "movie": "221360545-9",
+    "rating": 8
+  },
+  {
+    "user": "sfloresd",
+    "movie": "759134374-2",
+    "rating": 9
+  },
+  {
+    "user": "sfloresd",
+    "movie": "545610533-0",
+    "rating": 9
+  },
+  {
+    "user": "sfloresd",
+    "movie": "435551301-7",
+    "rating": 2
+  },
+  {
+    "user": "sfloresd",
+    "movie": "507448705-6",
+    "rating": 2
+  },
+  {
+    "user": "sfloresd",
+    "movie": "346057577-8",
+    "rating": 6
+  },
+  {
+    "user": "sfloresd",
+    "movie": "372836173-9",
+    "rating": 9
+  },
+  {
+    "user": "sfloresd",
+    "movie": "722399277-8",
+    "rating": 2
+  },
+  {
+    "user": "dmontgomerye",
+    "movie": "991270425-8",
+    "rating": 1
+  },
+  {
+    "user": "dmontgomerye",
+    "movie": "535892759-X",
+    "rating": 10
+  },
+  {
+    "user": "dmontgomerye",
+    "movie": "994207961-0",
+    "rating": 5
+  },
+  {
+    "user": "dmontgomerye",
+    "movie": "385432160-0",
+    "rating": 6
+  },
+  {
+    "user": "dmontgomerye",
+    "movie": "089249398-4",
+    "rating": 5
+  },
+  {
+    "user": "dmontgomerye",
+    "movie": "606898329-3",
+    "rating": 1
+  },
+  {
+    "user": "malexanderf",
+    "movie": "145920032-2",
+    "rating": 10
+  },
+  {
+    "user": "malexanderf",
+    "movie": "354380262-3",
+    "rating": 6
+  },
+  {
+    "user": "malexanderf",
+    "movie": "726379192-7",
+    "rating": 4
+  },
+  {
+    "user": "malexanderf",
+    "movie": "602410197-X",
+    "rating": 7
+  },
+  {
+    "user": "malexanderf",
+    "movie": "211868397-9",
+    "rating": 7
+  },
+  {
+    "user": "dchapmang",
+    "movie": "368085837-X",
+    "rating": 9
+  },
+  {
+    "user": "dchapmang",
+    "movie": "996263555-1",
+    "rating": 7
+  },
+  {
+    "user": "dchapmang",
+    "movie": "159485877-2",
+    "rating": 10
+  },
+  {
+    "user": "dchapmang",
+    "movie": "230685292-8",
+    "rating": 5
+  },
+  {
+    "user": "dchapmang",
+    "movie": "545610533-0",
+    "rating": 4
+  },
+  {
+    "user": "dchapmang",
+    "movie": "366340039-5",
+    "rating": 3
+  },
+  {
+    "user": "dchapmang",
+    "movie": "682093079-8",
+    "rating": 5
+  },
+  {
+    "user": "dchapmang",
+    "movie": "960172299-8",
+    "rating": 5
+  },
+  {
+    "user": "dchapmang",
+    "movie": "857570246-7",
+    "rating": 1
+  },
+  {
+    "user": "dchapmang",
+    "movie": "320877923-2",
+    "rating": 4
+  },
+  {
+    "user": "dchapmang",
+    "movie": "027037362-4",
+    "rating": 4
+  },
+  {
+    "user": "dchapmang",
+    "movie": "211868397-9",
+    "rating": 9
+  },
+  {
+    "user": "dchapmang",
+    "movie": "146826306-4",
+    "rating": 4
+  },
+  {
+    "user": "dchapmang",
+    "movie": "979677302-3",
+    "rating": 6
+  },
+  {
+    "user": "mgeorgeh",
+    "movie": "653288544-4",
+    "rating": 3
+  },
+  {
+    "user": "mgeorgeh",
+    "movie": "995248859-9",
+    "rating": 7
+  },
+  {
+    "user": "mgeorgeh",
+    "movie": "398377709-0",
+    "rating": 10
+  },
+  {
+    "user": "mgeorgeh",
+    "movie": "826949258-2",
+    "rating": 9
+  },
+  {
+    "user": "mgeorgeh",
+    "movie": "230685292-8",
+    "rating": 5
+  },
+  {
+    "user": "mgeorgeh",
+    "movie": "841961291-X",
+    "rating": 6
+  },
+  {
+    "user": "mgeorgeh",
+    "movie": "103248182-X",
+    "rating": 1
+  },
+  {
+    "user": "mgeorgeh",
+    "movie": "550153483-5",
+    "rating": 5
+  },
+  {
+    "user": "mgeorgeh",
+    "movie": "370216731-5",
+    "rating": 3
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "163718543-X",
+    "rating": 2
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "857069003-7",
+    "rating": 8
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "973489955-4",
+    "rating": 9
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "460868622-4",
+    "rating": 8
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "708882807-3",
+    "rating": 4
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "027037362-4",
+    "rating": 8
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "342622516-6",
+    "rating": 4
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "103248182-X",
+    "rating": 3
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "695841701-1",
+    "rating": 5
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "792301802-2",
+    "rating": 9
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "594754738-4",
+    "rating": 6
+  },
+  {
+    "user": "rthompsoni",
+    "movie": "597031520-6",
+    "rating": 8
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "398377709-0",
+    "rating": 1
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "282990643-8",
+    "rating": 9
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "595886096-8",
+    "rating": 10
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "435551301-7",
+    "rating": 2
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "479609849-6",
+    "rating": 4
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "366340039-5",
+    "rating": 4
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "346057577-8",
+    "rating": 2
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "508675473-9",
+    "rating": 3
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "945308954-0",
+    "rating": 4
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "960172299-8",
+    "rating": 6
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "089249398-4",
+    "rating": 9
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "836139636-5",
+    "rating": 1
+  },
+  {
+    "user": "prodriguezj",
+    "movie": "787954316-3",
+    "rating": 6
+  },
+  {
+    "user": "kscottk",
+    "movie": "996263555-1",
+    "rating": 3
+  },
+  {
+    "user": "kscottk",
+    "movie": "296505214-3",
+    "rating": 4
+  },
+  {
+    "user": "kscottk",
+    "movie": "818098605-5",
+    "rating": 4
+  },
+  {
+    "user": "kscottk",
+    "movie": "033293371-7",
+    "rating": 3
+  },
+  {
+    "user": "kscottk",
+    "movie": "234730923-4",
+    "rating": 4
+  },
+  {
+    "user": "kscottk",
+    "movie": "726379192-7",
+    "rating": 8
+  },
+  {
+    "user": "kscottk",
+    "movie": "103248182-X",
+    "rating": 2
+  },
+  {
+    "user": "kscottk",
+    "movie": "550153483-5",
+    "rating": 10
+  },
+  {
+    "user": "kscottk",
+    "movie": "351315357-0",
+    "rating": 1
+  },
+  {
+    "user": "kscottk",
+    "movie": "722399277-8",
+    "rating": 10
+  },
+  {
+    "user": "kscottk",
+    "movie": "020774966-3",
+    "rating": 4
+  },
+  {
+    "user": "aandersonl",
+    "movie": "282990643-8",
+    "rating": 9
+  },
+  {
+    "user": "aandersonl",
+    "movie": "448367915-5",
+    "rating": 2
+  },
+  {
+    "user": "aandersonl",
+    "movie": "111773133-2",
+    "rating": 6
+  },
+  {
+    "user": "aandersonl",
+    "movie": "660097222-X",
+    "rating": 1
+  },
+  {
+    "user": "aandersonl",
+    "movie": "508675473-9",
+    "rating": 4
+  },
+  {
+    "user": "aandersonl",
+    "movie": "550153483-5",
+    "rating": 1
+  },
+  {
+    "user": "aandersonl",
+    "movie": "816647965-6",
+    "rating": 10
+  },
+  {
+    "user": "mcarpenterm",
+    "movie": "760780861-2",
+    "rating": 2
+  },
+  {
+    "user": "mcarpenterm",
+    "movie": "186189393-0",
+    "rating": 8
+  },
+  {
+    "user": "mcarpenterm",
+    "movie": "546217593-0",
+    "rating": 1
+  },
+  {
+    "user": "mcarpenterm",
+    "movie": "346057577-8",
+    "rating": 5
+  },
+  {
+    "user": "mcarpenterm",
+    "movie": "092627057-5",
+    "rating": 3
+  },
+  {
+    "user": "mcarpenterm",
+    "movie": "841961291-X",
+    "rating": 5
+  },
+  {
+    "user": "mcarpenterm",
+    "movie": "230508695-4",
+    "rating": 9
+  },
+  {
+    "user": "mcarpenterm",
+    "movie": "345104606-7",
+    "rating": 9
+  },
+  {
+    "user": "mcarpenterm",
+    "movie": "836139636-5",
+    "rating": 3
+  },
+  {
+    "user": "shendersonn",
+    "movie": "991270425-8",
+    "rating": 10
+  },
+  {
+    "user": "shendersonn",
+    "movie": "186189393-0",
+    "rating": 7
+  },
+  {
+    "user": "shendersonn",
+    "movie": "996263555-1",
+    "rating": 5
+  },
+  {
+    "user": "shendersonn",
+    "movie": "753355152-4",
+    "rating": 7
+  },
+  {
+    "user": "shendersonn",
+    "movie": "660097222-X",
+    "rating": 6
+  },
+  {
+    "user": "shendersonn",
+    "movie": "643772842-6",
+    "rating": 6
+  },
+  {
+    "user": "shendersonn",
+    "movie": "346057577-8",
+    "rating": 6
+  },
+  {
+    "user": "shendersonn",
+    "movie": "230508695-4",
+    "rating": 2
+  },
+  {
+    "user": "shendersonn",
+    "movie": "630078017-1",
+    "rating": 3
+  },
+  {
+    "user": "shendersonn",
+    "movie": "093951503-2",
+    "rating": 3
+  },
+  {
+    "user": "shendersonn",
+    "movie": "606898329-3",
+    "rating": 8
+  },
+  {
+    "user": "shendersonn",
+    "movie": "787954316-3",
+    "rating": 7
+  },
+  {
+    "user": "pblacko",
+    "movie": "004105549-7",
+    "rating": 9
+  },
+  {
+    "user": "pblacko",
+    "movie": "626274457-6",
+    "rating": 9
+  },
+  {
+    "user": "pblacko",
+    "movie": "230508695-4",
+    "rating": 4
+  },
+  {
+    "user": "pblacko",
+    "movie": "722399277-8",
+    "rating": 5
+  },
+  {
+    "user": "pblacko",
+    "movie": "787954316-3",
+    "rating": 1
+  },
+  {
+    "user": "jhughesp",
+    "movie": "203452973-1",
+    "rating": 3
+  },
+  {
+    "user": "jhughesp",
+    "movie": "830211566-5",
+    "rating": 7
+  },
+  {
+    "user": "jhughesp",
+    "movie": "996922754-8",
+    "rating": 8
+  },
+  {
+    "user": "jhughesp",
+    "movie": "398377709-0",
+    "rating": 9
+  },
+  {
+    "user": "jhughesp",
+    "movie": "159485877-2",
+    "rating": 1
+  },
+  {
+    "user": "jhughesp",
+    "movie": "826949258-2",
+    "rating": 7
+  },
+  {
+    "user": "jhughesp",
+    "movie": "282990643-8",
+    "rating": 2
+  },
+  {
+    "user": "jhughesp",
+    "movie": "994207961-0",
+    "rating": 1
+  },
+  {
+    "user": "jhughesp",
+    "movie": "341876828-8",
+    "rating": 9
+  },
+  {
+    "user": "jhughesp",
+    "movie": "626274457-6",
+    "rating": 4
+  },
+  {
+    "user": "jhughesp",
+    "movie": "649350641-7",
+    "rating": 6
+  },
+  {
+    "user": "jhughesp",
+    "movie": "243082196-6",
+    "rating": 8
+  },
+  {
+    "user": "jhughesp",
+    "movie": "979677302-3",
+    "rating": 2
+  },
+  {
+    "user": "drodriguezq",
+    "movie": "760780861-2",
+    "rating": 8
+  },
+  {
+    "user": "drodriguezq",
+    "movie": "918671907-6",
+    "rating": 7
+  },
+  {
+    "user": "drodriguezq",
+    "movie": "186189393-0",
+    "rating": 3
+  },
+  {
+    "user": "drodriguezq",
+    "movie": "168752022-4",
+    "rating": 5
+  },
+  {
+    "user": "drodriguezq",
+    "movie": "368085837-X",
+    "rating": 3
+  },
+  {
+    "user": "drodriguezq",
+    "movie": "830211566-5",
+    "rating": 5
+  },
+  {
+    "user": "drodriguezq",
+    "movie": "546217593-0",
+    "rating": 7
+  },
+  {
+    "user": "drodriguezq",
+    "movie": "822455813-4",
+    "rating": 9
+  },
+  {
+    "user": "dperezr",
+    "movie": "546217593-0",
+    "rating": 2
+  },
+  {
+    "user": "dperezr",
+    "movie": "777565498-8",
+    "rating": 5
+  },
+  {
+    "user": "dperezr",
+    "movie": "901611270-7",
+    "rating": 4
+  },
+  {
+    "user": "dperezr",
+    "movie": "092627057-5",
+    "rating": 8
+  },
+  {
+    "user": "dperezr",
+    "movie": "385432160-0",
+    "rating": 6
+  },
+  {
+    "user": "dperezr",
+    "movie": "515607912-1",
+    "rating": 8
+  },
+  {
+    "user": "dperezr",
+    "movie": "917311738-2",
+    "rating": 3
+  },
+  {
+    "user": "dperezr",
+    "movie": "683752612-X",
+    "rating": 6
+  },
+  {
+    "user": "dperezr",
+    "movie": "602410197-X",
+    "rating": 5
+  },
+  {
+    "user": "dperezr",
+    "movie": "211868397-9",
+    "rating": 5
+  },
+  {
+    "user": "dperezr",
+    "movie": "446985987-7",
+    "rating": 8
+  },
+  {
+    "user": "dperezr",
+    "movie": "916368123-4",
+    "rating": 1
+  },
+  {
+    "user": "dperezr",
+    "movie": "722399277-8",
+    "rating": 5
+  },
+  {
+    "user": "dperezr",
+    "movie": "836139636-5",
+    "rating": 1
+  },
+  {
+    "user": "kgrahams",
+    "movie": "518306831-3",
+    "rating": 5
+  },
+  {
+    "user": "kgrahams",
+    "movie": "830211566-5",
+    "rating": 1
+  },
+  {
+    "user": "kgrahams",
+    "movie": "496048692-9",
+    "rating": 1
+  },
+  {
+    "user": "kgrahams",
+    "movie": "595886096-8",
+    "rating": 8
+  },
+  {
+    "user": "kgrahams",
+    "movie": "546217593-0",
+    "rating": 3
+  },
+  {
+    "user": "kgrahams",
+    "movie": "341876828-8",
+    "rating": 9
+  },
+  {
+    "user": "kgrahams",
+    "movie": "723898864-X",
+    "rating": 8
+  },
+  {
+    "user": "kgrahams",
+    "movie": "346057577-8",
+    "rating": 1
+  },
+  {
+    "user": "kgrahams",
+    "movie": "092627057-5",
+    "rating": 8
+  },
+  {
+    "user": "kgrahams",
+    "movie": "913952331-4",
+    "rating": 10
+  },
+  {
+    "user": "kgrahams",
+    "movie": "945308954-0",
+    "rating": 1
+  },
+  {
+    "user": "kgrahams",
+    "movie": "708882807-3",
+    "rating": 6
+  },
+  {
+    "user": "kgrahams",
+    "movie": "089249398-4",
+    "rating": 8
+  },
+  {
+    "user": "kgrahams",
+    "movie": "857570246-7",
+    "rating": 4
+  },
+  {
+    "user": "kgrahams",
+    "movie": "790319651-0",
+    "rating": 7
+  },
+  {
+    "user": "dburket",
+    "movie": "368085837-X",
+    "rating": 10
+  },
+  {
+    "user": "dburket",
+    "movie": "159485877-2",
+    "rating": 5
+  },
+  {
+    "user": "dburket",
+    "movie": "818098605-5",
+    "rating": 10
+  },
+  {
+    "user": "dburket",
+    "movie": "448367915-5",
+    "rating": 9
+  },
+  {
+    "user": "dburket",
+    "movie": "688435337-6",
+    "rating": 4
+  },
+  {
+    "user": "mbradleyu",
+    "movie": "178300857-1",
+    "rating": 2
+  },
+  {
+    "user": "mbradleyu",
+    "movie": "916936848-1",
+    "rating": 10
+  },
+  {
+    "user": "mbradleyu",
+    "movie": "058162706-7",
+    "rating": 9
+  },
+  {
+    "user": "mbradleyu",
+    "movie": "320877923-2",
+    "rating": 2
+  },
+  {
+    "user": "mbradleyu",
+    "movie": "380895718-2",
+    "rating": 4
+  },
+  {
+    "user": "mbradleyu",
+    "movie": "412364318-3",
+    "rating": 5
+  },
+  {
+    "user": "mbradleyu",
+    "movie": "020774966-3",
+    "rating": 5
+  },
+  {
+    "user": "djenkinsv",
+    "movie": "308270318-6",
+    "rating": 3
+  },
+  {
+    "user": "djenkinsv",
+    "movie": "203452973-1",
+    "rating": 6
+  },
+  {
+    "user": "djenkinsv",
+    "movie": "368085837-X",
+    "rating": 7
+  },
+  {
+    "user": "djenkinsv",
+    "movie": "159485877-2",
+    "rating": 10
+  },
+  {
+    "user": "djenkinsv",
+    "movie": "546217593-0",
+    "rating": 6
+  },
+  {
+    "user": "djenkinsv",
+    "movie": "657716771-0",
+    "rating": 1
+  },
+  {
+    "user": "djenkinsv",
+    "movie": "660097222-X",
+    "rating": 7
+  },
+  {
+    "user": "djenkinsv",
+    "movie": "380895718-2",
+    "rating": 5
+  },
+  {
+    "user": "djenkinsv",
+    "movie": "446985987-7",
+    "rating": 3
+  },
+  {
+    "user": "djenkinsv",
+    "movie": "191956416-0",
+    "rating": 9
+  },
+  {
+    "user": "pmorenow",
+    "movie": "496048692-9",
+    "rating": 2
+  },
+  {
+    "user": "pmorenow",
+    "movie": "833984687-6",
+    "rating": 2
+  },
+  {
+    "user": "pmorenow",
+    "movie": "777565498-8",
+    "rating": 2
+  },
+  {
+    "user": "pmorenow",
+    "movie": "753355152-4",
+    "rating": 7
+  },
+  {
+    "user": "pmorenow",
+    "movie": "973489955-4",
+    "rating": 3
+  },
+  {
+    "user": "pmorenow",
+    "movie": "346057577-8",
+    "rating": 2
+  },
+  {
+    "user": "pmorenow",
+    "movie": "857570246-7",
+    "rating": 9
+  },
+  {
+    "user": "pmorenow",
+    "movie": "792301802-2",
+    "rating": 9
+  },
+  {
+    "user": "lelliottx",
+    "movie": "178300857-1",
+    "rating": 10
+  },
+  {
+    "user": "lelliottx",
+    "movie": "713687560-9",
+    "rating": 5
+  },
+  {
+    "user": "lelliottx",
+    "movie": "685416258-0",
+    "rating": 9
+  },
+  {
+    "user": "lelliottx",
+    "movie": "386265529-6",
+    "rating": 9
+  },
+  {
+    "user": "lelliottx",
+    "movie": "292760458-4",
+    "rating": 7
+  },
+  {
+    "user": "lelliottx",
+    "movie": "103248182-X",
+    "rating": 1
+  },
+  {
+    "user": "lelliottx",
+    "movie": "093951503-2",
+    "rating": 10
+  },
+  {
+    "user": "lelliottx",
+    "movie": "446985987-7",
+    "rating": 4
+  },
+  {
+    "user": "lelliottx",
+    "movie": "588556893-6",
+    "rating": 9
+  },
+  {
+    "user": "jmeyery",
+    "movie": "833984687-6",
+    "rating": 4
+  },
+  {
+    "user": "jmeyery",
+    "movie": "386265529-6",
+    "rating": 9
+  },
+  {
+    "user": "jmeyery",
+    "movie": "994207961-0",
+    "rating": 8
+  },
+  {
+    "user": "jmeyery",
+    "movie": "626274457-6",
+    "rating": 9
+  },
+  {
+    "user": "jmeyery",
+    "movie": "354380262-3",
+    "rating": 7
+  },
+  {
+    "user": "jmeyery",
+    "movie": "726379192-7",
+    "rating": 9
+  },
+  {
+    "user": "jmeyery",
+    "movie": "550153483-5",
+    "rating": 6
+  },
+  {
+    "user": "jmeyery",
+    "movie": "261796245-8",
+    "rating": 10
+  },
+  {
+    "user": "whernandezz",
+    "movie": "643772842-6",
+    "rating": 7
+  },
+  {
+    "user": "whernandezz",
+    "movie": "245126901-4",
+    "rating": 5
+  },
+  {
+    "user": "whernandezz",
+    "movie": "211868397-9",
+    "rating": 4
+  },
+  {
+    "user": "rgarcia10",
+    "movie": "621062208-9",
+    "rating": 1
+  },
+  {
+    "user": "rgarcia10",
+    "movie": "857069003-7",
+    "rating": 9
+  },
+  {
+    "user": "rgarcia10",
+    "movie": "102180708-7",
+    "rating": 10
+  },
+  {
+    "user": "rgarcia10",
+    "movie": "688435337-6",
+    "rating": 5
+  },
+  {
+    "user": "rgarcia10",
+    "movie": "649350641-7",
+    "rating": 6
+  },
+  {
+    "user": "rgarcia10",
+    "movie": "597031520-6",
+    "rating": 6
+  },
+  {
+    "user": "rgarcia10",
+    "movie": "020774966-3",
+    "rating": 5
+  },
+  {
+    "user": "dwest11",
+    "movie": "845008613-2",
+    "rating": 4
+  },
+  {
+    "user": "dwest11",
+    "movie": "995248859-9",
+    "rating": 4
+  },
+  {
+    "user": "dwest11",
+    "movie": "833984687-6",
+    "rating": 9
+  },
+  {
+    "user": "dwest11",
+    "movie": "435551301-7",
+    "rating": 8
+  },
+  {
+    "user": "dwest11",
+    "movie": "102180708-7",
+    "rating": 10
+  },
+  {
+    "user": "dwest11",
+    "movie": "819588069-X",
+    "rating": 8
+  },
+  {
+    "user": "dwest11",
+    "movie": "688435337-6",
+    "rating": 3
+  },
+  {
+    "user": "dwest11",
+    "movie": "917311738-2",
+    "rating": 6
+  },
+  {
+    "user": "dwest11",
+    "movie": "792301802-2",
+    "rating": 1
+  },
+  {
+    "user": "dwest11",
+    "movie": "020774966-3",
+    "rating": 10
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "991270425-8",
+    "rating": 6
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "833984687-6",
+    "rating": 6
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "535892759-X",
+    "rating": 3
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "753355152-4",
+    "rating": 4
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "160229250-7",
+    "rating": 8
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "508675473-9",
+    "rating": 2
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "857570246-7",
+    "rating": 7
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "027037362-4",
+    "rating": 5
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "683752612-X",
+    "rating": 9
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "062311272-8",
+    "rating": 9
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "351315357-0",
+    "rating": 9
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "722399277-8",
+    "rating": 2
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "261796245-8",
+    "rating": 3
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "822455813-4",
+    "rating": 5
+  },
+  {
+    "user": "cgonzales12",
+    "movie": "588556893-6",
+    "rating": 4
+  },
+  {
+    "user": "bmendoza13",
+    "movie": "595886096-8",
+    "rating": 6
+  },
+  {
+    "user": "bmendoza13",
+    "movie": "033293371-7",
+    "rating": 5
+  },
+  {
+    "user": "bmendoza13",
+    "movie": "832500498-3",
+    "rating": 8
+  },
+  {
+    "user": "bmendoza13",
+    "movie": "479609849-6",
+    "rating": 4
+  },
+  {
+    "user": "bmendoza13",
+    "movie": "626274457-6",
+    "rating": 3
+  },
+  {
+    "user": "bmendoza13",
+    "movie": "913952331-4",
+    "rating": 5
+  },
+  {
+    "user": "bmendoza13",
+    "movie": "372836173-9",
+    "rating": 7
+  },
+  {
+    "user": "bmendoza13",
+    "movie": "917311738-2",
+    "rating": 10
+  },
+  {
+    "user": "bmendoza13",
+    "movie": "606898329-3",
+    "rating": 4
+  },
+  {
+    "user": "bmendoza13",
+    "movie": "856454851-8",
+    "rating": 7
+  },
+  {
+    "user": "awilson14",
+    "movie": "004105549-7",
+    "rating": 8
+  },
+  {
+    "user": "awilson14",
+    "movie": "368085837-X",
+    "rating": 8
+  },
+  {
+    "user": "awilson14",
+    "movie": "996263555-1",
+    "rating": 10
+  },
+  {
+    "user": "awilson14",
+    "movie": "685416258-0",
+    "rating": 3
+  },
+  {
+    "user": "awilson14",
+    "movie": "857069003-7",
+    "rating": 3
+  },
+  {
+    "user": "awilson14",
+    "movie": "688435337-6",
+    "rating": 6
+  },
+  {
+    "user": "awilson14",
+    "movie": "660097222-X",
+    "rating": 2
+  },
+  {
+    "user": "awilson14",
+    "movie": "366340039-5",
+    "rating": 8
+  },
+  {
+    "user": "awilson14",
+    "movie": "372836173-9",
+    "rating": 8
+  },
+  {
+    "user": "awilson14",
+    "movie": "857570246-7",
+    "rating": 10
+  },
+  {
+    "user": "awilson14",
+    "movie": "062311272-8",
+    "rating": 8
+  },
+  {
+    "user": "awilson14",
+    "movie": "856454851-8",
+    "rating": 2
+  },
+  {
+    "user": "jtucker15",
+    "movie": "186189393-0",
+    "rating": 1
+  },
+  {
+    "user": "jtucker15",
+    "movie": "163718543-X",
+    "rating": 8
+  },
+  {
+    "user": "jtucker15",
+    "movie": "546217593-0",
+    "rating": 10
+  },
+  {
+    "user": "jtucker15",
+    "movie": "243082196-6",
+    "rating": 8
+  },
+  {
+    "user": "jtucker15",
+    "movie": "230508695-4",
+    "rating": 8
+  },
+  {
+    "user": "jtucker15",
+    "movie": "726379192-7",
+    "rating": 6
+  },
+  {
+    "user": "hmurray16",
+    "movie": "186189393-0",
+    "rating": 1
+  },
+  {
+    "user": "hmurray16",
+    "movie": "535892759-X",
+    "rating": 2
+  },
+  {
+    "user": "hmurray16",
+    "movie": "470549077-0",
+    "rating": 5
+  },
+  {
+    "user": "hmurray16",
+    "movie": "819588069-X",
+    "rating": 1
+  },
+  {
+    "user": "hmurray16",
+    "movie": "973489955-4",
+    "rating": 8
+  },
+  {
+    "user": "hmurray16",
+    "movie": "723898864-X",
+    "rating": 1
+  },
+  {
+    "user": "hmurray16",
+    "movie": "913952331-4",
+    "rating": 4
+  },
+  {
+    "user": "amorgan17",
+    "movie": "759134374-2",
+    "rating": 6
+  },
+  {
+    "user": "amorgan17",
+    "movie": "102180708-7",
+    "rating": 8
+  },
+  {
+    "user": "amorgan17",
+    "movie": "626274457-6",
+    "rating": 7
+  },
+  {
+    "user": "amorgan17",
+    "movie": "973489955-4",
+    "rating": 3
+  },
+  {
+    "user": "amorgan17",
+    "movie": "385432160-0",
+    "rating": 1
+  },
+  {
+    "user": "amorgan17",
+    "movie": "508675473-9",
+    "rating": 7
+  },
+  {
+    "user": "amorgan17",
+    "movie": "708882807-3",
+    "rating": 4
+  },
+  {
+    "user": "amorgan17",
+    "movie": "089249398-4",
+    "rating": 5
+  },
+  {
+    "user": "amorgan17",
+    "movie": "342622516-6",
+    "rating": 7
+  },
+  {
+    "user": "amorgan17",
+    "movie": "726379192-7",
+    "rating": 9
+  },
+  {
+    "user": "amorgan17",
+    "movie": "606898329-3",
+    "rating": 8
+  },
+  {
+    "user": "anichols18",
+    "movie": "713687560-9",
+    "rating": 2
+  },
+  {
+    "user": "anichols18",
+    "movie": "826949258-2",
+    "rating": 1
+  },
+  {
+    "user": "anichols18",
+    "movie": "546217593-0",
+    "rating": 3
+  },
+  {
+    "user": "anichols18",
+    "movie": "033293371-7",
+    "rating": 1
+  },
+  {
+    "user": "anichols18",
+    "movie": "857069003-7",
+    "rating": 8
+  },
+  {
+    "user": "anichols18",
+    "movie": "243082196-6",
+    "rating": 1
+  },
+  {
+    "user": "anichols18",
+    "movie": "841961291-X",
+    "rating": 9
+  },
+  {
+    "user": "anichols18",
+    "movie": "230508695-4",
+    "rating": 2
+  },
+  {
+    "user": "anichols18",
+    "movie": "058162706-7",
+    "rating": 7
+  },
+  {
+    "user": "anichols18",
+    "movie": "093951503-2",
+    "rating": 2
+  },
+  {
+    "user": "anichols18",
+    "movie": "916368123-4",
+    "rating": 6
+  },
+  {
+    "user": "mreyes19",
+    "movie": "653288544-4",
+    "rating": 7
+  },
+  {
+    "user": "mreyes19",
+    "movie": "713687560-9",
+    "rating": 5
+  },
+  {
+    "user": "mreyes19",
+    "movie": "916936848-1",
+    "rating": 8
+  },
+  {
+    "user": "mreyes19",
+    "movie": "519680973-2",
+    "rating": 9
+  },
+  {
+    "user": "mreyes19",
+    "movie": "688435337-6",
+    "rating": 3
+  },
+  {
+    "user": "mreyes19",
+    "movie": "160229250-7",
+    "rating": 3
+  },
+  {
+    "user": "mreyes19",
+    "movie": "901611270-7",
+    "rating": 3
+  },
+  {
+    "user": "mreyes19",
+    "movie": "385432160-0",
+    "rating": 5
+  },
+  {
+    "user": "mreyes19",
+    "movie": "599359762-3",
+    "rating": 8
+  },
+  {
+    "user": "mreyes19",
+    "movie": "320877923-2",
+    "rating": 9
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "308270318-6",
+    "rating": 9
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "296505214-3",
+    "rating": 2
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "230685292-8",
+    "rating": 1
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "688435337-6",
+    "rating": 8
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "660097222-X",
+    "rating": 10
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "160229250-7",
+    "rating": 3
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "092627057-5",
+    "rating": 6
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "917311738-2",
+    "rating": 2
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "027037362-4",
+    "rating": 5
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "550153483-5",
+    "rating": 7
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "093951503-2",
+    "rating": 9
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "380895718-2",
+    "rating": 6
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "018933187-9",
+    "rating": 7
+  },
+  {
+    "user": "cnichols1a",
+    "movie": "787954316-3",
+    "rating": 3
+  },
+  {
+    "user": "pclark1b",
+    "movie": "453527261-1",
+    "rating": 4
+  },
+  {
+    "user": "pclark1b",
+    "movie": "178300857-1",
+    "rating": 3
+  },
+  {
+    "user": "pclark1b",
+    "movie": "245126901-4",
+    "rating": 4
+  },
+  {
+    "user": "pclark1b",
+    "movie": "857570246-7",
+    "rating": 10
+  },
+  {
+    "user": "pclark1b",
+    "movie": "602410197-X",
+    "rating": 10
+  },
+  {
+    "user": "pclark1b",
+    "movie": "695841701-1",
+    "rating": 7
+  },
+  {
+    "user": "pclark1b",
+    "movie": "020774966-3",
+    "rating": 5
+  },
+  {
+    "user": "pclark1b",
+    "movie": "856454851-8",
+    "rating": 3
+  },
+  {
+    "user": "adavis1c",
+    "movie": "163718543-X",
+    "rating": 2
+  },
+  {
+    "user": "adavis1c",
+    "movie": "753355152-4",
+    "rating": 8
+  },
+  {
+    "user": "adavis1c",
+    "movie": "346057577-8",
+    "rating": 6
+  },
+  {
+    "user": "adavis1c",
+    "movie": "211868397-9",
+    "rating": 3
+  },
+  {
+    "user": "adavis1c",
+    "movie": "979677302-3",
+    "rating": 1
+  },
+  {
+    "user": "adavis1c",
+    "movie": "158155123-1",
+    "rating": 3
+  },
+  {
+    "user": "emartinez1d",
+    "movie": "518306831-3",
+    "rating": 3
+  },
+  {
+    "user": "emartinez1d",
+    "movie": "621062208-9",
+    "rating": 1
+  },
+  {
+    "user": "emartinez1d",
+    "movie": "011820430-0",
+    "rating": 8
+  },
+  {
+    "user": "emartinez1d",
+    "movie": "777565498-8",
+    "rating": 5
+  },
+  {
+    "user": "emartinez1d",
+    "movie": "385432160-0",
+    "rating": 4
+  },
+  {
+    "user": "emartinez1d",
+    "movie": "857570246-7",
+    "rating": 8
+  },
+  {
+    "user": "emartinez1d",
+    "movie": "320877923-2",
+    "rating": 3
+  },
+  {
+    "user": "emartinez1d",
+    "movie": "683752612-X",
+    "rating": 8
+  },
+  {
+    "user": "emartinez1d",
+    "movie": "790319651-0",
+    "rating": 10
+  },
+  {
+    "user": "emartinez1d",
+    "movie": "191956416-0",
+    "rating": 6
+  },
+  {
+    "user": "crussell1e",
+    "movie": "996263555-1",
+    "rating": 9
+  },
+  {
+    "user": "crussell1e",
+    "movie": "111773133-2",
+    "rating": 6
+  },
+  {
+    "user": "crussell1e",
+    "movie": "913952331-4",
+    "rating": 3
+  },
+  {
+    "user": "crussell1e",
+    "movie": "682093079-8",
+    "rating": 10
+  },
+  {
+    "user": "crussell1e",
+    "movie": "960172299-8",
+    "rating": 10
+  },
+  {
+    "user": "crussell1e",
+    "movie": "790319651-0",
+    "rating": 2
+  },
+  {
+    "user": "crussell1e",
+    "movie": "787954316-3",
+    "rating": 8
+  },
+  {
+    "user": "crussell1e",
+    "movie": "158155123-1",
+    "rating": 10
+  },
+  {
+    "user": "along1f",
+    "movie": "145920032-2",
+    "rating": 5
+  },
+  {
+    "user": "along1f",
+    "movie": "643772842-6",
+    "rating": 9
+  },
+  {
+    "user": "along1f",
+    "movie": "901611270-7",
+    "rating": 10
+  },
+  {
+    "user": "along1f",
+    "movie": "385432160-0",
+    "rating": 6
+  },
+  {
+    "user": "along1f",
+    "movie": "960172299-8",
+    "rating": 4
+  },
+  {
+    "user": "along1f",
+    "movie": "630078017-1",
+    "rating": 7
+  },
+  {
+    "user": "along1f",
+    "movie": "211868397-9",
+    "rating": 7
+  },
+  {
+    "user": "along1f",
+    "movie": "093951503-2",
+    "rating": 6
+  },
+  {
+    "user": "along1f",
+    "movie": "370216731-5",
+    "rating": 1
+  },
+  {
+    "user": "along1f",
+    "movie": "711447659-0",
+    "rating": 3
+  },
+  {
+    "user": "along1f",
+    "movie": "856454851-8",
+    "rating": 4
+  },
+  {
+    "user": "efields1g",
+    "movie": "653288544-4",
+    "rating": 2
+  },
+  {
+    "user": "efields1g",
+    "movie": "186189393-0",
+    "rating": 9
+  },
+  {
+    "user": "efields1g",
+    "movie": "368085837-X",
+    "rating": 8
+  },
+  {
+    "user": "efields1g",
+    "movie": "595886096-8",
+    "rating": 3
+  },
+  {
+    "user": "efields1g",
+    "movie": "230685292-8",
+    "rating": 2
+  },
+  {
+    "user": "efields1g",
+    "movie": "448367915-5",
+    "rating": 3
+  },
+  {
+    "user": "efields1g",
+    "movie": "507448705-6",
+    "rating": 1
+  },
+  {
+    "user": "efields1g",
+    "movie": "726379192-7",
+    "rating": 7
+  },
+  {
+    "user": "efields1g",
+    "movie": "345104606-7",
+    "rating": 9
+  },
+  {
+    "user": "efields1g",
+    "movie": "103248182-X",
+    "rating": 9
+  },
+  {
+    "user": "efields1g",
+    "movie": "597031520-6",
+    "rating": 2
+  },
+  {
+    "user": "vnguyen1h",
+    "movie": "178300857-1",
+    "rating": 5
+  },
+  {
+    "user": "vnguyen1h",
+    "movie": "826949258-2",
+    "rating": 10
+  },
+  {
+    "user": "vnguyen1h",
+    "movie": "595886096-8",
+    "rating": 7
+  },
+  {
+    "user": "vnguyen1h",
+    "movie": "816647965-6",
+    "rating": 9
+  },
+  {
+    "user": "vnguyen1h",
+    "movie": "916368123-4",
+    "rating": 9
+  },
+  {
+    "user": "vnguyen1h",
+    "movie": "370216731-5",
+    "rating": 4
+  },
+  {
+    "user": "bedwards1i",
+    "movie": "759134374-2",
+    "rating": 5
+  },
+  {
+    "user": "bedwards1i",
+    "movie": "346057577-8",
+    "rating": 2
+  },
+  {
+    "user": "bedwards1i",
+    "movie": "550153483-5",
+    "rating": 5
+  },
+  {
+    "user": "jgibson1j",
+    "movie": "168752022-4",
+    "rating": 3
+  },
+  {
+    "user": "jgibson1j",
+    "movie": "826949258-2",
+    "rating": 6
+  },
+  {
+    "user": "jgibson1j",
+    "movie": "479609849-6",
+    "rating": 4
+  },
+  {
+    "user": "jgibson1j",
+    "movie": "657716771-0",
+    "rating": 3
+  },
+  {
+    "user": "jgibson1j",
+    "movie": "160229250-7",
+    "rating": 10
+  },
+  {
+    "user": "jgibson1j",
+    "movie": "683752612-X",
+    "rating": 7
+  },
+  {
+    "user": "jgibson1j",
+    "movie": "550153483-5",
+    "rating": 6
+  },
+  {
+    "user": "jgibson1j",
+    "movie": "018933187-9",
+    "rating": 10
+  },
+  {
+    "user": "jgibson1j",
+    "movie": "722399277-8",
+    "rating": 9
+  },
+  {
+    "user": "rgibson1k",
+    "movie": "995248859-9",
+    "rating": 4
+  },
+  {
+    "user": "rgibson1k",
+    "movie": "595886096-8",
+    "rating": 1
+  },
+  {
+    "user": "rgibson1k",
+    "movie": "777565498-8",
+    "rating": 1
+  },
+  {
+    "user": "rgibson1k",
+    "movie": "064553220-7",
+    "rating": 10
+  },
+  {
+    "user": "rgibson1k",
+    "movie": "973489955-4",
+    "rating": 3
+  },
+  {
+    "user": "rgibson1k",
+    "movie": "657716771-0",
+    "rating": 7
+  },
+  {
+    "user": "rgibson1k",
+    "movie": "913952331-4",
+    "rating": 1
+  },
+  {
+    "user": "rgibson1k",
+    "movie": "594754738-4",
+    "rating": 1
+  },
+  {
+    "user": "mparker1l",
+    "movie": "918671907-6",
+    "rating": 10
+  },
+  {
+    "user": "mparker1l",
+    "movie": "950857029-6",
+    "rating": 6
+  },
+  {
+    "user": "mparker1l",
+    "movie": "435551301-7",
+    "rating": 5
+  },
+  {
+    "user": "mparker1l",
+    "movie": "372836173-9",
+    "rating": 4
+  },
+  {
+    "user": "mparker1l",
+    "movie": "917311738-2",
+    "rating": 9
+  },
+  {
+    "user": "mparker1l",
+    "movie": "058162706-7",
+    "rating": 4
+  },
+  {
+    "user": "mparker1l",
+    "movie": "726379192-7",
+    "rating": 5
+  },
+  {
+    "user": "mparker1l",
+    "movie": "711447659-0",
+    "rating": 8
+  },
+  {
+    "user": "mparker1l",
+    "movie": "588556893-6",
+    "rating": 9
+  },
+  {
+    "user": "amason1m",
+    "movie": "159485877-2",
+    "rating": 6
+  },
+  {
+    "user": "amason1m",
+    "movie": "111773133-2",
+    "rating": 2
+  },
+  {
+    "user": "amason1m",
+    "movie": "507448705-6",
+    "rating": 1
+  },
+  {
+    "user": "amason1m",
+    "movie": "366340039-5",
+    "rating": 3
+  },
+  {
+    "user": "amason1m",
+    "movie": "345104606-7",
+    "rating": 3
+  },
+  {
+    "user": "amason1m",
+    "movie": "695841701-1",
+    "rating": 8
+  },
+  {
+    "user": "amason1m",
+    "movie": "822455813-4",
+    "rating": 1
+  },
+  {
+    "user": "bhamilton1n",
+    "movie": "950857029-6",
+    "rating": 5
+  },
+  {
+    "user": "bhamilton1n",
+    "movie": "545610533-0",
+    "rating": 7
+  },
+  {
+    "user": "bhamilton1n",
+    "movie": "777565498-8",
+    "rating": 4
+  },
+  {
+    "user": "bhamilton1n",
+    "movie": "341876828-8",
+    "rating": 7
+  },
+  {
+    "user": "bhamilton1n",
+    "movie": "245126901-4",
+    "rating": 4
+  },
+  {
+    "user": "bhamilton1n",
+    "movie": "960172299-8",
+    "rating": 6
+  },
+  {
+    "user": "bhamilton1n",
+    "movie": "412364318-3",
+    "rating": 2
+  },
+  {
+    "user": "bhamilton1n",
+    "movie": "191956416-0",
+    "rating": 6
+  },
+  {
+    "user": "sscott1o",
+    "movie": "991270425-8",
+    "rating": 3
+  },
+  {
+    "user": "sscott1o",
+    "movie": "451558493-6",
+    "rating": 4
+  },
+  {
+    "user": "sscott1o",
+    "movie": "245126901-4",
+    "rating": 9
+  },
+  {
+    "user": "sscott1o",
+    "movie": "816647965-6",
+    "rating": 6
+  },
+  {
+    "user": "sscott1o",
+    "movie": "711447659-0",
+    "rating": 3
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "918671907-6",
+    "rating": 10
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "186189393-0",
+    "rating": 10
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "830211566-5",
+    "rating": 2
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "496048692-9",
+    "rating": 4
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "546217593-0",
+    "rating": 6
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "386265529-6",
+    "rating": 8
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "677965579-1",
+    "rating": 5
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "372836173-9",
+    "rating": 8
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "683752612-X",
+    "rating": 2
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "726379192-7",
+    "rating": 4
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "695841701-1",
+    "rating": 3
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "191956416-0",
+    "rating": 4
+  },
+  {
+    "user": "bjohnson1p",
+    "movie": "588556893-6",
+    "rating": 2
+  },
+  {
+    "user": "emurray1q",
+    "movie": "230685292-8",
+    "rating": 5
+  },
+  {
+    "user": "emurray1q",
+    "movie": "386265529-6",
+    "rating": 1
+  },
+  {
+    "user": "emurray1q",
+    "movie": "435551301-7",
+    "rating": 2
+  },
+  {
+    "user": "emurray1q",
+    "movie": "832500498-3",
+    "rating": 8
+  },
+  {
+    "user": "emurray1q",
+    "movie": "111773133-2",
+    "rating": 4
+  },
+  {
+    "user": "emurray1q",
+    "movie": "677965579-1",
+    "rating": 1
+  },
+  {
+    "user": "emurray1q",
+    "movie": "092627057-5",
+    "rating": 8
+  },
+  {
+    "user": "emurray1q",
+    "movie": "599359762-3",
+    "rating": 10
+  },
+  {
+    "user": "emurray1q",
+    "movie": "787954316-3",
+    "rating": 8
+  },
+  {
+    "user": "mmoore1r",
+    "movie": "496048692-9",
+    "rating": 7
+  },
+  {
+    "user": "mmoore1r",
+    "movie": "507448705-6",
+    "rating": 1
+  },
+  {
+    "user": "mmoore1r",
+    "movie": "372836173-9",
+    "rating": 2
+  },
+  {
+    "user": "mmoore1r",
+    "movie": "916368123-4",
+    "rating": 7
+  },
+  {
+    "user": "mmoore1r",
+    "movie": "370216731-5",
+    "rating": 8
+  },
+  {
+    "user": "ksims1s",
+    "movie": "004105549-7",
+    "rating": 9
+  },
+  {
+    "user": "ksims1s",
+    "movie": "713687560-9",
+    "rating": 5
+  },
+  {
+    "user": "ksims1s",
+    "movie": "451558493-6",
+    "rating": 7
+  },
+  {
+    "user": "ksims1s",
+    "movie": "296505214-3",
+    "rating": 2
+  },
+  {
+    "user": "ksims1s",
+    "movie": "479609849-6",
+    "rating": 8
+  },
+  {
+    "user": "ksims1s",
+    "movie": "234730923-4",
+    "rating": 8
+  },
+  {
+    "user": "ksims1s",
+    "movie": "682093079-8",
+    "rating": 4
+  },
+  {
+    "user": "ksims1s",
+    "movie": "027037362-4",
+    "rating": 7
+  },
+  {
+    "user": "ksims1s",
+    "movie": "261796245-8",
+    "rating": 5
+  },
+  {
+    "user": "mking1t",
+    "movie": "203452973-1",
+    "rating": 7
+  },
+  {
+    "user": "mking1t",
+    "movie": "685416258-0",
+    "rating": 9
+  },
+  {
+    "user": "mking1t",
+    "movie": "064553220-7",
+    "rating": 3
+  },
+  {
+    "user": "mking1t",
+    "movie": "435551301-7",
+    "rating": 6
+  },
+  {
+    "user": "mking1t",
+    "movie": "599359762-3",
+    "rating": 3
+  },
+  {
+    "user": "mking1t",
+    "movie": "790319651-0",
+    "rating": 10
+  },
+  {
+    "user": "rcarr1u",
+    "movie": "819588069-X",
+    "rating": 4
+  },
+  {
+    "user": "rcarr1u",
+    "movie": "092627057-5",
+    "rating": 9
+  },
+  {
+    "user": "rcarr1u",
+    "movie": "945308954-0",
+    "rating": 10
+  },
+  {
+    "user": "rcarr1u",
+    "movie": "792301802-2",
+    "rating": 10
+  },
+  {
+    "user": "rcarr1u",
+    "movie": "191956416-0",
+    "rating": 8
+  },
+  {
+    "user": "rcarr1u",
+    "movie": "370216731-5",
+    "rating": 10
+  }
+]

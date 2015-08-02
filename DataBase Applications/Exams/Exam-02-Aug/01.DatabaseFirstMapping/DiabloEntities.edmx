@@ -1,0 +1,736 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="DiabloModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Characters">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="StatisticId" Type="int" />
+        </EntityType>
+        <EntityType Name="Games">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Start" Type="datetime" Nullable="false" />
+          <Property Name="Duration" Type="int" />
+          <Property Name="GameTypeId" Type="int" Nullable="false" />
+          <Property Name="IsFinished" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="GameTypeForbiddenItems">
+          <Key>
+            <PropertyRef Name="ItemId" />
+            <PropertyRef Name="GameTypeId" />
+          </Key>
+          <Property Name="ItemId" Type="int" Nullable="false" />
+          <Property Name="GameTypeId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="GameTypes">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="BonusStatsId" Type="int" />
+        </EntityType>
+        <EntityType Name="Items">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" />
+          <Property Name="ItemTypeId" Type="int" Nullable="false" />
+          <Property Name="StatisticId" Type="int" Nullable="false" />
+          <Property Name="Price" Type="money" Nullable="false" />
+          <Property Name="MinLevel" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ItemTypes">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Statistics">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Strength" Type="int" Nullable="false" />
+          <Property Name="Defence" Type="int" Nullable="false" />
+          <Property Name="Mind" Type="int" Nullable="false" />
+          <Property Name="Speed" Type="int" Nullable="false" />
+          <Property Name="Luck" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="UserGameItems">
+          <Key>
+            <PropertyRef Name="ItemId" />
+            <PropertyRef Name="UserGameId" />
+          </Key>
+          <Property Name="ItemId" Type="int" Nullable="false" />
+          <Property Name="UserGameId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
+          <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+          <Property Name="Email" Type="nvarchar" MaxLength="50" />
+          <Property Name="RegistrationDate" Type="datetime" Nullable="false" />
+          <Property Name="IsDeleted" Type="bit" Nullable="false" />
+          <Property Name="IpAddress" Type="nvarchar" MaxLength="15" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UsersGames">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="GameId" Type="int" Nullable="false" />
+          <Property Name="UserId" Type="int" Nullable="false" />
+          <Property Name="CharacterId" Type="int" Nullable="false" />
+          <Property Name="Level" Type="int" Nullable="false" />
+          <Property Name="JoinedOn" Type="datetime" Nullable="false" />
+          <Property Name="Cash" Type="money" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Characters_Statistics">
+          <End Role="Statistics" Type="Self.Statistics" Multiplicity="0..1" />
+          <End Role="Characters" Type="Self.Characters" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Statistics">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Characters">
+              <PropertyRef Name="StatisticId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Games_GameTypes">
+          <End Role="GameTypes" Type="Self.GameTypes" Multiplicity="1" />
+          <End Role="Games" Type="Self.Games" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GameTypes">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Games">
+              <PropertyRef Name="GameTypeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GameTypeForbiddenItems_GameTypes">
+          <End Role="GameTypes" Type="Self.GameTypes" Multiplicity="1" />
+          <End Role="GameTypeForbiddenItems" Type="Self.GameTypeForbiddenItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GameTypes">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="GameTypeForbiddenItems">
+              <PropertyRef Name="GameTypeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GameTypeForbiddenItems_Items">
+          <End Role="Items" Type="Self.Items" Multiplicity="1" />
+          <End Role="GameTypeForbiddenItems" Type="Self.GameTypeForbiddenItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Items">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="GameTypeForbiddenItems">
+              <PropertyRef Name="ItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GameTypes_Statistics">
+          <End Role="Statistics" Type="Self.Statistics" Multiplicity="0..1" />
+          <End Role="GameTypes" Type="Self.GameTypes" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Statistics">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="GameTypes">
+              <PropertyRef Name="BonusStatsId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Items_ItemTypes">
+          <End Role="ItemTypes" Type="Self.ItemTypes" Multiplicity="1" />
+          <End Role="Items" Type="Self.Items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ItemTypes">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Items">
+              <PropertyRef Name="ItemTypeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Items_Statistics">
+          <End Role="Statistics" Type="Self.Statistics" Multiplicity="1" />
+          <End Role="Items" Type="Self.Items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Statistics">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Items">
+              <PropertyRef Name="StatisticId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserGameItems_Items">
+          <End Role="Items" Type="Self.Items" Multiplicity="1" />
+          <End Role="UserGameItems" Type="Self.UserGameItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Items">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="UserGameItems">
+              <PropertyRef Name="ItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserGameItems_UsersGames">
+          <End Role="UsersGames" Type="Self.UsersGames" Multiplicity="1" />
+          <End Role="UserGameItems" Type="Self.UserGameItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UsersGames">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="UserGameItems">
+              <PropertyRef Name="UserGameId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UsersGames_Characters">
+          <End Role="Characters" Type="Self.Characters" Multiplicity="1" />
+          <End Role="UsersGames" Type="Self.UsersGames" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Characters">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="UsersGames">
+              <PropertyRef Name="CharacterId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UsersGames_Games">
+          <End Role="Games" Type="Self.Games" Multiplicity="1" />
+          <End Role="UsersGames" Type="Self.UsersGames" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Games">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="UsersGames">
+              <PropertyRef Name="GameId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UsersGames_Users1">
+          <End Role="Users" Type="Self.Users" Multiplicity="1" />
+          <End Role="UsersGames" Type="Self.UsersGames" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Users">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="UsersGames">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DiabloModelStoreContainer">
+          <EntitySet Name="Characters" EntityType="Self.Characters" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Games" EntityType="Self.Games" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="GameTypeForbiddenItems" EntityType="Self.GameTypeForbiddenItems" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="GameTypes" EntityType="Self.GameTypes" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Items" EntityType="Self.Items" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ItemTypes" EntityType="Self.ItemTypes" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Statistics" EntityType="Self.Statistics" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UserGameItems" EntityType="Self.UserGameItems" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UsersGames" EntityType="Self.UsersGames" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Characters_Statistics" Association="Self.FK_Characters_Statistics">
+            <End Role="Statistics" EntitySet="Statistics" />
+            <End Role="Characters" EntitySet="Characters" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Games_GameTypes" Association="Self.FK_Games_GameTypes">
+            <End Role="GameTypes" EntitySet="GameTypes" />
+            <End Role="Games" EntitySet="Games" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GameTypeForbiddenItems_GameTypes" Association="Self.FK_GameTypeForbiddenItems_GameTypes">
+            <End Role="GameTypes" EntitySet="GameTypes" />
+            <End Role="GameTypeForbiddenItems" EntitySet="GameTypeForbiddenItems" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GameTypeForbiddenItems_Items" Association="Self.FK_GameTypeForbiddenItems_Items">
+            <End Role="Items" EntitySet="Items" />
+            <End Role="GameTypeForbiddenItems" EntitySet="GameTypeForbiddenItems" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GameTypes_Statistics" Association="Self.FK_GameTypes_Statistics">
+            <End Role="Statistics" EntitySet="Statistics" />
+            <End Role="GameTypes" EntitySet="GameTypes" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Items_ItemTypes" Association="Self.FK_Items_ItemTypes">
+            <End Role="ItemTypes" EntitySet="ItemTypes" />
+            <End Role="Items" EntitySet="Items" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Items_Statistics" Association="Self.FK_Items_Statistics">
+            <End Role="Statistics" EntitySet="Statistics" />
+            <End Role="Items" EntitySet="Items" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserGameItems_Items" Association="Self.FK_UserGameItems_Items">
+            <End Role="Items" EntitySet="Items" />
+            <End Role="UserGameItems" EntitySet="UserGameItems" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserGameItems_UsersGames" Association="Self.FK_UserGameItems_UsersGames">
+            <End Role="UsersGames" EntitySet="UsersGames" />
+            <End Role="UserGameItems" EntitySet="UserGameItems" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UsersGames_Characters" Association="Self.FK_UsersGames_Characters">
+            <End Role="Characters" EntitySet="Characters" />
+            <End Role="UsersGames" EntitySet="UsersGames" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UsersGames_Games" Association="Self.FK_UsersGames_Games">
+            <End Role="Games" EntitySet="Games" />
+            <End Role="UsersGames" EntitySet="UsersGames" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UsersGames_Users1" Association="Self.FK_UsersGames_Users1">
+            <End Role="Users" EntitySet="Users" />
+            <End Role="UsersGames" EntitySet="UsersGames" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DiabloModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Character">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="StatisticId" Type="Int32" />
+          <NavigationProperty Name="Statistic" Relationship="Self.FK_Characters_Statistics" FromRole="Characters" ToRole="Statistics" />
+          <NavigationProperty Name="UsersGames" Relationship="Self.FK_UsersGames_Characters" FromRole="Characters" ToRole="UsersGames" />
+        </EntityType>
+        <EntityType Name="Game">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Start" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Duration" Type="Int32" />
+          <Property Name="GameTypeId" Type="Int32" Nullable="false" />
+          <Property Name="IsFinished" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="GameType" Relationship="Self.FK_Games_GameTypes" FromRole="Games" ToRole="GameTypes" />
+          <NavigationProperty Name="UsersGames" Relationship="Self.FK_UsersGames_Games" FromRole="Games" ToRole="UsersGames" />
+        </EntityType>
+        <EntityType Name="GameType">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="BonusStatsId" Type="Int32" />
+          <NavigationProperty Name="Games" Relationship="Self.FK_Games_GameTypes" FromRole="GameTypes" ToRole="Games" />
+          <NavigationProperty Name="Statistic" Relationship="Self.FK_GameTypes_Statistics" FromRole="GameTypes" ToRole="Statistics" />
+          <NavigationProperty Name="Items" Relationship="Self.GameTypeForbiddenItems" FromRole="GameTypes" ToRole="Items" />
+        </EntityType>
+        <EntityType Name="Item">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ItemTypeId" Type="Int32" Nullable="false" />
+          <Property Name="StatisticId" Type="Int32" Nullable="false" />
+          <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+          <Property Name="MinLevel" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="ItemType" Relationship="Self.FK_Items_ItemTypes" FromRole="Items" ToRole="ItemTypes" />
+          <NavigationProperty Name="Statistic" Relationship="Self.FK_Items_Statistics" FromRole="Items" ToRole="Statistics" />
+          <NavigationProperty Name="GameTypes" Relationship="Self.GameTypeForbiddenItems" FromRole="Items" ToRole="GameTypes" />
+          <NavigationProperty Name="UsersGames" Relationship="Self.UserGameItems" FromRole="Items" ToRole="UsersGames" />
+        </EntityType>
+        <EntityType Name="ItemType">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Items" Relationship="Self.FK_Items_ItemTypes" FromRole="ItemTypes" ToRole="Items" />
+        </EntityType>
+        <EntityType Name="Statistic">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Strength" Type="Int32" Nullable="false" />
+          <Property Name="Defence" Type="Int32" Nullable="false" />
+          <Property Name="Mind" Type="Int32" Nullable="false" />
+          <Property Name="Speed" Type="Int32" Nullable="false" />
+          <Property Name="Luck" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Characters" Relationship="Self.FK_Characters_Statistics" FromRole="Statistics" ToRole="Characters" />
+          <NavigationProperty Name="GameTypes" Relationship="Self.FK_GameTypes_Statistics" FromRole="Statistics" ToRole="GameTypes" />
+          <NavigationProperty Name="Items" Relationship="Self.FK_Items_Statistics" FromRole="Statistics" ToRole="Items" />
+        </EntityType>
+        <EntityType Name="sysdiagram">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="RegistrationDate" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="IsDeleted" Type="Boolean" Nullable="false" />
+          <Property Name="IpAddress" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="UsersGames" Relationship="Self.FK_UsersGames_Users1" FromRole="Users" ToRole="UsersGames" />
+        </EntityType>
+        <EntityType Name="UsersGame">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="GameId" Type="Int32" Nullable="false" />
+          <Property Name="UserId" Type="Int32" Nullable="false" />
+          <Property Name="CharacterId" Type="Int32" Nullable="false" />
+          <Property Name="Level" Type="Int32" Nullable="false" />
+          <Property Name="JoinedOn" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Cash" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+          <NavigationProperty Name="Character" Relationship="Self.FK_UsersGames_Characters" FromRole="UsersGames" ToRole="Characters" />
+          <NavigationProperty Name="Game" Relationship="Self.FK_UsersGames_Games" FromRole="UsersGames" ToRole="Games" />
+          <NavigationProperty Name="User" Relationship="Self.FK_UsersGames_Users1" FromRole="UsersGames" ToRole="Users" />
+          <NavigationProperty Name="Items" Relationship="Self.UserGameItems" FromRole="UsersGames" ToRole="Items" />
+        </EntityType>
+        <Association Name="FK_Characters_Statistics">
+          <End Role="Statistics" Type="Self.Statistic" Multiplicity="0..1" />
+          <End Role="Characters" Type="Self.Character" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Statistics">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Characters">
+              <PropertyRef Name="StatisticId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UsersGames_Characters">
+          <End Role="Characters" Type="Self.Character" Multiplicity="1" />
+          <End Role="UsersGames" Type="Self.UsersGame" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Characters">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="UsersGames">
+              <PropertyRef Name="CharacterId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Games_GameTypes">
+          <End Role="GameTypes" Type="Self.GameType" Multiplicity="1" />
+          <End Role="Games" Type="Self.Game" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GameTypes">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Games">
+              <PropertyRef Name="GameTypeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UsersGames_Games">
+          <End Role="Games" Type="Self.Game" Multiplicity="1" />
+          <End Role="UsersGames" Type="Self.UsersGame" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Games">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="UsersGames">
+              <PropertyRef Name="GameId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GameTypes_Statistics">
+          <End Role="Statistics" Type="Self.Statistic" Multiplicity="0..1" />
+          <End Role="GameTypes" Type="Self.GameType" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Statistics">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="GameTypes">
+              <PropertyRef Name="BonusStatsId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Items_ItemTypes">
+          <End Role="ItemTypes" Type="Self.ItemType" Multiplicity="1" />
+          <End Role="Items" Type="Self.Item" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ItemTypes">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Items">
+              <PropertyRef Name="ItemTypeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Items_Statistics">
+          <End Role="Statistics" Type="Self.Statistic" Multiplicity="1" />
+          <End Role="Items" Type="Self.Item" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Statistics">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Items">
+              <PropertyRef Name="StatisticId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UsersGames_Users1">
+          <End Role="Users" Type="Self.User" Multiplicity="1" />
+          <End Role="UsersGames" Type="Self.UsersGame" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Users">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="UsersGames">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="GameTypeForbiddenItems">
+          <End Role="GameTypes" Type="Self.GameType" Multiplicity="*" />
+          <End Role="Items" Type="Self.Item" Multiplicity="*" />
+        </Association>
+        <Association Name="UserGameItems">
+          <End Role="Items" Type="Self.Item" Multiplicity="*" />
+          <End Role="UsersGames" Type="Self.UsersGame" Multiplicity="*" />
+        </Association>
+        <EntityContainer Name="DiabloEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Characters" EntityType="Self.Character" />
+          <EntitySet Name="Games" EntityType="Self.Game" />
+          <EntitySet Name="GameTypes" EntityType="Self.GameType" />
+          <EntitySet Name="Items" EntityType="Self.Item" />
+          <EntitySet Name="ItemTypes" EntityType="Self.ItemType" />
+          <EntitySet Name="Statistics" EntityType="Self.Statistic" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+          <EntitySet Name="Users" EntityType="Self.User" />
+          <EntitySet Name="UsersGames" EntityType="Self.UsersGame" />
+          <AssociationSet Name="FK_Characters_Statistics" Association="Self.FK_Characters_Statistics">
+            <End Role="Statistics" EntitySet="Statistics" />
+            <End Role="Characters" EntitySet="Characters" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UsersGames_Characters" Association="Self.FK_UsersGames_Characters">
+            <End Role="Characters" EntitySet="Characters" />
+            <End Role="UsersGames" EntitySet="UsersGames" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Games_GameTypes" Association="Self.FK_Games_GameTypes">
+            <End Role="GameTypes" EntitySet="GameTypes" />
+            <End Role="Games" EntitySet="Games" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UsersGames_Games" Association="Self.FK_UsersGames_Games">
+            <End Role="Games" EntitySet="Games" />
+            <End Role="UsersGames" EntitySet="UsersGames" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GameTypes_Statistics" Association="Self.FK_GameTypes_Statistics">
+            <End Role="Statistics" EntitySet="Statistics" />
+            <End Role="GameTypes" EntitySet="GameTypes" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Items_ItemTypes" Association="Self.FK_Items_ItemTypes">
+            <End Role="ItemTypes" EntitySet="ItemTypes" />
+            <End Role="Items" EntitySet="Items" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Items_Statistics" Association="Self.FK_Items_Statistics">
+            <End Role="Statistics" EntitySet="Statistics" />
+            <End Role="Items" EntitySet="Items" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UsersGames_Users1" Association="Self.FK_UsersGames_Users1">
+            <End Role="Users" EntitySet="Users" />
+            <End Role="UsersGames" EntitySet="UsersGames" />
+          </AssociationSet>
+          <AssociationSet Name="GameTypeForbiddenItems" Association="Self.GameTypeForbiddenItems">
+            <End Role="GameTypes" EntitySet="GameTypes" />
+            <End Role="Items" EntitySet="Items" />
+          </AssociationSet>
+          <AssociationSet Name="UserGameItems" Association="Self.UserGameItems">
+            <End Role="Items" EntitySet="Items" />
+            <End Role="UsersGames" EntitySet="UsersGames" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DiabloModelStoreContainer" CdmEntityContainer="DiabloEntities">
+          <EntitySetMapping Name="Characters">
+            <EntityTypeMapping TypeName="DiabloModel.Character">
+              <MappingFragment StoreEntitySet="Characters">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="StatisticId" ColumnName="StatisticId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Games">
+            <EntityTypeMapping TypeName="DiabloModel.Game">
+              <MappingFragment StoreEntitySet="Games">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Start" ColumnName="Start" />
+                <ScalarProperty Name="Duration" ColumnName="Duration" />
+                <ScalarProperty Name="GameTypeId" ColumnName="GameTypeId" />
+                <ScalarProperty Name="IsFinished" ColumnName="IsFinished" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="GameTypes">
+            <EntityTypeMapping TypeName="DiabloModel.GameType">
+              <MappingFragment StoreEntitySet="GameTypes">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="BonusStatsId" ColumnName="BonusStatsId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Items">
+            <EntityTypeMapping TypeName="DiabloModel.Item">
+              <MappingFragment StoreEntitySet="Items">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ItemTypeId" ColumnName="ItemTypeId" />
+                <ScalarProperty Name="StatisticId" ColumnName="StatisticId" />
+                <ScalarProperty Name="Price" ColumnName="Price" />
+                <ScalarProperty Name="MinLevel" ColumnName="MinLevel" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ItemTypes">
+            <EntityTypeMapping TypeName="DiabloModel.ItemType">
+              <MappingFragment StoreEntitySet="ItemTypes">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Statistics">
+            <EntityTypeMapping TypeName="DiabloModel.Statistic">
+              <MappingFragment StoreEntitySet="Statistics">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Strength" ColumnName="Strength" />
+                <ScalarProperty Name="Defence" ColumnName="Defence" />
+                <ScalarProperty Name="Mind" ColumnName="Mind" />
+                <ScalarProperty Name="Speed" ColumnName="Speed" />
+                <ScalarProperty Name="Luck" ColumnName="Luck" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="DiabloModel.sysdiagram">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="DiabloModel.User">
+              <MappingFragment StoreEntitySet="Users">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="RegistrationDate" ColumnName="RegistrationDate" />
+                <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+                <ScalarProperty Name="IpAddress" ColumnName="IpAddress" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UsersGames">
+            <EntityTypeMapping TypeName="DiabloModel.UsersGame">
+              <MappingFragment StoreEntitySet="UsersGames">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="GameId" ColumnName="GameId" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="CharacterId" ColumnName="CharacterId" />
+                <ScalarProperty Name="Level" ColumnName="Level" />
+                <ScalarProperty Name="JoinedOn" ColumnName="JoinedOn" />
+                <ScalarProperty Name="Cash" ColumnName="Cash" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <AssociationSetMapping Name="GameTypeForbiddenItems" TypeName="DiabloModel.GameTypeForbiddenItems" StoreEntitySet="GameTypeForbiddenItems">
+            <EndProperty Name="GameTypes">
+              <ScalarProperty Name="Id" ColumnName="GameTypeId" />
+            </EndProperty>
+            <EndProperty Name="Items">
+              <ScalarProperty Name="Id" ColumnName="ItemId" />
+            </EndProperty>
+          </AssociationSetMapping>
+          <AssociationSetMapping Name="UserGameItems" TypeName="DiabloModel.UserGameItems" StoreEntitySet="UserGameItems">
+            <EndProperty Name="Items">
+              <ScalarProperty Name="Id" ColumnName="ItemId" />
+            </EndProperty>
+            <EndProperty Name="UsersGames">
+              <ScalarProperty Name="Id" ColumnName="UserGameId" />
+            </EndProperty>
+          </AssociationSetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

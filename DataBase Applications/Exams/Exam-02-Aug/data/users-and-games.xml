@@ -1,0 +1,4411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user first-name="Jose" last-name="Diaz" username="jdiaz0" is-deleted="0" ip-address="103.167.134.170" registration-date="24/06/2015">
+    <games>
+      <game>
+        <game-name>Japhette orchid</game-name>
+        <character name="Druid" cash="9567.00" level="30" />
+        <joined-on>13/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Amsterdam</game-name>
+        <character name="Druid" cash="9208.00" level="32" />
+        <joined-on>10/12/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Wellington</game-name>
+        <character name="Paladin" cash="9774.00" level="46" />
+        <joined-on>24/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Bucharest</game-name>
+        <character name="Druid" cash="9798.00" level="27" />
+        <joined-on>20/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Boston</game-name>
+        <character name="Barbarian" cash="6138.00" level="75" />
+        <joined-on>14/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Milan</game-name>
+        <character name="Wizard" cash="7033.00" level="80" />
+        <joined-on>20/02/2011</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Roy" last-name="Lane" username="rlane1" is-deleted="0" ip-address="24.60.25.70" registration-date="16/06/2014">
+    <games>
+      <game>
+        <game-name>Star of Bethlehem</game-name>
+        <character name="Wizard" cash="6618.00" level="26" />
+        <joined-on>02/08/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Zürich</game-name>
+        <character name="Demon Hunter" cash="9934.00" level="95" />
+        <joined-on>22/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Jerusalem</game-name>
+        <character name="Assassin" cash="7467.00" level="62" />
+        <joined-on>01/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Altyr</game-name>
+        <character name="Witch Doctor" cash="7134.00" level="74" />
+        <joined-on>12/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Lotte World</game-name>
+        <character name="Necromancer" cash="9786.00" level="28" />
+        <joined-on>13/09/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Gerbera Ruby Red</game-name>
+        <character name="Necromancer" cash="5307.00" level="53" />
+        <joined-on>03/04/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Sage perennial</game-name>
+        <character name="Witch Doctor" cash="5495.00" level="87" />
+        <joined-on>21/09/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Kiev</game-name>
+        <character name="Wizard" cash="8824.00" level="67" />
+        <joined-on>25/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Athens</game-name>
+        <character name="Druid" cash="6788.00" level="90" />
+        <joined-on>09/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Dubai</game-name>
+        <character name="Amazon" cash="7888.00" level="6" />
+        <joined-on>30/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Kuala Lumpur</game-name>
+        <character name="Sorceress" cash="5891.00" level="81" />
+        <joined-on>08/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Empire State</game-name>
+        <character name="Amazon" cash="6318.00" level="37" />
+        <joined-on>16/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Monte Negro</game-name>
+        <character name="Witch Doctor" cash="8252.00" level="87" />
+        <joined-on>25/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>San Francisco</game-name>
+        <character name="Wizard" cash="7644.00" level="79" />
+        <joined-on>22/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lace fern</game-name>
+        <character name="Monk" cash="9649.00" level="77" />
+        <joined-on>18/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Thorow-wax</game-name>
+        <character name="Paladin" cash="9079.00" level="53" />
+        <joined-on>23/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Strawberry banksia</game-name>
+        <character name="Wizard" cash="6513.00" level="96" />
+        <joined-on>14/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Stock lavender</game-name>
+        <character name="Sorceress" cash="6857.00" level="91" />
+        <joined-on>02/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Grand Canyon</game-name>
+        <character name="Barbarian" cash="6452.00" level="56" />
+        <joined-on>19/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Versailles</game-name>
+        <character name="Demon Hunter" cash="9784.00" level="63" />
+        <joined-on>13/09/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Macau</game-name>
+        <character name="Witch Doctor" cash="6825.00" level="91" />
+        <joined-on>12/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Great Wall</game-name>
+        <character name="Druid" cash="5340.00" level="25" />
+        <joined-on>17/04/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Tulip pink</game-name>
+        <character name="Crusader" cash="8954.00" level="69" />
+        <joined-on>02/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Orlando</game-name>
+        <character name="Barbarian" cash="9441.00" level="41" />
+        <joined-on>28/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Safari Sunset</game-name>
+        <character name="Monk" cash="7741.00" level="57" />
+        <joined-on>02/10/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Auckland</game-name>
+        <character name="Druid" cash="5653.00" level="83" />
+        <joined-on>20/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Stargazer</game-name>
+        <character name="Paladin" cash="7141.00" level="54" />
+        <joined-on>13/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Delphinium Belladonna</game-name>
+        <character name="Wizard" cash="6378.00" level="28" />
+        <joined-on>01/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Allium drumstick</game-name>
+        <character name="Monk" cash="9512.00" level="80" />
+        <joined-on>13/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Aithusa</game-name>
+        <character name="Barbarian" cash="7195.00" level="97" />
+        <joined-on>12/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>São Paulo</game-name>
+        <character name="Druid" cash="8060.00" level="69" />
+        <joined-on>07/02/2013</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Terry" last-name="Kim" username="tkim2" email="tkim2@google.co.jp" is-deleted="0" ip-address="205.253.245.118" registration-date="11/03/2014">
+    <games>
+      <game>
+        <game-name>Lumex</game-name>
+        <character name="Paladin" cash="8580.00" level="86" />
+        <joined-on>05/07/2012</joined-on>
+      </game>
+    </games>
+  </user>
+  <user last-name="Miller" username="jmiller3" email="pmiller3@instagram.com" is-deleted="1" ip-address="3.44.188.189" registration-date="10/12/2013">
+    <games>
+      <game>
+        <game-name>Lisbon</game-name>
+        <character name="Paladin" cash="8203.00" level="46" />
+        <joined-on>09/12/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Bridal White</game-name>
+        <character name="Witch Doctor" cash="7208.00" level="3" />
+        <joined-on>19/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>South Seaport</game-name>
+        <character name="Crusader" cash="8602.00" level="10" />
+        <joined-on>03/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Mecca</game-name>
+        <character name="Witch Doctor" cash="8586.00" level="41" />
+        <joined-on>18/07/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Bogotá</game-name>
+        <character name="Crusader" cash="7031.00" level="21" />
+        <joined-on>30/04/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Munich</game-name>
+        <character name="Druid" cash="9866.00" level="38" />
+        <joined-on>02/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Forbidden City</game-name>
+        <character name="Crusader" cash="7584.00" level="54" />
+        <joined-on>18/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Vancouver</game-name>
+        <character name="Crusader" cash="9303.00" level="55" />
+        <joined-on>19/06/2014</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Wayne" last-name="Gordon" username="wgordon4" is-deleted="1" ip-address="226.127.244.90" registration-date="25/10/2014">
+    <games>
+      <game>
+        <game-name>Fuzzy Wuzzy</game-name>
+        <character name="Amazon" cash="7563.00" level="81" />
+        <joined-on>23/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Punta Cana</game-name>
+        <character name="Crusader" cash="8378.00" level="43" />
+        <joined-on>12/04/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Manila</game-name>
+        <character name="Crusader" cash="6050.00" level="53" />
+        <joined-on>10/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the Nile – Alba</game-name>
+        <character name="Monk" cash="7174.00" level="61" />
+        <joined-on>10/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Daffodil</game-name>
+        <character name="Demon Hunter" cash="5151.00" level="99" />
+        <joined-on>06/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Papyrus lions head</game-name>
+        <character name="Druid" cash="9336.00" level="59" />
+        <joined-on>12/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Eucalyptus silver dollar</game-name>
+        <character name="Crusader" cash="9320.00" level="54" />
+        <joined-on>21/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Budapest</game-name>
+        <character name="Crusader" cash="6987.00" level="15" />
+        <joined-on>12/05/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Monte Cassino</game-name>
+        <character name="Crusader" cash="9167.00" level="86" />
+        <joined-on>28/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Johannesburg</game-name>
+        <character name="Druid" cash="6857.00" level="56" />
+        <joined-on>20/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Royalty</game-name>
+        <character name="Sorceress" cash="8144.00" level="80" />
+        <joined-on>07/01/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Venice</game-name>
+        <character name="Druid" cash="6101.00" level="26" />
+        <joined-on>07/08/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Washington D.C.</game-name>
+        <character name="Monk" cash="7557.00" level="34" />
+        <joined-on>07/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Phlox</game-name>
+        <character name="Amazon" cash="8523.00" level="50" />
+        <joined-on>27/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Gayfeather</game-name>
+        <character name="Crusader" cash="5594.00" level="76" />
+        <joined-on>17/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>San Diego</game-name>
+        <character name="Paladin" cash="6497.00" level="79" />
+        <joined-on>06/08/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Strawflower</game-name>
+        <character name="Barbarian" cash="6784.00" level="79" />
+        <joined-on>02/07/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Tracelium</game-name>
+        <character name="Witch Doctor" cash="9482.00" level="79" />
+        <joined-on>07/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>New Orleans</game-name>
+        <character name="Barbarian" cash="9044.00" level="12" />
+        <joined-on>04/04/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Strawberry banksia</game-name>
+        <character name="Amazon" cash="9754.00" level="84" />
+        <joined-on>12/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Peruvian lily</game-name>
+        <character name="Sorceress" cash="6434.00" level="84" />
+        <joined-on>13/10/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Diadem</game-name>
+        <character name="Sorceress" cash="9511.00" level="80" />
+        <joined-on>02/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rice flower</game-name>
+        <character name="Crusader" cash="5974.00" level="81" />
+        <joined-on>01/01/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Shenzhen</game-name>
+        <character name="Wizard" cash="8556.00" level="36" />
+        <joined-on>15/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Cape Town</game-name>
+        <character name="Druid" cash="5205.00" level="16" />
+        <joined-on>11/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Sydney</game-name>
+        <character name="Barbarian" cash="8609.00" level="28" />
+        <joined-on>09/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Vienna</game-name>
+        <character name="Assassin" cash="6604.00" level="53" />
+        <joined-on>12/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Philadelphia</game-name>
+        <character name="Barbarian" cash="8222.00" level="2" />
+        <joined-on>16/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Bridal Pink</game-name>
+        <character name="Assassin" cash="9405.00" level="73" />
+        <joined-on>27/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Honolulu</game-name>
+        <character name="Assassin" cash="9744.00" level="41" />
+        <joined-on>05/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Emblem</game-name>
+        <character name="Assassin" cash="5510.00" level="56" />
+        <joined-on>13/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rio de Janeiro</game-name>
+        <character name="Necromancer" cash="5749.00" level="42" />
+        <joined-on>15/07/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Ming fern</game-name>
+        <character name="Demon Hunter" cash="9415.00" level="22" />
+        <joined-on>17/07/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Warsaw</game-name>
+        <character name="Monk" cash="9400.00" level="11" />
+        <joined-on>09/10/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Waxflower</game-name>
+        <character name="Demon Hunter" cash="6745.00" level="64" />
+        <joined-on>18/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Hong Kong</game-name>
+        <character name="Necromancer" cash="9519.00" level="85" />
+        <joined-on>30/01/2015</joined-on>
+      </game>
+      <game>
+        <game-name>New York</game-name>
+        <character name="Wizard" cash="6499.00" level="9" />
+        <joined-on>11/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Broadway</game-name>
+        <character name="Crusader" cash="6417.00" level="63" />
+        <joined-on>10/12/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Seattle</game-name>
+        <character name="Druid" cash="7451.00" level="64" />
+        <joined-on>19/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Stargazer</game-name>
+        <character name="Monk" cash="6002.00" level="3" />
+        <joined-on>11/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Stockholm</game-name>
+        <character name="Necromancer" cash="8989.00" level="25" />
+        <joined-on>20/04/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Eucalyptus seeded</game-name>
+        <character name="Paladin" cash="8006.00" level="61" />
+        <joined-on>03/11/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Madrid</game-name>
+        <character name="Druid" cash="8766.00" level="89" />
+        <joined-on>16/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Prague</game-name>
+        <character name="Assassin" cash="6937.00" level="84" />
+        <joined-on>15/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>São Paulo</game-name>
+        <character name="Witch Doctor" cash="7146.00" level="44" />
+        <joined-on>09/02/2013</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Julia" last-name="Stephens" username="jstephens5" is-deleted="1" ip-address="228.123.220.154" registration-date="30/07/2012">
+    <games>
+      <game>
+        <game-name>Rice flower</game-name>
+        <character name="Witch Doctor" cash="6515.00" level="82" />
+        <joined-on>02/01/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Kardinal</game-name>
+        <character name="Sorceress" cash="5949.00" level="66" />
+        <joined-on>13/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Bali</game-name>
+        <character name="Witch Doctor" cash="9166.00" level="68" />
+        <joined-on>05/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Dublin</game-name>
+        <character name="Monk" cash="9410.00" level="9" />
+        <joined-on>05/07/2013</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Bonnie" last-name="Duncan" username="bduncan6" is-deleted="0" ip-address="121.72.234.144" registration-date="23/05/2015">
+    <games>
+      <game>
+        <game-name>Washington D.C.</game-name>
+        <character name="Barbarian" cash="7934.00" level="73" />
+        <joined-on>09/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Cairo</game-name>
+        <character name="Crusader" cash="6791.00" level="10" />
+        <joined-on>14/12/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Everland</game-name>
+        <character name="Amazon" cash="6536.00" level="83" />
+        <joined-on>20/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Petra</game-name>
+        <character name="Wizard" cash="9456.00" level="80" />
+        <joined-on>09/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Montreal</game-name>
+        <character name="Paladin" cash="5909.00" level="22" />
+        <joined-on>29/04/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Monte Negro</game-name>
+        <character name="Paladin" cash="9659.00" level="86" />
+        <joined-on>31/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Sword fern</game-name>
+        <character name="Witch Doctor" cash="8849.00" level="82" />
+        <joined-on>01/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Tracelium</game-name>
+        <character name="Paladin" cash="6261.00" level="97" />
+        <joined-on>08/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Helo Prime</game-name>
+        <character name="Demon Hunter" cash="5880.00" level="35" />
+        <joined-on>12/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Snapdragon apple blossom</game-name>
+        <character name="Assassin" cash="9308.00" level="69" />
+        <joined-on>14/08/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Daffodil</game-name>
+        <character name="Monk" cash="9989.00" level="10" />
+        <joined-on>03/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Stockholm</game-name>
+        <character name="Paladin" cash="9554.00" level="24" />
+        <joined-on>19/04/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Fulvous</game-name>
+        <character name="Demon Hunter" cash="7807.00" level="38" />
+        <joined-on>20/02/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lace fern</game-name>
+        <character name="Paladin" cash="8099.00" level="66" />
+        <joined-on>24/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Pike Place</game-name>
+        <character name="Monk" cash="5017.00" level="37" />
+        <joined-on>23/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Paris</game-name>
+        <character name="Amazon" cash="6275.00" level="63" />
+        <joined-on>07/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Mexico City</game-name>
+        <character name="Necromancer" cash="7007.00" level="73" />
+        <joined-on>25/07/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Venice</game-name>
+        <character name="Barbarian" cash="7559.00" level="68" />
+        <joined-on>04/08/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Forbidden City</game-name>
+        <character name="Sorceress" cash="8275.00" level="34" />
+        <joined-on>17/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Beijing</game-name>
+        <character name="Monk" cash="6940.00" level="19" />
+        <joined-on>25/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Pincushion</game-name>
+        <character name="Wizard" cash="5968.00" level="45" />
+        <joined-on>03/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Strawflower</game-name>
+        <character name="Necromancer" cash="9990.00" level="89" />
+        <joined-on>05/07/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Kangaroo paw yellow</game-name>
+        <character name="Druid" cash="5182.00" level="27" />
+        <joined-on>05/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>San Francisco</game-name>
+        <character name="Monk" cash="5520.00" level="37" />
+        <joined-on>24/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>SeaWorld</game-name>
+        <character name="Wizard" cash="5066.00" level="15" />
+        <joined-on>20/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Peruvian lily</game-name>
+        <character name="Necromancer" cash="6057.00" level="25" />
+        <joined-on>11/10/2015</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Jonathan" last-name="Carroll" username="jcarroll7" email="jcarroll7@ustream.tv" is-deleted="0" ip-address="43.136.182.135" registration-date="09/06/2015">
+    <games>
+      <game>
+        <game-name>Melbourne</game-name>
+        <character name="Wizard" cash="8397.00" level="59" />
+        <joined-on>16/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>San Diego</game-name>
+        <character name="Druid" cash="7841.00" level="10" />
+        <joined-on>08/08/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Everland</game-name>
+        <character name="Paladin" cash="6969.00" level="95" />
+        <joined-on>19/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Alderaan</game-name>
+        <character name="Wizard" cash="6263.00" level="43" />
+        <joined-on>24/08/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Vancouver</game-name>
+        <character name="Monk" cash="6754.00" level="57" />
+        <joined-on>18/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>New Orleans</game-name>
+        <character name="Wizard" cash="8657.00" level="83" />
+        <joined-on>02/04/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the valley</game-name>
+        <character name="Crusader" cash="5282.00" level="34" />
+        <joined-on>01/01/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Moon orchid</game-name>
+        <character name="Wizard" cash="5051.00" level="93" />
+        <joined-on>31/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Ming fern</game-name>
+        <character name="Necromancer" cash="7194.00" level="36" />
+        <joined-on>12/07/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Acid green</game-name>
+        <character name="Wizard" cash="5416.00" level="13" />
+        <joined-on>16/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Houston</game-name>
+        <character name="Demon Hunter" cash="9883.00" level="22" />
+        <joined-on>05/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Safflower</game-name>
+        <character name="Sorceress" cash="6883.00" level="52" />
+        <joined-on>28/06/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Rice flower</game-name>
+        <character name="Witch Doctor" cash="7016.00" level="4" />
+        <joined-on>01/01/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Forbidden City</game-name>
+        <character name="Monk" cash="8240.00" level="25" />
+        <joined-on>18/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Thorow-wax</game-name>
+        <character name="Crusader" cash="5705.00" level="63" />
+        <joined-on>23/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the Nile – Alba</game-name>
+        <character name="Wizard" cash="8305.00" level="28" />
+        <joined-on>08/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Pincushion</game-name>
+        <character name="Barbarian" cash="5471.00" level="56" />
+        <joined-on>04/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Saponaria</game-name>
+        <character name="Sorceress" cash="7578.00" level="97" />
+        <joined-on>01/06/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Sage perennial</game-name>
+        <character name="Monk" cash="8525.00" level="67" />
+        <joined-on>23/09/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Sweet William</game-name>
+        <character name="Barbarian" cash="6357.00" level="13" />
+        <joined-on>15/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Daffodil</game-name>
+        <character name="Druid" cash="5778.00" level="31" />
+        <joined-on>08/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Stargazer</game-name>
+        <character name="Monk" cash="6993.00" level="28" />
+        <joined-on>12/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Notre Dame</game-name>
+        <character name="Wizard" cash="6532.00" level="97" />
+        <joined-on>16/03/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Nerine</game-name>
+        <character name="Crusader" cash="6450.00" level="33" />
+        <joined-on>27/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Pompeii</game-name>
+        <character name="Druid" cash="7546.00" level="41" />
+        <joined-on>08/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Strawberry banksia</game-name>
+        <character name="Necromancer" cash="9786.00" level="87" />
+        <joined-on>11/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Lumex</game-name>
+        <character name="Assassin" cash="6844.00" level="77" />
+        <joined-on>02/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Lake Mead</game-name>
+        <character name="Sorceress" cash="5577.00" level="98" />
+        <joined-on>28/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Jakarta</game-name>
+        <character name="Witch Doctor" cash="8136.00" level="46" />
+        <joined-on>25/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lisbon</game-name>
+        <character name="Necromancer" cash="5175.00" level="67" />
+        <joined-on>21/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Papyrus lions head</game-name>
+        <character name="Druid" cash="8836.00" level="14" />
+        <joined-on>13/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Santiago</game-name>
+        <character name="Demon Hunter" cash="5385.00" level="49" />
+        <joined-on>11/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Apple</game-name>
+        <character name="Demon Hunter" cash="5335.00" level="74" />
+        <joined-on>17/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Hong Kong</game-name>
+        <character name="Paladin" cash="9873.00" level="36" />
+        <joined-on>28/01/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Delphinium Pacific Giant</game-name>
+        <character name="Assassin" cash="5498.00" level="80" />
+        <joined-on>11/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Bucharest</game-name>
+        <character name="Witch Doctor" cash="6912.00" level="1" />
+        <joined-on>21/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>São Paulo</game-name>
+        <character name="Assassin" cash="5375.00" level="75" />
+        <joined-on>11/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Munich</game-name>
+        <character name="Necromancer" cash="6747.00" level="90" />
+        <joined-on>03/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Fire &amp; Ice</game-name>
+        <character name="Barbarian" cash="8320.00" level="4" />
+        <joined-on>10/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Shenzhen</game-name>
+        <character name="Barbarian" cash="6331.00" level="77" />
+        <joined-on>19/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Altyr</game-name>
+        <character name="Amazon" cash="9827.00" level="27" />
+        <joined-on>13/02/2013</joined-on>
+      </game>
+    </games>
+  </user>
+  <user last-name="Simpson" username="dsimpson8" is-deleted="1" ip-address="233.190.131.250" registration-date="16/03/2013">
+    <games>
+      <game>
+        <game-name>Central Park</game-name>
+        <character name="Demon Hunter" cash="9800.00" level="92" />
+        <joined-on>14/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>São Paulo</game-name>
+        <character name="Wizard" cash="7088.00" level="23" />
+        <joined-on>09/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Edinburgh</game-name>
+        <character name="Crusader" cash="7064.00" level="45" />
+        <joined-on>02/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Jakarta</game-name>
+        <character name="Crusader" cash="9003.00" level="97" />
+        <joined-on>27/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Trafalgar Square</game-name>
+        <character name="Witch Doctor" cash="5046.00" level="9" />
+        <joined-on>04/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Saxicola</game-name>
+        <character name="Necromancer" cash="9522.00" level="28" />
+        <joined-on>08/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Broadway</game-name>
+        <character name="Demon Hunter" cash="7477.00" level="57" />
+        <joined-on>12/12/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Kardinal</game-name>
+        <character name="Demon Hunter" cash="9644.00" level="85" />
+        <joined-on>12/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Tracelium</game-name>
+        <character name="Druid" cash="7007.00" level="51" />
+        <joined-on>11/10/2013</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Joseph" last-name="Simpson" username="jsimpson9" email="jsimpson9@elpais.com" is-deleted="0" ip-address="141.169.62.29" registration-date="21/11/2014">
+    <games>
+      <game>
+        <game-name>Allium drumstick</game-name>
+        <character name="Crusader" cash="6935.00" level="52" />
+        <joined-on>08/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Santiago</game-name>
+        <character name="Amazon" cash="6103.00" level="67" />
+        <joined-on>09/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Safflower</game-name>
+        <character name="Monk" cash="7188.00" level="49" />
+        <joined-on>28/06/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Royalty</game-name>
+        <character name="Necromancer" cash="5017.00" level="9" />
+        <joined-on>10/01/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Hydrangea</game-name>
+        <character name="Crusader" cash="7299.00" level="6" />
+        <joined-on>11/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Grand Canyon</game-name>
+        <character name="Monk" cash="6772.00" level="54" />
+        <joined-on>20/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Ancalagon</game-name>
+        <character name="Wizard" cash="8854.00" level="45" />
+        <joined-on>07/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Forbidden City</game-name>
+        <character name="Crusader" cash="9968.00" level="56" />
+        <joined-on>15/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lace fern</game-name>
+        <character name="Witch Doctor" cash="7099.00" level="20" />
+        <joined-on>19/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Safari Sunset</game-name>
+        <character name="Witch Doctor" cash="7261.00" level="65" />
+        <joined-on>02/10/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Philadelphia</game-name>
+        <character name="Demon Hunter" cash="9483.00" level="7" />
+        <joined-on>15/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Wellington</game-name>
+        <character name="Monk" cash="8325.00" level="12" />
+        <joined-on>23/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Washington D.C.</game-name>
+        <character name="Paladin" cash="8986.00" level="1" />
+        <joined-on>03/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Broadway</game-name>
+        <character name="Druid" cash="7610.00" level="23" />
+        <joined-on>08/12/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Delphinium Pacific Giant</game-name>
+        <character name="Crusader" cash="9111.00" level="35" />
+        <joined-on>14/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Los Angeles</game-name>
+        <character name="Monk" cash="6997.00" level="13" />
+        <joined-on>08/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Solidaster</game-name>
+        <character name="Wizard" cash="8345.00" level="28" />
+        <joined-on>31/08/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Orlando</game-name>
+        <character name="Barbarian" cash="5286.00" level="25" />
+        <joined-on>25/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Elite</game-name>
+        <character name="Druid" cash="5093.00" level="39" />
+        <joined-on>24/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Chicago</game-name>
+        <character name="Assassin" cash="8721.00" level="80" />
+        <joined-on>08/06/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Navy Pier</game-name>
+        <character name="Demon Hunter" cash="7742.00" level="98" />
+        <joined-on>24/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Sword fern</game-name>
+        <character name="Necromancer" cash="6506.00" level="11" />
+        <joined-on>01/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Stonehenge</game-name>
+        <character name="Sorceress" cash="5880.00" level="79" />
+        <joined-on>23/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Gerbera Ruby Red</game-name>
+        <character name="Assassin" cash="8179.00" level="56" />
+        <joined-on>02/04/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Goldenrod</game-name>
+        <character name="Paladin" cash="8806.00" level="25" />
+        <joined-on>21/08/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Melaleuca</game-name>
+        <character name="Assassin" cash="9717.00" level="17" />
+        <joined-on>09/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>San Diego</game-name>
+        <character name="Wizard" cash="9317.00" level="3" />
+        <joined-on>06/08/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Pink Mink</game-name>
+        <character name="Monk" cash="9410.00" level="78" />
+        <joined-on>11/11/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Fernleaf Yarrow</game-name>
+        <character name="Demon Hunter" cash="6288.00" level="84" />
+        <joined-on>18/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Athens</game-name>
+        <character name="Amazon" cash="7518.00" level="64" />
+        <joined-on>11/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Acaeria</game-name>
+        <character name="Barbarian" cash="7848.00" level="6" />
+        <joined-on>08/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Montbretia</game-name>
+        <character name="Druid" cash="7850.00" level="97" />
+        <joined-on>14/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Fuzzy Wuzzy</game-name>
+        <character name="Crusader" cash="6174.00" level="52" />
+        <joined-on>18/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Summer poinsettia</game-name>
+        <character name="Druid" cash="8111.00" level="23" />
+        <joined-on>17/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Marguerite daisy</game-name>
+        <character name="Assassin" cash="6659.00" level="4" />
+        <joined-on>01/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Lavanda</game-name>
+        <character name="Necromancer" cash="6091.00" level="30" />
+        <joined-on>18/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rome</game-name>
+        <character name="Barbarian" cash="9612.00" level="8" />
+        <joined-on>22/03/2015</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Christine" last-name="Spencer" username="cspencera" is-deleted="1" ip-address="209.26.42.230" registration-date="02/04/2013">
+    <games>
+      <game>
+        <game-name>Copenhagen</game-name>
+        <character name="Necromancer" cash="9655.00" level="94" />
+        <joined-on>10/07/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Sage perennial</game-name>
+        <character name="Assassin" cash="5065.00" level="82" />
+        <joined-on>20/09/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Love in a mist</game-name>
+        <character name="Druid" cash="7767.00" level="44" />
+        <joined-on>24/01/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Helo Prime</game-name>
+        <character name="Necromancer" cash="7204.00" level="16" />
+        <joined-on>10/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Japhette orchid</game-name>
+        <character name="Demon Hunter" cash="5454.00" level="63" />
+        <joined-on>10/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Delphinium Belladonna</game-name>
+        <character name="Amazon" cash="9635.00" level="10" />
+        <joined-on>04/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Diadem</game-name>
+        <character name="Demon Hunter" cash="7202.00" level="49" />
+        <joined-on>26/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Pink Mink</game-name>
+        <character name="Sorceress" cash="7957.00" level="95" />
+        <joined-on>12/11/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Jerusalem</game-name>
+        <character name="Assassin" cash="6227.00" level="4" />
+        <joined-on>30/05/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Pompeii</game-name>
+        <character name="Druid" cash="8027.00" level="39" />
+        <joined-on>13/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Dallas</game-name>
+        <character name="Druid" cash="9412.00" level="97" />
+        <joined-on>31/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>South Seaport</game-name>
+        <character name="Druid" cash="8791.00" level="2" />
+        <joined-on>04/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Prague</game-name>
+        <character name="Barbarian" cash="6991.00" level="73" />
+        <joined-on>20/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Golden Gate</game-name>
+        <character name="Necromancer" cash="8686.00" level="12" />
+        <joined-on>21/09/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Singapore</game-name>
+        <character name="Amazon" cash="8348.00" level="37" />
+        <joined-on>03/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Andat</game-name>
+        <character name="Paladin" cash="6430.00" level="29" />
+        <joined-on>05/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the valley</game-name>
+        <character name="Wizard" cash="6862.00" level="79" />
+        <joined-on>27/12/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lumex</game-name>
+        <character name="Monk" cash="8995.00" level="47" />
+        <joined-on>05/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Abregado Rae</game-name>
+        <character name="Sorceress" cash="8883.00" level="34" />
+        <joined-on>19/11/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Saxicola</game-name>
+        <character name="Amazon" cash="8502.00" level="77" />
+        <joined-on>13/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Elite</game-name>
+        <character name="Crusader" cash="8931.00" level="94" />
+        <joined-on>18/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Grand Canyon</game-name>
+        <character name="Demon Hunter" cash="5210.00" level="56" />
+        <joined-on>16/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>São Paulo</game-name>
+        <character name="Crusader" cash="6813.00" level="33" />
+        <joined-on>10/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Munich</game-name>
+        <character name="Witch Doctor" cash="8898.00" level="53" />
+        <joined-on>03/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Salmon Reagan</game-name>
+        <character name="Amazon" cash="8566.00" level="70" />
+        <joined-on>30/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Cape Town</game-name>
+        <character name="Assassin" cash="7562.00" level="92" />
+        <joined-on>15/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Gardenia</game-name>
+        <character name="Wizard" cash="8116.00" level="95" />
+        <joined-on>14/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lisbon</game-name>
+        <character name="Barbarian" cash="5012.00" level="24" />
+        <joined-on>20/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Fernleaf Yarrow</game-name>
+        <character name="Amazon" cash="8039.00" level="9" />
+        <joined-on>16/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Mumbai</game-name>
+        <character name="Demon Hunter" cash="7681.00" level="98" />
+        <joined-on>17/04/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Kardinal</game-name>
+        <character name="Paladin" cash="7188.00" level="70" />
+        <joined-on>14/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Ablajeck</game-name>
+        <character name="Sorceress" cash="5187.00" level="95" />
+        <joined-on>08/05/2014</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Kimberly" last-name="Coleman" username="kcolemanb" is-deleted="0" ip-address="237.58.139.51" registration-date="03/07/2015">
+    <games>
+      <game>
+        <game-name>Los Angeles</game-name>
+        <character name="Necromancer" cash="7167.00" level="38" />
+        <joined-on>09/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Vienna</game-name>
+        <character name="Sorceress" cash="5067.00" level="96" />
+        <joined-on>14/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Great Wall</game-name>
+        <character name="Paladin" cash="5619.00" level="63" />
+        <joined-on>11/04/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Kuala Lumpur</game-name>
+        <character name="Monk" cash="8863.00" level="25" />
+        <joined-on>09/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Montreal</game-name>
+        <character name="Crusader" cash="5374.00" level="12" />
+        <joined-on>02/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Philadelphia</game-name>
+        <character name="Demon Hunter" cash="7385.00" level="93" />
+        <joined-on>14/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Phlox</game-name>
+        <character name="Wizard" cash="8167.00" level="68" />
+        <joined-on>24/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Star of Bethlehem</game-name>
+        <character name="Barbarian" cash="6051.00" level="24" />
+        <joined-on>03/08/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Oslo</game-name>
+        <character name="Barbarian" cash="7924.00" level="74" />
+        <joined-on>28/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Warsaw</game-name>
+        <character name="Druid" cash="5502.00" level="43" />
+        <joined-on>09/10/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Telstar</game-name>
+        <character name="Wizard" cash="9694.00" level="18" />
+        <joined-on>09/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Ablajeck</game-name>
+        <character name="Druid" cash="6946.00" level="90" />
+        <joined-on>01/04/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Macau</game-name>
+        <character name="Witch Doctor" cash="7938.00" level="72" />
+        <joined-on>11/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Bogotá</game-name>
+        <character name="Witch Doctor" cash="6661.00" level="14" />
+        <joined-on>30/04/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Johannesburg</game-name>
+        <character name="Witch Doctor" cash="7484.00" level="39" />
+        <joined-on>25/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Budapest</game-name>
+        <character name="Necromancer" cash="7733.00" level="38" />
+        <joined-on>12/05/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Love in a mist</game-name>
+        <character name="Paladin" cash="7969.00" level="86" />
+        <joined-on>19/01/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Fire &amp; Ice</game-name>
+        <character name="Necromancer" cash="8191.00" level="97" />
+        <joined-on>09/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Niagara Falls</game-name>
+        <character name="Barbarian" cash="9711.00" level="23" />
+        <joined-on>25/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Sharm el-Sheikh</game-name>
+        <character name="Crusader" cash="8672.00" level="43" />
+        <joined-on>22/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Cairo</game-name>
+        <character name="Witch Doctor" cash="8467.00" level="3" />
+        <joined-on>09/12/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Pattaya</game-name>
+        <character name="Sorceress" cash="5831.00" level="83" />
+        <joined-on>16/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Beijing</game-name>
+        <character name="Witch Doctor" cash="6778.00" level="68" />
+        <joined-on>21/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Sydney</game-name>
+        <character name="Monk" cash="5723.00" level="89" />
+        <joined-on>08/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Acaeria</game-name>
+        <character name="Assassin" cash="5289.00" level="30" />
+        <joined-on>10/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lace fern</game-name>
+        <character name="Barbarian" cash="9553.00" level="71" />
+        <joined-on>23/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Larkspur pink</game-name>
+        <character name="Wizard" cash="9635.00" level="4" />
+        <joined-on>07/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Monte Negro</game-name>
+        <character name="Demon Hunter" cash="8083.00" level="51" />
+        <joined-on>28/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Lady Liberty</game-name>
+        <character name="Sorceress" cash="9476.00" level="30" />
+        <joined-on>22/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Freesia</game-name>
+        <character name="Assassin" cash="5249.00" level="45" />
+        <joined-on>28/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Honolulu</game-name>
+        <character name="Monk" cash="6557.00" level="85" />
+        <joined-on>07/02/2012</joined-on>
+      </game>
+    </games>
+  </user>
+  <user last-name="Morris" username="bmorrisc" email="mmorrisc@craigslist.org" is-deleted="1" ip-address="239.14.112.90" registration-date="17/06/2014">
+    <games>
+      <game>
+        <game-name>Moscow</game-name>
+        <character name="Crusader" cash="7548.00" level="29" />
+        <joined-on>20/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Casa Blanca</game-name>
+        <character name="Druid" cash="6951.00" level="85" />
+        <joined-on>15/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>South Seaport</game-name>
+        <character name="Druid" cash="7583.00" level="63" />
+        <joined-on>03/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Orlando</game-name>
+        <character name="Wizard" cash="7665.00" level="87" />
+        <joined-on>26/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Ocean Park</game-name>
+        <character name="Paladin" cash="6191.00" level="53" />
+        <joined-on>15/09/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Bangkok</game-name>
+        <character name="Druid" cash="5181.00" level="91" />
+        <joined-on>10/04/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Vancouver</game-name>
+        <character name="Barbarian" cash="8312.00" level="44" />
+        <joined-on>19/06/2014</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Tammy" last-name="Myers" username="tmyersd" email="tmyersd@comsenz.com" is-deleted="1" ip-address="161.26.214.192" registration-date="01/01/2015">
+    <games>
+      <game>
+        <game-name>Ranunculus</game-name>
+        <character name="Monk" cash="6619.00" level="46" />
+        <joined-on>04/08/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Bucharest</game-name>
+        <character name="Druid" cash="6154.00" level="81" />
+        <joined-on>20/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Florence</game-name>
+        <character name="Barbarian" cash="9612.00" level="82" />
+        <joined-on>04/04/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Istanbul</game-name>
+        <character name="Amazon" cash="9070.00" level="99" />
+        <joined-on>21/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Mumbai</game-name>
+        <character name="Amazon" cash="7796.00" level="10" />
+        <joined-on>18/04/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Safari Sunset</game-name>
+        <character name="Witch Doctor" cash="5800.00" level="33" />
+        <joined-on>03/10/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Larkspur pink</game-name>
+        <character name="Barbarian" cash="7283.00" level="96" />
+        <joined-on>06/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Shruikan</game-name>
+        <character name="Paladin" cash="7114.00" level="44" />
+        <joined-on>11/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Fantasy</game-name>
+        <character name="Amazon" cash="5472.00" level="2" />
+        <joined-on>06/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Dahlia</game-name>
+        <character name="Barbarian" cash="5767.00" level="11" />
+        <joined-on>10/10/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Dallas</game-name>
+        <character name="Paladin" cash="5135.00" level="49" />
+        <joined-on>02/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Tulip pink</game-name>
+        <character name="Monk" cash="5658.00" level="24" />
+        <joined-on>27/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Las Vegas</game-name>
+        <character name="Sorceress" cash="7592.00" level="83" />
+        <joined-on>30/08/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Zürich</game-name>
+        <character name="Druid" cash="7247.00" level="96" />
+        <joined-on>21/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Apple</game-name>
+        <character name="Demon Hunter" cash="9820.00" level="80" />
+        <joined-on>21/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Royalty</game-name>
+        <character name="Crusader" cash="9720.00" level="14" />
+        <joined-on>11/01/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lotte World</game-name>
+        <character name="Amazon" cash="6936.00" level="16" />
+        <joined-on>18/09/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Golden Gate</game-name>
+        <character name="Demon Hunter" cash="8552.00" level="10" />
+        <joined-on>21/09/2013</joined-on>
+      </game>
+    </games>
+  </user>
+  <user last-name="Lopez" username="jlopeze" email="llopeze@nhs.uk" is-deleted="1" ip-address="232.249.145.179" registration-date="07/05/2013">
+    <games>
+      <game>
+        <game-name>Wellington</game-name>
+        <character name="Barbarian" cash="5687.00" level="55" />
+        <joined-on>23/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Sunflower Sunbright</game-name>
+        <character name="Crusader" cash="6725.00" level="45" />
+        <joined-on>16/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Cancún</game-name>
+        <character name="Necromancer" cash="7612.00" level="9" />
+        <joined-on>16/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Chicago</game-name>
+        <character name="Druid" cash="7525.00" level="96" />
+        <joined-on>09/06/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Lavanda</game-name>
+        <character name="Necromancer" cash="8881.00" level="73" />
+        <joined-on>22/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Andat</game-name>
+        <character name="Necromancer" cash="8767.00" level="39" />
+        <joined-on>02/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Solidaster</game-name>
+        <character name="Paladin" cash="8756.00" level="67" />
+        <joined-on>01/09/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Jerusalem</game-name>
+        <character name="Wizard" cash="6700.00" level="16" />
+        <joined-on>01/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Altyr</game-name>
+        <character name="Barbarian" cash="8974.00" level="65" />
+        <joined-on>14/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Acid green</game-name>
+        <character name="Sorceress" cash="8155.00" level="85" />
+        <joined-on>11/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Bangkok</game-name>
+        <character name="Wizard" cash="5483.00" level="17" />
+        <joined-on>04/04/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Cairo</game-name>
+        <character name="Barbarian" cash="8074.00" level="53" />
+        <joined-on>09/12/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Kangaroo paw yellow</game-name>
+        <character name="Paladin" cash="5403.00" level="92" />
+        <joined-on>01/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Hong Kong</game-name>
+        <character name="Necromancer" cash="8612.00" level="4" />
+        <joined-on>01/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Trafalgar Square</game-name>
+        <character name="Demon Hunter" cash="7111.00" level="43" />
+        <joined-on>08/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Emblem</game-name>
+        <character name="Witch Doctor" cash="8041.00" level="43" />
+        <joined-on>10/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Warsaw</game-name>
+        <character name="Crusader" cash="6359.00" level="98" />
+        <joined-on>03/10/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Lady Liberty</game-name>
+        <character name="Crusader" cash="7820.00" level="74" />
+        <joined-on>26/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Hydrangea</game-name>
+        <character name="Druid" cash="6369.00" level="79" />
+        <joined-on>12/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Saponaria</game-name>
+        <character name="Assassin" cash="8780.00" level="55" />
+        <joined-on>05/06/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Casa Blanca</game-name>
+        <character name="Paladin" cash="9639.00" level="89" />
+        <joined-on>16/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Telstar</game-name>
+        <character name="Monk" cash="9956.00" level="41" />
+        <joined-on>13/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Sydney</game-name>
+        <character name="Barbarian" cash="8482.00" level="16" />
+        <joined-on>08/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Berlin</game-name>
+        <character name="Amazon" cash="6774.00" level="67" />
+        <joined-on>01/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Bridal White</game-name>
+        <character name="Assassin" cash="8756.00" level="3" />
+        <joined-on>21/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Fernleaf Yarrow</game-name>
+        <character name="Amazon" cash="9603.00" level="91" />
+        <joined-on>18/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Stock lavender</game-name>
+        <character name="Wizard" cash="5374.00" level="19" />
+        <joined-on>03/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Strawflower</game-name>
+        <character name="Assassin" cash="7431.00" level="36" />
+        <joined-on>07/07/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Versailles</game-name>
+        <character name="Paladin" cash="9668.00" level="53" />
+        <joined-on>15/09/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Misty blue Limonium</game-name>
+        <character name="Barbarian" cash="6428.00" level="34" />
+        <joined-on>29/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Montreal</game-name>
+        <character name="Crusader" cash="9367.00" level="33" />
+        <joined-on>30/04/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Watsonia</game-name>
+        <character name="Crusader" cash="7953.00" level="79" />
+        <joined-on>22/07/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Taipei</game-name>
+        <character name="Monk" cash="8783.00" level="43" />
+        <joined-on>27/03/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Central Park</game-name>
+        <character name="Assassin" cash="9561.00" level="91" />
+        <joined-on>15/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Vancouver</game-name>
+        <character name="Witch Doctor" cash="9127.00" level="91" />
+        <joined-on>16/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Oslo</game-name>
+        <character name="Assassin" cash="8094.00" level="81" />
+        <joined-on>29/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Antalya</game-name>
+        <character name="Assassin" cash="5391.00" level="35" />
+        <joined-on>17/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Pitt Variegated</game-name>
+        <character name="Paladin" cash="8305.00" level="68" />
+        <joined-on>30/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lumex</game-name>
+        <character name="Amazon" cash="7861.00" level="44" />
+        <joined-on>05/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Eucalyptus seeded</game-name>
+        <character name="Wizard" cash="6869.00" level="6" />
+        <joined-on>04/11/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Lima</game-name>
+        <character name="Druid" cash="6887.00" level="41" />
+        <joined-on>04/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Osiana</game-name>
+        <character name="Demon Hunter" cash="7351.00" level="48" />
+        <joined-on>24/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Atlanta</game-name>
+        <character name="Paladin" cash="5473.00" level="16" />
+        <joined-on>03/07/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Beijing</game-name>
+        <character name="Wizard" cash="7478.00" level="17" />
+        <joined-on>23/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Sweet pea</game-name>
+        <character name="Demon Hunter" cash="8586.00" level="17" />
+        <joined-on>12/06/2014</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Cynthia" last-name="Jenkins" username="cjenkinsf" is-deleted="1" ip-address="33.231.241.169" registration-date="29/03/2013">
+    <games>
+      <game>
+        <game-name>San Francisco</game-name>
+        <character name="Wizard" cash="5167.00" level="16" />
+        <joined-on>21/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Navy Pier</game-name>
+        <character name="Monk" cash="7903.00" level="17" />
+        <joined-on>24/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Mumbai</game-name>
+        <character name="Druid" cash="6547.00" level="37" />
+        <joined-on>14/04/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Mimosa</game-name>
+        <character name="Sorceress" cash="7411.00" level="59" />
+        <joined-on>09/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Taipei</game-name>
+        <character name="Demon Hunter" cash="7376.00" level="91" />
+        <joined-on>30/03/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Cairo</game-name>
+        <character name="Barbarian" cash="9202.00" level="33" />
+        <joined-on>10/12/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Ancalagon</game-name>
+        <character name="Witch Doctor" cash="7784.00" level="62" />
+        <joined-on>13/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Shanghai</game-name>
+        <character name="Witch Doctor" cash="6954.00" level="18" />
+        <joined-on>16/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Sunflower Sunbright</game-name>
+        <character name="Crusader" cash="6167.00" level="60" />
+        <joined-on>15/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Broadway</game-name>
+        <character name="Amazon" cash="5480.00" level="44" />
+        <joined-on>18/01/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Thorow-wax</game-name>
+        <character name="Witch Doctor" cash="8393.00" level="89" />
+        <joined-on>24/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Speedwell</game-name>
+        <character name="Sorceress" cash="8596.00" level="58" />
+        <joined-on>14/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Central Park</game-name>
+        <character name="Assassin" cash="5826.00" level="68" />
+        <joined-on>15/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Abrion</game-name>
+        <character name="Amazon" cash="8892.00" level="29" />
+        <joined-on>22/08/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Monte Negro</game-name>
+        <character name="Witch Doctor" cash="5941.00" level="79" />
+        <joined-on>30/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Zürich</game-name>
+        <character name="Amazon" cash="5638.00" level="84" />
+        <joined-on>18/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Fernleaf Yarrow</game-name>
+        <character name="Wizard" cash="9535.00" level="25" />
+        <joined-on>19/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Warsaw</game-name>
+        <character name="Crusader" cash="8005.00" level="53" />
+        <joined-on>08/10/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Antalya</game-name>
+        <character name="Druid" cash="8255.00" level="64" />
+        <joined-on>17/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lace fern</game-name>
+        <character name="Druid" cash="5494.00" level="35" />
+        <joined-on>21/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Love in a mist</game-name>
+        <character name="Necromancer" cash="7045.00" level="22" />
+        <joined-on>25/01/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Miami</game-name>
+        <character name="Monk" cash="9453.00" level="80" />
+        <joined-on>03/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Athens</game-name>
+        <character name="Crusader" cash="6717.00" level="75" />
+        <joined-on>08/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Ivy</game-name>
+        <character name="Paladin" cash="9955.00" level="67" />
+        <joined-on>02/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>São Paulo</game-name>
+        <character name="Necromancer" cash="5375.00" level="78" />
+        <joined-on>08/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Gardenia</game-name>
+        <character name="Amazon" cash="7977.00" level="21" />
+        <joined-on>11/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Los Angeles</game-name>
+        <character name="Necromancer" cash="5650.00" level="11" />
+        <joined-on>12/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Machu Picchu</game-name>
+        <character name="Monk" cash="5723.00" level="19" />
+        <joined-on>01/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Acid green</game-name>
+        <character name="Assassin" cash="7124.00" level="8" />
+        <joined-on>13/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Stockholm</game-name>
+        <character name="Barbarian" cash="7995.00" level="7" />
+        <joined-on>24/04/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Montbretia</game-name>
+        <character name="Assassin" cash="7989.00" level="7" />
+        <joined-on>15/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Dallas</game-name>
+        <character name="Wizard" cash="8586.00" level="37" />
+        <joined-on>31/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Pitt Variegated</game-name>
+        <character name="Crusader" cash="7018.00" level="30" />
+        <joined-on>04/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Melbourne</game-name>
+        <character name="Witch Doctor" cash="5357.00" level="78" />
+        <joined-on>11/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Paris</game-name>
+        <character name="Amazon" cash="9230.00" level="91" />
+        <joined-on>04/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Fulvous</game-name>
+        <character name="Assassin" cash="6267.00" level="53" />
+        <joined-on>19/02/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Pompeii</game-name>
+        <character name="Paladin" cash="7438.00" level="6" />
+        <joined-on>11/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rice flower</game-name>
+        <character name="Assassin" cash="7986.00" level="96" />
+        <joined-on>28/12/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Venice</game-name>
+        <character name="Crusader" cash="8971.00" level="27" />
+        <joined-on>02/08/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Pincushion</game-name>
+        <character name="Wizard" cash="8671.00" level="47" />
+        <joined-on>08/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>SeaWorld</game-name>
+        <character name="Assassin" cash="6694.00" level="74" />
+        <joined-on>23/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Seoul</game-name>
+        <character name="Witch Doctor" cash="6985.00" level="39" />
+        <joined-on>11/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Pincushion flower annual</game-name>
+        <character name="Witch Doctor" cash="6596.00" level="36" />
+        <joined-on>09/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Jakarta</game-name>
+        <character name="Monk" cash="6274.00" level="19" />
+        <joined-on>30/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Eucalyptus seeded</game-name>
+        <character name="Demon Hunter" cash="6943.00" level="6" />
+        <joined-on>31/10/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Niagara Falls</game-name>
+        <character name="Crusader" cash="8398.00" level="30" />
+        <joined-on>25/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Telstar</game-name>
+        <character name="Amazon" cash="8131.00" level="17" />
+        <joined-on>11/05/2013</joined-on>
+      </game>
+    </games>
+  </user>
+  <user last-name="Campbell" username="pcampbellg" is-deleted="0" ip-address="170.22.5.6" registration-date="20/07/2015">
+    <games>
+      <game>
+        <game-name>Godetia</game-name>
+        <character name="Monk" cash="5845.00" level="81" />
+        <joined-on>06/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Altyr</game-name>
+        <character name="Barbarian" cash="6510.00" level="56" />
+        <joined-on>14/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Freesia</game-name>
+        <character name="Crusader" cash="5466.00" level="1" />
+        <joined-on>26/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Manila</game-name>
+        <character name="Crusader" cash="8609.00" level="55" />
+        <joined-on>04/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>California pepperberry</game-name>
+        <character name="Druid" cash="7237.00" level="70" />
+        <joined-on>11/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Johannesburg</game-name>
+        <character name="Monk" cash="5205.00" level="4" />
+        <joined-on>22/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Delhi</game-name>
+        <character name="Barbarian" cash="7308.00" level="9" />
+        <joined-on>13/05/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Stock lavender</game-name>
+        <character name="Wizard" cash="8195.00" level="83" />
+        <joined-on>02/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Machu Picchu</game-name>
+        <character name="Sorceress" cash="5005.00" level="44" />
+        <joined-on>30/04/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Santiago</game-name>
+        <character name="Demon Hunter" cash="8955.00" level="47" />
+        <joined-on>10/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Summer poinsettia</game-name>
+        <character name="Demon Hunter" cash="7633.00" level="94" />
+        <joined-on>19/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Orlando</game-name>
+        <character name="Amazon" cash="6621.00" level="7" />
+        <joined-on>28/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Ming fern</game-name>
+        <character name="Paladin" cash="5822.00" level="90" />
+        <joined-on>17/07/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Melbourne</game-name>
+        <character name="Crusader" cash="7681.00" level="3" />
+        <joined-on>13/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Everland</game-name>
+        <character name="Necromancer" cash="9371.00" level="56" />
+        <joined-on>20/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lisianthus misty blue</game-name>
+        <character name="Druid" cash="8101.00" level="22" />
+        <joined-on>28/12/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Amsterdam</game-name>
+        <character name="Druid" cash="8248.00" level="22" />
+        <joined-on>30/05/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Wellington</game-name>
+        <character name="Witch Doctor" cash="9033.00" level="50" />
+        <joined-on>24/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Yosemite</game-name>
+        <character name="Demon Hunter" cash="8014.00" level="53" />
+        <joined-on>30/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Speedwell</game-name>
+        <character name="Monk" cash="5116.00" level="30" />
+        <joined-on>10/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Love in a mist</game-name>
+        <character name="Amazon" cash="7397.00" level="30" />
+        <joined-on>22/01/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Daffodil</game-name>
+        <character name="Crusader" cash="8262.00" level="20" />
+        <joined-on>07/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Lavanda</game-name>
+        <character name="Monk" cash="7644.00" level="13" />
+        <joined-on>22/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Champagne</game-name>
+        <character name="Paladin" cash="5537.00" level="87" />
+        <joined-on>14/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Washington D.C.</game-name>
+        <character name="Druid" cash="6905.00" level="92" />
+        <joined-on>03/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Moon orchid</game-name>
+        <character name="Witch Doctor" cash="6297.00" level="76" />
+        <joined-on>29/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Phlox</game-name>
+        <character name="Paladin" cash="9063.00" level="38" />
+        <joined-on>23/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Japhette orchid</game-name>
+        <character name="Sorceress" cash="7624.00" level="15" />
+        <joined-on>10/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Stockholm</game-name>
+        <character name="Demon Hunter" cash="9538.00" level="72" />
+        <joined-on>21/04/2012</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Patrick" last-name="Bowman" username="pbowmanh" email="pbowmanh@arstechnica.com" is-deleted="0" ip-address="184.146.144.39" registration-date="31/01/2015">
+    <games>
+      <game>
+        <game-name>Mumbai</game-name>
+        <character name="Amazon" cash="6897.00" level="3" />
+        <joined-on>15/04/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Dublin</game-name>
+        <character name="Crusader" cash="7568.00" level="80" />
+        <joined-on>04/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Rome</game-name>
+        <character name="Paladin" cash="8009.00" level="76" />
+        <joined-on>26/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Calla lily white</game-name>
+        <character name="Druid" cash="9814.00" level="7" />
+        <joined-on>29/10/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Stockholm</game-name>
+        <character name="Demon Hunter" cash="7859.00" level="83" />
+        <joined-on>21/04/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Salmon Reagan</game-name>
+        <character name="Druid" cash="9297.00" level="51" />
+        <joined-on>30/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Foxtail fern</game-name>
+        <character name="Crusader" cash="5065.00" level="41" />
+        <joined-on>04/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Jakarta</game-name>
+        <character name="Amazon" cash="9713.00" level="50" />
+        <joined-on>27/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Summer poinsettia</game-name>
+        <character name="Druid" cash="5721.00" level="83" />
+        <joined-on>15/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Snapdragon magenta</game-name>
+        <character name="Amazon" cash="5813.00" level="78" />
+        <joined-on>18/10/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Barcelona</game-name>
+        <character name="Witch Doctor" cash="5597.00" level="92" />
+        <joined-on>04/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Philadelphia</game-name>
+        <character name="Sorceress" cash="6274.00" level="8" />
+        <joined-on>15/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Ming fern</game-name>
+        <character name="Sorceress" cash="7145.00" level="57" />
+        <joined-on>16/07/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Wellington</game-name>
+        <character name="Demon Hunter" cash="6619.00" level="28" />
+        <joined-on>26/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the Nile – Alba</game-name>
+        <character name="Assassin" cash="7701.00" level="91" />
+        <joined-on>08/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Cape Town</game-name>
+        <character name="Wizard" cash="8924.00" level="53" />
+        <joined-on>16/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Sword fern</game-name>
+        <character name="Crusader" cash="6737.00" level="46" />
+        <joined-on>01/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Tulip pink</game-name>
+        <character name="Druid" cash="5471.00" level="54" />
+        <joined-on>01/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Broadway</game-name>
+        <character name="Amazon" cash="5586.00" level="44" />
+        <joined-on>19/01/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Phuket</game-name>
+        <character name="Witch Doctor" cash="9019.00" level="37" />
+        <joined-on>31/01/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Willow curly</game-name>
+        <character name="Amazon" cash="9044.00" level="44" />
+        <joined-on>11/09/2010</joined-on>
+      </game>
+      <game>
+        <game-name>New Orleans</game-name>
+        <character name="Crusader" cash="8830.00" level="84" />
+        <joined-on>31/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Red Rover</game-name>
+        <character name="Crusader" cash="6524.00" level="32" />
+        <joined-on>10/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Moscow</game-name>
+        <character name="Assassin" cash="8794.00" level="43" />
+        <joined-on>21/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Fire &amp; Ice</game-name>
+        <character name="Paladin" cash="7431.00" level="69" />
+        <joined-on>08/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Paper Reed</game-name>
+        <character name="Witch Doctor" cash="6161.00" level="40" />
+        <joined-on>02/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Lima</game-name>
+        <character name="Druid" cash="6931.00" level="36" />
+        <joined-on>01/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Bogotá</game-name>
+        <character name="Crusader" cash="6234.00" level="81" />
+        <joined-on>30/04/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Fuzzy Wuzzy</game-name>
+        <character name="Amazon" cash="9784.00" level="3" />
+        <joined-on>19/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Abregado Rae</game-name>
+        <character name="Paladin" cash="9698.00" level="14" />
+        <joined-on>17/11/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Golden Gate</game-name>
+        <character name="Wizard" cash="5739.00" level="62" />
+        <joined-on>18/09/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Buenos Aires</game-name>
+        <character name="Necromancer" cash="9162.00" level="51" />
+        <joined-on>22/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Eucalyptus seeded</game-name>
+        <character name="Assassin" cash="9763.00" level="77" />
+        <joined-on>29/10/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Elite</game-name>
+        <character name="Monk" cash="5084.00" level="48" />
+        <joined-on>19/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Athens</game-name>
+        <character name="Monk" cash="5250.00" level="59" />
+        <joined-on>06/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Bali</game-name>
+        <character name="Demon Hunter" cash="5510.00" level="61" />
+        <joined-on>09/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Dallas</game-name>
+        <character name="Crusader" cash="8214.00" level="88" />
+        <joined-on>31/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Los Angeles</game-name>
+        <character name="Necromancer" cash="9666.00" level="42" />
+        <joined-on>07/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Emblem</game-name>
+        <character name="Amazon" cash="8329.00" level="56" />
+        <joined-on>14/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Safari Sunset</game-name>
+        <character name="Amazon" cash="8301.00" level="81" />
+        <joined-on>07/10/2012</joined-on>
+      </game>
+    </games>
+  </user>
+  <user last-name="Cole" username="wcolei" email="ecolei@businessinsider.com" is-deleted="1" ip-address="196.208.67.32" registration-date="07/07/2015">
+    <games>
+      <game>
+        <game-name>Salmon Reagan</game-name>
+        <character name="Demon Hunter" cash="7318.00" level="86" />
+        <joined-on>03/08/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Flax New Zealand</game-name>
+        <character name="Assassin" cash="8236.00" level="21" />
+        <joined-on>21/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Oslo</game-name>
+        <character name="Druid" cash="5796.00" level="6" />
+        <joined-on>28/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Prague</game-name>
+        <character name="Demon Hunter" cash="7940.00" level="82" />
+        <joined-on>21/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Champagne</game-name>
+        <character name="Monk" cash="5052.00" level="85" />
+        <joined-on>14/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Los Angeles</game-name>
+        <character name="Amazon" cash="5230.00" level="11" />
+        <joined-on>10/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Sweet William</game-name>
+        <character name="Paladin" cash="7907.00" level="62" />
+        <joined-on>15/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Freesia</game-name>
+        <character name="Demon Hunter" cash="7331.00" level="45" />
+        <joined-on>26/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Montbretia</game-name>
+        <character name="Monk" cash="8091.00" level="74" />
+        <joined-on>14/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Brussels</game-name>
+        <character name="Wizard" cash="9713.00" level="37" />
+        <joined-on>02/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Brooklyn Bridge</game-name>
+        <character name="Monk" cash="5555.00" level="15" />
+        <joined-on>17/09/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Paper Reed</game-name>
+        <character name="Monk" cash="7290.00" level="93" />
+        <joined-on>31/01/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Monkshood</game-name>
+        <character name="Barbarian" cash="5653.00" level="28" />
+        <joined-on>21/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Casa Blanca</game-name>
+        <character name="Crusader" cash="7974.00" level="44" />
+        <joined-on>18/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Niagara Falls</game-name>
+        <character name="Witch Doctor" cash="9447.00" level="63" />
+        <joined-on>25/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Fire &amp; Ice</game-name>
+        <character name="Sorceress" cash="5300.00" level="65" />
+        <joined-on>10/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Gardenia</game-name>
+        <character name="Barbarian" cash="5282.00" level="72" />
+        <joined-on>15/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Zürich</game-name>
+        <character name="Sorceress" cash="9046.00" level="67" />
+        <joined-on>20/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Marguerite daisy</game-name>
+        <character name="Barbarian" cash="8449.00" level="99" />
+        <joined-on>29/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Safflower</game-name>
+        <character name="Assassin" cash="8219.00" level="3" />
+        <joined-on>29/06/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Star of Bethlehem</game-name>
+        <character name="Witch Doctor" cash="8281.00" level="22" />
+        <joined-on>03/08/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Shruikan</game-name>
+        <character name="Crusader" cash="5488.00" level="48" />
+        <joined-on>11/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Fuzzy Wuzzy</game-name>
+        <character name="Witch Doctor" cash="8162.00" level="55" />
+        <joined-on>23/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Stock lavender</game-name>
+        <character name="Assassin" cash="8482.00" level="91" />
+        <joined-on>07/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Houston</game-name>
+        <character name="Wizard" cash="5749.00" level="98" />
+        <joined-on>05/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Navy Pier</game-name>
+        <character name="Wizard" cash="6570.00" level="58" />
+        <joined-on>24/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Versailles</game-name>
+        <character name="Assassin" cash="5256.00" level="56" />
+        <joined-on>13/09/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Pitt Variegated</game-name>
+        <character name="Crusader" cash="8634.00" level="88" />
+        <joined-on>02/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Philadelphia</game-name>
+        <character name="Barbarian" cash="7676.00" level="30" />
+        <joined-on>14/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Papyrus lions head</game-name>
+        <character name="Demon Hunter" cash="9245.00" level="77" />
+        <joined-on>13/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Daffodil</game-name>
+        <character name="Wizard" cash="9722.00" level="49" />
+        <joined-on>04/04/2015</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Louise" last-name="Daniels" username="ldanielsj" is-deleted="0" ip-address="250.166.0.200" registration-date="28/01/2013">
+    <games>
+      <game>
+        <game-name>Bogotá</game-name>
+        <character name="Demon Hunter" cash="5962.00" level="39" />
+        <joined-on>01/05/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Dallas</game-name>
+        <character name="Necromancer" cash="6971.00" level="53" />
+        <joined-on>05/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Lace fern</game-name>
+        <character name="Amazon" cash="9275.00" level="4" />
+        <joined-on>18/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Solidaster</game-name>
+        <character name="Crusader" cash="8829.00" level="56" />
+        <joined-on>30/08/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Six Flags</game-name>
+        <character name="Witch Doctor" cash="5528.00" level="49" />
+        <joined-on>28/01/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Milan</game-name>
+        <character name="Crusader" cash="8456.00" level="91" />
+        <joined-on>21/02/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Madrid</game-name>
+        <character name="Druid" cash="9124.00" level="30" />
+        <joined-on>12/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Pincushion</game-name>
+        <character name="Witch Doctor" cash="6489.00" level="53" />
+        <joined-on>09/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Saxicola</game-name>
+        <character name="Assassin" cash="7183.00" level="78" />
+        <joined-on>11/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Kuala Lumpur</game-name>
+        <character name="Witch Doctor" cash="5386.00" level="30" />
+        <joined-on>05/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Sweet William</game-name>
+        <character name="Sorceress" cash="7732.00" level="6" />
+        <joined-on>13/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Kardinal</game-name>
+        <character name="Barbarian" cash="9918.00" level="45" />
+        <joined-on>14/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Fulvous</game-name>
+        <character name="Demon Hunter" cash="5383.00" level="22" />
+        <joined-on>19/02/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Casa Blanca</game-name>
+        <character name="Necromancer" cash="8876.00" level="49" />
+        <joined-on>19/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Sharm el-Sheikh</game-name>
+        <character name="Sorceress" cash="6096.00" level="10" />
+        <joined-on>21/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Florence</game-name>
+        <character name="Wizard" cash="6180.00" level="1" />
+        <joined-on>07/04/2012</joined-on>
+      </game>
+      <game>
+        <game-name>London</game-name>
+        <character name="Monk" cash="8558.00" level="2" />
+        <joined-on>19/01/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Shruikan</game-name>
+        <character name="Sorceress" cash="8675.00" level="35" />
+        <joined-on>08/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Stonehenge</game-name>
+        <character name="Necromancer" cash="6130.00" level="89" />
+        <joined-on>23/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Vancouver</game-name>
+        <character name="Wizard" cash="7853.00" level="95" />
+        <joined-on>19/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Goldenrod</game-name>
+        <character name="Sorceress" cash="6767.00" level="77" />
+        <joined-on>25/08/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Marguerite daisy</game-name>
+        <character name="Amazon" cash="9930.00" level="22" />
+        <joined-on>30/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Shenzhen</game-name>
+        <character name="Witch Doctor" cash="6187.00" level="13" />
+        <joined-on>14/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Cairo</game-name>
+        <character name="Necromancer" cash="8738.00" level="61" />
+        <joined-on>12/12/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Machu Picchu</game-name>
+        <character name="Witch Doctor" cash="8142.00" level="5" />
+        <joined-on>05/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Auckland</game-name>
+        <character name="Necromancer" cash="7858.00" level="8" />
+        <joined-on>17/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Waxflower</game-name>
+        <character name="Barbarian" cash="9018.00" level="20" />
+        <joined-on>20/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Jakarta</game-name>
+        <character name="Necromancer" cash="7932.00" level="37" />
+        <joined-on>26/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Misty blue Limonium</game-name>
+        <character name="Sorceress" cash="6009.00" level="81" />
+        <joined-on>29/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Sunflower Sunbright</game-name>
+        <character name="Assassin" cash="6066.00" level="76" />
+        <joined-on>16/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Emblem</game-name>
+        <character name="Amazon" cash="5327.00" level="51" />
+        <joined-on>11/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Dubai</game-name>
+        <character name="Witch Doctor" cash="5446.00" level="42" />
+        <joined-on>30/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Paris</game-name>
+        <character name="Witch Doctor" cash="9293.00" level="24" />
+        <joined-on>07/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Amsterdam</game-name>
+        <character name="Monk" cash="7924.00" level="99" />
+        <joined-on>31/05/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Marrakesh</game-name>
+        <character name="Assassin" cash="9091.00" level="96" />
+        <joined-on>08/06/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Melbourne</game-name>
+        <character name="Crusader" cash="5906.00" level="11" />
+        <joined-on>13/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Lady Liberty</game-name>
+        <character name="Witch Doctor" cash="7116.00" level="65" />
+        <joined-on>26/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Jerusalem</game-name>
+        <character name="Necromancer" cash="7098.00" level="76" />
+        <joined-on>01/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Mimosa</game-name>
+        <character name="Demon Hunter" cash="9860.00" level="76" />
+        <joined-on>06/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Broadway</game-name>
+        <character name="Witch Doctor" cash="7248.00" level="78" />
+        <joined-on>18/01/2011</joined-on>
+      </game>
+    </games>
+  </user>
+  <user last-name="Sanders" username="jsandersk" is-deleted="1" ip-address="222.191.166.94" registration-date="15/11/2013">
+    <games>
+      <game>
+        <game-name>Allium drumstick</game-name>
+        <character name="Witch Doctor" cash="7334.00" level="17" />
+        <joined-on>12/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Abregado Rae</game-name>
+        <character name="Druid" cash="8954.00" level="19" />
+        <joined-on>19/11/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Godetia</game-name>
+        <character name="Wizard" cash="5206.00" level="65" />
+        <joined-on>08/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Brooklyn Bridge</game-name>
+        <character name="Assassin" cash="9222.00" level="68" />
+        <joined-on>20/09/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Feverfew</game-name>
+        <character name="Druid" cash="7251.00" level="74" />
+        <joined-on>28/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Shenzhen</game-name>
+        <character name="Amazon" cash="8016.00" level="25" />
+        <joined-on>20/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Monte Cassino</game-name>
+        <character name="Demon Hunter" cash="8919.00" level="15" />
+        <joined-on>27/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Auckland</game-name>
+        <character name="Necromancer" cash="7604.00" level="64" />
+        <joined-on>18/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Sword fern</game-name>
+        <character name="Paladin" cash="8783.00" level="14" />
+        <joined-on>03/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Ancalagon</game-name>
+        <character name="Druid" cash="8493.00" level="57" />
+        <joined-on>13/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Saxicola</game-name>
+        <character name="Necromancer" cash="9860.00" level="48" />
+        <joined-on>11/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Barcelona</game-name>
+        <character name="Druid" cash="8002.00" level="76" />
+        <joined-on>30/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Andat</game-name>
+        <character name="Crusader" cash="9834.00" level="25" />
+        <joined-on>03/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Prague</game-name>
+        <character name="Monk" cash="5026.00" level="38" />
+        <joined-on>17/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Sage perennial</game-name>
+        <character name="Wizard" cash="7573.00" level="46" />
+        <joined-on>23/09/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Willow curly</game-name>
+        <character name="Necromancer" cash="6674.00" level="96" />
+        <joined-on>08/09/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Ocean Park</game-name>
+        <character name="Necromancer" cash="5597.00" level="82" />
+        <joined-on>16/09/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Bridal Pink</game-name>
+        <character name="Monk" cash="8344.00" level="50" />
+        <joined-on>02/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Fire &amp; Ice</game-name>
+        <character name="Druid" cash="5312.00" level="94" />
+        <joined-on>11/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Fuzzy Wuzzy</game-name>
+        <character name="Assassin" cash="5978.00" level="4" />
+        <joined-on>17/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Fantasy</game-name>
+        <character name="Sorceress" cash="8080.00" level="34" />
+        <joined-on>03/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Grand Canyon</game-name>
+        <character name="Paladin" cash="6978.00" level="87" />
+        <joined-on>16/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>South Seaport</game-name>
+        <character name="Amazon" cash="5985.00" level="85" />
+        <joined-on>08/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Eric John</game-name>
+        <character name="Sorceress" cash="5796.00" level="63" />
+        <joined-on>07/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Apple</game-name>
+        <character name="Amazon" cash="8722.00" level="78" />
+        <joined-on>20/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Philadelphia</game-name>
+        <character name="Druid" cash="6880.00" level="1" />
+        <joined-on>12/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Strawberry banksia</game-name>
+        <character name="Demon Hunter" cash="9319.00" level="42" />
+        <joined-on>10/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Pincushion</game-name>
+        <character name="Druid" cash="9202.00" level="58" />
+        <joined-on>08/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Acaeria</game-name>
+        <character name="Witch Doctor" cash="5091.00" level="31" />
+        <joined-on>13/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Trafalgar Square</game-name>
+        <character name="Wizard" cash="7875.00" level="54" />
+        <joined-on>09/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Osiana</game-name>
+        <character name="Witch Doctor" cash="7868.00" level="77" />
+        <joined-on>23/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Freesia</game-name>
+        <character name="Witch Doctor" cash="5623.00" level="39" />
+        <joined-on>24/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Montbretia</game-name>
+        <character name="Witch Doctor" cash="6160.00" level="12" />
+        <joined-on>17/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Solidaster</game-name>
+        <character name="Crusader" cash="7507.00" level="14" />
+        <joined-on>26/08/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Kuala Lumpur</game-name>
+        <character name="Monk" cash="7572.00" level="96" />
+        <joined-on>06/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Hydrangea</game-name>
+        <character name="Necromancer" cash="9363.00" level="92" />
+        <joined-on>15/07/2013</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Jacqueline" last-name="Sanders" username="jsandersl" is-deleted="0" ip-address="129.24.5.68" registration-date="20/05/2012">
+    <games>
+      <game>
+        <game-name>Mexico City</game-name>
+        <character name="Sorceress" cash="9435.00" level="59" />
+        <joined-on>25/07/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Summer poinsettia</game-name>
+        <character name="Monk" cash="6421.00" level="7" />
+        <joined-on>17/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Shanghai</game-name>
+        <character name="Paladin" cash="8095.00" level="56" />
+        <joined-on>11/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Montreal</game-name>
+        <character name="Necromancer" cash="6893.00" level="25" />
+        <joined-on>30/04/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Lady Liberty</game-name>
+        <character name="Witch Doctor" cash="9257.00" level="88" />
+        <joined-on>22/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Paris</game-name>
+        <character name="Demon Hunter" cash="7197.00" level="60" />
+        <joined-on>02/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Miami</game-name>
+        <character name="Witch Doctor" cash="8069.00" level="28" />
+        <joined-on>05/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Kangaroo paw yellow</game-name>
+        <character name="Assassin" cash="8707.00" level="2" />
+        <joined-on>31/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Orlando</game-name>
+        <character name="Necromancer" cash="7578.00" level="80" />
+        <joined-on>26/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Seattle</game-name>
+        <character name="Crusader" cash="6873.00" level="33" />
+        <joined-on>14/12/2011</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Timothy" last-name="Boyd" username="tboydm" email="tboydm@slashdot.org" is-deleted="0" ip-address="150.168.47.61" registration-date="11/08/2012">
+    <games>
+      <game>
+        <game-name>Rose Diadem</game-name>
+        <character name="Wizard" cash="6222.00" level="24" />
+        <joined-on>25/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Golden Gate</game-name>
+        <character name="Barbarian" cash="5370.00" level="91" />
+        <joined-on>22/09/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Atlanta</game-name>
+        <character name="Sorceress" cash="6545.00" level="83" />
+        <joined-on>05/07/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Kardinal</game-name>
+        <character name="Necromancer" cash="7351.00" level="27" />
+        <joined-on>10/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Tuberose</game-name>
+        <character name="Crusader" cash="5822.00" level="13" />
+        <joined-on>04/09/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Warsaw</game-name>
+        <character name="Demon Hunter" cash="7548.00" level="82" />
+        <joined-on>04/10/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Monte Negro</game-name>
+        <character name="Sorceress" cash="6214.00" level="34" />
+        <joined-on>25/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Peony</game-name>
+        <character name="Witch Doctor" cash="5078.00" level="89" />
+        <joined-on>09/08/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Snapdragon magenta</game-name>
+        <character name="Demon Hunter" cash="9648.00" level="56" />
+        <joined-on>18/10/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Sunflower Sunbright</game-name>
+        <character name="Necromancer" cash="6457.00" level="90" />
+        <joined-on>14/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Tracelium</game-name>
+        <character name="Monk" cash="9357.00" level="56" />
+        <joined-on>08/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Japhette orchid</game-name>
+        <character name="Amazon" cash="7430.00" level="90" />
+        <joined-on>12/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Freesia</game-name>
+        <character name="Necromancer" cash="5845.00" level="12" />
+        <joined-on>24/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Phlox</game-name>
+        <character name="Sorceress" cash="7108.00" level="15" />
+        <joined-on>25/04/2015</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Phillip" last-name="Harris" username="pharrisn" email="pharrisn@tinypic.com" is-deleted="0" ip-address="84.132.53.151" registration-date="05/04/2013">
+    <games>
+      <game>
+        <game-name>Notre Dame</game-name>
+        <character name="Sorceress" cash="7624.00" level="59" />
+        <joined-on>21/03/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Trafalgar Square</game-name>
+        <character name="Assassin" cash="9536.00" level="2" />
+        <joined-on>08/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Fantasy</game-name>
+        <character name="Crusader" cash="7906.00" level="97" />
+        <joined-on>05/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Moscow</game-name>
+        <character name="Druid" cash="7126.00" level="33" />
+        <joined-on>21/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Mecca</game-name>
+        <character name="Amazon" cash="6988.00" level="57" />
+        <joined-on>20/07/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Manila</game-name>
+        <character name="Paladin" cash="8993.00" level="81" />
+        <joined-on>06/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Misty blue Limonium</game-name>
+        <character name="Witch Doctor" cash="7653.00" level="27" />
+        <joined-on>30/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the valley</game-name>
+        <character name="Crusader" cash="8768.00" level="80" />
+        <joined-on>30/12/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Sprengeri fern</game-name>
+        <character name="Necromancer" cash="9172.00" level="87" />
+        <joined-on>08/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Ancalagon</game-name>
+        <character name="Sorceress" cash="6075.00" level="95" />
+        <joined-on>09/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Red Rover</game-name>
+        <character name="Assassin" cash="5761.00" level="50" />
+        <joined-on>09/07/2010</joined-on>
+      </game>
+      <game>
+        <game-name>St. Petersburg</game-name>
+        <character name="Demon Hunter" cash="5429.00" level="58" />
+        <joined-on>18/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Berlin</game-name>
+        <character name="Demon Hunter" cash="7188.00" level="26" />
+        <joined-on>31/07/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Fuzzy Wuzzy</game-name>
+        <character name="Witch Doctor" cash="7284.00" level="29" />
+        <joined-on>21/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Antalya</game-name>
+        <character name="Demon Hunter" cash="7223.00" level="13" />
+        <joined-on>13/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Prague</game-name>
+        <character name="Crusader" cash="6715.00" level="66" />
+        <joined-on>21/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Zürich</game-name>
+        <character name="Sorceress" cash="7709.00" level="54" />
+        <joined-on>23/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Pompeii</game-name>
+        <character name="Sorceress" cash="5735.00" level="67" />
+        <joined-on>13/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Mumbai</game-name>
+        <character name="Crusader" cash="6316.00" level="77" />
+        <joined-on>18/04/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Peony</game-name>
+        <character name="Wizard" cash="6147.00" level="8" />
+        <joined-on>04/08/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Shruikan</game-name>
+        <character name="Barbarian" cash="5464.00" level="37" />
+        <joined-on>07/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Amsterdam</game-name>
+        <character name="Assassin" cash="5540.00" level="28" />
+        <joined-on>30/05/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Vienna</game-name>
+        <character name="Demon Hunter" cash="6084.00" level="31" />
+        <joined-on>18/12/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Victoria Peak</game-name>
+        <character name="Sorceress" cash="5033.00" level="36" />
+        <joined-on>04/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Seattle</game-name>
+        <character name="Assassin" cash="9702.00" level="8" />
+        <joined-on>20/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Heather</game-name>
+        <character name="Amazon" cash="5973.00" level="31" />
+        <joined-on>15/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Hong Kong</game-name>
+        <character name="Witch Doctor" cash="5922.00" level="49" />
+        <joined-on>27/01/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Ming fern</game-name>
+        <character name="Barbarian" cash="7730.00" level="67" />
+        <joined-on>13/07/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lima</game-name>
+        <character name="Crusader" cash="6833.00" level="1" />
+        <joined-on>04/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Paris</game-name>
+        <character name="Monk" cash="9476.00" level="82" />
+        <joined-on>06/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Acaeria</game-name>
+        <character name="Assassin" cash="5148.00" level="21" />
+        <joined-on>08/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Athens</game-name>
+        <character name="Druid" cash="6185.00" level="37" />
+        <joined-on>12/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Monte Cassino</game-name>
+        <character name="Crusader" cash="8258.00" level="34" />
+        <joined-on>28/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Stock lavender</game-name>
+        <character name="Demon Hunter" cash="7584.00" level="13" />
+        <joined-on>04/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Lumex</game-name>
+        <character name="Witch Doctor" cash="9980.00" level="53" />
+        <joined-on>03/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Eucalyptus seeded</game-name>
+        <character name="Paladin" cash="6867.00" level="21" />
+        <joined-on>02/11/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Dublin</game-name>
+        <character name="Paladin" cash="8994.00" level="7" />
+        <joined-on>02/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>South Seaport</game-name>
+        <character name="Druid" cash="5475.00" level="5" />
+        <joined-on>06/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Moon orchid</game-name>
+        <character name="Barbarian" cash="9708.00" level="55" />
+        <joined-on>01/08/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Pier 39</game-name>
+        <character name="Witch Doctor" cash="8064.00" level="74" />
+        <joined-on>22/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Bridal Pink</game-name>
+        <character name="Druid" cash="5038.00" level="32" />
+        <joined-on>30/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Watsonia</game-name>
+        <character name="Demon Hunter" cash="5935.00" level="97" />
+        <joined-on>23/07/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Calla lily white</game-name>
+        <character name="Crusader" cash="6865.00" level="70" />
+        <joined-on>02/11/2012</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Terry" last-name="Lee" username="tleeo" is-deleted="0" ip-address="16.94.71.41" registration-date="01/08/2013">
+    <games>
+      <game>
+        <game-name>Golden Gate</game-name>
+        <character name="Sorceress" cash="7750.00" level="14" />
+        <joined-on>18/09/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Johannesburg</game-name>
+        <character name="Druid" cash="9965.00" level="80" />
+        <joined-on>21/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Spider Fuji Yellow</game-name>
+        <character name="Paladin" cash="5482.00" level="75" />
+        <joined-on>10/07/2012</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Debra" last-name="Boyd" username="dboydp" email="dboydp@sakura.ne.jp" is-deleted="0" ip-address="67.196.71.244" registration-date="06/12/2013">
+    <games>
+      <game>
+        <game-name>Lumex</game-name>
+        <character name="Assassin" cash="5357.00" level="18" />
+        <joined-on>07/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Rice flower</game-name>
+        <character name="Necromancer" cash="7654.00" level="14" />
+        <joined-on>30/12/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Montbretia</game-name>
+        <character name="Druid" cash="9902.00" level="86" />
+        <joined-on>18/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Istanbul</game-name>
+        <character name="Amazon" cash="5321.00" level="16" />
+        <joined-on>26/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>SeaWorld</game-name>
+        <character name="Sorceress" cash="6001.00" level="33" />
+        <joined-on>22/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Orlando</game-name>
+        <character name="Necromancer" cash="6033.00" level="74" />
+        <joined-on>28/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Pier 39</game-name>
+        <character name="Barbarian" cash="7830.00" level="73" />
+        <joined-on>21/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Aithusa</game-name>
+        <character name="Amazon" cash="7826.00" level="69" />
+        <joined-on>10/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Jakarta</game-name>
+        <character name="Druid" cash="5456.00" level="94" />
+        <joined-on>25/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Central Park</game-name>
+        <character name="Wizard" cash="8607.00" level="62" />
+        <joined-on>20/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Phlox</game-name>
+        <character name="Witch Doctor" cash="5728.00" level="83" />
+        <joined-on>27/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Monte Cassino</game-name>
+        <character name="Assassin" cash="9465.00" level="92" />
+        <joined-on>27/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Victoria Peak</game-name>
+        <character name="Amazon" cash="5853.00" level="58" />
+        <joined-on>07/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Safari Sunset</game-name>
+        <character name="Demon Hunter" cash="8922.00" level="67" />
+        <joined-on>03/10/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Watsonia</game-name>
+        <character name="Necromancer" cash="7402.00" level="91" />
+        <joined-on>22/07/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Shenzhen</game-name>
+        <character name="Amazon" cash="9953.00" level="97" />
+        <joined-on>14/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Lake Mead</game-name>
+        <character name="Druid" cash="6879.00" level="30" />
+        <joined-on>26/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Sage perennial</game-name>
+        <character name="Paladin" cash="8552.00" level="64" />
+        <joined-on>23/09/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Strawflower</game-name>
+        <character name="Demon Hunter" cash="5487.00" level="51" />
+        <joined-on>04/07/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the Nile – Alba</game-name>
+        <character name="Amazon" cash="6925.00" level="44" />
+        <joined-on>08/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Bangkok</game-name>
+        <character name="Crusader" cash="5839.00" level="26" />
+        <joined-on>05/04/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lotte World</game-name>
+        <character name="Monk" cash="8987.00" level="91" />
+        <joined-on>15/09/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Kardinal</game-name>
+        <character name="Witch Doctor" cash="9624.00" level="31" />
+        <joined-on>10/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Misty blue Limonium</game-name>
+        <character name="Paladin" cash="8867.00" level="4" />
+        <joined-on>25/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Budapest</game-name>
+        <character name="Necromancer" cash="8915.00" level="78" />
+        <joined-on>12/05/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Antalya</game-name>
+        <character name="Druid" cash="9311.00" level="9" />
+        <joined-on>16/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Prague</game-name>
+        <character name="Paladin" cash="7182.00" level="10" />
+        <joined-on>21/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Gardenia</game-name>
+        <character name="Druid" cash="5705.00" level="35" />
+        <joined-on>11/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Everland</game-name>
+        <character name="Amazon" cash="8662.00" level="44" />
+        <joined-on>19/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Amsterdam</game-name>
+        <character name="Demon Hunter" cash="5900.00" level="79" />
+        <joined-on>10/12/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Foxtail fern</game-name>
+        <character name="Sorceress" cash="6138.00" level="78" />
+        <joined-on>03/02/2012</joined-on>
+      </game>
+      <game>
+        <game-name>São Paulo</game-name>
+        <character name="Barbarian" cash="8399.00" level="62" />
+        <joined-on>08/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Godetia</game-name>
+        <character name="Barbarian" cash="5026.00" level="68" />
+        <joined-on>12/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Feverfew</game-name>
+        <character name="Monk" cash="8532.00" level="7" />
+        <joined-on>01/12/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Ocean Park</game-name>
+        <character name="Demon Hunter" cash="8617.00" level="60" />
+        <joined-on>11/09/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Atlanta</game-name>
+        <character name="Demon Hunter" cash="5411.00" level="92" />
+        <joined-on>07/07/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Tracelium</game-name>
+        <character name="Paladin" cash="8035.00" level="24" />
+        <joined-on>07/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Sweet William</game-name>
+        <character name="Demon Hunter" cash="8484.00" level="94" />
+        <joined-on>12/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Sweet pea</game-name>
+        <character name="Demon Hunter" cash="6151.00" level="3" />
+        <joined-on>17/06/2014</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Michael" last-name="Washington" username="mwashingtonq" is-deleted="1" ip-address="58.24.82.183" registration-date="24/10/2012">
+    <games>
+      <game>
+        <game-name>Delphinium Belladonna</game-name>
+        <character name="Wizard" cash="7663.00" level="79" />
+        <joined-on>02/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Gayfeather</game-name>
+        <character name="Druid" cash="6017.00" level="76" />
+        <joined-on>13/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Yosemite</game-name>
+        <character name="Sorceress" cash="8000.00" level="84" />
+        <joined-on>25/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Pike Place</game-name>
+        <character name="Monk" cash="5580.00" level="84" />
+        <joined-on>23/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Allium drumstick</game-name>
+        <character name="Crusader" cash="6174.00" level="62" />
+        <joined-on>07/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lumex</game-name>
+        <character name="Assassin" cash="7955.00" level="78" />
+        <joined-on>08/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Brussels</game-name>
+        <character name="Witch Doctor" cash="7418.00" level="81" />
+        <joined-on>04/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Cancún</game-name>
+        <character name="Druid" cash="6458.00" level="14" />
+        <joined-on>19/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Acaeria</game-name>
+        <character name="Monk" cash="8846.00" level="99" />
+        <joined-on>09/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Snapdragon apple blossom</game-name>
+        <character name="Druid" cash="8977.00" level="72" />
+        <joined-on>12/08/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Calla lily white</game-name>
+        <character name="Barbarian" cash="7974.00" level="80" />
+        <joined-on>01/11/2012</joined-on>
+      </game>
+      <game>
+        <game-name>SeaWorld</game-name>
+        <character name="Witch Doctor" cash="7907.00" level="75" />
+        <joined-on>21/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>London</game-name>
+        <character name="Amazon" cash="7819.00" level="94" />
+        <joined-on>19/01/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Aithusa</game-name>
+        <character name="Amazon" cash="8224.00" level="44" />
+        <joined-on>12/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Pattaya</game-name>
+        <character name="Necromancer" cash="7566.00" level="53" />
+        <joined-on>21/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Tuberose</game-name>
+        <character name="Assassin" cash="7849.00" level="74" />
+        <joined-on>04/09/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Six Flags</game-name>
+        <character name="Crusader" cash="7740.00" level="90" />
+        <joined-on>29/01/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Las Vegas</game-name>
+        <character name="Amazon" cash="5230.00" level="85" />
+        <joined-on>31/08/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Singapore</game-name>
+        <character name="Monk" cash="6886.00" level="24" />
+        <joined-on>02/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lace fern</game-name>
+        <character name="Druid" cash="7897.00" level="43" />
+        <joined-on>23/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Dahlia</game-name>
+        <character name="Necromancer" cash="8264.00" level="80" />
+        <joined-on>10/10/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Rio de Janeiro</game-name>
+        <character name="Sorceress" cash="5178.00" level="52" />
+        <joined-on>11/07/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Strawflower</game-name>
+        <character name="Barbarian" cash="5397.00" level="65" />
+        <joined-on>07/07/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Wellington</game-name>
+        <character name="Demon Hunter" cash="8587.00" level="3" />
+        <joined-on>25/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Osiana</game-name>
+        <character name="Sorceress" cash="5110.00" level="84" />
+        <joined-on>24/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Dubai</game-name>
+        <character name="Demon Hunter" cash="5382.00" level="78" />
+        <joined-on>30/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Empire State</game-name>
+        <character name="Necromancer" cash="9032.00" level="20" />
+        <joined-on>16/05/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the valley</game-name>
+        <character name="Sorceress" cash="6910.00" level="25" />
+        <joined-on>01/01/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Pompeii</game-name>
+        <character name="Monk" cash="7008.00" level="55" />
+        <joined-on>14/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Saponaria</game-name>
+        <character name="Demon Hunter" cash="5555.00" level="21" />
+        <joined-on>03/06/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Prague</game-name>
+        <character name="Amazon" cash="8458.00" level="98" />
+        <joined-on>18/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Goldenrod</game-name>
+        <character name="Necromancer" cash="5742.00" level="99" />
+        <joined-on>24/08/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Sharm el-Sheikh</game-name>
+        <character name="Monk" cash="8154.00" level="48" />
+        <joined-on>21/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Japhette orchid</game-name>
+        <character name="Druid" cash="8621.00" level="49" />
+        <joined-on>09/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Ivy</game-name>
+        <character name="Druid" cash="5692.00" level="83" />
+        <joined-on>04/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Mexico City</game-name>
+        <character name="Barbarian" cash="9443.00" level="3" />
+        <joined-on>23/07/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Kuala Lumpur</game-name>
+        <character name="Druid" cash="5264.00" level="30" />
+        <joined-on>08/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Dublin</game-name>
+        <character name="Assassin" cash="5290.00" level="77" />
+        <joined-on>30/06/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Elite</game-name>
+        <character name="Sorceress" cash="7554.00" level="27" />
+        <joined-on>21/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Toronto</game-name>
+        <character name="Assassin" cash="6510.00" level="63" />
+        <joined-on>17/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Altyr</game-name>
+        <character name="Amazon" cash="5446.00" level="96" />
+        <joined-on>14/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Melaleuca</game-name>
+        <character name="Demon Hunter" cash="6786.00" level="3" />
+        <joined-on>08/09/2011</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Anna" username="aperezr" email="ameyerr@shinystat.com" is-deleted="1" ip-address="229.221.105.106" registration-date="21/02/2014">
+    <games>
+      <game>
+        <game-name>Edirne</game-name>
+        <character name="Paladin" cash="9181.00" level="55" />
+        <joined-on>29/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Seattle</game-name>
+        <character name="Wizard" cash="5821.00" level="33" />
+        <joined-on>19/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Ranunculus</game-name>
+        <character name="Assassin" cash="5810.00" level="47" />
+        <joined-on>08/08/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Eucalyptus silver dollar</game-name>
+        <character name="Druid" cash="7628.00" level="35" />
+        <joined-on>17/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the Nile – Alba</game-name>
+        <character name="Demon Hunter" cash="5702.00" level="37" />
+        <joined-on>07/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Snapdragon apple blossom</game-name>
+        <character name="Sorceress" cash="7238.00" level="15" />
+        <joined-on>18/08/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Yosemite</game-name>
+        <character name="Amazon" cash="7729.00" level="31" />
+        <joined-on>26/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Bogotá</game-name>
+        <character name="Barbarian" cash="9156.00" level="7" />
+        <joined-on>29/04/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Wellington</game-name>
+        <character name="Barbarian" cash="5627.00" level="65" />
+        <joined-on>20/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Amsterdam</game-name>
+        <character name="Demon Hunter" cash="7285.00" level="55" />
+        <joined-on>28/05/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Peony</game-name>
+        <character name="Assassin" cash="5933.00" level="52" />
+        <joined-on>06/08/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Mumbai</game-name>
+        <character name="Barbarian" cash="8061.00" level="10" />
+        <joined-on>19/04/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Kardinal</game-name>
+        <character name="Paladin" cash="6871.00" level="77" />
+        <joined-on>13/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Amsterdam</game-name>
+        <character name="Assassin" cash="5240.00" level="88" />
+        <joined-on>09/12/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Machu Picchu</game-name>
+        <character name="Assassin" cash="7603.00" level="74" />
+        <joined-on>02/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Warsaw</game-name>
+        <character name="Necromancer" cash="8469.00" level="94" />
+        <joined-on>09/10/2012</joined-on>
+      </game>
+    </games>
+  </user>
+  <user last-name="Barnes" username="jbarness" is-deleted="0" ip-address="55.187.253.198" registration-date="24/05/2014">
+    <games>
+      <game>
+        <game-name>Kuala Lumpur</game-name>
+        <character name="Wizard" cash="7874.00" level="33" />
+        <joined-on>06/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Shanghai</game-name>
+        <character name="Crusader" cash="8425.00" level="61" />
+        <joined-on>14/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Watsonia</game-name>
+        <character name="Witch Doctor" cash="5593.00" level="19" />
+        <joined-on>23/07/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Acid green</game-name>
+        <character name="Wizard" cash="9880.00" level="4" />
+        <joined-on>17/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Edinburgh</game-name>
+        <character name="Barbarian" cash="7491.00" level="30" />
+        <joined-on>30/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Berlin</game-name>
+        <character name="Druid" cash="7271.00" level="17" />
+        <joined-on>01/08/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Athens</game-name>
+        <character name="Paladin" cash="9271.00" level="14" />
+        <joined-on>11/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Nerine</game-name>
+        <character name="Witch Doctor" cash="9708.00" level="2" />
+        <joined-on>24/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Pattaya</game-name>
+        <character name="Amazon" cash="6522.00" level="50" />
+        <joined-on>16/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Forbidden City</game-name>
+        <character name="Monk" cash="5429.00" level="72" />
+        <joined-on>13/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the Nile – Alba</game-name>
+        <character name="Barbarian" cash="6468.00" level="99" />
+        <joined-on>11/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Sunflower Sunbright</game-name>
+        <character name="Demon Hunter" cash="5171.00" level="55" />
+        <joined-on>13/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Altyr</game-name>
+        <character name="Wizard" cash="7649.00" level="87" />
+        <joined-on>17/02/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Montbretia</game-name>
+        <character name="Monk" cash="7338.00" level="32" />
+        <joined-on>15/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Emblem</game-name>
+        <character name="Sorceress" cash="9028.00" level="21" />
+        <joined-on>14/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Speedwell</game-name>
+        <character name="Druid" cash="6300.00" level="47" />
+        <joined-on>12/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Kangaroo paw yellow</game-name>
+        <character name="Druid" cash="8395.00" level="13" />
+        <joined-on>04/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Great Wall</game-name>
+        <character name="Sorceress" cash="7572.00" level="43" />
+        <joined-on>15/04/2013</joined-on>
+      </game>
+      <game>
+        <game-name>London</game-name>
+        <character name="Wizard" cash="7996.00" level="63" />
+        <joined-on>15/01/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lake Mead</game-name>
+        <character name="Demon Hunter" cash="8841.00" level="38" />
+        <joined-on>25/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Freesia</game-name>
+        <character name="Wizard" cash="7559.00" level="4" />
+        <joined-on>27/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Tulip pink</game-name>
+        <character name="Druid" cash="5163.00" level="68" />
+        <joined-on>27/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Calla lily white</game-name>
+        <character name="Monk" cash="6331.00" level="46" />
+        <joined-on>03/11/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Elite</game-name>
+        <character name="Demon Hunter" cash="6037.00" level="92" />
+        <joined-on>20/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Pink Mink</game-name>
+        <character name="Witch Doctor" cash="7685.00" level="39" />
+        <joined-on>14/11/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Tuberose</game-name>
+        <character name="Crusader" cash="7029.00" level="14" />
+        <joined-on>09/09/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Saponaria</game-name>
+        <character name="Druid" cash="8697.00" level="5" />
+        <joined-on>31/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Fulvous</game-name>
+        <character name="Amazon" cash="9120.00" level="41" />
+        <joined-on>18/02/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Godetia</game-name>
+        <character name="Wizard" cash="7055.00" level="78" />
+        <joined-on>09/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rome</game-name>
+        <character name="Barbarian" cash="5084.00" level="44" />
+        <joined-on>27/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Lavender</game-name>
+        <character name="Druid" cash="8851.00" level="76" />
+        <joined-on>30/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Larkspur pink</game-name>
+        <character name="Sorceress" cash="8931.00" level="95" />
+        <joined-on>06/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Dubai</game-name>
+        <character name="Sorceress" cash="9739.00" level="77" />
+        <joined-on>29/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>New York</game-name>
+        <character name="Sorceress" cash="8118.00" level="99" />
+        <joined-on>06/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Notre Dame</game-name>
+        <character name="Monk" cash="7777.00" level="47" />
+        <joined-on>17/03/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Philadelphia</game-name>
+        <character name="Wizard" cash="7526.00" level="97" />
+        <joined-on>11/11/2013</joined-on>
+      </game>
+    </games>
+  </user>
+  <user last-name="Hall" username="khallt" email="ahallt@ustream.tv" is-deleted="1" ip-address="55.242.229.148" registration-date="22/11/2013">
+    <games>
+      <game>
+        <game-name>Lily Casa Blanca</game-name>
+        <character name="Wizard" cash="6530.00" level="6" />
+        <joined-on>18/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Yosemite</game-name>
+        <character name="Barbarian" cash="9504.00" level="34" />
+        <joined-on>25/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Lady Liberty</game-name>
+        <character name="Crusader" cash="7876.00" level="92" />
+        <joined-on>27/02/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Mexico City</game-name>
+        <character name="Assassin" cash="7531.00" level="29" />
+        <joined-on>23/07/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Phuket</game-name>
+        <character name="Assassin" cash="9099.00" level="87" />
+        <joined-on>29/01/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Wellington</game-name>
+        <character name="Wizard" cash="9244.00" level="96" />
+        <joined-on>24/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Paper Reed</game-name>
+        <character name="Barbarian" cash="7177.00" level="52" />
+        <joined-on>30/01/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Macau</game-name>
+        <character name="Wizard" cash="8529.00" level="19" />
+        <joined-on>11/11/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lumex</game-name>
+        <character name="Paladin" cash="9281.00" level="61" />
+        <joined-on>02/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Washington D.C.</game-name>
+        <character name="Wizard" cash="5862.00" level="45" />
+        <joined-on>05/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Brooklyn Bridge</game-name>
+        <character name="Wizard" cash="6771.00" level="92" />
+        <joined-on>19/09/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Spider Fuji Yellow</game-name>
+        <character name="Monk" cash="9763.00" level="97" />
+        <joined-on>08/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Gardenia</game-name>
+        <character name="Barbarian" cash="9390.00" level="79" />
+        <joined-on>09/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lisbon</game-name>
+        <character name="Monk" cash="7593.00" level="53" />
+        <joined-on>08/12/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Santiago</game-name>
+        <character name="Witch Doctor" cash="5488.00" level="28" />
+        <joined-on>05/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>New Orleans</game-name>
+        <character name="Necromancer" cash="5772.00" level="61" />
+        <joined-on>05/04/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Forbidden City</game-name>
+        <character name="Demon Hunter" cash="7106.00" level="32" />
+        <joined-on>18/02/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Nerine</game-name>
+        <character name="Wizard" cash="8941.00" level="77" />
+        <joined-on>22/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Pincushion</game-name>
+        <character name="Druid" cash="8719.00" level="60" />
+        <joined-on>09/07/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Lily of the Nile – Alba</game-name>
+        <character name="Druid" cash="6088.00" level="5" />
+        <joined-on>12/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Pitt Variegated</game-name>
+        <character name="Assassin" cash="5618.00" level="40" />
+        <joined-on>01/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Eric John</game-name>
+        <character name="Crusader" cash="7736.00" level="16" />
+        <joined-on>09/06/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Toronto</game-name>
+        <character name="Crusader" cash="7196.00" level="86" />
+        <joined-on>17/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Cape Town</game-name>
+        <character name="Sorceress" cash="8105.00" level="97" />
+        <joined-on>12/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Seattle</game-name>
+        <character name="Barbarian" cash="7253.00" level="91" />
+        <joined-on>20/12/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Helo Prime</game-name>
+        <character name="Druid" cash="5982.00" level="61" />
+        <joined-on>13/05/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Montbretia</game-name>
+        <character name="Assassin" cash="6043.00" level="70" />
+        <joined-on>13/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Peony</game-name>
+        <character name="Druid" cash="6564.00" level="75" />
+        <joined-on>03/08/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Heather</game-name>
+        <character name="Demon Hunter" cash="7424.00" level="57" />
+        <joined-on>12/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Edinburgh</game-name>
+        <character name="Monk" cash="7282.00" level="21" />
+        <joined-on>30/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Delphinium Belladonna</game-name>
+        <character name="Wizard" cash="5727.00" level="66" />
+        <joined-on>06/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Rio de Janeiro</game-name>
+        <character name="Wizard" cash="7065.00" level="40" />
+        <joined-on>11/07/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Sydney</game-name>
+        <character name="Crusader" cash="7735.00" level="55" />
+        <joined-on>07/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Bogotá</game-name>
+        <character name="Barbarian" cash="8735.00" level="71" />
+        <joined-on>03/05/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Sharm el-Sheikh</game-name>
+        <character name="Witch Doctor" cash="9323.00" level="80" />
+        <joined-on>23/11/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Lisianthus misty blue</game-name>
+        <character name="Wizard" cash="8650.00" level="34" />
+        <joined-on>31/12/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Moscow</game-name>
+        <character name="Barbarian" cash="5651.00" level="55" />
+        <joined-on>21/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Strawflower</game-name>
+        <character name="Demon Hunter" cash="9804.00" level="1" />
+        <joined-on>03/07/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Dublin</game-name>
+        <character name="Sorceress" cash="8625.00" level="81" />
+        <joined-on>03/07/2013</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Steven" last-name="Wagner" username="swagneru" email="swagneru@4shared.com" is-deleted="0" ip-address="154.138.108.226" registration-date="19/01/2013">
+    <games>
+      <game>
+        <game-name>Delphinium Belladonna</game-name>
+        <character name="Assassin" cash="7358.00" level="21" />
+        <joined-on>04/12/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Marguerite daisy</game-name>
+        <character name="Sorceress" cash="7712.00" level="53" />
+        <joined-on>01/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Madrid</game-name>
+        <character name="Amazon" cash="5422.00" level="35" />
+        <joined-on>13/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Ablajeck</game-name>
+        <character name="Monk" cash="5165.00" level="30" />
+        <joined-on>31/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Speedwell</game-name>
+        <character name="Barbarian" cash="6689.00" level="26" />
+        <joined-on>16/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Machu Picchu</game-name>
+        <character name="Paladin" cash="9671.00" level="19" />
+        <joined-on>03/05/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Dublin</game-name>
+        <character name="Barbarian" cash="6781.00" level="46" />
+        <joined-on>01/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>San Diego</game-name>
+        <character name="Wizard" cash="8503.00" level="55" />
+        <joined-on>08/08/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Versailles</game-name>
+        <character name="Monk" cash="6790.00" level="93" />
+        <joined-on>17/09/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Tuberose</game-name>
+        <character name="Sorceress" cash="9986.00" level="13" />
+        <joined-on>06/09/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Stockholm</game-name>
+        <character name="Necromancer" cash="8293.00" level="4" />
+        <joined-on>20/04/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Montbretia</game-name>
+        <character name="Monk" cash="9687.00" level="40" />
+        <joined-on>16/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Lavanda</game-name>
+        <character name="Assassin" cash="7849.00" level="24" />
+        <joined-on>24/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Sweet pea</game-name>
+        <character name="Demon Hunter" cash="6270.00" level="18" />
+        <joined-on>11/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Prague</game-name>
+        <character name="Witch Doctor" cash="8129.00" level="75" />
+        <joined-on>18/03/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Mexico City</game-name>
+        <character name="Assassin" cash="9640.00" level="94" />
+        <joined-on>23/07/2011</joined-on>
+      </game>
+    </games>
+  </user>
+  <user first-name="Michael" last-name="Stephens" username="mstephensv" email="mstephensv@parallels.com" is-deleted="0" ip-address="252.159.193.233" registration-date="25/01/2014">
+    <games>
+      <game>
+        <game-name>Tracelium</game-name>
+        <character name="Witch Doctor" cash="9873.00" level="90" />
+        <joined-on>06/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Flax New Zealand</game-name>
+        <character name="Barbarian" cash="9620.00" level="20" />
+        <joined-on>18/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Marguerite daisy</game-name>
+        <character name="Druid" cash="7415.00" level="41" />
+        <joined-on>31/01/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Chicago</game-name>
+        <character name="Assassin" cash="7261.00" level="44" />
+        <joined-on>07/06/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Elite</game-name>
+        <character name="Demon Hunter" cash="9639.00" level="59" />
+        <joined-on>19/10/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Kuala Lumpur</game-name>
+        <character name="Witch Doctor" cash="5308.00" level="4" />
+        <joined-on>06/05/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Fernleaf Yarrow</game-name>
+        <character name="Paladin" cash="8786.00" level="93" />
+        <joined-on>19/11/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Acaeria</game-name>
+        <character name="Witch Doctor" cash="5295.00" level="30" />
+        <joined-on>12/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Pitt Variegated</game-name>
+        <character name="Sorceress" cash="8442.00" level="24" />
+        <joined-on>30/09/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Sword fern</game-name>
+        <character name="Paladin" cash="9240.00" level="56" />
+        <joined-on>07/03/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Niagara Falls</game-name>
+        <character name="Assassin" cash="5765.00" level="86" />
+        <joined-on>02/03/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Feverfew</game-name>
+        <character name="Monk" cash="8176.00" level="12" />
+        <joined-on>28/11/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Phlox</game-name>
+        <character name="Barbarian" cash="6135.00" level="2" />
+        <joined-on>27/04/2015</joined-on>
+      </game>
+      <game>
+        <game-name>Cancún</game-name>
+        <character name="Paladin" cash="7878.00" level="22" />
+        <joined-on>19/06/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Solidaster</game-name>
+        <character name="Sorceress" cash="8359.00" level="30" />
+        <joined-on>27/08/2013</joined-on>
+      </game>
+      <game>
+        <game-name>New York</game-name>
+        <character name="Demon Hunter" cash="5599.00" level="92" />
+        <joined-on>12/09/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Budapest</game-name>
+        <character name="Monk" cash="7514.00" level="76" />
+        <joined-on>13/05/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Navy Pier</game-name>
+        <character name="Sorceress" cash="8169.00" level="92" />
+        <joined-on>21/02/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Gayfeather</game-name>
+        <character name="Druid" cash="8748.00" level="91" />
+        <joined-on>17/06/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Amsterdam</game-name>
+        <character name="Necromancer" cash="7624.00" level="24" />
+        <joined-on>31/05/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Sweet pea</game-name>
+        <character name="Barbarian" cash="5232.00" level="63" />
+        <joined-on>16/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Summer poinsettia</game-name>
+        <character name="Demon Hunter" cash="8747.00" level="30" />
+        <joined-on>19/01/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Lily Casa Blanca</game-name>
+        <character name="Sorceress" cash="6877.00" level="29" />
+        <joined-on>18/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>South Seaport</game-name>
+        <character name="Demon Hunter" cash="5462.00" level="83" />
+        <joined-on>02/10/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Rose Osiana</game-name>
+        <character name="Crusader" cash="7275.00" level="18" />
+        <joined-on>27/07/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Shruikan</game-name>
+        <character name="Wizard" cash="7349.00" level="39" />
+        <joined-on>13/06/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Zürich</game-name>
+        <character name="Sorceress" cash="7874.00" level="57" />
+        <joined-on>19/01/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Great Wall</game-name>
+        <character name="Druid" cash="6901.00" level="35" />
+        <joined-on>16/04/2013</joined-on>
+      </game>
+      <game>
+        <game-name>Orlando</game-name>
+        <character name="Monk" cash="8336.00" level="52" />
+        <joined-on>30/03/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Florence</game-name>
+        <character name="Assassin" cash="8538.00" level="88" />
+        <joined-on>03/04/2012</joined-on>
+      </game>
+      <game>
+        <game-name>Allied Tion</game-name>
+        <character name="Paladin" cash="7709.00" level="70" />
+        <joined-on>13/06/2011</joined-on>
+      </game>
+      <game>
+        <game-name>Pike Place</game-name>
+        <character name="Druid" cash="8859.00" level="53" />
+        <joined-on>23/10/2010</joined-on>
+      </game>
+      <game>
+        <game-name>Antalya</game-name>
+        <character name="Monk" cash="8013.00" level="92" />
+        <joined-on>11/10/2014</joined-on>
+      </game>
+      <game>
+        <game-name>Mecca</game-name>
+        <character name="Druid" cash="7957.00" level="74" />
+        <joined-on>19/07/2015</joined-on>
+      </game>
+    </games>
+  </user>
+</users>
