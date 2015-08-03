@@ -25,17 +25,41 @@
 
         public void Remove(T element)
         {
+            if (this.Count() == 0)
+            {
+                throw new InvalidOperationException("Set is empty!");
+            }
+
             this.container.Remove(element);
         }
 
         public bool Contains(T element)
         {
+            if (this.Count() == 0)
+            {
+                throw new InvalidOperationException("Set is empty!");
+            }
+
             return this.container.Contains(element);
         }
 
+        public int Count()
+        {
+            if (this.container == null)
+            {
+                return 0;
+            }
+
+            return this.container.Count();
+        }
 
         public IEnumerator<T> GetEnumerator()
         {
+            if (this.Count() == 0)
+            {
+                throw new InvalidOperationException("Set is empty!");
+            }
+
             var elements = this.container.GetElementsByValue();
             foreach (var element in elements)
             {
