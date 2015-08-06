@@ -1,0 +1,25 @@
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Duplicate ticket
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Duplicate ticket
+Duplicate ticket
+Ticket does not exist
+Ticket does not exist
+Ticket does not exist
+[17.01.2015 11:25; train; 6.50] [25.01.2015 19:00; train; 7.22] [27.01.2015 21:20; bus; 11.50] [27.01.2015 21:20; bus; 12.00] [27.01.2015 21:20; train; 7.22]
+Not found
+Ticket deleted
+[15.01.2015 06:15; bus; 25.00] [15.01.2015 09:20; train; 24.25]
+Not found
