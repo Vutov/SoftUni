@@ -1,13 +1,12 @@
-﻿namespace Nashmat
+﻿namespace TravelAgency
 {
     using System;
-    using System.IO;
     using Core;
     using Interfaces;
 
     public class ApplicationMain
     {
-        private static readonly TicketCatalog Catalog = new TicketCatalog();
+        private static readonly ITicketCatalog Catalog = new TicketCatalog();
         private static readonly Engine ApplicationEngine = new Engine(Catalog);
 
         public static void Main()

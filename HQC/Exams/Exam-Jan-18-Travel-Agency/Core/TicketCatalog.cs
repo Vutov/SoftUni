@@ -1,4 +1,4 @@
-﻿namespace Nashmat.Core
+﻿namespace TravelAgency.Core
 {
     using System;
     using System.Collections.Generic;
@@ -115,14 +115,14 @@
         public string FindTickets(string from, string to)
         {
             var allTickets = this.GetAllTicketsFromTo(from, to);
-            var processedTickets = ProcessTickets(allTickets);
+            var processedTickets = this.ProcessTickets(allTickets);
             return processedTickets;
         }
 
         public string FindTicketsInInterval(DateTime startDateTime, DateTime endDateTime)
         {
             var allTickets = this.GetAllTicketsIninterval(startDateTime, endDateTime);
-            var processedTickets = ProcessTickets(allTickets);
+            var processedTickets = this.ProcessTickets(allTickets);
             return processedTickets;
         }
 
@@ -223,7 +223,7 @@
             return allTickets;
         }
 
-        private static string ProcessTickets(HashSet<Ticket> allTickets)
+        private string ProcessTickets(HashSet<Ticket> allTickets)
         {
             if (allTickets.Count > 0)
             {

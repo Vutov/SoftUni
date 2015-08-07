@@ -1,4 +1,4 @@
-﻿namespace Nashmat.Models
+﻿namespace TravelAgency.Models
 {
     using System;
     using Enums;
@@ -27,7 +27,7 @@
         public override string ToString()
         {
             var result = "[" + this.DepartureDateAndTime.ToString("dd.MM.yyyy HH:mm") + "; " + this.TicketType.ToString().ToLower() + "; " +
-                           String.Format("{0:f2}", this.Price) + "]";
+                           string.Format("{0:f2}", this.Price) + "]";
             return result;
         }
     }

@@ -1,4 +1,4 @@
-﻿namespace Nashmat.Enums
+﻿namespace TravelAgency.Enums
 {
     public enum TicketType
     {

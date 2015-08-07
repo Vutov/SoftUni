@@ -1,14 +1,15 @@
-﻿namespace Nashmat.Core
+﻿namespace TravelAgency.Core
 {
     using System;
     using System.Globalization;
+    using Interfaces;
 
     public class Engine
     {
         private const string DateTimeFormat = "dd.MM.yyyy HH:mm";
-        private readonly TicketCatalog ticketCatalog;
+        private readonly ITicketCatalog ticketCatalog;
 
-        public Engine(TicketCatalog ticketCatalog)
+        public Engine(ITicketCatalog ticketCatalog)
         {
             this.ticketCatalog = ticketCatalog;
         }
@@ -37,11 +38,9 @@
                     var departureAirport = data[1];
                     var arrivalAirport = data[2];
                     var airline = data[3];
-                    var flightDateAndTime = DateTime.ParseExact(data[4], DateTimeFormat,
-                CultureInfo.InvariantCulture);
+                    var flightDateAndTime = DateTime.ParseExact(data[4], DateTimeFormat, CultureInfo.InvariantCulture);
                     var flightPrice = decimal.Parse(data[5]);
-                    result = this.ticketCatalog.AddAirTicket(addFlightNumber, departureAirport,
-                        arrivalAirport, airline, flightDateAndTime, flightPrice);
+                    result = this.ticketCatalog.AddAirTicket(addFlightNumber, departureAirport, arrivalAirport, airline, flightDateAndTime, flightPrice);
                     break;
                 case "DeleteAir":
                     var deleteFlightNumber = data[0];
@@ -50,39 +49,31 @@
                 case "AddTrain":
                     var departureTrainStation = data[0];
                     var arrivalTrainStation = data[1];
-                    var trainDateAndTime = DateTime.ParseExact(data[2], DateTimeFormat,
-                CultureInfo.InvariantCulture);
+                    var trainDateAndTime = DateTime.ParseExact(data[2], DateTimeFormat, CultureInfo.InvariantCulture);
                     var regularPrice = decimal.Parse(data[3]);
                     var studentPrice = decimal.Parse(data[4]);
-                    result = this.ticketCatalog.AddTrainTicket(departureTrainStation, arrivalTrainStation,
-                        trainDateAndTime, regularPrice, studentPrice);
+                    result = this.ticketCatalog.AddTrainTicket(departureTrainStation, arrivalTrainStation, trainDateAndTime, regularPrice, studentPrice);
                     break;
                 case "DeleteTrain":
                     var deleteDepartureTrainStation = data[0];
                     var deleteArrivalTrainStation = data[1];
-                    var deleteTrainDateAndTime = DateTime.ParseExact(data[2], DateTimeFormat,
-                CultureInfo.InvariantCulture);
-                    result = this.ticketCatalog.DeleteTrainTicket(deleteDepartureTrainStation, deleteArrivalTrainStation,
-                        deleteTrainDateAndTime);
+                    var deleteTrainDateAndTime = DateTime.ParseExact(data[2], DateTimeFormat, CultureInfo.InvariantCulture);
+                    result = this.ticketCatalog.DeleteTrainTicket(deleteDepartureTrainStation, deleteArrivalTrainStation, deleteTrainDateAndTime);
                     break;
                 case "AddBus":
                     var departureTown = data[0];
                     var arrivalTown = data[1];
                     var busCompany = data[2];
-                    var busDateAndTime = DateTime.ParseExact(data[3], DateTimeFormat,
-                CultureInfo.InvariantCulture);
+                    var busDateAndTime = DateTime.ParseExact(data[3], DateTimeFormat, CultureInfo.InvariantCulture);
                     var busPrice = decimal.Parse(data[4]);
-                    result = this.ticketCatalog.AddBusTicket(departureTown, arrivalTown, busCompany,
-                        busDateAndTime, busPrice);
+                    result = this.ticketCatalog.AddBusTicket(departureTown, arrivalTown, busCompany, busDateAndTime, busPrice);
                     break;
                 case "DeleteBus":
                     var deleteDepartureTown = data[0];
                     var deleteArrivalTown = data[1];
                     var deleteBusCompany = data[2];
-                    var deleteBusDateAndTime = DateTime.ParseExact(data[3], DateTimeFormat,
-                CultureInfo.InvariantCulture);
-                    result = this.ticketCatalog.DeleteBusTicket(deleteDepartureTown, deleteArrivalTown, deleteBusCompany,
-                        deleteBusDateAndTime);
+                    var deleteBusDateAndTime = DateTime.ParseExact(data[3], DateTimeFormat, CultureInfo.InvariantCulture);
+                    result = this.ticketCatalog.DeleteBusTicket(deleteDepartureTown, deleteArrivalTown, deleteBusCompany, deleteBusDateAndTime);
                     break;
                 case "FindTickets":
                     var findTicketsFrom = data[0];
@@ -90,10 +81,8 @@
                     result = this.ticketCatalog.FindTickets(findTicketsFrom, findTicketsTo);
                     break;
                 case "FindTicketsInInterval":
-                    var findTicketsStarting = DateTime.ParseExact(data[0], DateTimeFormat,
-                CultureInfo.InvariantCulture);
-                    var findTicketsEnding = DateTime.ParseExact(data[1], DateTimeFormat,
-                CultureInfo.InvariantCulture);
+                    var findTicketsStarting = DateTime.ParseExact(data[0], DateTimeFormat, CultureInfo.InvariantCulture);
+                    var findTicketsEnding = DateTime.ParseExact(data[1], DateTimeFormat, CultureInfo.InvariantCulture);
                     result = this.ticketCatalog.FindTicketsInInterval(findTicketsStarting, findTicketsEnding);
                     break;
             }

@@ -1,13 +1,11 @@
-﻿namespace Nashmat.Models
+﻿namespace TravelAgency.Models
 {
     using System;
     using Enums;
 
     public class TrainTicket : Ticket
     {
-        public TrainTicket(string departureTown,
-            string arrivalTown, DateTime departureDateAndTime,
-            decimal regularPrice, decimal studentsPrice)
+        public TrainTicket(string departureTown, string arrivalTown, DateTime departureDateAndTime, decimal regularPrice, decimal studentsPrice)
             : base(TicketType.Train, departureTown, arrivalTown, departureDateAndTime, regularPrice)
         {
             this.StudentPrice = studentsPrice;
