@@ -24,15 +24,18 @@
             while (commandLine != null && commandLine != "end")
             {
                 commandLine = commandLine.Trim();
-                try
+                if (commandLine != String.Empty)
                 {
-                    var endpoint = new Endpoint(commandLine);
-                    var viewResult = this.dispatcher.DispatchAction(endpoint);
-                    Console.WriteLine(viewResult);
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
+                    try
+                    {
+                        var endpoint = new Endpoint(commandLine);
+                        var viewResult = this.dispatcher.DispatchAction(endpoint);
+                        Console.WriteLine(viewResult);
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
                 }
 
                 commandLine = Console.ReadLine();
