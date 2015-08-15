@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Find Words in File", "01.Find Words in File\01.Find Words in File.csproj", "{051C46E1-282F-4886-BAC0-D0E79E1D9660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Products in Price Range", "02.Products in Price Range\02.Products in Price Range.csproj", "{014A45BA-D073-456C-A303-3791ECC1852C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.String Editor", "04.String Editor\04.String Editor.csproj", "{C0EDF923-F1ED-4794-BE51-91614346E364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PriorityQueue", "03.PriorityQueue\03.PriorityQueue.csproj", "{4C326CEC-01AE-4CC1-8FED-5F7E12D54F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueueTests", "PriorityQueueTests\PriorityQueueTests.csproj", "{840ECD17-3636-4C23-A9C9-BB31C3319ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{051C46E1-282F-4886-BAC0-D0E79E1D9660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051C46E1-282F-4886-BAC0-D0E79E1D9660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051C46E1-282F-4886-BAC0-D0E79E1D9660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051C46E1-282F-4886-BAC0-D0E79E1D9660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014A45BA-D073-456C-A303-3791ECC1852C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014A45BA-D073-456C-A303-3791ECC1852C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014A45BA-D073-456C-A303-3791ECC1852C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014A45BA-D073-456C-A303-3791ECC1852C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0EDF923-F1ED-4794-BE51-91614346E364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EDF923-F1ED-4794-BE51-91614346E364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EDF923-F1ED-4794-BE51-91614346E364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EDF923-F1ED-4794-BE51-91614346E364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C326CEC-01AE-4CC1-8FED-5F7E12D54F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C326CEC-01AE-4CC1-8FED-5F7E12D54F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C326CEC-01AE-4CC1-8FED-5F7E12D54F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C326CEC-01AE-4CC1-8FED-5F7E12D54F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840ECD17-3636-4C23-A9C9-BB31C3319ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840ECD17-3636-4C23-A9C9-BB31C3319ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840ECD17-3636-4C23-A9C9-BB31C3319ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840ECD17-3636-4C23-A9C9-BB31C3319ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
