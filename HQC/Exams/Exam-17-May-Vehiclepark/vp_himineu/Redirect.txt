@@ -1,0 +1,125 @@
+The vehicle park has not been set up
+The vehicle park has not been set up
+The vehicle park has not been set up
+Vehicle park created
+Car parked successfully at place (1,1)
+Motorbike parked successfully at place (1,2)
+Truck parked successfully at place (1,3)
+There is already a vehicle with license plate CA5555HH in the park
+There is already a vehicle with license plate CA5555AH in the park
+There is already a vehicle with license plate CA5842CH in the park
+The license plate number is invalid.
+The license plate number is invalid.
+The license plate number is invalid.
+There is no sector 30 in the park
+There is no place 30 in sector 3
+There is no place 30 in sector 3
+The owner is required.
+The reserved hours must be positive.
+Motorbike [CA5555AH], owned by Michael Smith
+Parked at (1,2)
+Truck [CA5842CH], owned by Raul Johns
+Parked at (1,3)
+Car [CA5555HH], owned by John Allonso
+Parked at (1,1)
+Car [CA5555HH], owned by John Allonso
+Parked at (1,1)
+Motorbike [CA5555AH], owned by Michael Smith
+Parked at (1,2)
+Truck [CA5842CH], owned by Raul Johns
+Parked at (1,3)
+********************
+Car [CA5555HH], owned by John Allonso
+at place (1,1)
+Rate: $2.00
+Overtime rate: $7.00
+--------------------
+Total: $9.00
+Paid: $100.00
+Change: $91.00
+********************
+********************
+Motorbike [CA5555AH], owned by Michael Smith
+at place (1,2)
+Rate: $1.35
+Overtime rate: $15.00
+--------------------
+Total: $16.35
+Paid: $16.35
+Change: $0.00
+********************
+********************
+Truck [CA5842CH], owned by Raul Johns
+at place (1,3)
+Rate: $4.75
+Overtime rate: $37.20
+--------------------
+Total: $41.95
+Paid: $177.70
+Change: $135.75
+********************
+There is no vehicle with license plate CA5555AH in the park
+There is no vehicle with license plate CA5842CH in the park
+There is no vehicle with license plate CA5555HH in the park
+No vehicles by John Allonso
+No vehicles by Michael Smith
+No vehicles by Raul Johns
+Car parked successfully at place (1,1)
+Motorbike parked successfully at place (1,2)
+Truck parked successfully at place (1,3)
+There is already a vehicle with license plate CA5555HH in the park
+There is already a vehicle with license plate CA5555AH in the park
+There is already a vehicle with license plate CA5842CH in the park
+There is already a vehicle with license plate CA5555HH in the park
+There is already a vehicle with license plate CA5555AH in the park
+There is already a vehicle with license plate CA5842CH in the park
+Motorbike [CA5555AH], owned by Michael Smith
+Parked at (1,2)
+Car [CA5555HH], owned by Michael Smith
+Parked at (1,1)
+Truck [CA5842CH], owned by Michael Smith
+Parked at (1,3)
+Motorbike [CA5555AH], owned by Michael Smith
+Parked at (1,2)
+Truck [CA5842CH], owned by Michael Smith
+Parked at (1,3)
+Car [CA5555HH], owned by Michael Smith
+Parked at (1,1)
+********************
+Car [CA5555HH], owned by Michael Smith
+at place (1,1)
+Rate: $2.00
+Overtime rate: $7.00
+--------------------
+Total: $9.00
+Paid: $100.00
+Change: $91.00
+********************
+********************
+Motorbike [CA5555AH], owned by Michael Smith
+at place (1,2)
+Rate: $1.35
+Overtime rate: $15.00
+--------------------
+Total: $16.35
+Paid: $99.99
+Change: $83.64
+********************
+********************
+Truck [CA5842CH], owned by Michael Smith
+at place (1,3)
+Rate: $4.75
+Overtime rate: $37.20
+--------------------
+Total: $41.95
+Paid: $50.50
+Change: $8.55
+********************
+There is no vehicle with license plate CA5555AH in the park
+There is no vehicle with license plate CA5842CH in the park
+There is no vehicle with license plate CA5555HH in the park
+No vehicles by John Allonso
+No vehicles by Michael Smith
+No vehicles by Raul Johns
+Length cannot be less than zero.
+Parameter name: length
