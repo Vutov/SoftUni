@@ -1,12 +1,16 @@
 ﻿namespace BookShop.WebServices.Controllers
 {
+    using System;
     using System.Collections.Generic;
+    using System.Data.Entity;
     using System.Linq;
     using System.Web.Http;
     using System.Web.OData;
     using BookShop.Models;
     using Data;
+    using Microsoft.AspNet.Identity;
     using Models;
+    using Models.ViewModels;
 
     [RoutePrefix("api/Books")]
     public class BooksController : ApiController
@@ -39,7 +43,7 @@
         }
 
         [EnableQuery]
-        public IHttpActionResult GetBookBySearchWord([FromUri]BookSearchBindingModel searchWord)
+        public IHttpActionResult GetBookBySearchWord([FromUri] BookSearchBindingModel searchWord)
         {
             if (!this.ModelState.IsValid)
             {
@@ -49,11 +53,11 @@
             var context = new BookShopContext();
             var books = context.Books
                 .Where(b => b.Title.Contains(searchWord.Search) ||
-                    b.Decription.Contains(searchWord.Search) ||
-                    b.EditionType.ToString() == searchWord.Search ||
-                    b.Categories.Select(c => c.Name).Any(c => c == searchWord.Search) ||
-                    b.Author.FirstName == searchWord.Search ||
-                    b.Author.LastName == searchWord.Search)
+                            b.Decription.Contains(searchWord.Search) ||
+                            b.EditionType.ToString() == searchWord.Search ||
+                            b.Categories.Select(c => c.Name).Any(c => c == searchWord.Search) ||
+                            b.Author.FirstName == searchWord.Search ||
+                            b.Author.LastName == searchWord.Search)
                 .Select(b => new
                 {
                     b.Id,
@@ -78,6 +82,7 @@
             return this.Ok(books);
         }
 
+        [Authorize]
         public IHttpActionResult DeleteBookById(int id)
         {
             var context = new BookShopContext();
@@ -94,7 +99,8 @@
             return this.Ok();
         }
 
-        public IHttpActionResult PostBook([FromBody]BookPostBindingModel bookPost)
+        [Authorize]
+        public IHttpActionResult PostBook([FromBody] BookPostBindingModel bookPost)
         {
             if (!this.ModelState.IsValid)
             {
@@ -136,7 +142,8 @@
             return this.Ok(bookPost);
         }
 
-        public IHttpActionResult PutBook([FromUri]int id, [FromBody]BookPutBindingModel bookModel)
+        [Authorize]
+        public IHttpActionResult PutBook([FromUri] int id, [FromBody] BookPutBindingModel bookModel)
         {
             if (!this.ModelState.IsValid)
             {
@@ -162,6 +169,68 @@
             context.SaveChanges();
 
             return this.Ok(bookModel);
+        }
+
+        [Authorize]
+        [Route("Buy/{id}")]
+        public IHttpActionResult PutBuyBook(int id)
+        {
+            var context = new BookShopContext();
+            var book = context.Books.FirstOrDefault(b => b.Id == id);
+            if (book == null)
+            {
+                return this.NotFound();
+            }
+
+            if (book.Copies <= 0)
+            {
+                return this.BadRequest("No copies left");
+            }
+
+            book.Copies--;
+
+            var purchase = new Purchase()
+            {
+                Book = book,
+                ApplicationUser = context.Users.FirstOrDefault(u => u.UserName == this.User.Identity.Name),
+                Price = book.Price,
+                DateOfPurchase = DateTime.Now,
+                IsRecalled = false
+            };
+
+            context.Purchases.Add(purchase);
+            context.SaveChanges();
+
+            var purchaseView = new PurchaseViewModel()
+            {
+                BookName = book.Title,
+                Price = book.Price,
+                User = purchase.ApplicationUser.UserName
+            };
+            return this.Ok(purchaseView);
+        }
+
+        [Authorize]
+        [Route("Recall/{id}")]
+        public IHttpActionResult PutRecallBook(int id)
+        {
+            var context = new BookShopContext();
+            var purchase = context.Purchases.FirstOrDefault(p => p.Id == id);
+            if (purchase == null)
+            {
+                return this.NotFound();
+            }
+
+            if (purchase.ApplicationUser.UserName != this.User.Identity.Name)
+            {
+                return this.BadRequest("You cannot return this purchase, you are not the buyer!");
+            }
+
+            purchase.IsRecalled = true;
+            purchase.Book.Copies++;
+            context.SaveChanges();
+
+            return this.Ok("Refunded!");
         }
     }
 }

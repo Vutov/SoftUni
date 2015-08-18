@@ -19,6 +19,8 @@ using BookShop.WebServices.Results;
 
 namespace BookShop.WebServices.Controllers
 {
+    using BookShop.Models;
+
     [Authorize]
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController

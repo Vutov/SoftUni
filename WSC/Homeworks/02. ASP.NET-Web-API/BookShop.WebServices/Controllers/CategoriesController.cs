@@ -53,6 +53,7 @@
             return this.Ok(viewModels);
         }
 
+        [Authorize]
         public IHttpActionResult PostCategory([FromBody] CategoryBindingModel model)
         {
             if (!this.ModelState.IsValid)
@@ -79,6 +80,7 @@
             return this.Ok(viewModel);
         }
 
+        [Authorize]
         public IHttpActionResult PutCategory([FromUri] int id, [FromBody] CategoryBindingModel model)
         {
             if (!this.ModelState.IsValid)
@@ -111,6 +113,7 @@
             return this.Ok(viewModel);
         }
 
+        [Authorize]
         public IHttpActionResult DeleteCategoriesById(int id)
         {
             var context = new BookShopContext();

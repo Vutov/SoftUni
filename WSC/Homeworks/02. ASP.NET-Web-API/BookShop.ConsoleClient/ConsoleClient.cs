@@ -11,7 +11,7 @@
         {
             var context = new BookShopContext();
             var bookCount = context.Books.Count();
-            //Console.WriteLine(bookCount);
+            Console.WriteLine(bookCount);
 
             var booksAfter2000 = context.Books
                 .Where(b => b.ReleaseDate >= new DateTime(2000, 1, 1))

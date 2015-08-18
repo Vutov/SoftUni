@@ -69,6 +69,7 @@
             return this.Ok(author);
         }
 
+        [Authorize]
         public IHttpActionResult PostAuthor([FromBody] AuthorBindingMethod model)
         {
             if (!this.ModelState.IsValid)

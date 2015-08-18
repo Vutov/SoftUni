@@ -213,6 +213,7 @@
     <Compile Include="Controllers\BooksController.cs" />
     <Compile Include="Controllers\CategoriesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -224,9 +225,10 @@
     <Compile Include="Models\BindingModels\BookPutBindingModel.cs" />
     <Compile Include="Models\BindingModels\BookSearchBindingModel.cs" />
     <Compile Include="Models\BindingModels\CategoryBindingModel.cs" />
-    <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ViewModels\AuthorViewModel.cs" />
     <Compile Include="Models\ViewModels\CategoryViewModel.cs" />
+    <Compile Include="Models\ViewModels\PurchaseViewModel.cs" />
+    <Compile Include="Models\ViewModels\UsersPurchasesViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Providers\ApplicationOAuthProvider.cs" />
     <Compile Include="Results\ChallengeResult.cs" />
