@@ -1,0 +1,8 @@
+﻿<Window x:Class="ReaperInvasion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Canvas Name="canvas" HorizontalAlignment="Left" Height="319" VerticalAlignment="Top" Width="517"/>
+    </Grid>
+</Window>
