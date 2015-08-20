@@ -10,6 +10,7 @@
     using Models;
     using Models.ViewModels;
 
+    [Authorize(Roles = "Admin")]
     [RoutePrefix("api/Books")]
     public class BooksController : ApiController
     {

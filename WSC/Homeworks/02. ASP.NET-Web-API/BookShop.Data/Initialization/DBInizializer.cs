@@ -5,6 +5,8 @@
     using System.Globalization;
     using System.IO;
     using System.Linq;
+    using Microsoft.AspNet.Identity;
+    using Microsoft.AspNet.Identity.EntityFramework;
     using Models;
 
     public class DbInizializer : DropCreateDatabaseIfModelChanges<BookShopContext>
@@ -78,6 +80,38 @@
             }
 
             base.Seed(context);
+
+            context.Roles.Add(new IdentityRole()
+            {
+                Name = "Admin"
+            });
+
+            context.Roles.Add(new IdentityRole()
+            {
+                Name = "Mod"
+            });
+
+            context.Users.Add(new ApplicationUser()
+            {
+                Email = "Admin",
+                UserName = "Admin",
+                PasswordHash = new PasswordHasher().HashPassword("Admin")
+            });
+
+            var userStore = new UserStore<ApplicationUser>(context);
+            var userManager = new UserManager<ApplicationUser>(userStore);
+
+            context.SaveChanges();
+
+            var admin = context.Users.First();
+            userManager.UpdateSecurityStamp(admin.Id);
+            admin.Roles.Add(new IdentityUserRole()
+            {
+                UserId = context.Users.FirstOrDefault(u => u.UserName == "Admin").Id,
+                RoleId = context.Roles.FirstOrDefault(u => u.Name == "Admin").Id
+            });
+
+            context.SaveChanges();
         }
     }
 }
