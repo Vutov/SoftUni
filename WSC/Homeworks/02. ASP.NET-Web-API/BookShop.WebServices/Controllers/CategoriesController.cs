@@ -1,55 +1,39 @@
 ﻿namespace BookShop.WebServices.Controllers
 {
-    using System.Collections.Generic;
-    using System.Web.Http;
-    using Data;
     using System.Linq;
+    using System.Web.Http;
     using System.Web.OData;
     using BookShop.Models;
+    using Data;
     using Models;
     using Models.ViewModels;
 
-    public class CategoriesController : ApiController
+    public class CategoriesController : BaseController
     {
         public IHttpActionResult GetCategoriesById(int id)
         {
-            var context = new BookShopContext();
-            var category = context.Categories
-                .Select(c => new
-                {
-                    c.Id,
-                    c.Name
-                })
-                .FirstOrDefault(c => c.Id == id);
+            var category = this.Data.Categories.Find(c => c.Id == id);
 
             if (category == null)
             {
                 return this.NotFound();
             }
 
-            var viewModel = new CategoryViewModel() { Name = category.Name };
+            var viewModel = category.Select(CategoryViewModel.Create).First();
             return this.Ok(viewModel);
         }
 
         [EnableQuery]
         public IHttpActionResult GetCategories()
         {
-            var context = new BookShopContext();
-            var categories = context.Categories
-                .Select(c => new
-                {
-                    c.Id,
-                    c.Name
-                })
-                .ToList();
+            var categories = this.Data.Categories.All();
 
             if (!categories.Any())
             {
                 return this.NotFound();
             }
 
-            var viewModels = new List<CategoryViewModel>();
-            categories.ForEach(c => viewModels.Add(new CategoryViewModel() { Name = c.Name }));
+            var viewModels = categories.Select(CategoryViewModel.Create);
             return this.Ok(viewModels);
         }
 
@@ -61,10 +45,7 @@
                 return this.BadRequest(this.ModelState);
             }
 
-            var context = new BookShopContext();
-
-            var duplicate = context.Categories
-                .FirstOrDefault(c => c.Name == model.Name);
+            var duplicate = this.Data.Categories.Find(c => c.Name == model.Name);
 
             if (duplicate != null)
             {
@@ -73,8 +54,8 @@
             }
 
             var category = new Category { Name = model.Name };
-            context.Categories.Add(category);
-            context.SaveChanges();
+            this.Data.Categories.Add(category);
+            this.Data.SaveChanges();
 
             var viewModel = new CategoryViewModel() { Name = category.Name };
             return this.Ok(viewModel);
@@ -88,17 +69,14 @@
                 return this.BadRequest(this.ModelState);
             }
 
-            var context = new BookShopContext();
-            var category = context.Categories
-                .FirstOrDefault(c => c.Id == id);
+            var category = this.Data.Categories.GetById(id);
 
             if (category == null)
             {
                 return this.NotFound();
             }
 
-            var duplicate = context.Categories
-                .FirstOrDefault(c => c.Name == model.Name);
+            var duplicate = this.Data.Categories.Find(c => c.Name == model.Name);
 
             if (duplicate != null)
             {
@@ -107,7 +85,7 @@
             }
 
             category.Name = model.Name;
-            context.SaveChanges();
+            this.Data.SaveChanges();
 
             var viewModel = new CategoryViewModel() { Name = category.Name };
             return this.Ok(viewModel);
@@ -116,17 +94,15 @@
         [Authorize]
         public IHttpActionResult DeleteCategoriesById(int id)
         {
-            var context = new BookShopContext();
-            var category = context.Categories
-                .FirstOrDefault(c => c.Id == id);
+            var category = this.Data.Categories.GetById(id);
 
             if (category == null)
             {
                 return this.NotFound();
             }
 
-            context.Categories.Remove(category);
-            context.SaveChanges();
+            this.Data.Categories.Delete(category);
+            this.Data.SaveChanges();
 
             return this.Ok();
         }

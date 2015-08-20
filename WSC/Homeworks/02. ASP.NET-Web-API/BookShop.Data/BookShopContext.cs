@@ -1,10 +1,7 @@
 namespace BookShop.Data
 {
-    using System;
     using System.Data.Entity;
-    using System.Linq;
     using Microsoft.AspNet.Identity.EntityFramework;
-    using Migrations;
     using Models;
 
     public class BookShopContext : IdentityDbContext<ApplicationUser>

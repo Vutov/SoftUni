@@ -1,72 +1,42 @@
 ﻿namespace BookShop.WebServices.Controllers
 {
-    using System.Web.Http;
     using System.Linq;
-    using System.Web.OData;
+    using System.Web.Http;
     using BookShop.Models;
-    using Data;
+    using Microsoft.Ajax.Utilities;
     using Models;
     using Models.ViewModels;
 
     [RoutePrefix("api/Authors")]
-    public class AuthorsController : ApiController
+    public class AuthorsController : BaseController
     {
         public IHttpActionResult GetAuthorById(int id)
         {
-            var context = new BookShopContext();
-            var author = context.Authors
-                .Select(a => new
-                {
-                    a.Id,
-                    a.FirstName,
-                    a.LastName,
-                    BookTitles = a.Books.Select(b => b.Title)
-                })
-                .FirstOrDefault(a => a.Id == id);
+            var author = this.Data.Authors.Find(a => a.Id == id);
 
             if (author == null)
             {
                 return this.NotFound();
             }
 
-            var authorView = new AuthorViewModel.AuthorBooksViewModel()
-            {
-                FirstName = author.FirstName,
-                LastName = author.FirstName,
-                BookTitles = author.BookTitles
-            };
+            var authorView = author.Select(AuthorViewModel.AuthorInfoViewModel.Create);
+
             return this.Ok(authorView);
         }
 
         [Route("{id}/books")]
         public IHttpActionResult GetBooksForAuthorById(int id)
         {
-            var context = new BookShopContext();
-            var author = context.Authors
-                .Select(a => new
-                {
-                    a.Id,
-                    Books = a.Books.Select(b => new
-                    {
-                        b.Title,
-                        Author = b.Author.FirstName + " " + b.Author.LastName,
-                        b.AgeRestriction,
-                        b.Copies,
-                        b.EditionType,
-                        b.Decription,
-                        b.Price,
-                        b.ReleaseDate,
-                        Categories = b.Categories.Select(c => c.Name)
-                    })
-                })
-                .FirstOrDefault(a => a.Id == id);
+            var author = this.Data.Authors.Find(a => a.Id == id);
 
             if (author == null)
             {
                 return this.NotFound();
             }
 
-            return this.Ok(author);
+            var authorView = author.Select(AuthorViewModel.AuthorBooksViewModel.Create);
+
+            return this.Ok(authorView);
         }
 
         [Authorize]
@@ -83,9 +53,8 @@
                 LastName = model.LastName
             };
 
-            var context = new BookShopContext();
-            context.Authors.Add(author);
-            context.SaveChanges();
+            this.Data.Authors.Add(author);
+            this.Data.SaveChanges();
 
             var authorView = new AuthorViewModel.AuthorInfoViewModel()
             {

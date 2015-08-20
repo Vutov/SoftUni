@@ -59,8 +59,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BookShopContext.cs" />
-    <Compile Include="DBInizializer.cs" />
-    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Data\BookShopData.cs" />
+    <Compile Include="Data\IBookShopData.cs" />
+    <Compile Include="Repositories\Repository.cs" />
+    <Compile Include="Initialization\DBInizializer.cs" />
+    <Compile Include="Repositories\IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
