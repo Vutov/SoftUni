@@ -1,0 +1,39 @@
+The username must be at least 5 symbols long.
+The Password must be at least 6 symbols long.
+The provided passwords do not match.
+User firstStudent registered successfully.
+User firstStudent logged in successfully.
+There is already a logged in user.
+There is already a logged in user.
+There is already a logged in user.
+User firstStudent logged out successfully.
+A user with username nonexistingStudent does not exist.
+The provided password is wrong.
+There is no currently logged in user.
+There is no currently logged in user.
+User firstLecturer registered successfully.
+User firstLecturer logged in successfully.
+Course High-Quality Code created successfully.
+You are not enrolled in this course.
+User firstLecturer logged out successfully.
+There is no currently logged in user.
+There is no currently logged in user.
+User firstLecturer logged in successfully.
+Student successfully enrolled in course High-Quality Code.
+You are already enrolled in this course.
+There is no course with ID 10.
+User firstLecturer logged out successfully.
+There is no currently logged in user.
+User firstStudent logged in successfully.
+The current user is not authorized to perform this operation.
+User firstStudent logged out successfully.
+User firstLecturer logged in successfully.
+The course name must be at least 5 symbols long.
+User firstLecturer logged out successfully.
+There is no currently logged in user.
+User firstStudent logged in successfully.
+The current user is not authorized to perform this operation.
+User firstStudent logged out successfully.
+User firstLecturer logged in successfully.
+The lecture name must be at least 3 symbols long.
+There is no course with ID 10.
