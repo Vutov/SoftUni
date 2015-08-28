@@ -13,7 +13,9 @@
     {
         public IHttpActionResult GetAds()
         {
-            var ads = this.Data.Ads.Select(AdViewModel.Create)
+            var ads = this.Data.Ads
+                .Where(a => a.ClosedOn == null)
+                .Select(AdViewModel.Create)
                 .ToList()
                 .OrderBy(a => a.Type)
                 .ThenBy(a => a.PostDateTime);
@@ -79,6 +81,27 @@
                 .FirstOrDefault();
 
             return this.Ok(dbAd);
+        }
+
+        [Authorize]
+        [Route("api/ads/{id}/close")]
+        public IHttpActionResult PutCloseAd(int id)
+        {
+            var ad = this.Data.Ads.FirstOrDefault(a => a.Id == id);
+            if (ad == null)
+            {
+                return this.BadRequest("No ad with id " + id);
+            }
+
+            var loggedUserId = this.User.Identity.GetUserId();
+            if (ad.OwnerId != loggedUserId)
+            {
+                return this.BadRequest("You are not the owner of the ad");
+            }
+
+            ad.ClosedOn = DateTime.Now;
+            this.Data.SaveChanges();
+            return this.Ok();
         }
     }
 }
