@@ -2,19 +2,20 @@
 {
     using System.Web.Http;
     using Data;
+    using Data.Data;
 
     public class BaseController : ApiController
     {
         public BaseController()
-            : this(new OnlineShopContext())
+            : this(new OnlineShopData(new OnlineShopContext()))
         {
         }
 
-        public BaseController(OnlineShopContext data)
+        public BaseController(IOnlineShopData data)
         {
             this.Data = data;
         }
 
-        protected OnlineShopContext Data { get; set; }
+        protected IOnlineShopData Data { get; set; }
     }
 }

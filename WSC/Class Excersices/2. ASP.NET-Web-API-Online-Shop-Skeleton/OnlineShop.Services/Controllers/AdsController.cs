@@ -4,6 +4,7 @@
     using System.Collections.Generic;
     using System.Linq;
     using System.Web.Http;
+    using Data.Data;
     using Microsoft.AspNet.Identity;
     using Models.Binding;
     using Models.View;
@@ -11,9 +12,14 @@
 
     public class AdsController : BaseController
     {
+        public AdsController(IOnlineShopData onlineShopData)
+            : base(onlineShopData)
+        {
+        }
+
         public IHttpActionResult GetAds()
         {
-            var ads = this.Data.Ads
+            var ads = this.Data.Ads.All()
                 .Where(a => a.ClosedOn == null)
                 .Select(AdViewModel.Create)
                 .ToList()
@@ -41,7 +47,7 @@
                 return this.BadRequest("Categories count cannot be " + model.Categories.Count());
             }
 
-            var dbType = this.Data.AdTypes.FirstOrDefault(c => c.Id == model.TypeId);
+            var dbType = this.Data.AdTypes.All().FirstOrDefault(c => c.Id == model.TypeId);
             if (dbType == null)
             {
                 return this.BadRequest("No type with id " + model.TypeId + " found!");
@@ -50,7 +56,7 @@
             var categories = new List<Category>();
             foreach (var categoryId in model.Categories)
             {
-                var dbCategory = this.Data.Categories.FirstOrDefault(c => c.Id == categoryId);
+                var dbCategory = this.Data.Categories.All().FirstOrDefault(c => c.Id == categoryId);
                 if (dbCategory == null)
                 {
                     return this.BadRequest("No category with id " + model.TypeId + " found!");
@@ -60,7 +66,7 @@
             }
 
             var userId = this.User.Identity.GetUserId();
-            var user = this.Data.Users.FirstOrDefault(u => u.Id == userId);
+            var user = this.Data.Users.All().FirstOrDefault(u => u.Id == userId);
             var newAd = new Ad()
             {
                 Categories = categories,
@@ -75,7 +81,7 @@
             this.Data.Ads.Add(newAd);
             this.Data.SaveChanges();
 
-            var dbAd = this.Data.Ads
+            var dbAd = this.Data.Ads.All()
                 .Where(a => a.Id == newAd.Id)
                 .Select(AdViewModel.Create)
                 .FirstOrDefault();
@@ -87,7 +93,7 @@
         [Route("api/ads/{id}/close")]
         public IHttpActionResult PutCloseAd(int id)
         {
-            var ad = this.Data.Ads.FirstOrDefault(a => a.Id == id);
+            var ad = this.Data.Ads.All().FirstOrDefault(a => a.Id == id);
             if (ad == null)
             {
                 return this.BadRequest("No ad with id " + id);
