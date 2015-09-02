@@ -12,6 +12,11 @@
 
     public class AdsController : BaseController
     {
+        public AdsController():base()
+        {
+            
+        }
+
         public AdsController(IOnlineShopData onlineShopData)
             : base(onlineShopData)
         {
@@ -30,7 +35,7 @@
         }
 
         [Authorize]
-        public IHttpActionResult PutCreateAd(CreateAdBindingModel model)
+        public IHttpActionResult PostCreateAd(CreateAdBindingModel model)
         {
             if (model == null)
             {
