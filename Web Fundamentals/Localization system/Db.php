@@ -19,6 +19,7 @@ class Db
     public static function getInstance(){
         if (self::$_instance == null) {
             self::$_instance = new PDO("mysql:host=localhost;dbname=translations", "root", "");
+            self::$_instance->query("SET NAMES utf8");
         }
 
         return self::$_instance;
