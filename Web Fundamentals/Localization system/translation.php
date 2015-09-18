@@ -33,12 +33,21 @@ function __($tag)
 
     //return Localization::getData()[$tag][$lang];
 
-    $query = Db::getInstance()->query("
+    $query = Db::getInstance()->prepare("
             SELECT text_{$lang}
             FROM translations
-            WHERE tag = '$tag';
+            WHERE tag = ?;
         ");
+    $query->bindParam(1, $tag, PDO::PARAM_STR);
+    $query->execute();
 
     $row = $query->fetch(PDO::FETCH_NUM);
     return $row[0];
+}
+
+function getAllTranslations(){
+    $db = Db::getInstance();
+    $res = $db->query("SELECT id, tag, text_en, text_bg FROM translations ORDER BY id");
+    $translations = $res->fetchAll(PDO::FETCH_ASSOC);
+    return $translations;
 }
