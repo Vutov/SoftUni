@@ -7,6 +7,8 @@
     {
         IRepository<ApplicationUser> ApplicationUsers { get; }
 
+        IRepository<Tweet> Tweets { get; }
+
         int SaveChanges();
     }
 }

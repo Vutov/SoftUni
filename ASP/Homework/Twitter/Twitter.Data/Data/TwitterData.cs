@@ -23,6 +23,11 @@
             get { return this.GetRepository<ApplicationUser>(); }
         }
 
+        public IRepository<Tweet> Tweets
+        {
+            get { return this.GetRepository<Tweet>(); }
+        }
+
         public int SaveChanges()
         {
             return this.Context.SaveChanges();

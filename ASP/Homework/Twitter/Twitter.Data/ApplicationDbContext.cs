@@ -10,13 +10,14 @@ namespace Twitter.Data
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
-            Database.SetInitializer(
-                new MigrateDatabaseToLatestVersion<ApplicationDbContext, Configuration>());
+            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<ApplicationDbContext>());
         }
 
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
         }
+
+        public DbSet<Tweet> Tweets { get; set; }
     }
 }
