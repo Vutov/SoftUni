@@ -10,7 +10,7 @@ namespace Twitter.Data
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
-            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<ApplicationDbContext>());
+            Database.SetInitializer(new DbSetup());
         }
 
         public static ApplicationDbContext Create()

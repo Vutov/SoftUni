@@ -1,5 +1,4 @@
-﻿@using Microsoft.AspNet.Identity
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -7,7 +6,6 @@
     <title>@ViewBag.Title - My ASP.NET Application</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
-
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -22,22 +20,11 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    <li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
-                    @if (User.Identity.IsAuthenticated)
-                    {
-                        <li>@Html.ActionLink("User", "UserProfile", "User")</li>
-                    }
-                    @if (User.IsInRole("Administrator"))
-                    {
-                        <li>@Html.ActionLink("Admin", "Index", "Home")</li>
-                    }
                 </ul>
-                @Html.Partial("_LoginPartial")
             </div>
         </div>
     </div>
+
     <div class="container body-content">
         @RenderBody()
         <hr />

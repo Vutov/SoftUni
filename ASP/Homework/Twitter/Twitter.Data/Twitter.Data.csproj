@@ -56,6 +56,7 @@
   <ItemGroup>
     <Compile Include="Data\ITwitterData.cs" />
     <Compile Include="Data\TwitterData.cs" />
+    <Compile Include="DbSetup.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ApplicationDbContext.cs" />

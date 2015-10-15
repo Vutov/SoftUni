@@ -1,11 +1,15 @@
-﻿@model Twitter.App.Models.UserViewModel
+﻿@using Twitter.App.Models
+@model Twitter.App.Models.UserViewModel
 
 <h2>Welcome @Model.UserName</h2>
 @Html.ActionLink("Manage Account", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
-<br/>
-<hr />
-@using(@Html.BeginForm("CreateTweet", "User")){
-@Html.TextArea("Message")
-<input type="submit" name="Submit" value="Tweet" />
-@Html.AntiForgeryToken()
+<br />
+<hr/>
+
+@using (@Html.BeginForm("CreateTweet", "User"))
+{
+    @Html.ValidationSummary(true)
+    @Html.TextArea("Message")
+    <input type="submit" name="Submit" value="Tweet" />
+    @Html.AntiForgeryToken()
 }
