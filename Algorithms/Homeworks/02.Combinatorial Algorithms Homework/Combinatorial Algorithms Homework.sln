@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PermutationsIteratively", "02.PermutationsIteratively\02.PermutationsIteratively.csproj", "{A0E884B7-7828-4B5C-B7D6-21C0606F666A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Generate Combinations Iteratively", "03.Generate Combinations Iteratively\03.Generate Combinations Iteratively.csproj", "{DF87BD4F-DE0F-48DA-A693-E880F86EC3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Subsets", "04.Subsets\04.Subsets.csproj", "{6A5E6AA6-A6B4-4C5C-B255-1FEC99D9F949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AllPermutations", "05.AllPermutations\05.AllPermutations.csproj", "{C55D35FF-961F-4682-967D-FBB9649EAE47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Permutations", "01.Permutations\01.Permutations.csproj", "{09C4B1F4-01F0-484E-9053-7C5130C89FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0E884B7-7828-4B5C-B7D6-21C0606F666A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E884B7-7828-4B5C-B7D6-21C0606F666A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E884B7-7828-4B5C-B7D6-21C0606F666A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E884B7-7828-4B5C-B7D6-21C0606F666A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF87BD4F-DE0F-48DA-A693-E880F86EC3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF87BD4F-DE0F-48DA-A693-E880F86EC3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF87BD4F-DE0F-48DA-A693-E880F86EC3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF87BD4F-DE0F-48DA-A693-E880F86EC3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5E6AA6-A6B4-4C5C-B255-1FEC99D9F949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5E6AA6-A6B4-4C5C-B255-1FEC99D9F949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5E6AA6-A6B4-4C5C-B255-1FEC99D9F949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5E6AA6-A6B4-4C5C-B255-1FEC99D9F949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55D35FF-961F-4682-967D-FBB9649EAE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55D35FF-961F-4682-967D-FBB9649EAE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55D35FF-961F-4682-967D-FBB9649EAE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55D35FF-961F-4682-967D-FBB9649EAE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C4B1F4-01F0-484E-9053-7C5130C89FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C4B1F4-01F0-484E-9053-7C5130C89FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C4B1F4-01F0-484E-9053-7C5130C89FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C4B1F4-01F0-484E-9053-7C5130C89FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

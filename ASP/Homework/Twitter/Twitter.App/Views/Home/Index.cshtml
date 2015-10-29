@@ -1,0 +1,11 @@
+﻿@model ICollection<Twitter.App.Models.TweetViewModel>
+
+<br />
+<div>
+    @foreach (var tweet in @Model)
+    {
+        <p>@tweet.Message</p>
+    }
+</div>
+@Html.ActionLink("Previous", "index", "Home", new { page = @ViewBag.Page - 1 }, htmlAttributes: null)
+@Html.ActionLink("Next", "index", "Home", new { page = @ViewBag.Page + 1 }, htmlAttributes: null)

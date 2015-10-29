@@ -1,0 +1,58 @@
+User registered
+User registered
+Duplicated user
+Game registered
+Game registered
+Game registered
+Duplicated game
+Score added
+Score added
+Score added
+Score added
+Score added
+Score added
+Score added
+Score added
+Score added
+Score added
+Score added
+Score added
+Cannot add score
+Cannot add score
+Cannot add score
+Cannot add score
+#1 maria 15000
+#2 peter 15000
+#3 peter 15000
+#4 peter 12700
+#5 peter 8300
+#6 maria 8000
+#7 maria 8000
+#8 maria 450
+#9 peter 160
+#10 maria 60
+Score added
+Score added
+Score added
+#1 maria 600
+#2 maria 200
+#3 peter 200
+Game not found
+Game registered
+Game registered
+Chaconne, Chain, Chess
+chess
+No matches
+Chaconne, Chain
+AngryBirds
+Cannot delete game
+Cannot delete game
+Game deleted
+Game not found
+No matches
+#1 maria 600
+#2 maria 200
+#3 peter 200
+No score
+Game registered
+No score
