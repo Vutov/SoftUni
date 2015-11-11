@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.UnlimitedCoins", "04.Unl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitedCoins", "LimitedCoins\LimitedCoins.csproj", "{F63659A1-58F1-4320-A7E7-407C2DA03BD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connecting Cables", "Connecting Cables\Connecting Cables.csproj", "{9ED028A6-1D6D-459A-909A-3420A3E76CB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F63659A1-58F1-4320-A7E7-407C2DA03BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F63659A1-58F1-4320-A7E7-407C2DA03BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F63659A1-58F1-4320-A7E7-407C2DA03BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED028A6-1D6D-459A-909A-3420A3E76CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED028A6-1D6D-459A-909A-3420A3E76CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED028A6-1D6D-459A-909A-3420A3E76CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED028A6-1D6D-459A-909A-3420A3E76CB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
