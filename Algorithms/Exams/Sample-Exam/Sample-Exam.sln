@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Group Permutations", "01.Group Permutations\01.Group Permutations.csproj", "{FD6BCEE1-6A5D-48EA-8727-E867A89AC1FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Bridges", "02.Bridges\02.Bridges.csproj", "{5257C211-FCE2-4D81-B365-9D1DD73A1429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6BCEE1-6A5D-48EA-8727-E867A89AC1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6BCEE1-6A5D-48EA-8727-E867A89AC1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6BCEE1-6A5D-48EA-8727-E867A89AC1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6BCEE1-6A5D-48EA-8727-E867A89AC1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5257C211-FCE2-4D81-B365-9D1DD73A1429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5257C211-FCE2-4D81-B365-9D1DD73A1429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5257C211-FCE2-4D81-B365-9D1DD73A1429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5257C211-FCE2-4D81-B365-9D1DD73A1429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
