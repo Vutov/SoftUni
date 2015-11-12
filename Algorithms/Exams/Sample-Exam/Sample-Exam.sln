@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Group Permutations", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Bridges", "02.Bridges\02.Bridges.csproj", "{5257C211-FCE2-4D81-B365-9D1DD73A1429}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.LineInverter", "04.LineInverter\04.LineInverter.csproj", "{2F777761-B974-4644-884F-BEF0CAB496D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5257C211-FCE2-4D81-B365-9D1DD73A1429}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5257C211-FCE2-4D81-B365-9D1DD73A1429}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5257C211-FCE2-4D81-B365-9D1DD73A1429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F777761-B974-4644-884F-BEF0CAB496D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F777761-B974-4644-884F-BEF0CAB496D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F777761-B974-4644-884F-BEF0CAB496D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F777761-B974-4644-884F-BEF0CAB496D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
