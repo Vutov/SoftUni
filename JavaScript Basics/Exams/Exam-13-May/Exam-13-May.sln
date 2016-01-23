@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{657146E5-1C96-4230-B692-B6B1E443A57E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{461CE888-75AE-497D-AB51-84C1E869BC3D}"
 	ProjectSection(SolutionItems) = preProject
-		Homework.js = Homework.js
+		01.Kitodar.js = 01.Kitodar.js
+		02.Captain.js = 02.Captain.js
+		04.Students.js = 04.Students.js
 		index.html = index.html
 	EndProjectSection
 EndProject
