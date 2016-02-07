@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>04.HTMLGenerator object</title>
+</head>
+<body>
+    <div id="wrapper"></div>
+    <div id="book"></div>
+
+    <script>
+        var HtmlGen = (function () {
+            function HtmlGen() { }
+
+            HtmlGen.prototype.createParagraph = function (id, text) {
+                var parent = document.getElementById(id);
+                var p = document.createElement('p');
+                p.innerHTML = text;
+                parent.appendChild(p);
+            };
+
+            HtmlGen.prototype.createDiv = function (id, divClass) {
+                var parent = document.getElementById(id);
+                var div = document.createElement('div');
+                div.className = divClass;
+                parent.appendChild(div);
+            };
+
+            HtmlGen.prototype.createLink = function (id, text, url) {
+                var parent = document.getElementById(id);
+                var a = document.createElement('a');
+                a.innerHTML = text;
+                a.href = url;
+                parent.appendChild(a);
+            };
+
+            return HtmlGen;
+        })();
+
+        var HTMLGen = new HtmlGen();
+        HTMLGen.createParagraph('wrapper', 'Soft Uni');
+        HTMLGen.createDiv('wrapper', 'section');
+        HTMLGen.createLink('book', 'C# basics book', 'http://www.introprogramming.info/');
+    </script>
+</body>
+</html>

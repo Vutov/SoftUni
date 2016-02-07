@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>02.Email validation</title>
+    <style>
+        div {
+            width: 170px;
+            height: 20px;
+        }
+    </style>
+    <script>
+        function validateEmail() {
+            var input = document.getElementById('field').value;
+            var result = document.getElementById('result');
+            var regex = /[^@]+@softuni\.bg/g;
+            if (regex.test(input)) {
+                result.style.backgroundColor = '#94f594';
+
+            } else {
+                result.style.backgroundColor = '#ff0000'; 
+            }
+            result.innerHTML = input;
+        }
+    </script>
+</head>
+<body>
+    <input type="text" value="" id="field" />
+    <div id="result"></div>
+    <input type="submit" value="Validate" onclick="validateEmail()" />
+</body>
+</html>
