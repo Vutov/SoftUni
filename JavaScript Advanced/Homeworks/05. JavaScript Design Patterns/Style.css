@@ -1,0 +1,38 @@
+﻿#container {
+    border: 1px solid black;
+    width: 600px;
+}
+
+    #container > div {
+        border: 1px solid black;
+        margin: 10px;
+    }
+
+h1 {
+    text-align: center;
+}
+
+section {
+    border: 1px solid black;
+    margin: 10px;
+}
+
+    section > div:first-child {
+        text-align: right;
+        margin: 5px;
+        font-size: 1.2em;
+    }
+
+    section > div > div {
+        border-bottom: 1px solid black;
+    }
+
+#container > div > div > div {
+    text-align: right;
+    padding: 10px;
+}
+
+#container >  div:last-child {
+    text-align: left;
+    padding: 10px;
+}
