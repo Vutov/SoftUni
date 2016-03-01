@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <style>
+        table, td, th {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        th {
+            background: greenyellow;
+        }
+    </style>
+    <div id="some"></div>
+    <div>
+        Class: <input type="text" id="ClassId" value="bird" />
+        <br />
+        Color: <input type="color" id="ClassColor" value="#0000FF" />
+        <br />
+        <input type="button" value="Paint" id="ClassBtn" />
+    </div>
+    <ul>
+        <li class="bird">Hummingbird</li>
+        <li class="bird">Nightingale</li>
+        <li>Lizard</li>
+        <li class="bird">Eagle</li>
+        <li class="bird">Sparrow</li>
+    </ul>
+    <div id="Container"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.5.1/lodash.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.js"></script>
+    <script src="ElementInsertion.js"></script>
+    <script src="BackgroundColorSwitch.js"></script>
+    <script src="TableGenerator.js"></script>
+</body>
+</html>
