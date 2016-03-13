@@ -9,25 +9,26 @@
     <script src="node_modules/mustache/mustache.js"></script>
 </head>
 <body>
-    <ul>
-        <li><a href="#/">Home</a></li>
-        <li><a href="#/books">Books</a></li>
-        <li><a href="#/create-book">Create Book</a></li>
-    </ul>
-<div id="wrapper"></div>
+    <div id="wrapper">
+        <div id="navigation"></div>
+        <div id="content"></div>
+    </div>
 
-<script src="js/bindingModels/book.js"></script>
-<script src="js/helpers/requester.js"></script>
+    <script src="js/bindingModels/book.js"></script>
+    <script src="js/helpers/requester.js"></script>
 
-<script src="js/models/bookModel.js"></script>
+    <script src="js/models/userModel.js"></script>
+    <script src="js/models/bookModel.js"></script>
 
-<script src="js/views/bookViews.js"></script>
-<script src="js/views/homeViews.js"></script>
+    <script src="js/views/userViews.js"></script>
+    <script src="js/views/bookViews.js"></script>
+    <script src="js/views/homeViews.js"></script>
 
-<script src="js/controllers/bookController.js"></script>
-<script src="js/controllers/homeController.js"></script>
+    <script src="js/controllers/userController.js"></script>
+    <script src="js/controllers/bookController.js"></script>
+    <script src="js/controllers/homeController.js"></script>
 
-<script src="js/app.js"></script>
+    <script src="js/app.js"></script>
 
 </body>
 </html>

@@ -1,7 +1,18 @@
 var app = app || {};
 
 app.bookViews = (function () {
+
+    function addMenu() {
+        $.get('templates/loggedMenu.html', function (templ) {
+            var data = {username: sessionStorage['username']}
+            var outputHtml = Mustache.render(templ, data);
+            $("#navigation").html(outputHtml);
+        });
+    }
+
     function showBooks(parent, data) {
+        addMenu();
+
         $.get('templates/books.html', function (templ) {
             var outputHtml = Mustache.render(templ, data);
             $(parent).html(outputHtml);
@@ -30,6 +41,8 @@ app.bookViews = (function () {
     }
 
     function getCreateBook(parent) {
+        addMenu();
+
         $.get('templates/create-book.html', function (templ) {
             $(parent).html(templ);
             $('#addBook').on('click', function () {
@@ -50,8 +63,11 @@ app.bookViews = (function () {
     }
 
     function editBook(parent, data) {
-        $.get('templates/update-book.html', function(templ) {
-            $(parent).html(templ);
+        addMenu();
+
+        $.get('templates/update-book.html', function (templ) {
+            var outputHtml = Mustache.render(templ, data);
+            $(parent).html(outputHtml);
             $("#title").val(data.title),
             $("#author").val(data.author),
             $("#isbn").val(data.isbn);

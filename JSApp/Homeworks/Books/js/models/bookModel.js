@@ -10,23 +10,23 @@ app.bookModel = (function () {
     }
 
     BookModel.prototype.getAllBooks = function () {
-        return this.requester.get(this.serviceUrl, false);
+        return this.requester.get(this.serviceUrl, true);
     };
 
     BookModel.prototype.getBookById = function (id) {
-        return this.requester.get(this.serviceUrl + "/" + id, false);
+        return this.requester.get(this.serviceUrl + "/" + id, true);
     };
 
     BookModel.prototype.createBook = function (data) {
-        return this.requester.post(this.serviceUrl, data, false);
+        return this.requester.post(this.serviceUrl, data, true);
     };
 
     BookModel.prototype.deleteBook = function (id) {
-        return this.requester.delete(this.serviceUrl, id, false);
+        return this.requester.delete(this.serviceUrl + "/" + id, {}, true);
     };
 
     BookModel.prototype.updateBook = function (data) {
-        return this.requester.update(this.serviceUrl, data, false);
+        return this.requester.update(this.serviceUrl, data, true);
     };
 
     return {

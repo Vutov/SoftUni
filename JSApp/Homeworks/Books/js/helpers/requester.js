@@ -15,8 +15,8 @@ app.requester = (function () {
         return this.makeRequest('POST', url, data, useSession);
     };
 
-    Requester.prototype.delete = function (url, id, useSession) {
-        return this.makeRequest('DELETE', url + "/" + id, useSession);
+    Requester.prototype.delete = function (url, data, useSession) {
+        return this.makeRequest('DELETE', url, data, useSession);
     };
 
     Requester.prototype.update = function (url, data, useSession) {
