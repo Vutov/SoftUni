@@ -1,0 +1,11 @@
+<ol>
+    {{#books}}
+    <li>
+        <div>Title: "{{title}}"</div>
+        <div>Author: "{{author}}"</div>
+        <div>ISBN: "{{isbn}}"</div>
+        <button class="editBook" book-id="{{_id}}">Edit</button>
+        <button class="deleteBook" book-id="{{_id}}">Delete</button>
+    </li>
+    {{/books}}
+</ol>
